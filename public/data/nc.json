@@ -1,0 +1,6073 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.C. Lawrence Leather Company",
+        "city": "Hazelwood",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "ABEX",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Acme Manufacturing Company",
+        "city": "Acme",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Acousta Paper Mill",
+        "city": "Boulevard",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Adele Knits Incorporated",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Agfa Corporation",
+        "city": "Brevard",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Akers Motor Lines, Inc.",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Akzona, Incorporated",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Alamac Knit Fabrics",
+        "city": "Hamilton",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Alba Waldensian, Incorporated",
+        "city": "Valdese",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Albemarle Paper Manufacturing Company, Roanoke Rapids Division",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Alco Manufacturing Company",
+        "city": "East Rockingham",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Alcoa Plant",
+        "city": "Badin",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Alcoa, Incorporated",
+        "city": "Badin",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Allen Steam Plant",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Allen Steam Station",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Allstate Insurance Company Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Alpha Cellulose Corporation",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Aluminum Corporation Of America",
+        "city": "Badin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American & Efird Mills, Incorporated",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American And Efird",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American And Efird Plant 15",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Enka Corporation",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Enka Corporation",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Enka Plant",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Suppliers Division Of American Tobacco Company",
+        "city": "Reidsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Tobacco Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Tobacco Company",
+        "city": "Reidsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Yarn And Processing Company",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Anaconda Wire And Cable Company",
+        "city": "Tarboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Anchor Mills Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Anvil Knitwear, Incorporated",
+        "city": "Swannanoa",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Appalachian State Teachers College",
+        "city": "Boone",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Appalachian State University",
+        "city": "Boone",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Arista Mills Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Arlington Cotton Mills",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Arlington Cotton Mills",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Asheville",
+        "city": "Skyland",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Asheville Veneer Company",
+        "city": "Biltmore",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Atlantic Veneer Company",
+        "city": "Beaufort",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Aurora Cotton Mills",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "B. & S. Warehouse And Storage",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "B.F. Goodrich Company",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "B.F. Goodrich Company",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Babcock & Wilcox Boiler Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Babcock & Wilcox Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Bailey Power Plant",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Bailey Power Plant - Extension 2",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Baku And Kenya Extract Company",
+        "city": "British",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Balfour Mills, Incorporated",
+        "city": "Hendersonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Baltimore And Ohio Railroad Company",
+        "city": "Newark",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Baptist Hospital",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Barhardt Manufacturing",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Barnhardt Furniture Company",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Barnhardt Manufacturing Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "BASF",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "BASF \"Enka\" Chemical Plant",
+        "city": "Candler",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Basf Corporation",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Basf Fiber Products Division",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Basf Fiber Products Division, Research & Development",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Basf Fibers",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "BASF Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Baxter Healthcare Corporation",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Baxter Labs",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Beacon Manufacturing Company",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Beacon Manufacturing Company",
+        "city": "Swannanoa",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Beaufort Chemical Corporation",
+        "city": "Beaufort",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Beaunit Mills, Incorporated",
+        "city": "Hamilton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Beaunit Textiles",
+        "city": "Clinton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Beaunit Textiles",
+        "city": "Hamilton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Belews Creek Steam Plant",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Belews Creek Steam Station",
+        "city": "Walnut Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Belews Power Plant",
+        "city": "Belews Creek",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Bell Telephone Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Bellevue Manufacturing Company",
+        "city": "Hillsborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Berkeley Mills",
+        "city": "Balfour",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Berkeley Mills",
+        "city": "Hendersonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Bibb Manufacturing Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Biemann And Rowell Company",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Black & Decker Plant",
+        "city": "Ashborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Blackwell'S Durham Tobacco Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Blue Ridge Paper Products, Incorporated",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Blue Ridge Products Company",
+        "city": "Rutherfordton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Blues Creek Power Plant",
+        "city": "Stokesdale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Boiler House",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Bowater",
+        "city": "Rock Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Bowater Paper Mill",
+        "city": "Rock Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Bowman Gray School Of Medicine",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Brevard Photo Products",
+        "city": "Brevard",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Bridgestone Firestone",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Bristol Myers",
+        "city": "Morrisville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Brown Manufacturing Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Broyhill Furniture Company",
+        "city": "Conover",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Broyhill Furniture Company",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Broyhill Furniture Industries, Incorporated",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Broyhill Pacemaker Plant",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Buck Steam Plant",
+        "city": "Spencer",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Buck Steam Plant",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Buckeye Lumberton",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Buckeye Technologies",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Buensod Division Of Aeronca, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Burlington Ind.",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Burlington Industries - Greensboro Finishing Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Burlington Industries - Mayflower Plant",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Burlington Industries - Mooresville Mills Plant",
+        "city": "Mooresville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Burlington Industries - William G. Lord Plant",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Burlington Industries, Incorporated",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Burlington Industries, Incorporated",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Burlington Industries, Incorporated",
+        "city": "Mooresville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Burlington Industries, Incorporated",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Burlington Mills Corporation",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Burlington Mills Corporation",
+        "city": "Ossipee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Burlington Mills Corporation",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Burlington Mills Corporation",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Burlington Mills Corporation",
+        "city": "Mooresville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Burlington Plant",
+        "city": "Irwin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Burlington Textile Mill",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Burlington Textile Mill",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Burlington Textile Mill",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Burlington Textile Mill",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Burlington Textile Mill",
+        "city": "Smithfield",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Burroughs Chemical",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Burroughs Chemical Plant",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Burroughs Welcome Center",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Burroughs-Wellcome And Company, Incorporated",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Butner State Hospital",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Butner Training School",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Buzzard‚Äôs Roost Steam Plant",
+        "city": "Chappell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "BVD Plant",
+        "city": "Mocksville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "C. & C. Boiler",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "C.C. Smoot And Sons Company",
+        "city": "North Wilkesboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "C.F. Industries, Incorporated",
+        "city": "Akoskie",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "C.M.I. Ind., Incorporated, Finished Fabrics Division",
+        "city": "Elkin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Cabanus Manufacturing Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Cabarrus Cotton Mills",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Cabarrus County Hospital",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Caldwell Memorial Hospital",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Camp Lejeune",
+        "city": "Jacksonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Cannon Cotton Mill",
+        "city": "Kannapolis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Cannon Manufacturing Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Cannon Mills Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Cannon Mills Company",
+        "city": "Graham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Cannon Mills Company",
+        "city": "Kannapolis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Cannon Mills Company, Plant 10",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Cannon Textile Mill",
+        "city": "China Grove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Cannon Textile Mill",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Cannon Textile Mill",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Cannon Textile Mill",
+        "city": "Kannapolis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Cannon Textile Mill",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Cape Fear Fibre Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Cape Fear Steam Plant - Unit 1",
+        "city": "Moncure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Cape Fear Steam Plant - Unit 2",
+        "city": "Moncure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Cape Industries",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Caraleigh Mill Company",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Carnation Company",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Carolina Aluminum Company",
+        "city": "Badin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Carolina Forest Products",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Carolina Linen Service",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Carolina Nitrogen Corporation",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Carolina Paper Board Corporation",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Carolina Paper Mills",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Carolina Power & Light",
+        "city": "Georgetown",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Carolina Power & Light",
+        "city": "Roxboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Carolina Power & Light - Asheville Plant",
+        "city": "Skyland",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Carolina Power & Light - Asheville Plant - Unit 2",
+        "city": "Skyland",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Carolina Power & Light - Lv Sutton Steam Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Carolina Power & Light (CP&L) Power Plant",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Carolina Power & Light (CP&L) Power Plant",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Carolina Power & Light (CP&L) Power Plant",
+        "city": "Roxboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Carolina Power & Light (CP&L) Power Plant aka Cape Jean Station",
+        "city": "Moncure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Carolina Power & Light (CP&L) Sutton Power Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Carolina Power & Light Building",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Carolina Power & Light Company- Cape Fear Steam Plant",
+        "city": "Monocure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Carolina Power And Light - Weatherspoon Plant",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Carolina Power And Light - Weatherspoon Plant - Unit 1",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Carolina Power And Light - Weatherspoon Plant - Unit 2",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Carolina Power And Light Company - H.F. Lee Steam Power Plant",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Carolina Power And Light Company - Power House",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Carolina St. P.R. Company",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Carolina Veneer Company",
+        "city": "Biltmore",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Carolina Yarn Processors, Incorporated",
+        "city": "Tryon",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Caswell Center",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Caswell Center, State Of Nc",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Catalytica Pharmaceuticals, Incorporated",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Celanese Chemical Plant",
+        "city": "Rock Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Celanese Fiber Plant",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Celanese Fibers Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Central Kansas Cooperative Creamery",
+        "city": "Hillsborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Century Case Goods Company, Incorporated",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Century Furniture",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Champion Fiber Company",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Champion Fibre Company",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Champion International Corporation",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Champion International Corporation",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Champion Paper Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Champion Paper Mill",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Champion Paper Mill",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Champion Papers, Division Of United States Plywood-Champion Papers, Incorporated",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Champion Papers, Incorporated",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Chapel Hill Elementary",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Chapel Hill Intermediate School",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Charlotte Cotton Mills",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Charlotte Linen Supply Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Charlotte Ordnance Missile Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Chatham Manufacturing Company",
+        "city": "Elkin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Chatham Manufacturing Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Cherry Point Marine Corps Air Station",
+        "city": "Cherry Point",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Chicago Mill And Lumber Company",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Chronicle Mills",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Civic Center",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Claire/Dunn/Armstrong Textile Factory",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Clariant Corporation",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Cleveland Mill And Power Company - Power Plant",
+        "city": "Lawndale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Cleveland Mills Company",
+        "city": "Lawndale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Cliffside Nuclear Plant",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Cliffside Steam Plant",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Cliffside Steam Station",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Clinchfield Manufacturing Company",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Clyde Fabrics, Incorporated",
+        "city": "Newton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Coca-Cola Plant",
+        "city": "Greensborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Cody Perfume",
+        "city": "Sanford",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Colonial Ice Company",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Columbus Forrest Industries",
+        "city": "Acme",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Commonwealth Brands, Incorporated",
+        "city": "Reidsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Cone Finishing Company",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Cone Mills Corporation",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Cone Mills Corporation",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Cone Mills Corporation",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Cone Mills Corporation",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Cone Mills Corporation - Cliffside Weave Plant",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Cone Mills Corporation - Eno Plant",
+        "city": "Hillsborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Cone Mills Corporation - Florence Plant",
+        "city": "Forest City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Cone Mills Corporation - Proximity Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Cone Mills Corporation - Tabardrey Plant",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Cone Mills Corporation - White Oak Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Cone Mills Textile Mill",
+        "city": "Cliffside",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Consolidated Railways Light And Power Company - Power Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Continuing Education Building",
+        "city": "Boone",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Converse Incorporated",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Coolemee Cotton Mills",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Corlin Processing Company, Incorporated, Division Of Corriher Mills Company",
+        "city": "Landis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Corn Products Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Cornell Dubilier Electric Corporation - Sanford Plant",
+        "city": "Sanford",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Courthouse",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "CP&L",
+        "city": "Roxboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Cramerton Automotive Products Lp",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Cranberry Furnace Company",
+        "city": "Cranberry",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Cranston Heating Company",
+        "city": "Fletcher",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Cranston Print Works",
+        "city": "Fletcher",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Cranston Print Works Company",
+        "city": "Fletcher",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Craven Rendering Company",
+        "city": "New Bern",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Cross Cotton Mills Company",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Crown Zellerbach Corporation, Gaylord Container Division",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Culp Weaving",
+        "city": "Graham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Culp Weaving, Decorative Fabrics Division",
+        "city": "Graham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Cumnock Coal Mining Company",
+        "city": "Cumnock",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Dan River Steam Plant",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Dan River Steam Plant",
+        "city": "Edenton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Daniel Office Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Davie Warehouse",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Dayco Products",
+        "city": "Waynesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Dayco Products, Incorporated",
+        "city": "Waynesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Dayton Rubber Manufacturing Company",
+        "city": "Hazelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "De Poortere Corporation",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Deep River Mill",
+        "city": "Deep River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Delta Apparel",
+        "city": "Maiden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Delta Woodside Industries, Carter Plant",
+        "city": "Wallace",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Department Of Veteran Affairs Hospital",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Depoorter Corporation",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Dewey Brother Refinery",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Diamond Shamrock",
+        "city": "Castlehayne",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Dixie Chain Company",
+        "city": "Trinity",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Dixie Furniture Company, Incorporated",
+        "city": "Lexington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Dixie Yarns",
+        "city": "Newton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Dixie Yarns",
+        "city": "Tryon",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Dominion Yarn",
+        "city": "Landis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Dorothea Dix Hospital",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Drexel Enterprises",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Drexel Enterprises",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Drexel Heritage Furnishings, Plant 2",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Drexel Heritage Furnishings, Plant 43",
+        "city": "Hildebran",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Drexel Heritage Furnishings, Plant 60",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Drexel Heritage Furnishings, Plants 3 And 5",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Duke Energy Corporation",
+        "city": "Belews Creek",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Duke Energy Corporation",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Duke Power Belmont",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Duke Power Co - Marshall Steam Station",
+        "city": "Terrell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Duke Power Company - Belews Creek Steam Station",
+        "city": "Walnut Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Duke Power Company - Belews Creek Steam Station - Unit 1",
+        "city": "Walnut Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Duke Power Company - Belews Creek Steam Station - Unit 2",
+        "city": "Walnut Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Duke Power Company - Buck Steam Station",
+        "city": "Spencer",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Duke Power Company - Mcguire Nuclear Station - Service Building - Centralized Sampling Lab",
+        "city": "Huntersville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Duke Power Company - Mcguire Nuclear Station - Service Building - Office Area",
+        "city": "Huntersville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Duke Power Company - Mcguire Nuclear Station - Service Building - Toilet And Locker Room Area",
+        "city": "Huntersville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Duke Power Company Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Duke Power Company- Riverbend Steam Station",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Duke Steam Station",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Duke University",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Duke University - West Campus Steam Plant",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Duke University Hospital",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Duke University, Steam Plant",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Dupont Chemical Plant",
+        "city": "Brevard",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Dupont Chemical Plant",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Dupont Chemical Plant - Cape Fear",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Duracell Usa",
+        "city": "Lexington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Durham High School",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Durham Hosiery Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Durham Hosiery Mills",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Durham Public Schools",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Durham Public Service Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Durham Senior High School",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Durham Traction Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Brevard",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Cape Fear",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "E.I. Dupont De Nemours & Company - Kinston Plant - Power Plant",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Kinston",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "E.I. Dupont De Nemours And Company - Cape Fear Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "E.I. Dupont De Nemours And Company, C.F.C. 6093",
+        "city": "Cape Fear",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "E.I. Dupont De Nemours And Company, Cape Fear Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Eagle Mountain Finishing",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Eckerd Drugs, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Ecusta Paper Company",
+        "city": "Pisgah Forest",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Edward A. Whaley Company",
+        "city": "Washington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Efird Cotton Mills",
+        "city": "Albemarle",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Eighteen Twenty Dev",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "El Paso Detention Facility",
+        "city": "El Paso",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Elmore Corp. Textile Mill",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Elmore Corporation",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Elmore Pisgah",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Embree And Reed, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Enka Plant",
+        "city": "Canton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Enka Textile Mill",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Enka Textile Mill",
+        "city": "Ashville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Entwistle Manufacturing Company",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Ericsson Cable Company",
+        "city": "Tarboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Ervin Cotton Mills Company",
+        "city": "West Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Erwin Cotton Mills Company",
+        "city": "Erwin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Erwin Cotton Mills Company",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Erwin Cotton Mills Company",
+        "city": "West Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Erwin Cotton Mills Company",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Erwin Mills",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Erwin Mills, Incorporated",
+        "city": "Erwin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Erwin Mills, Incorporated",
+        "city": "Cooleemee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Ethyl Dow Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Evans Products Company",
+        "city": "Moncure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Export Leaf Tobacco Company",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "F. & H. Fries",
+        "city": "Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "F.M. Smith",
+        "city": "Catawba",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Farmers Cotton Oil Company",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Federal Paper",
+        "city": "Riedelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Federal Paper Board Company, Incorporated",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Federal Paper Board Company, Incorporated, Environmental Control & 50 T.P.E. Expansion",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Federal Paper Board Company, Incorporated, Southern Division",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Federal Paper Board Paper Mill",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Federal Paper Mill",
+        "city": "Riglewood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Fiber Industries Textile Plant",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Fiber Industries, Incorporated",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Fiber Industries, Incorporated",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Fibre Industries, Incorporated",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Fibre Plant",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Fieldcrest Cannon",
+        "city": "Kannapolis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Fieldcrest Cannon Inc,",
+        "city": "Kannapolis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Fieldcrest Cannon, Incorporated",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Fieldcrest Mills Division Marshall Fields & Company",
+        "city": "Spray",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Fieldcrest Mills, Incorporated",
+        "city": "Leaksville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Fieldcrest Mills, Incorporated",
+        "city": "Spray",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Finishing Plant",
+        "city": "Spray",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Firestone Textiles, Incorporated",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Firestone Tire And Rubber Company",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "First Baptist Church",
+        "city": "Monroe",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Fish Meal Company",
+        "city": "Beaufort",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Florence Mills",
+        "city": "Forest City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Flynt Fabrics, Incorporated",
+        "city": "Wadesboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Fmc Corporation",
+        "city": "Bessemer City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Foot Mineral Mine",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Forsyth General Hospital",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Forsyth Memorial Hospital",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Fort Bragg",
+        "city": "Fort Bragg",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Fort Bragg",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Francis Cotton Mills",
+        "city": "Biscoe",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Frito Lay, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Fruit Of The Loom",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Ft. Caswell",
+        "city": "Ft. Caswell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Gaston County Dyeing Machine Co.",
+        "city": "Mount Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Gastonia Cotton Manufacturing Company",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Gastonia Cotton Manufacturing Company - Cotton Mill",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Gaylord Container",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Gaylord Container Corporation",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "General Electric Plant",
+        "city": "Hendersonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "General Electric Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "General Tire And Rubber Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "General Tire Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Georgia Pacific Corporation",
+        "city": "Ahoskie",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Georgia Pacific Corporation",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Gibson Manufacturing Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Gilbert Engineering Company",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Girmes Of America",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Glen Raven Cotton Mills",
+        "city": "Glen Raven",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Glen Raven Mills Incorporated",
+        "city": "Glen Raven",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Golden Belt Manufacturing Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Granite Finishing Company",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Granite Finishing Plant",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Gray Manufacturing Company",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Great Lakes Carbon Black Plant",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Greene Brothers Lumber Company",
+        "city": "Elizabethtown",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Greensboro Steam Laundry",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Greensboro Supply Company",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Groves Thread Company, Incorporated",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Guilford Mills, Incorporated",
+        "city": "Lowell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Guilford Mills, Incorporated",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Gulf Oil Corporation",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Gulistan Carpets, Incorporated",
+        "city": "Aberdeen",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "H.F. Lee Steam Power Plant",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "H.F. Lee Steam Power Plant - Unit 2",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "H.L. Gulistan Carpet Division Of J.P. Stevens And Company",
+        "city": "Aberdeen",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Halifar Paper Corp.",
+        "city": "Roanoke Riprels",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Halifax Paper Board Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Halifax Paper Company, Incorporated",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Halifax Paper Mill",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Hanes Corporation Hosiery Division",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Hanes Dye And Finishing Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Hanes Hosiery Mills Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Hanes Hosiery Mills Company",
+        "city": "Bethania",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Hanes Printables",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Harriet Cotton Mills",
+        "city": "Henderson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Harris Clay Company",
+        "city": "Lunday",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Harris Quarries Company",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Hart Cotton Mills",
+        "city": "Tarboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Hart Cotton Mills, Incorporated",
+        "city": "West Farboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Hatch Mill Division",
+        "city": "Columbus",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Hatch Mills",
+        "city": "Columbus",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Haw River Plant",
+        "city": "Haw River",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Haynes Hosiery Mill",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Henderson Furniture Company",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Henderson Water Treatment Plant",
+        "city": "Henderson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Henredon Furniture Industries",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Hercofina",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Hercules Chemical Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Hercules, Incorporated",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Heritage Furniture Company Division Of Drexel Enterprises, Incorporated",
+        "city": "Mocksville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Hickory Manufacturing Co.",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Highland Mills",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Highland Park Manufacturing Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Highland Park Manufacturing Company, Mill #3",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Hillsboro Textiles",
+        "city": "Hillsborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Hillsborough Textiles",
+        "city": "Hillsborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Hoechst Celanese",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Hoechst Celanese Corporation",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Hoerner Waldorf Corporation",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Hornwood, Incorporated",
+        "city": "Lilesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Ibm",
+        "city": "Research Triangle Park",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Ideal Cement Plant",
+        "city": "Castle Hayne",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Industrial Uniform And Coverall Service",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Ingersoll-Rand Plant",
+        "city": "Mocksville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "International Business Machines Corporation, Building 627",
+        "city": "Research Triangle Park",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "International Paper",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "International Paper Company",
+        "city": "Spring Hope",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "International Paper Company",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "International Paper Company, Container Division",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "International Paper, Armour Lumber",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "J. And C. Dyeing",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "J. And D. Rubber Tire Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "J.L. Roper Lumber Company",
+        "city": "New Bern",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "J.P. Stevens And Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "J.P. Stevens And Company - Carter Plant",
+        "city": "Wallace",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "J.P. Stevens And Company - Longview Plant 1",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "J.P. Stevens And Company - Patterson Plant",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "J.P. Stevens And Company - Patterson Plant - Cotton Division",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "J.P. Stevens And Company - Rosemary Plant",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Wallace",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Longview",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division",
+        "city": "Rosemary Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division, Patterson Plant",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "J.P. Stevens And Company, Incorporated, Synthetics Division Randleman Plant (Leased)",
+        "city": "Randleman",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "J.P. Stevens Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "John E. Hughes And Company",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "John Umstead Hospital",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Johnson & Johnson, Chicopee Mills Plant",
+        "city": "Benson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Johnson C. Smith University",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Johnston Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Johnston Manufacturing Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Johnston Manufacturing Company - Johnston Mill",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Karastan Rug Mill",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Kelly Springfield Tire",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Kendall Mills",
+        "city": "Newberry",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Kenville, Incorporated",
+        "city": "Lilesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Kerr Bleachery Plant",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Kerr Bleaching And Finishing Works, Incorporated",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Kilburn Mill",
+        "city": "Tryon",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Kimberly Clark Corporation",
+        "city": "Balfour",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Kincaid Furniture Company",
+        "city": "Hudson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Knit Mates Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Knitting Mill",
+        "city": "Ashboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Kosa",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Kosa",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Lamcal Division",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Lamcal, Incorporated",
+        "city": "Hickory",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Lance Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Lance Snack Foods Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Lance, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Laurel Mills, Incorporated",
+        "city": "Rutherfordton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Lawrence Hall",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Lenoir Cotton Mills",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Lexington Furniture Company, Incorporated",
+        "city": "Lexington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Lexington Furniture Industries, Incorporated, Plant 1",
+        "city": "Lexington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Lexington Furniture Industries, Incorporated, Plant 11",
+        "city": "Mocksville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Lida Stretch Fabrics",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Liggett And Myers Tobacco Company",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Linwood Manufacturing Company",
+        "city": "Linwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Lithium Corporation Of America",
+        "city": "Bessemer City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Lithuim Plant",
+        "city": "Bessemer City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Longhurst Cotton Mills",
+        "city": "Roxboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Loray Mills",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Lorillard Corporation",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Lorillard Tobacco Company",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Lundy Packing Plant",
+        "city": "Clinton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Lv Sutton",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Lv Sutton Steam Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Lv Sutton Steam Plant - Unit 2",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Main Power House",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Main Power Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Manetta Mills",
+        "city": "Monroe",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Manufacturing 1 Blr Pur By National Weaving Company",
+        "city": "Lowell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Margrace Mill",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Market Square Limited",
+        "city": "High Point",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Marshall Field And Company",
+        "city": "Draper",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Marshall Power Plant",
+        "city": "Terrell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Marshall Power Plant",
+        "city": "Mooresville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Martin Marietta Chemicals",
+        "city": "Sodyeco",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Masonite Corporation",
+        "city": "Spring Hope",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Mastercraft Corporation",
+        "city": "Rutherfordton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Mastercraft Fabrics Llc",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Mayflower Plant",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Mccain Correctional Hospital 3700",
+        "city": "Mccain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Mccain Hospital",
+        "city": "Mccain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Mcguire Nuclear Power Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Mclaren Rubber Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Mead Corporation",
+        "city": "Sylva",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Mead Paper Mill",
+        "city": "Sylva",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Merck, Sharpe & Dohme Pharmaceuticals",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Merita Bakery",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Methodist College",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Miami Mining Company",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Miller Manufacturing Company",
+        "city": "Taylorsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Minneola Manufacturing Company",
+        "city": "Gibsonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Mobil Chemical",
+        "city": "High Point",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Modena Cotton Mills",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Mohawk Industries, Incorporated",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Mohawk Industries, Incorporated",
+        "city": "Laurel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Monsanto",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Monsanto Agricultural Company",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Monsanto Company",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Morgan Carpet Mills",
+        "city": "Laurel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Morganton Hospital",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Morowebb Cotton Mill Company",
+        "city": "Dallas",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Moses Cone Hospital",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Moses H. Cone Memorial Hospital",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Mount Holly Steam Plant",
+        "city": "Mount Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Mount Hope Finishing Company",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Mount Hope Finishing Company, Incorporated",
+        "city": "Henderson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Mt. Holly Steam Plant",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Mundy Chemical Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Murdoch Center",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Murdoch School",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Murdock Center",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "N.C. Nitrogen Complex",
+        "city": "Ahoskie",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "National Linen Service",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "National Linen Service Corporation",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "National Linen Service Corporation",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "National Linen Service Corporation",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "National Weaving Company",
+        "city": "Lowell",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "NCNB Tower",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Neisco, Incorporated, Margrace Plant",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Neisler Mills Incorporated",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "New Finishing Plant",
+        "city": "Cramerton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "New Hanover Memorial Hospital",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "New Hanover Regional Medical Center",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Nitrogen Complex",
+        "city": "Tunis",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "North Carolina Finishing Company",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "North Carolina Furniture, Incorporated",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "North Carolina Gold Mining And Reduction Company",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "North Carolina Pulp Company",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "North Carolina Sanatorium",
+        "city": "Mccain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "North Carolina School For The Deaf",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "North Carolina School Of Science And Math",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "North Carolina Shipbuilding",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "North Carolina Shipbuilding & Drydock Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "North Carolina State College",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Northeast Medical Center",
+        "city": "Concord",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Nu Southern Dyeing And Finishing, Incorporated",
+        "city": "Henderson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Nylon 6 Facility",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Office Of Saline Research",
+        "city": "Wrightsville Beach",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Old Fort Finishing Plant",
+        "city": "Old Fort",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Operation Saline Water Plant",
+        "city": "Wrightsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Owens Illinois",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Ozark Cotton Mills",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "P. Lorillard Company",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "P.H. Hanes Knitting Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "P.S. Company Of North Carolina, Incorporated",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Pacemaker Furniture",
+        "city": "Lenoir",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Panda Rosemary",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Pat Hall Enterprises Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Patterson Mills",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Patterson Mills Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Pcs Nitrogen",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Pcs Phosphate Company Incorporated",
+        "city": "Aurora",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Pee Dee Manufacturing Company",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Pfizer Incorporated",
+        "city": "Southport",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Pharr-Yarn Plant",
+        "city": "Mcadenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Photo Products Department",
+        "city": "Brevard",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Piedmont Processing Company",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Piedmont Products Company",
+        "city": "Wellford",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Piedmont Railway And Electric Company - Power Plant",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Piedmont Realty Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Pillowtex Corporation",
+        "city": "Monroe",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Pillowtex Corporation",
+        "city": "Swannanoa",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Pilot Mills Company",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Pinehurst Incorporated",
+        "city": "Pinehurst",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Pitt Memorial Hospital",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Pittsburgh Plate Glass (PPG) Chemical Plant",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Plymouth Paper Mill",
+        "city": "Newborn",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Poinsett Lumber And Manufacturing Company",
+        "city": "Anderson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Porter Hayden",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Power House",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Power Sources, Incorporated",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Power Sources, Incorporated",
+        "city": "Forest City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "PP&G",
+        "city": "Lexington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Precision Fabrics Group",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Presbyterian Church",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Presbyterian Hospital",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Presnell Insulation",
+        "city": "Rock Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Proctor Silex",
+        "city": "Mount Airy",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Proximity Manufacturing Company",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Proximity Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Pullman Power Plant",
+        "city": "Georgetown",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Quaker Neck Power Plant",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Quaker Neck Power Station",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Queensboro Steel",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "R.J. Reynolds Office Building",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "R.J. Reynolds Tobacco Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "R.J. Reynolds Tobacco Company",
+        "city": "Tobaccoville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "R.L. Humber Machine Works",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "R&W Inc",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Radisson Hotel",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Raleigh Chemical Plant",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Raleigh Electric Company - Power Plant",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Raleigh Linen Service",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Raleigh Linen Supply Company",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Ralph Wilson Plastics",
+        "city": "Fletcher",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Randleman Manufacturing Company",
+        "city": "Randleman",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Randolph Mills Incorporated",
+        "city": "Franklinville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Rayon Factory",
+        "city": "Enka",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Reidsville Branch",
+        "city": "Reidsville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Research Triangle Plant",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Reynolds Health Center",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Reynolds Memorial Hospital",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Reynolds Power House",
+        "city": "Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Rhodes Manufacturing Company",
+        "city": "Lincolnton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Richmond Cedar Works",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Richmond Linen Supply Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Riecho Chemical",
+        "city": "Montcure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Riegel Paper Corporation",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Riegel Paper Corporation, Carolina Division",
+        "city": "Acme",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Riegel Paper Mill",
+        "city": "Riegelwood",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "River Bend Steam Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Riverbend Steam Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Riverbend Steam Plant",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Riverbend Steam Plant",
+        "city": "Mount Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "RJ Reynolds Co- Winston",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Rj Reynolds Tobacco Company",
+        "city": "Stokes County",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Rjr Nabisco Brook Cove Plant And Stg S",
+        "city": "Walnut Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Roanoke Mill",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Roanoke Mills Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Roanoke Mills Company - Roanoke Plant 2",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Roanoke Rapids Mill",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Roanoke Rapids Power Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Rohm & Haas",
+        "city": "Cumberland",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Rohm And Haas Company",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Rohm And Haas North Carolina, Incorporated",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "Roland Arnold",
+        "city": "Glasco",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Roland H. Thomas",
+        "city": "Siler City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "Rosemary Manufacturing Company",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Rowan Memorial Hospital",
+        "city": "Rowan",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Rowan Memorial Hospital",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Roxboro Cotton Mills",
+        "city": "Roxboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Royal Cotton Mills",
+        "city": "Wake Forest",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Royall Cotton Mills",
+        "city": "Wake Forest",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "Rutherford Hospital",
+        "city": "Rutherford",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Salem Business Park Llc",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Salem College",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Salisbury Plant",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "Sanitary Laundry, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Santee Company",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Sara Lee",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Sara Lee Knit Products",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Savona Manufacturing Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Saxony Spinning Company",
+        "city": "Lincolnton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "Sayles Biltmore Bleacheries",
+        "city": "Biltmore",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Sayles Biltmore Bleacheries, Incorporated",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "Scandinavia Belting Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "Scandura Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Schlitz Brewery",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "School For The Deaf",
+        "city": "Morganton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Scotland Neck Power Plant",
+        "city": "Scotland Neck",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Sears Building",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Sears Roebuck Building",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Sears, Roebuck & Company",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Sellers Manufacturing Company",
+        "city": "Saxapahaw",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Shearon Harris (CP&L) Nuclear Power Plant",
+        "city": "New Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Sheer Craft",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Shelby Cotton Mills",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Shelby Williams",
+        "city": "Statesville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Siemens Corporation",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Siemens Westinghouse Power Corporation",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Sinclair Fertilizer",
+        "city": "Burlington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Sky Rocket Garage",
+        "city": "Hendersonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Sodyeco Division",
+        "city": "Sodyeco",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Sodyeco Division",
+        "city": "Mount Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Sonoco Products Company",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Southeastern Baptist Theological Seminary",
+        "city": "Wake Forest",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Southern Asbestos",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "Southern Cotton Oil Company",
+        "city": "Shelby",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Southern Desk Company",
+        "city": "Hildebran",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Southern Dye",
+        "city": "Mount Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Southern Mercerizing Company",
+        "city": "Tryon",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Southern Power Company",
+        "city": "Mt. Holly",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "Southern Power Company",
+        "city": "Spencer",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Southern Tissue Mills",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "Southpark Shopping Center",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Spectrum Dyed Yarns",
+        "city": "Belmont",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 792,
+        "company": "Spectrum Dyed Yarns",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "Spectrum Textured Fibers, Incorporated",
+        "city": "Kings Mountain",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "Spencer Power Plant",
+        "city": "Spencer",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "Spindale Mills Textile Mill",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Spinners Processing Company",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Spofford Knitting Mills Corporation",
+        "city": "Morgantown",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "Springs Cotton Mills",
+        "city": "Wagram",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Springs Mill",
+        "city": "Lancaster",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Square D Company",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "St. Pauls Power Company",
+        "city": "St. Pauls",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Starr Davis Co",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Starr-Davis",
+        "city": "Various",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "State College",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "State Hospital",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "State Hospital At Butner",
+        "city": "Butner",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "State Legislation Building",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "State Of North Carolina",
+        "city": "Raliegh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "State Of North Carolina - Central Heating Plant",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "State Of North Carolina - Central Heating Plant - General Services Division",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Stonecutter Mills Corporation",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Stonecutter Mills Corporation - Plant No. 1",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Storage Supply Company",
+        "city": "Asheville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Subsidiary Of Drexel Furniture",
+        "city": "Hildebran",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Summerfield Industries, Incorporated",
+        "city": "Rocky Mount",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Superior Piping, Incorporated",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Sutton Power Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Sutton Steam Station",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "Swift And Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Swift And Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Swift Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Swift Edible Oil Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Tallassee Power",
+        "city": "Badin",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Templon Spinning Mill",
+        "city": "Mooresville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Texas Gulf Sulfur Company",
+        "city": "Aurora",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Texas Gulf, Incorporated",
+        "city": "Aurora",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Texas-Gulf",
+        "city": "Apex",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Texasgulf Sulfur",
+        "city": "Aurora",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Texfi Blends",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "Texfi Blends",
+        "city": "Rocky Mount",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Texfi Industries Incorporated",
+        "city": "Rocky Mount",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Texfi, Incorporated",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Textile Fibers Department",
+        "city": "Phoenix",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Textile Mill",
+        "city": "Lincolnton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Threads Mill",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Threads Usa",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Threads, Incorporated",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Thurstan Motors",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "Tide Water Power Company",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Tide Water Power Company",
+        "city": "Wilmingtion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Tomlinson Chair Manufacturing Company",
+        "city": "High Point",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Tomlinson Of High Point",
+        "city": "High Point",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Town Of Tarboro",
+        "city": "Tarboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Town Of Wilson",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Travenol Laboratories",
+        "city": "North Cove",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Trigen Biopower Incorporated",
+        "city": "Eden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "Trigen Biopower Incorporated",
+        "city": "Forest City",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "U.S. Army",
+        "city": "Fort Bragg",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "U.S. Department Of The Interior - Office Of Saline Water - Saline Water Conversion Plant",
+        "city": "Wrightsville Beach",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Uco Fabrics, Incorporated",
+        "city": "Rockingham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 854,
+        "company": "Union Bleachery",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Union Cotton Mill",
+        "city": "Maiden",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "United Piece Dye Works",
+        "city": "Edenton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "United States Department Of Interior",
+        "city": "Wrightsville Beach",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "United States Rubber Company",
+        "city": "Pineville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "United States War Department, Anti-Aircraft Firing Center",
+        "city": "Holly Ridge",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "University of North Carolina",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "University Of North Carolina - Hill Hall",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "University Of North Carolina - Murphy Hall",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "University Of North Carolina Hospital",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Valdese Manufacturing Company",
+        "city": "Valdese",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "VAMC",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Veterans Administration Hospital",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Veterans‚Äô Administration Hospital",
+        "city": "Salisbury",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Virginia Mills, Incorporated",
+        "city": "Swepsonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "W.E. Bolton, 2715 Vanderbilt Ave.",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "W.H. Weatherspoon",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Wade Manufacturing Company",
+        "city": "Wadesboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Wake Forest University",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Wake Forest University Baptist Medical Center",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Wake Forest University Hospital",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Waldensian Hosiery Mills Incorporated",
+        "city": "Valdese",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Wansona Manufacturing Company",
+        "city": "Wadesboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Wansona Manufacturing Corporation",
+        "city": "Wadesboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Washington Mills",
+        "city": "Mayodan",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Washington Mills",
+        "city": "Spindale",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Washington Mills Company",
+        "city": "Mayodan",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Washington Mills Company",
+        "city": "Marion",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Washington Mills, Incorporated",
+        "city": "Mayodan",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Water And Sewerage Commission - Municipal Water Plant",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Watson Electric",
+        "city": "Greenville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Watts Hospital",
+        "city": "Durham",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Wayne Memorial Hospital",
+        "city": "Goldsboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Weatherspoon Power Plant",
+        "city": "Lumberton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Webel Knitting Company",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "West Point Pepperell",
+        "city": "Hamilton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "West Point Stevens",
+        "city": "Hamilton",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "Western Carolina University",
+        "city": "Cullawee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "Western Carolina University - Steam Plant",
+        "city": "Cullowhee",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Western Electric",
+        "city": "Greensborough",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Western Electric Company - North Carolina Works",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Westinghouse Electric - Turbine Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Westinghouse Electric Corporation - Manufacturing Plant",
+        "city": "Raleigh",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Westinghouse Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Westinghouse Turbine Plant",
+        "city": "Charlotte",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "Westpoint Stevens - Bob Stevens Fabrication Plant",
+        "city": "Wagram",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "Westpoint Stevens, Bob Stevens Plant",
+        "city": "Wagram",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Westpoint Stevens, Patterson Plant",
+        "city": "Roanoke Rapids",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Westpoint Stevens, Scotland Plant",
+        "city": "Wagram",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Westvaco Corporation",
+        "city": "Gastonia",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Weyerhaeuser Company",
+        "city": "Jacksonville",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Weyerhaeuser Company",
+        "city": "Moncure",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Weyerhaeuser Company",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Weyerhaeuser Company North Carolina Division",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Weyerhaeuser Paper Company",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Weyerhaeuser Paper Mill",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Weyerhauser Paper Company",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Weyerhauser Paper Mill",
+        "city": "New Bern",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Weyerhauser Paper Mill",
+        "city": "Plymouth",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "White Furniture Company",
+        "city": "Mebane",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "White Oak",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "White Oak Mills",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "White Oak Power Plant",
+        "city": "Greensboro",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Wilmington Iron Works",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Wilmington Shipbuilding And Drydock",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Wilmington Shipyard",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Wilson Ice And Fuel Company",
+        "city": "Wilson",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Wilsonart",
+        "city": "Fletcher",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Winston Salem Power Company",
+        "city": "Winston Salem",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Wiscasset Mills",
+        "city": "Albemarle",
+        "state": "NC",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Woonsocket Falls Mills",
+        "city": "Wilmington",
+        "state": "NC",
+        "visibility": ""
+      }
+     ]
+}

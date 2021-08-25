@@ -1,0 +1,3707 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A. Kerr Finishing Division Of Allied Products",
+        "city": "Travelers Rest",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Abbeville Cotton Mills",
+        "city": "Abbeville",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Abbeville Mills Corporation",
+        "city": "Abbeville",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Abney Mills",
+        "city": "Travelers Rest",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Abney Mills",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Abney Mills, Renfrew Bleachery",
+        "city": "Travelers Rest",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Aetna Cotton Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Aircraft Fire & Crash Building",
+        "city": "Beaufort",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Airport Regional Office Park",
+        "city": "Cayce",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Alexandra Dyeing And Finishing, Incorporated",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Alice Manufacturing Company",
+        "city": "Easley",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Allen Steam Plant",
+        "city": "Belmont",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Allied Chemical",
+        "city": "Irma",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Allied Chemical Corporation",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Allied Chemical Corporation",
+        "city": "Irmo",
+        "state": "SC",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "American Enka Corporation",
+        "city": "Central",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "American Fiber And Finishing",
+        "city": "Newberry",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "American Lumber And Treating Company",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "American Pipe Manufacturing Company",
+        "city": "Saxton Crossing",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Spinning Company",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Tobacco Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Ameritron Corporation",
+        "city": "Barnwell",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Appleton Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Aragon Baldwin Cotton Mills",
+        "city": "Whitmire",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Aragon Baldwin Cotton Mills",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Aragon Mills Plant",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Arkwright Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Armstrand Chemical",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Atomic Energy Commission, Savannah River Pro",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Atomic Energy Commission, Savannah River Project",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Atomic Energy Plant",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Avondale Mills",
+        "city": "Graniteville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "B.F. Goodrich Company, Latex Products Plant",
+        "city": "Honea Path",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Baldwin Cotton Mills",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Barnwell Nuclear Plant",
+        "city": "Barnwell",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Basf Corporation",
+        "city": "Central",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Baxter Laboratories, Incorporated",
+        "city": "Kingstree",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Beaufort Plaza Shopping Center, One Hour Martinizing",
+        "city": "Beaufort",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Beaumont Manufacturing Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Bellemonte Cotton Manufacturing Company",
+        "city": "Sumter",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Belton Mills",
+        "city": "Belton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Bennettsville Manufacturing Company",
+        "city": "Bennettsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Bigelow-Sanford Carpet Company, Incorporated",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Bird And Son, Incorporated",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Bishopville Finishing Company",
+        "city": "Bishopville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Blair Mills, Incorporated",
+        "city": "Belton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Blaunet Mills",
+        "city": "Fountain Inn",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Bloomsburg Mills",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Blue Bird Ice Cream Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Bowater Paper",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Bowater Paper Mill",
+        "city": "Catawba",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Bowater Paper Mill",
+        "city": "Leslie",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Bowater Paper Mill",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Bowaters Carolina Corporation",
+        "city": "Catawba",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Brandon Corporation",
+        "city": "Woodruff",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Brandon Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Buffalo Cotton Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Buffalo Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Building Mats Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Burlington Industries, Incorporated",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Buzzards Roost Dam Site",
+        "city": "Chappells",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Calhoun Mills",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Camden Forest Products, Incorporated",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Camp Geiger",
+        "city": "Jacksonville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Camp Lejune Marine Base",
+        "city": "Jacksonville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Canadys Power Plant",
+        "city": "Canady",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Carlisle Finishing Company",
+        "city": "Carlisle",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Caro-Maid Ice Cream Company",
+        "city": "Dillon",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Carolina And Rocky River Mills",
+        "city": "Calhoun",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Carolina Carpet Mills",
+        "city": "York",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Carolina Coliseum",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Carolina Fiber Company",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Carotell Paper Board Corporation",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Catawba Plant",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Celanese Chemical Plant",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Celanese Chemical Plant",
+        "city": "Salisbury",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Celanese Chemical Plant",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Celanese Plant",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Champion / Spring City Knitting",
+        "city": "Gaffney",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Champion Building Products",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Champion Paper Mill",
+        "city": "Catawba",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Champion Paper Mill",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Charleston Air Force Base - Central Heating Plant",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Charleston Air Force Base, Air Conditioning Office",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Charleston Bagging Manufacturing Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Charleston Consolidated Railway, Gas And Electric Company - Manufactured Gas Plant",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Charleston County Office Building",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Charleston Hydraulic Cotton Press Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Charleston Memorial Hospital",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Charleston Naval Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Charleston Navy Yard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Charleston Shipbuilding & Drydock Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Charleston Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Charleston Street Railway Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Charleston Supply Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Chemstrand",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Chemstrand Corporation",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Chester Arthur Office Building",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Chesterfield Ice & Fuel Company",
+        "city": "Chesterfield",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Clearwater Manufacturing Company",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Clearwater Refining Company",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Clemson University",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Cliffside Steam Plant",
+        "city": "Cliffside",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Clifton Manufacturing Company",
+        "city": "Clifton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Clifton Manufacturing Company",
+        "city": "Converse",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Clinton Cotton Mills - Clinton Textile Mill",
+        "city": "Clinton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Columbia Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Cone Mill",
+        "city": "Carlisle",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Cone Mills",
+        "city": "Carlisle",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Consumers Ice Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Continental Can Company",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Cotwill Manufacturing Corporation",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Cox Manufacturing Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "D.A. Sprinkle",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Daniel Building",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Daniel Construction Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Daniel International Corp.",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Darlington Manufacturing Company",
+        "city": "Darlington",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Darlington Mills",
+        "city": "Darlington",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "De Kalb Cotton Mills",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Deering Milliken - Johnston Mill - Woolen Unit Number 2",
+        "city": "Johnston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Deering Milliken - Mccormick Mill - Woolen Unit Number 1",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Deering Milliken Mills",
+        "city": "Lockhart",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Deering Milliken Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Deering Milliken Mills",
+        "city": "Pendelton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Deering Milliken Mills",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Deering Milliken Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Deering Milliken Mills",
+        "city": "Abbeville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Deering Milliken Service Corporation",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Delta Finishing Plant",
+        "city": "Wallace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Delta Finishing Plant",
+        "city": "Wallace, Marlboro County",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Delta Mills",
+        "city": "Wallace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Denton Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Detyen Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Division Of Diehl Manufacturing Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Drayton Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Dreher High School",
+        "city": "Ft. Jackson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Duke Energy Corporation",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Duke Power Company - Buzzard Roost Station",
+        "city": "Chappells",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Duke Power Company - Catawba Nuclear Station",
+        "city": "York",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Duke Power Company - Oconee Nuclear Station",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Duke Power House",
+        "city": "Pelzar",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Duke Power Plant",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Dupont",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Dupont",
+        "city": "Lugoff",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Dupont Chemical Plant",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Dupont Chemical Plant",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Dupont May Plant",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Dupont Powder Plant",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Ellenton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Dunbarton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Lugoff",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "E.I. Dupont De Nemours And Company, Lugoff Plant",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "E.M. Service Club",
+        "city": "Ft. Jackson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Easley Cotton Mills",
+        "city": "Easley",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Eastman Kodak",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Eastover Paper Mill",
+        "city": "Eastover",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Embers Charcoal",
+        "city": "Conway",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Enoree Power Company - Steam Plant",
+        "city": "Woodruff",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Enron",
+        "city": "Grace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Equinox Mill",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Excelsior Finishing Mill",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Excelsior Illuminating Company, #4 / Deering Milliken",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Excelsior Mills",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Excelsior Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Excelsior Textile Mill",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "F.W. Poe Manufacturing Company",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Fairforest Finishing Company",
+        "city": "Clevedale",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Fairview Mills",
+        "city": "Fountain Inn",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Fiber Industries",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Fiber Industries Textile Plant",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Fibers Division",
+        "city": "Irmo",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Fieldcrest Mills",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Finishing Plant",
+        "city": "Carlisle",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Florence Paper Mill",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Fluor Daniel Corporation",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Fort Jackson",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Ft. Jackson, E.M. Barracks, Central Heating & Refrigeration Plant",
+        "city": "Ft. Jackson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Ft. Jackson, E.M. Service Club",
+        "city": "Ft. Jackson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Ft. Jackson, U.S. Army Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Fuel Conversion, A.P.C., Schedules 1 & 4",
+        "city": "Ft. Jackson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Furman University",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Gaffney Manufacturing Company",
+        "city": "Gaffney",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Gayley Mill",
+        "city": "Marietta",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "General Electric Company - Mobile Radio Plant",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "General Electric Company - Turbine Plant",
+        "city": "Ladson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "George Bechtel Brewing Company",
+        "city": "Stapleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Georgetown Mill",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Georgetown Powerhouse",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Georgetown Veneer Co., Inc.",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Gerrish Milliken Mills",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Glen Lowry Manufacturing Company",
+        "city": "Whitmire",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Glenwood Cotton Mills",
+        "city": "Easley",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Glenwood Mills",
+        "city": "Easley",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Gluck Mills",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Goose Creek Naval Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Grace Bleachery",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Graniteville Company",
+        "city": "Graniteville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Graniteville Manufacturing Company",
+        "city": "Graniteville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Graniteville Mill",
+        "city": "Graniteville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Greenville City Hospital",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Greenville General Hospital",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Greenville Hospital",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Greenwood County Electric Power Commission - Buzzard Roost Station",
+        "city": "Chappells",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Greenwood Mills",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Greenwood Mills",
+        "city": "Ninety Six",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Greenwood Mills, Incorporated",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Greenwood Powerhouse",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Grendel Mills",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Grendel Mills #1",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "H.L. Roper & Company",
+        "city": "Laurens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Hamilton Veneer Company",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Hardwick Chemical Company",
+        "city": "Elgin",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Harleyville Cement Plant",
+        "city": "Harleyville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Harper Mill",
+        "city": "Liberty",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Hartsville Cotton Mill",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Hatch Mill",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Hercules",
+        "city": "Waterloo",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Hercules Textile Mill",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Huguenot Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Hystron Industries",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Industrial Burners, Incorporated",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Inman Mills",
+        "city": "Inman",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "International Industries",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "International Paper",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "International Paper Company",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "International Paper Company, Southern Kraft Division",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "International Paper Mill",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Issaqreena Mill",
+        "city": "Central",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Issaqueena Mills",
+        "city": "Central",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "J.G. Nichols And Company",
+        "city": "Helena Island",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "J.P. Stevens",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "J.P. Stevens And Company Cotton Division",
+        "city": "Wallace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Wallace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Cheraw",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Baldock",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Great Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Walterboro",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division",
+        "city": "Whitmire",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "J.P. Stevens And Company, Incorporated, Cotton Division Greenville Group",
+        "city": "Jonesville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "J.P. Stevens And Company, Incorporated, Synthetics Division",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "J.P. Stevens And Company, Incorporated, Synthetics Division",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "J.P. Stevens And Company, Incorporated, Synthetics Division",
+        "city": "Laurens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "J.P. Stevens And Company, Incorporated, Synthetics Division",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "J.P. Stevens And Company, Incorporated, Victor Plant",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "J.P. Stevens And Company, Whitmire Plant",
+        "city": "Whitmire",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "J.P.S. Daniel Bldg.",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Jackson Mill Company",
+        "city": "Wellford",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Jackson Mills",
+        "city": "Wellford",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Jackson Mills",
+        "city": "Iva",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Joanna Cotton Mills",
+        "city": "Goldville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Jocasse Steam Plant",
+        "city": "Salem",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Jonesville Farmers Union Gin Company",
+        "city": "Jonesville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Jonesville Mills",
+        "city": "Jonesville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Jp Stevens",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Judson Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Kavser Mill",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Keenan High School Addition",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Kendall Company",
+        "city": "Pelzer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Kendall Mills",
+        "city": "Bethune",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Kenneth Cotton Mills",
+        "city": "Walhalla",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Kohler Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "La France Industries",
+        "city": "La France",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Lancaster Cotton Mills",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Lancaster Cotton Mills",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Lancaster Cotton Mills",
+        "city": "Fort Mill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Lane And Mcdonald",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Leaphart Elementary School",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Lee Steam Plant",
+        "city": "Delzer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Lexington County Hospital",
+        "city": "Lexington",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Little Giant Cement Company",
+        "city": "Harleyville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Lydia Cotton Mills",
+        "city": "Clinton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Lyman Printing And Finishing Company, Incorporated",
+        "city": "Lyman",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Lyman Printing And Finishing Company, Incorporated",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Magnolia Finishing Plant",
+        "city": "Blacksburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Magnolia Finishing Plant Deering Milliken Mills",
+        "city": "Blacksburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Manchester Cotton Mills",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Manetta Mills",
+        "city": "Lando",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Marine And River Phosphate Mining And Manufacturing Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Marine Corps Recruit Depot Parris Island - Central Power Plant",
+        "city": "Parris Island",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Marine Corps Recruit Depot, Repair Water Lines, Depot Laundry",
+        "city": "Parris Island",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Marion Manufacturing Company",
+        "city": "Gaffney",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Marlboro Cotton Mills",
+        "city": "Bennettsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Mathews Cotton Mills",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Mathews Mill",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Mc Donald, Wilkins And Company",
+        "city": "Beaufort",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Mccormick Mills",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Mccormick Spring Mill",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Mellou P. Skinner The Crystal Ice Company",
+        "city": "Summerville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Michelin Tire",
+        "city": "Sandy Springs",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Michelin Tire Corporation",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Michelin Tire Corporation",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Michelin Tire Corporation",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Milliken",
+        "city": "Abbeville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Milliken & Company",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Milliken Mills",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Milliken Mills",
+        "city": "Pendleton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Milliken Mills, Lockhart Plant",
+        "city": "Lockhart",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Milliken, Incorporated",
+        "city": "Marietta",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Mohawk Carpet",
+        "city": "Calhoun",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Mohawk Carpet Mills",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Monaghan Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Monaghan Plant",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Monarch Cotton Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Monarch Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Monsanto Chemical",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Monsanto Chemical Plant",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Monsanto Chemical Plant",
+        "city": "Greensboro",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Monsanto Chemical Plant",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Monsanto Corporation",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Monsanto Mills",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Montgomery Ward Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Montreal Fast Print, Limited",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "National Aniline Division, Allied Chemical And Dye Corporation",
+        "city": "Irmo",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "National Linen Service Corporation",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Naval Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Naval Station, B.E.Q. Modernization A/C",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Naval Weapons Station",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "New South Forest Industries",
+        "city": "Conway",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Newberry Cotton Mills",
+        "city": "Newberry",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Nylon 66 Facility",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Oconee Nuclear Plant",
+        "city": "Oconee",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Oconee Nuclear Plant",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Oconee Nuclear Plant",
+        "city": "Williamston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Oconee Nuclear Station",
+        "city": "Oconee County",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Olympia Cotton Mills",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Olympia Mills",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Oneita Knitting Mills",
+        "city": "Andrews",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Orangeburg Ice And Fuel Company",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Orangeburg State College",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Orangeburgh Manufacturing Company",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Orr Mills",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Charlotte",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Owens-Corning Plant",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Pacific Mills",
+        "city": "Lyman",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Pacolet Finishing Plant Subsidiary Of Deering Milliken Corporation",
+        "city": "Blacksburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Palmer Manufacturing Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Panola Cotton Mills",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Park Davis And Company",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Parke Davis And Company",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Pendleton Manufacturing Company",
+        "city": "La France",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Peoples Ice And Fuel Company",
+        "city": "Beaufort",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Perry Smith Company Georgia Pacific Corporation",
+        "city": "Manning",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Pickens Cotton Mill",
+        "city": "Pickens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Pickens Mill",
+        "city": "Pickens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Piedmont Print Works",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Pine Creek Manufacturing Company",
+        "city": "Camden",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Planters And Merchants Rice Mill",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Plywood Plastics Corporation",
+        "city": "Hampton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Plywood Products Corporation",
+        "city": "Hampton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Poe Hardware And Supply Company",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Port Royal Cotton Compressing Company",
+        "city": "Port Royal",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Providence Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Reeves Brothers Fairforest Finishing Division",
+        "city": "Clevedale",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Reeves Brothers Incorporated",
+        "city": "Bishopville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Regal Textiles",
+        "city": "Ware Shoals",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Renfrew Bleachery",
+        "city": "Travelers Rest",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Richland County School District #1, Vocational Education Center",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Riegel Textile",
+        "city": "Ware Shoals",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Rm Industrial Products",
+        "city": "North Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Rock Hill Printing & Finishing Plant",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Rock Hill Printing And Finishing Company",
+        "city": "Rock Hill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Rocky River Mills",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Rocky River Plant",
+        "city": "Calhoun Falls",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Roper Hospital",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "S. Slater & Sons, Incorporated",
+        "city": "Slater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "S.C. Department Of Agriculture Lab",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "S.C. Electric And Gas Plant",
+        "city": "Wateree",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Saco-Lowell Shops",
+        "city": "Easley",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Santee River Wool Combing Company, Incorporated",
+        "city": "Jamestown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Savannah River Plant",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Savannah River Project",
+        "city": "Akins",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Savannah River Project",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Saxon Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Self Memorial Hospital",
+        "city": "Greenwood",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Seminole Mills",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Seneca Cotton Mills",
+        "city": "Seneca",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Shaw Air Force Base",
+        "city": "South Carolina",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Singer Manufacturing Company",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Smurfit-Stone Container Corporation",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Sonoco Paper Company",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Sonoco Products Company",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Sonoco Products Company",
+        "city": "Haltsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "South Carolina Electric & Gas",
+        "city": "Monks Corner",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "South Carolina Electric & Gas Building",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "South Carolina Electric & Gas Co - Urquhart Station - Unit 2",
+        "city": "Beech Island",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "South Carolina Electric & Gas Company - Wateree Station",
+        "city": "Eastover",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "South Carolina Electric & Gas Plant",
+        "city": "Jenkensville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "South Carolina Gas & Electric",
+        "city": "Canady",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "South Carolina Industries",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "South Carolina Light, Power And Railway Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "South Carolina Power & Light Powerhouse",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "South Carolina Power And Light",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "South Carolina State Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "South Carolina State Hospital For The Insane",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Southern Bleachery And Print Works",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Southern Bleachery And Print Works, Incorporated",
+        "city": "Taylors",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Southern Brick Co",
+        "city": "Ninety Six",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Southern Kraft Corporation",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Southern Kraft Division Of International Paper Company",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Southern Kraft Paper Company",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Southern Novelty Company",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Southern Power Company",
+        "city": "Duncan",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Southland Exchange",
+        "city": "Hampton",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Spartan Mill",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Spartan Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Spartanburg Railway, Gas And Electric Company - Power Plant",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Spring Cotton Mill",
+        "city": "Fort Mill",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Spring Cotton Mills",
+        "city": "Grace",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Spring Cotton Mills",
+        "city": "Fort Mills",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Spring Cotton Mills 2",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Spring Industries",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Spring Industries",
+        "city": "Fort Mills",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Spring Mills, Incorporated",
+        "city": "Mullins",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Springs Bleachery",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Springs Cotton Mill",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Springs Cotton Mills",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Springs Cotton Mills",
+        "city": "Fort Lawn",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Springs Cotton Mills",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Springs Cotton Mills - Eureka Plant",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Springs Industries",
+        "city": "Lyman",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Springs Industries",
+        "city": "Fort Lawn",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Springs Industries",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Springs Industries",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Springs Industries - Leroy Plant",
+        "city": "Fort Lawn",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Springs Mill",
+        "city": "Lancaster",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Springs Mills - Knitting Plant",
+        "city": "Mullins",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Sprinstein Mills",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "St. Francis Hospital",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Standard Oil",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Starr-Davis",
+        "city": "Various",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Startex Mills",
+        "city": "Startex",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Stauffer Chemical Plant",
+        "city": "Anderson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Steele Hedder",
+        "city": "Taylor",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Stone Container Corporation",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Stone Container Paper Mill",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Sumter Cotton Mills",
+        "city": "Sumter",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Sumter Ice And Fuel Company",
+        "city": "Sumter",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Sumter Ice And Light And Power Company",
+        "city": "Sumter",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Sumter Lighting Company - Power Plant",
+        "city": "Sumter",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Sunoco Oil Refinery",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Sunoco Products Company",
+        "city": "Hartsville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Tanners Creek Station",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Taxon Mills",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Textile Mill",
+        "city": "Carlisle",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Textron Southern Plant",
+        "city": "Williamston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Tidewater Supply Company",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Trojan Steel",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Tucapau Mills",
+        "city": "Tucapau",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "U. S. Naval Receiving Station",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "U.S. Naval Base",
+        "city": "Buford",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "U.S. Navy Mine School",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "U.S.M.C., 2nd Battallion, Mess Hall",
+        "city": "Parris Island",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Union Bleachery",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Union Carbide",
+        "city": "Florence",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Union Dry Cleaning Company And Steam Laundry",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Union Mills",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "United Merchants",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "United Merchants Manufacturers",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "United Merchants Manufacturers",
+        "city": "Aiken",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "United Merchants Mill",
+        "city": "Union",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "United Merchants Mill/Clearwater Finishing Plant",
+        "city": "Clearwater",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "United States Constructing Quartermaster",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "United States Electric Illuminating Company - Power Plant",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "United States Finishing",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "United States Marine Barracks",
+        "city": "Port Royal",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "United States Naval Station",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "United States Naval Yard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "United States Navy Shipyard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "United States Navy Yard",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "University Of South Carolina",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "University Of South Carolina",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "University Of South Carolina, Carolina Coliseum",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "US Naval Station",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Us Plywood Corporation",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Utica And Mohawk Mills",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Utica Mohawk Plant",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "VA Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Veratec, Incorporated",
+        "city": "Bethune",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Veterans Administration Hospital",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Veterans Hospital",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Victor Monaghan Company",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Victor Monaghan Company",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Victor Monaghan Company",
+        "city": "Walhalla",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Victor Monaghan Company - Apalache Plant",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Victor Monaghan Company - Victor Plant",
+        "city": "Greer",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Victor Monaghan Company, Division Of J.P. Stevens And Company, Incorporated",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Vitor Monoghan Mills",
+        "city": "Greenville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Walker Plumbing And Heating Company",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Wannamaker Chemical Plant",
+        "city": "Orangeburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Ware Shoals Manufacturing Company",
+        "city": "Ware Shoals",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Wateree Powerhouse",
+        "city": "Wateree",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Watts Mill",
+        "city": "Laurens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Watts Mill Plant",
+        "city": "Laurens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Watts Mills",
+        "city": "Laurens",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Wellman Combing Company",
+        "city": "Johnsonville",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Wellman, Incorporated",
+        "city": "Darlington",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "West Point Stevens",
+        "city": "Whitmire",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "West Virginia Paper Mill",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "West Virginia Pulp & Paper",
+        "city": "North Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "West Virginia Pulp & Paper Mill",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "West Virginia Pulp And Paper Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Westpoint Stevens",
+        "city": "Clemson",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Westvaco",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Westvaco",
+        "city": "North Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Westvaco Corporation",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Westvaco Paper Mill",
+        "city": "North Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Whites Department Store",
+        "city": "Columbia",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Whitlock Combing Company",
+        "city": "Allendale",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Whitney Manufacturing Company",
+        "city": "Spartanburg",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "William Bird & Company, Incorporated",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Williamston Mills",
+        "city": "Williamston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Winnsboro Mills",
+        "city": "Winnsboro",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Winyard Steam Plant",
+        "city": "Georgetown",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Wood Preserving Company",
+        "city": "Charleston",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Woodruff Cotton Mills",
+        "city": "Woodruff",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Woolen Mill",
+        "city": "Mccormick",
+        "state": "SC",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Wylie Mills",
+        "city": "Chester",
+        "state": "SC",
+        "visibility": ""
+      }
+     ]
+}

@@ -1,0 +1,403 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Acadia Coal Company",
+        "city": "Stellarton",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "American Crystal Sugar Company",
+        "city": "Drayton",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Amoco Oil Company Of Indiana",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Armour And Company",
+        "city": "West Fargo",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Basin Electric Power Cooperative",
+        "city": "Bismarck",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Basin Electric Power Cooperative - Leland Olds Station",
+        "city": "Stanton",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Consumers Power Company - Power Plant",
+        "city": "Minot",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Coyote Steam Plant - Unit 1",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Dickinson Roller Mill Company",
+        "city": "Dickinson",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Excel Pork Division",
+        "city": "Beardstown",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Grand Forks Gas And Electric Company - Power Plant",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Hughes Electric Company - Beulah Power Plant",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Hughes Electric Company - Steam Power Plant",
+        "city": "Bismarck",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Industrial Commission Of North Dakota",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Jamestown State Hospital",
+        "city": "Jamestown",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Johnson Fuel Company",
+        "city": "Scranton",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Leland Olds Station - Unit 2",
+        "city": "Stanton",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Midwest Processing Corporation",
+        "city": "Velva",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Milton R Young Power Station",
+        "city": "Center",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Minn-Dak Farmers Cooperative",
+        "city": "Wahpeton",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Minnesoto Northern Power Company",
+        "city": "Kincaid",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Minnkota Power Cooperative",
+        "city": "Center",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Minnkota Power Corporation, Incorporated",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Minnkota Power Corporation, Incorporated",
+        "city": "Center",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Minot Light And Telephone Company - Power Plant",
+        "city": "Minot",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Minto Rolling Mill And Elevator Company",
+        "city": "Minot",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Montana Dakota Power Company",
+        "city": "Kincaid",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Montana Dakota Utilities Company - R. M. Heskett Steam Electric Station",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Montana Dakota Utilities Company- Beulah Power Plant",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Montana Dakota Utilities Company, Kincaid Plant",
+        "city": "Kincaid",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Montana Dakota Utility Company - Kincaid Power Plant",
+        "city": "Columbus",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Montana-Dakota Utilities Company - R. M. Heskett Steam Electric Station",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Mount Vernon Straw Board Company",
+        "city": "Mt. Vernon",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "North Dakota 45 Basin",
+        "city": "Stanton",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "North Dakota Milling Company",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "North Dakota Penitentiary",
+        "city": "Grove",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "North Dakota State Peniteniary",
+        "city": "Bismarck",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Northern Pacific Railway Company",
+        "city": "Jamestown",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Northern Pacific Railway Plant",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Northern State Power Company",
+        "city": "Minot",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Northern States Power Company",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Northern States Power Company",
+        "city": "Minot",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Northern Sugar Corporation",
+        "city": "Drayton",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Otter Tail Power Company",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Ottertail Power Company Montana Dakota Util Northwestern Public Service Company",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Red River Power Company",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Rogers Brothers",
+        "city": "Grand Forks",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Square Butte Electric Company Operative - Milton R Young Station",
+        "city": "Center",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Standard Oil",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Standard Oil Company Of Indiana",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Standard Oil Of Indiana",
+        "city": "Mandan",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "State Hospital For Insane",
+        "city": "Jamestown",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "United Power Company",
+        "city": "Crosby",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "United States Reclamation Service",
+        "city": "Williston",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Valley City Brick Company",
+        "city": "Valley City",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "W.S. Redamation Service",
+        "city": "Williston",
+        "state": "ND",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Wellsboro Electric Company, Beulah Plant",
+        "city": "Beulah",
+        "state": "ND",
+        "visibility": ""
+      }
+     ]
+}

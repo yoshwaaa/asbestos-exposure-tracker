@@ -1,0 +1,508 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "American Linen Supply Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Angelica Linen",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Basic Magnesium, Incorporated",
+        "city": "Royson",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Bechtel Corp.",
+        "city": "Winnemucca",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Blue Diamond Mining Corporation",
+        "city": "Arden",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Blue Diamond Mining Corporation",
+        "city": "Blue Diamond",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Blue Diamond Sheet Rock Plant",
+        "city": "Blue Diamond",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Caesar‚Äôs Palace",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Clark County Power House",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Defense Plant Corporation",
+        "city": "Royson",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Ely, Nev",
+        "city": "Ely",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Fort Churchill Generating Station - Unit 2",
+        "city": "Yerington",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Fritzsche Brothers, Incorporated",
+        "city": "Clifton",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Giroux Consolidated Mines Company",
+        "city": "Ely",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Homer Wilson, President Of Keane Wonder Mining Company",
+        "city": "Gold Centre",
+        "state": "NV",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "International Hotel",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "International Hotel & Casino",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Kerr Mcgee Chemical Corporation",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Manganese Ore Company",
+        "city": "Royson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Mason Valley Power Station",
+        "city": "Yerington",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Mgm Hotel (Bally‚Äôs)",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "MGM Hotel & Casino",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Moapa Reed Garden Station",
+        "city": "Moapa",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Montrose Chemical",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Nevada Consolidated Copper Company",
+        "city": "Ely",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Nevada Consolidated Copper Company",
+        "city": "Mcgill",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Nevada Power Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Nevada Power Company",
+        "city": "Moapa",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Nevada Power Company, M.O.A.P.A. Station",
+        "city": "Moapa",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Nevada Power Company, Unit #1",
+        "city": "Moapa",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Nevada State Hospital",
+        "city": "Washoe County",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Nuclear Rocket Development Station",
+        "city": "Jackass Flats",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Pacific Fruit Express Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Prince Consolidated Mining Company",
+        "city": "Pioche",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Red Bank General Hospital",
+        "city": "Red Bank",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Reid Gardner Powerhouse",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Richmond Eureka Mining Company",
+        "city": "Eureka",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "S.A. Texaco",
+        "city": "Belgium",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Sahara Hotel",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "San Pedro, Los Angeles And Salt Lake Railroad Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Sierra Pacific Power Company",
+        "city": "Reno",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Sierra Pacific Power Company",
+        "city": "Sparks",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Sierra Pacific Power Company",
+        "city": "Valmy",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Sierra Pacific Power Company",
+        "city": "Yerington",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Sierra Pacific Power Company",
+        "city": "North Valmy",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Sierra Pacific Power Company, Fort Churchill Plant",
+        "city": "Yerington",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Sierra Pacific Power Company, North Valmy Plant",
+        "city": "Valmy",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Southern Nevada Power Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Southern Nevada Public Service",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Southern Pacific Company",
+        "city": "Reno",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Southern Pacific Company",
+        "city": "Sparks",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Southern Pacific Company",
+        "city": "Carlin",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Star Dust Hotel",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Stauffer Chemical",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Stauffer Chemical",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Stauffer Chemical Plant",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Steptoe Valley Smelting And Mining Company",
+        "city": "Mcgill",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Sunrise Generating Station",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Sunrise Power Plant",
+        "city": "Stations",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Sunrise Power Plant",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Titanium Chemical Company",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Tonopah Extension Mining Company",
+        "city": "Tonopah",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Tonopah Mining Company",
+        "city": "Tonopah",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "United States Vanadium Corporation",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "University Of Nevada",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "University Of Nevada Las Vegas",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Valmy Powerhouse",
+        "city": "Valmy",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Washoe medical Center",
+        "city": "Reno",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Western Electro Chemical Company",
+        "city": "Henderson",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Western Laundry And Linen Rental Company",
+        "city": "Las Vegas",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Western Pacific Railroad Company",
+        "city": "Elko",
+        "state": "NV",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Winnemucca Light And Power Company",
+        "city": "Winnemucca",
+        "state": "NV",
+        "visibility": ""
+      }
+     ]
+}

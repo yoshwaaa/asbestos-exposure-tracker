@@ -1,0 +1,1005 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Abitibi Consolidated, Incorporated",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Adams Hotel",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Anaconda Copper Mining Company",
+        "city": "Miami",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Apache Generating Station",
+        "city": "Cochise",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Apache Powder Company",
+        "city": "Benson",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Arizona Brewing Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Arizona Commercial Copper Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Arizona Copper Company Limited",
+        "city": "Clifton",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Arizona Copper Company Limited",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Arizona Eastern Railroad Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Arizona Electric Power Cooperative, Inc - Apache Generating Station",
+        "city": "Cochise",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Arizona Ice And Cold Storage Company",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Arizona Marble Company",
+        "city": "Olga",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Arizona Packing Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Arizona Packing Company",
+        "city": "Cactus",
+        "state": "AZ",
+        "visibility": "visible"
+      },
+      {
+        "id": 18,
+        "company": "Arizona Public Service Company",
+        "city": "Tapco",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Arizona Public Service Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Arizona Public Service, West Phoenix Power Plant",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Arizona Smelting Company",
+        "city": "Smelting Spur",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Arizona Smelting Company",
+        "city": "Val Verde",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Arizona State Hospital",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Arizona State Prison",
+        "city": "Florence",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Atchinson, Topeka And Santa Fe Railway Company",
+        "city": "Grand Canyon",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "B.H.P. Cooper",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Bartlett-Heard Land And Cattle Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Bisbee Township Company",
+        "city": "Bisbee",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "C.Y.R. And P. Railroad",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Cady Lumber Corporation",
+        "city": "Mcnary",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Calumet And Arizona Mining Company",
+        "city": "Bisbee",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Calumet And Arizona Mining Company",
+        "city": "Douglas",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Calumet And Arizonia Mining Company",
+        "city": "Warren",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Consolidated Arizona Smelting Company",
+        "city": "Humboldt",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Consolidated Canal Company",
+        "city": "Mica",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Constable Ice And Fuel Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Copper Queen Consolidated Mining Company",
+        "city": "Bisbee",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Copper Queen Consolidated Mining Company",
+        "city": "Douglas",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Copper Reef Consolidated Mining Company",
+        "city": "San Carlos",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Crystal Ice And Cold Storage Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Cudahy Packing Company",
+        "city": "Tovrea",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Detroit Copper Mining Company",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Dial Corporation",
+        "city": "Montgomery",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Douglas Improvement Company",
+        "city": "Douglas",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Eagle Milling Company",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "El Paso And Southwestern Railroad Company",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "El Tiro Copper Company",
+        "city": "El Tiro",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "El Tiro Copper Company",
+        "city": "Silver Bell",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Flagstaff Electric Light Company - Power Plant",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Flint Creek Power Plant",
+        "city": "Benton County",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Frito Lay, Incorporated",
+        "city": "Casa Grande",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Ganado Mission",
+        "city": "Ganado",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Gibson Copper Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Globe Light And Power Company - Broad Street Building",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Good Samaritan Hospital",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Goodyear Aircraft Corporation",
+        "city": "Litchfield Park",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Grand Canyon Electric Light And Power Company - Power Plant",
+        "city": "Williams",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Grand Canyon Hotel",
+        "city": "Grand Canyon",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Green Consolidated Copper Company",
+        "city": "Naco",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "H.P. Copper",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Helena Ice Company",
+        "city": "Helena",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Honeywell, Incorporated",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Inspiration Consolidated Copper Company",
+        "city": "Miami",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Inspiration Copper Mine",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "International Consolidated Copper Company",
+        "city": "Miami",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Iron Cap Copper Company",
+        "city": "Amster",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Iron Cap Copper Company",
+        "city": "Amster Siding",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Iron Cap Copper Company",
+        "city": "Copper Hill",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Irvington Generating Station",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "J.J Farrell And Company",
+        "city": "Brinkley",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Kennecott Copper Corporation",
+        "city": "Ray",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Kyrene Steam Electric Station",
+        "city": "Tempe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "M.H. Sherman",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Magma Copper Company",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Magma Copper Company",
+        "city": "Superior",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Magma Copper Company, San Manuel Division",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Miami Copper Company",
+        "city": "Miami",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "National Brewing Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Navajo Ice And Cold Storage Company",
+        "city": "Winslow",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "New Cornelia Copper Company",
+        "city": "Ajo",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "New Cornelia Copper Company",
+        "city": "Cornelia",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Nogales Electric Light And Power Company - Power Plant",
+        "city": "Nogales",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Octave Mining Company",
+        "city": "Octave",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Old Dominion Copper Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Old Dominion Copper Mining And Smelting Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Old Dominion Copper Mining Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Pacific Fruit Express",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Pacific Fruit Express Company",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Pacific Gas And Electric Company - Theodore Roosevelt Dam",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Penn Gold Mining Company",
+        "city": "Walker",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Phelps Dodge",
+        "city": "Ajo",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Phelps Dodge",
+        "city": "Clarkdale",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Phelps Dodge",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Phelps Dodge Acid Plant",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Phelps Dodge And Company",
+        "city": "Bisbee",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Phelps Dodge And Company",
+        "city": "Ajo",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Phelps Dodge Copper Mine",
+        "city": "Morenci",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Phelps Dodge Corporation",
+        "city": "Douglas",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Phelps Dodge Corporation, Douglas Smelter",
+        "city": "Douglas",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Phoenix Gas Works",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Phoenix Indian School",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Phoenix Light And Fuel Company - Power Plant",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Phoenix Railway Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Phoenix Steel",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Ponderosa Paper Products Company, Incorporated",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Prescott Electric Company - Power Plant",
+        "city": "Prescott",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Ray Consolidated Copper Company",
+        "city": "Hayden Junction",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Ray Consolidated Copper Company",
+        "city": "Hayden",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Roy And Titcomb Incorporated",
+        "city": "Nogales",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Safford Ice And Creamery Company",
+        "city": "Safford",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Saginaw And Manistee Lumber Company",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Saginaw Mining Company",
+        "city": "Tuscan",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Salt River Power District",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Salt River Power District",
+        "city": "Helena",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Salt River Project",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Salt River Project",
+        "city": "Tempe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "San Manuel Copper Corporation",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "San Manuel Division",
+        "city": "San Manuel",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Shannon Copper Company",
+        "city": "Clifton",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Smurfit-Stone Corporation",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Snowflake Mill",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Snowflake Paper And Pulp",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Southwest Forest Industries",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Southwest Forest Industries",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Southwest Forest Industries, Incorporated",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Southwest Forest Industries, Incorporated",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Southwest Lumber Company",
+        "city": "Mcnary",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Southwest Lumber Mills",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Southwest Lumber Mills, Incorporated",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "St. Joseph's Hospital",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Stone Container",
+        "city": "Snowflake",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Superior And Boston Copper Company",
+        "city": "Globe",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Tombstone Consolidated Mines Company, Limited",
+        "city": "Tombstone",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Tovrea Packing Company",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Tucson Gas, Electric Light And Power Company - Demoss Petrie Plant",
+        "city": "Tucson",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "United Eastern Mining Company",
+        "city": "Oatman",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "United Verde Copper Company",
+        "city": "Clarkdale",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "United Verde Copper Company",
+        "city": "Jerome",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "United Verde Extension Mining Company",
+        "city": "Clarkdale",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "United Verde Extension Mining Company",
+        "city": "Jerome",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Wisconsin Tissue",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Yavapai Gold Silver And Copper Company",
+        "city": "Poland",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Yuma Electric And Water Company - Gas Plant",
+        "city": "Yuma",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Yuma Ice And Cld Stge Company",
+        "city": "Yuma",
+        "state": "AZ",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Yuma Ice Company",
+        "city": "Yuma",
+        "state": "AZ",
+        "visibility": ""
+      }
+     ]
+}

@@ -1,0 +1,7256 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "2-L St. Station South",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.C. & F.G. Burnham",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A.C. Lawrence Factory",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A.C. Lawrence Leather Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A.H. Rice Company",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "A.I. Lawrence Leather Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "A.P. Cors & Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Abrasive Products Incorporated",
+        "city": "Braintree",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Acushnet Process Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Acushnet Process Company, Golf Ball Division",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Acushnet Process Company, Rubber Division",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Adolph Kern, New York",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Albany Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Albert & J.M. Anderson Manufacturing Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Algonquin Gas Company Generating Plant",
+        "city": "Freetown",
+        "state": "MA",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Amdur Leather Company, Incorporated",
+        "city": "Danvers",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "American Agricultural Chemical Company",
+        "city": "North Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "American Bell Telephone - Headquarters",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "American Bosch Corporation",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Can Company",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Can Company",
+        "city": "Needham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Felt Company",
+        "city": "Franklin",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Glue Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Hide And Leather Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Mason Safety Tread Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Net And Twine Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Optical Company",
+        "city": "South Bridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Optical Plant",
+        "city": "Southbridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Powder Company",
+        "city": "Maynard",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "American Reinforced Paper Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "American Science & Engineering Building, 955 Masschusetts Ave.",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "American Steel And Wire Company",
+        "city": "Worester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "American Steel And Wire Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "American Sugar Refining Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "American Sugar Refining Company",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "American Tube Works",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "American Waltham Watch Company",
+        "city": "Place Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "American Waltham Watch Company",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "American Wood Board Company",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "American Wood Board Division Of Hollingworth And Vose Company",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "American Woolen Company, Incorporated",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "American Woolen Company, Incorporated",
+        "city": "Collinsville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "American Writing Paper Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Ames Theatre",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Ames Worsted Textile Company",
+        "city": "Southbridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Amherst College",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Anchor Color And Gum Works",
+        "city": "Dighton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Andrew-Myerson Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Annex To City Hall",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Archer Rubber Company",
+        "city": "Milford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Arkwright Finishing Plant",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Arkwright Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Arlington Mills Division Of William Whitman Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Brighton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Dorchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Armstrong Cork Company",
+        "city": "South Braintree",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Armstrong Cork Company, Building 5, Boiler Room",
+        "city": "South Braintree",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Arnold Print Works",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Arnold Print Works",
+        "city": "Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Arnold, Hoffman & Company, Incorporated",
+        "city": "Dighton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Aspinock Corporation, Hampton Print Works Division",
+        "city": "Easthampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Athol Gas And Electric Company - Power Plant",
+        "city": "Wendell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Athol Table Manufacturing Company",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Atlantic Chemical Company",
+        "city": "Mansfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Atlas Tack Corporation",
+        "city": "Fairhaven",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Attleboro Chain Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Attleboro Manufacturing Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Attleboro Steam And Electric Company - Electric Plant",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Avery Chemical Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Avon Street Trust",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "B. & R. Rubber Company",
+        "city": "North Brookfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "B.B. & R. Knight",
+        "city": "Hebronville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "B.F. Keith Theatre Company Of Boston",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "B.F. Sturtevant Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "B.F. Sturtevant Company",
+        "city": "Readville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Baeder Adamson & Company",
+        "city": "Stoneham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Baker'S Chocolate Divison Of General Food Corporation",
+        "city": "Dorchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Barnaby Manufacturing Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Barre Wool Combing Company Limited",
+        "city": "Barre",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Barre Wool Combing Company Limited",
+        "city": "Barre Plains",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Barre Wool Combing Company Limited",
+        "city": "South Barre",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Barrett Company",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Bay State Brick Company",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Bay State Gas Company - Gas Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Bay State Street Railway Company",
+        "city": "East Wolum",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Bay State Street Railway Company",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Bay State Street Railway Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Bay State Street Railway Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Bay State Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Bay State Street Railway Company",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Bay State Street Railway Company",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Bay State Street Railway Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Bay State Sugar Refinery",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Beattie & Company",
+        "city": "Central Ysabel",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Beattie & Company",
+        "city": "Ingo Central Isabel",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Beaver Brook Hills",
+        "city": "Collinsville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Bebee And Holbrook Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Becker Brainard Milling Machine Company",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Beebe Holbrook Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Belchertown State School",
+        "city": "Belchertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Bell Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Bemis Brothers Bag Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Bennett Spinning Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Berkshire Community Company, West St.",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Berkshire Cotton Manufacturing Company",
+        "city": "Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Berkshire Hathaway Incorporated",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Berkshire Street Railway Company",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Beth Israel Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Bethlehem Steel Corporation",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Bethlehem Steel Corporation, Shipbuilding Division",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Bethlehem Steel Shipyard",
+        "city": "Hingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Bethlehem Steel Shipyard",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Bethlehem Steel Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Beverly Gas And Electric Company - Steam Plant",
+        "city": "Beverly",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Beverly High School",
+        "city": "Beverly",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Bibber White Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Bigelow-Sanford Carpet Company, Incorporated",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Bijou Theatre",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Bingham Memorial Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Bird & Son - Roofing Plant",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Bird And Son, Incorporated",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Bird Machine Company",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Birnie Paper Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Birnie Paper Company",
+        "city": "Brightwood",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Blackstone Manufacturing Company",
+        "city": "Blackstone",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Blackstone Mill",
+        "city": "Blackstone",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Blake & Knowles Steam Pump Works",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Blake Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Blake Manufacturing Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Block Plant Electric Light Company - Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Blodgett Estate",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Boott Cotton Mills",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Boston & Albany Railroad Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Boston & Albany Railroad Company",
+        "city": "West Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Boston & Albany Railroad Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Boston & Maine Railroad Company",
+        "city": "Billerica",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Boston & Maine Railroad Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "E Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Gloucester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Boston And Northern Street Railway Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Boston And Oaxaca Mining Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Boston And Suburban Laundry",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Boston And Worcester Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Boston Arena Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Boston Aurora Zinc Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Boston Beer Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Boston Bridge Works",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Boston Bridge Works",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Boston Bridge Works",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Boston City Hall",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Boston City Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Boston Consolidated Gas Company - Everett Works",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Boston Consolidated Gas Company - Gas Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Boston Duck Company",
+        "city": "Bondsville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Boston Edison Company - Edgar Steam-Electric Plant",
+        "city": "Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Boston Edison Company - Kneeland Street Steam Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Boston Edison Company - L Street Station",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Boston Edison Company - L Street Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Boston Edison Company - Mystic Generating Station",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Boston Edison Company - New Boston Generating Station",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Boston Edison Company - New Boston Generating Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Boston Edison Company - New Boston Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Boston Edison Company - Scotia Street Power Substation",
+        "city": "Back Bay",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Boston Edison Company, Court & Washington Sts.",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Boston Edison Company, L St. Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Boston Edison Company, New Boston Station, 776 Summer Street",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Boston Electric Light Company - Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Boston Elevated Railroad Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Boston Elevated Railroad Company",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Boston Elevated Railroad Company, East Cambridge Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Boston Elevated Railway Company - Charlestown Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Boston Elevated Railway Company - Dorchester Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Boston Elevated Railway Company - Lincoln Wharf Station",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Boston Finishing Works",
+        "city": "Williamstown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Boston Gas Company - Everett Works",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Boston Herald Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Boston ISD",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Boston Naval Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Boston Naval Shipyard",
+        "city": "Charleston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Boston Naval Shipyard",
+        "city": "Newport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Boston Naval Shipyard",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Boston Navy Yard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Boston Navy Yard",
+        "city": "Charleston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Boston Northern Street Railway Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Boston Northern Street Railway Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Boston Northern Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Boston Northern Street Railway Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Boston Rubber Shoe Company",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Boston Rubber Shoe Company",
+        "city": "Tells",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Boston Sugar Refinery",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Boston Terminal Refrigerating Company",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Boston Woven Hose And Rubber Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Boston Woven Hose And Rubber Company",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Boston-Worcester Electric Railway - Power Station",
+        "city": "Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Bowden Felting Mills Company",
+        "city": "Milbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Bowden Felting Mills Company",
+        "city": "Millbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Bradlee And Chatman Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Brainard Milling Machine Company",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Brayton Point-Falls River Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Brett And Simpson",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Brockton Edison Illuminating Company - Old Power Station",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Brockton Gas Light Company - Gas Plant",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Brockton Rand Company",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Brown Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Butler And Ullman, Incorporated",
+        "city": "Hadley",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Butler And Ullman, Incorporated",
+        "city": "Northampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Byron Weston Company",
+        "city": "Dalton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "C.H. Hayes",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Call Burglar Alarm Co",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Calvary Monastery",
+        "city": "Shrewsbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Cambridge Electric Light Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Cambridge Electric Light Company - Blackstone Street Station",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Cambridge Electric Light Company - Kendall Square Station",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Cambridge Electric Light Company - Power Plant",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Cambridge Gas Light Company - Gas Plant",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Cape Ann Tool Company",
+        "city": "Rockport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Cape Ann Tool Company",
+        "city": "Pigeon Cove",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Cape Cod Community College - Commons Building",
+        "city": "Hyannis",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Carew Manufacturing Company",
+        "city": "South Hadley Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Carling Brewing Company",
+        "city": "Natick",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Carter Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Castle Square Hotel",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Catholic Memorial High School",
+        "city": "Dartmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Catholic Regional High School",
+        "city": "Concord",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Celanese Corporation Of America",
+        "city": "Amcelle",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Central Massachusetts Power Company - Hydroelectric Plant",
+        "city": "Palmer",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Chace Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Chafee Brothers Company",
+        "city": "Oxford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Champion International Corporation",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Champion Lamp Works",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Charles A. Sinclair Quincy House",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Charles H. Leinert",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Charles Heap",
+        "city": "Williamstown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Charlestown Naval Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Charlestown Navy Yard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Charlestown Navy Yard - Central Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Chelsea Gas Light Company - Gas Plant",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Chesapeake Paper Mill",
+        "city": "Hopewell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Chicopee Manufacturing Company",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Chicopee Manufacturing Company",
+        "city": "Chicopee Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Christian Science Benevolent Association",
+        "city": "Chestnut Hill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Christian Science Benevolent Association",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "City Of Boston South Bay Incinerator",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "City Of Brockton - Sewage Treatment Plant",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "City Of Brockton - Water Works",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "City Of Concord - Municipal Light Plant",
+        "city": "Concord",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "City Of Taunton - Water Pumping Station",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Clark Cove Realty Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Cleghom Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Clifford Manufacturing Company",
+        "city": "Waltman",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Clinton Wire Cloth Company",
+        "city": "Clinton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Cocheco Manufacturing Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Cochrane Chemical Company",
+        "city": "Everrett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Cochrane Chemical Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Cochrane Chemical Company",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Cochrane Harper And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Cohannet Mills",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Collidge Park Community School",
+        "city": "Brooklike",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Columbia Improvement Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Commercial Press Building",
+        "city": "North Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Commonwealth Electric Company - Canal Power Plant",
+        "city": "Sandwich",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Commonwealth Of Massachusetts",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Commonwealth Of Massachusetts",
+        "city": "Gardner",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Commonwealth Of Massachusetts",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Commonwealth Of Massachusetts",
+        "city": "Titicut",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Commonwealth Of Massachusetts, Wrentham State School",
+        "city": "Wrentham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Compania Agricola Indarro",
+        "city": "Central Parfuerza",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Compania Industrial",
+        "city": "Cubana De Goma",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Concord Maynard And Hudson Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Concord Maynard And Hudson Street Railway Company",
+        "city": "Maynard",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Consolidated Chemical Industries, Incorporated",
+        "city": "North Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Consolidated Chemical Industries, Incorporated",
+        "city": "North Wuborn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Consolidated Distilleries, Incorporated",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Continental Refinery",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Copley-Plaza Hotel",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Cordage Park Company",
+        "city": "Plymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Cornell Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Cornell-Dubilier Electric Company - New Bedford Distribution Center",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Corwin Manufacturing Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Covanta Energy Corporation",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Cranberry Canners, Incorporated",
+        "city": "South Hanson",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Crane And Company",
+        "city": "Dalton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Cranston Print Works Company",
+        "city": "Webster",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Crocker Burbank And Company",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Crocker Manufacturing Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Crocker-Burbank And Company Association",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Cushing Hospital",
+        "city": "Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Cycloidal Engineering Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "D.E. Ford And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "D.E. Makepeace Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Dalzell Axle Company",
+        "city": "So. Egremont",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Daniel H. Morgan",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Darthmouth Manufacturing Corporation",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Davidson Rubber Company",
+        "city": "Charleston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Davol Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Dawson'S Brewery",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Deerfield Glassine Company",
+        "city": "Monroe Bridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Densmore And Le Clear",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Department Of Yards And Docks",
+        "city": "Charleston Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Diamond International",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Diamond Laundries, Incorporated",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Diamond Match Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Diamond Match Company",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Dighton Somerset And Swansea Street Railway Company",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Dolibur-Goodale Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Douglass Shoe Company",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Draper Brothers And Company",
+        "city": "Canton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Draper Company",
+        "city": "Hopedale",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Dwight Manufacturing Company",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "East Boston Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "East Boston Shipyard",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "East Boston Sugar Refinery",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "East Braintree Finishing Company",
+        "city": "East Braintree",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "East Logan Airport",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "East Weymouth Wool Scouring Company",
+        "city": "East Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Eastern Cold Storage Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Easthampton Maintenance Company",
+        "city": "Easthampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Easthampton Rubber Thread Company",
+        "city": "Easthampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Eastman Gellatin",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Eatle E. Florence Company",
+        "city": "Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Edison Electric Illuminating Company - Fall River Plant",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Edison Electric Illuminating Company - L Street Station",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Edison Electric Illuminating Company - Lawrence Plant",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Edison Electric Illuminating Company - Office Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Edison Powerhouse",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Edmund M. Wood And Company",
+        "city": "Natick",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Edson Fitch Company",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Elks Lodge",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "English And Flett",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Essex Glue Gelatine Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Estate E.A. Robinson",
+        "city": "First Nat'L Bank Of Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "F.C. Hood",
+        "city": "Boston, Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "F.M. Shaw And Sons",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "F.W. Bird And Son",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "F.W. Bird And Son",
+        "city": "E. Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Factory Mutual Building",
+        "city": "Norwood",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Fairhaven High School",
+        "city": "Fairhaven",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Fall River Electric Light Company - Fall River Generating Station",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Farren Memorial Hospital",
+        "city": "Montague City",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Fenwal, Incorporated",
+        "city": "Ashland",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Fibercoid Company",
+        "city": "Indian Orchard",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Firestone Apsley Rubber Company",
+        "city": "Husdon",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Firestone Apsley Rubber Company",
+        "city": "Hudson",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "First National Bank, Federal St.",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "First National Stores, Incorporated",
+        "city": "Somerville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Fiskdale Mills",
+        "city": "Fiskdale",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Fitchburg Gas And Electric - Sawyer Passway Power Plant",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Fitchburg Paper Company",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Fleor For New England Power",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Flint Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Flint Mills",
+        "city": "Watuppa",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Forbes & Wallace",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Fore River Shipbuilding Company",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Fore River Shipyard",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Form-A-Lite, Incorporated",
+        "city": "Northbridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Foxboro Company",
+        "city": "Foxboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Frank Flater",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Frank L. Young & Kimball",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Freeman Holland Company",
+        "city": "Hull",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Fremont And Suffolk Mills",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Fresh Pond Pumping Station",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "G & C Morrill And Company",
+        "city": "Morrill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "G And H Morrill Company",
+        "city": "Norwood",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Gardner State Hospital",
+        "city": "Gardner",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Gay And Ward",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "General Cotton Supply Corporation",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "General Dynamics Shipyard",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "General Electric - Pittsfield Plant - Building Op-3",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "General Electric - Pittsfield Plant - Chemical Department",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "General Electric - Pittsfield Plant - Ordinance Department - Building Op-2",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "General Electric - River Works Plant",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "General Electric Co.",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "General Electric Company - Aviation Plant",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "General Electric Company - Edison Lamp Works",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "General Electric Company - Everett Plant",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "General Electric Company - Lynn Plant",
+        "city": "West Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "General Electric Company - River Works",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "General Electric Company - Steam Turbine Plant",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "General Electric Plant",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "General Foods Corporation, Atlantic Gelatin Division",
+        "city": "Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "General Foods, Atlantic Gelatin Division",
+        "city": "Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "George C. Moore",
+        "city": "North Chelmsford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "George D. Emery",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "George D. Emory Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "George F. Blake Manufacturing Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "George F. Blake Manufacturing. Company",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "George G. Fox Company",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "George G. Snow Company",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "George H. Morrill Company",
+        "city": "Morrill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "George H. Sampson Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "George H. Wood And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "George M. Fox Company",
+        "city": "Charleston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "George Upston",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "George Upton",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "George Westinghouse Jr.",
+        "city": "Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Gillette Safety Razor Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Gillette Safety Razor Company",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Gillette Safety Razor Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Ginn And Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Globe House Nail Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Globe Street Railway Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Gloucester Electric Company - Power Plant",
+        "city": "Gloucester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Grambling University",
+        "city": "Ruston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Graton And Knight Manufacturing Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Greater Lawrence Industrial Association, Incorporated",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Greylock Mills",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Grosby Steam Gauge And Valve Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "H.L. Handy Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "H.M. Williams And Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "H.N. Wane",
+        "city": "West Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "H.P. Hood & Sons, Incorporated",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Hadley Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Hahnemann Hospital",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Halifax Garden Company",
+        "city": "Halifax",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Hallet And Davis",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Hamilton Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Hamilton Woolen Company",
+        "city": "Southbridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Hammond Reed Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Hampton Company",
+        "city": "East Hampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Hancock Inspiration Company",
+        "city": "Roxbury, Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Hancock Inspirator Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Hanscom Field",
+        "city": "Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Hartford Dispatch And Warehouse Company, Incorporated",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Harvard Brewing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Harvard Medical School, Building B1",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Harvard Medical School, Building C-2",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Harvard Powerhouse",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Harvard School Of Public Health",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Harvard University",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Harvard University, Quincy House",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Harvard University, Union Building",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Hathaway Manufacturing Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Hathaway, Incorporated, Hathaway Division",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Haverhill Box Board Company",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Haverhill Electric Company - Power Plant",
+        "city": "Haverhill",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Hebrew Home For The Aged",
+        "city": "Roxbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Hebron Manufacturing Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Henry N. Clark Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Hern Furlong Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Hewes And Phillips Iron Works",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Heywood Wakefield Company",
+        "city": "Gardner",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Hingham Shipyard",
+        "city": "Hingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Hingham Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Hoague Sprague Corporation",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Hodgman Rubber Company",
+        "city": "Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Hollingsworth & Vose",
+        "city": "West Groton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Hollingsworth And Vose Company",
+        "city": "E. Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Hollingsworth And Vose Company",
+        "city": "West Groton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Hollingsworth And Vose Company",
+        "city": "East Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Hollingsworth And Vose Company",
+        "city": "East Groton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Hollingsworth And Whitney Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Hollis French And Allen Hubbard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Hollyworth Nose Company",
+        "city": "East Mallpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Holyoke Paper Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Holyoke Street Railway Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Hood Rubber Company",
+        "city": "East Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Hood Rubber Company",
+        "city": "Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Hoosac Cotton Mills",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Horace Mann Elementary School",
+        "city": "Newton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Hotel Bellevue",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Hotel Braemore",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Howland Mills Corporation",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Hulburt Paper Company",
+        "city": "South Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Hunt Spiller Manufacturing Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Huntington Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Hurlbut Paper Company",
+        "city": "South Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Hyde Park Electric Light And Power Company - Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Industrial Buildings Corporation",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Industrial Improvement Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Ingalls And Kendrickson",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Inhiting Milk Company",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Insurance Company Of North America",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "International Paper",
+        "city": "Bucksport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "International Paper",
+        "city": "Millers Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "International Paper Company",
+        "city": "Somerville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "International Trust Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Ivers And Paul Piano Company",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "J. Middleby Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "J. Reurdon And Sons, Corporation",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "J.A. & W. Bird And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "J.A. Grant And Company",
+        "city": "Holden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "J.A. Grant And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "J.C. Ayer And Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "J.C. Rhodes And Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "J.E. Hood",
+        "city": "Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "J.F.K. Federal Office Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "J.P. Squire And Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "J.S. Potter",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Jaito And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "James F. Pennell",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "James F. Shaw And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "James Marshall And Brothers",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Jarvis Engineering Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Jas. F. Pennell",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Jas. F. Pennell",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Jas. T. Shaw And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Jefferson Manufacturing Company",
+        "city": "Holden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Jefferson Manufacturing Company",
+        "city": "Jefferson",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Jennisson Company Contractors",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "John Hancock Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "John Hancock Mutual Life Insurance Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "John P. Squire And Company",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "John P. Squire Company",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Jordan Marsh Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Joseph Middleby Jr., Incorporated",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Katama Mills",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Keating Wheel Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Keith Car And Manufacturing Company",
+        "city": "Sagamore",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Kendall Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Kendall Mills, Division Of Kendall Company",
+        "city": "Griswoldville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Kennedy Biscuit Works",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Kilburn Mill",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Kilburn Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Kimberly Clark",
+        "city": "Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "King Phillip Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "L.S. Starrett Company",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Lambeth Rope Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Lancaster Mills",
+        "city": "Clinton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Laurence Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Lawrence Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Lawrence Duck Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Lawrence Gas Company - Gas Plant",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Lawrence General Hospital",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Lawrence Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Lawrence Paperboard Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Leandro Soler And Succrs De Cristina Baro",
+        "city": "Ingo Santa Rita",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Lehigh And Wilkes Barre Coal Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Lever Brothers",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Lewandos, French Dyeing And Cleaning Company",
+        "city": "Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Lexington And Boston Street Railway Company",
+        "city": "Lexington",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Lockwood Greene And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Logan Airport",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Logan Airport, T.W.A Hanger",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Lonsdale Company, Blackstone Mill",
+        "city": "Blackstone",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Louis Dejonge And Company",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Lowell And Suburban Street Railway Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Lowell Electric Light Corporation - Power Plant",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Lowell Gas Light Company - Gas Plant",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Lowell Industrial Development",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Lowell Industrial Development, Assts Division",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Lowell Industries Development",
+        "city": "Lowe",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Lowell Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Lowell Suburban Street Railway Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Lowell Textile School",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Ludlow Manufacturing Associates",
+        "city": "Ludlow",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Luther Manufacturing Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Lwrence Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Lyman School",
+        "city": "Westboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Lynn And Boston Railroad Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Lynn And Boston Railroad Company",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Lynn And Boston Railroad Company",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Lynn Gas And Electric Company - Steam Plant",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "M.A. Packard Company",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "M.J. Whittall",
+        "city": "Palmer",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "M.J. Whittall",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Magid Hope Silk Manufacturing Company",
+        "city": "Milford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Maine Medical Center, School Of Nursing",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Majestic Theatre",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Malden And Melrose Gas Light Company - Gas Plant",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Malden Electric Company - Power Plant",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Malden Hospital",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Malden Mills Manufacturing",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Manchaug Company",
+        "city": "Manchaug",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Manning, Maxwell And Moore, Incorporated",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Manning, Maxwell And Moore, Incorporated",
+        "city": "Watertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Manufacturers Engineering Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Maratahon Company",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Marlboro And Westboro Street Railway Company",
+        "city": "Westboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Marlborough Electric Company - Steam Plant",
+        "city": "Marlborough",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Massachusets Fire Proof Storage Warehouse Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Massachusetts Chemical Company",
+        "city": "Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Massachusetts Cotton Mills",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Massachusetts General Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Massachusetts Home For The Insane",
+        "city": "Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Massachusetts Hospital School",
+        "city": "Canton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Massachusetts Institute Of Technology",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Massachusetts Institute Of Technology",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Massachusetts Institute Of Technology (M.I.T.), Cyclotron",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Massachusetts Mills Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Massachusetts Mohair Plush Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Massachusetts Mutual Life Insurance Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Massachusetts Oil Refining Company",
+        "city": "East Braintree",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Massachusetts State Farm",
+        "city": "Bridgewater",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Massachusetts State Farm",
+        "city": "Titicut",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Massachusetts State Hospital",
+        "city": "Dorchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Massachusetts State House",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Maverick Mills",
+        "city": "Revere",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Maverick Mills",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Mclean Hospital",
+        "city": "Waverly",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Mead Paper Company",
+        "city": "South Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Mead Paper Specialty",
+        "city": "South Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Mead Technical Papers",
+        "city": "South Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Mechanics Bank Building, Worcester Center",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Medfield State Hospital",
+        "city": "Harding",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Merrick Thread Company",
+        "city": "Hobyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Merrill Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Merrimac Chemical Company",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Merrimac Chemical Company",
+        "city": "South Wilmington",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Merrimac Chemical Company",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Merrimac Hat Corporation",
+        "city": "Amesbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Merrimac Valley Street Railway Company",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Merrimack Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Metals And Controls, Incorporated, Corporate Division Of Texas Instruments, Incorporated",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Milford Elementary School",
+        "city": "Milford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Milford Pink Granite Company",
+        "city": "Milford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Milford, Attleboro, And Woonsocket Street Railway Company",
+        "city": "Unionville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Millers Falls Paper Company",
+        "city": "Millers Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Minute Tapioca Company, Incorporated",
+        "city": "Orange",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Mirant Corporation",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Mirant Corporation",
+        "city": "Sandwich",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Mohawk Carpet Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Monquitt Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Monsanta Chemical",
+        "city": "Indian Orchard",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Monsanto Chemical",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Monsanto Chemical",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Monsanto Chemical Co",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Monsanto Chemical Plant",
+        "city": "Indian Orchard",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Monsanto Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Monsanto Plant",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Montaup Electric Company - Power Plant",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Montgomery Company, Incorporated",
+        "city": "Hadley",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Moore Spinning Company",
+        "city": "No Chelmsford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Morehaven Sugar Growers Cooperative",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Morgan Spring Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Morse And Whyte",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Morse Twist Drill & Machine Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Morse Twist Drill Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Mount Auburn Hospital",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Mount Hope Finishing Company",
+        "city": "North Dighton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Mount Hope Iron And Steel Manufacturing Company",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Mount Tom Kindling Wood Factory",
+        "city": "Mount Tom",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Mount Tom Power Plant, Smiths Ferry, Route 5",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Mystic Valley Gas Company - Gas Plant",
+        "city": "Malden",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "N.E. Deaconess Hospital, Laundry & Shop Addition",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "N.E. Power Service Company",
+        "city": "Westboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Nantucket Power Plant",
+        "city": "Nantucket",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Narraganset Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Narragansett Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Nashua Manufacturing Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Nashua River Paper Company",
+        "city": "East Pepperell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "National Biscuit Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "National Calfskin Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "National Coal Tar Company",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "National Cranberry Association",
+        "city": "Hanson",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "National Folding Box And Paper Company",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "National Guard Barracks, Camp Edwards",
+        "city": "Falmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "National Papeterie Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Naumkeag Steam Cotton Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Naumkeag Steam Cotton Company",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Navy Fuel And Oil Depot",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Navy Fuel Depot",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "New Bedford And Onset Street Railway Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "New Bedford And Onset Street Railway Company",
+        "city": "Wareham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "New Bedford Gas And Edison Light Company - Cannon Street Power Plant",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "New Bedford Manufacturing Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "New Bedford Rayon Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "New Bedford Textile School",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "New Bedford Vocational High School",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "New Bedford Vocational School",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "New Bedford Water Works - Quittacas Pumping Station",
+        "city": "Rochester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "New England Branch, United States Baking Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "New England Confectionery Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "New England Conservatory Of Music",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "New England Cotton Yarn Company",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "New England Electric System - Brayton Point Power Station",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "New England Electric System - Brayton Point Station",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "New England Fair",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "New England Gas And Coke Company - Gas Plant",
+        "city": "Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "New England Manufacturing Company",
+        "city": "South Wilmington",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "New England Oil Refining Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "New England Oil Refining Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "New England Power Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "New England Power Company",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "New England Power Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "New England Power Company - Salem Harbor Power Station",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "New England Power Company, Salem Harbor Plant",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "New England Power Company, Salem Harbor Station",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "New England Power Service Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "New England Structural Company",
+        "city": "East Everett",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "New England Westinghouse Company",
+        "city": "East Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "New Gear Plant",
+        "city": "West Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "New York Central Railroad Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "Readville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Newburyport Gas And Electric Company - Steam Plant",
+        "city": "Newburyport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Newfork Newhann And Hartford Railroad Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Newport And Fall River Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Newton And Boston Street Railway Company",
+        "city": "Newtonville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Newton Technical High School",
+        "city": "Newton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Niles Estate Trustees",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Nonantum Worsted Company",
+        "city": "Newton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Norcross Brothers",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Norfolk And Bristol Street Railway Company",
+        "city": "South Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Norfolk Southern Railroad",
+        "city": "Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Norfolk Southern Railway",
+        "city": "South Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "North Adams College - Student Housing 9",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "North Adams Gas Light Company - Gas Plant",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "North Attleboro Electric Light Board - Municipal Electric Plant",
+        "city": "North Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "North Packing And Provision Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "North Packing And Provision Company",
+        "city": "Somerville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Northern Street Railway",
+        "city": "East Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Northern Warehouse Corporation",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Norton Co",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "Norton Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Norton Company - Plant 8",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "Norton Company, Plant 8",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "Norton Emery Wheel Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Norton Grinding",
+        "city": "Worchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "Nrg Energy Incorporated",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "Old Colony Brewing Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Old Colony Gas Company - Gas Plant",
+        "city": "Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Old Colony Real Estate Trust",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "Old Colony Street Railway Company",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Old Colony Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Old Colony Street Railway Company",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Orange Electric Light Company - Power Plant",
+        "city": "Wendell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Otis Air Force Base",
+        "city": "Falmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Otis Air Force Base, Engine Buildup Building",
+        "city": "Falmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Ottawa Railway Light And Power Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Ox Fibre Brush Company",
+        "city": "Frederick",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Page Manufacturing Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "Palmer And Monson Street Railway Company",
+        "city": "Palmer",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Panther Panco Rubber Company Incorporated",
+        "city": "Stoughton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Panther Panco Rubber Company Incorporated",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Paper Craft Greeting Cards, Incorporated",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Paris Shoe",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Parsons Paper Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Paul White Manufacturing Company",
+        "city": "Northbridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Pavilion Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Penn Central/Conrail/Csx Transportation",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Pennell Dearborn And Hovey",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "Peter Bentbrigham Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Peter J Schweitzer Division, Kimberly Clark Corporation",
+        "city": "Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Peter Schweitzer Division",
+        "city": "Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Pettee Machine Works",
+        "city": "Newton, Upper Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Petter Machine Company",
+        "city": "Newton Upper Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Pgande National Energy Group",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Pgande National Energy Group",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Phelps Publishing Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Philadelphia And Reading Coal And Iron Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Phillips Andover Academy",
+        "city": "Andover",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Pierce Brothers Florists",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "Pierce Manufacturing Corporation",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Pittsfield Electric Company - Silver Lake Station",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Pittsfield General Hospital",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Pittsfield Police Station, 39 Allen St.",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Plastic Coating Corporation",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Plastic Coating Corporation",
+        "city": "South Hadley",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Plastic Coating Corporation",
+        "city": "Hampden City",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Plastic Coating Corporation",
+        "city": "South Hadley Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Plymouth Cordage Company",
+        "city": "Plymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Plymouth County Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "Plymouth County Street Railway Company",
+        "city": "Hanover",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Plymouth Electric Light Company - Steam Plant",
+        "city": "Plymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Plymouth Power House",
+        "city": "Plymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Plymouth Rubber Company",
+        "city": "Canton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Plymouth Seam Faced Granite Company",
+        "city": "East Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Pocasset Manufacturing Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Pocasset Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Polaroid Corporation",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "Polaroid Corporation, Building 7",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Polaroid Corporation, Service Building",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 854,
+        "company": "Polaroid Corporation, X500",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Poor Brothers",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Port Smith",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Procter And Gamble Manufacturing Company",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Proctor & Gamble Plant",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Proctor Estate",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Proctor Estate",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Providence Hospital",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Prudential Center",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Prudential Office Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Prudential Tower",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Putnam Machine Company",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Quincy City Hospital",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Quincy Electric Light And Power Company - Power Station",
+        "city": "Quincy",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Quincy Market Center",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Quincy Market Cold Storage And Warehouse Company",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Quincy Market Cold Storage And Warehouse Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Quinsigamond, Ave. Pit.",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "R. Marston And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "R.H. Long Company",
+        "city": "So. Framingham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Refuse Fuels, Incorporated",
+        "city": "Bradford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Refuse Fuels, Incorporated",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Revere Copper And Brass, Incorporated",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Revere Rubber Company",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Revere Sugar Refinery",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Revere Sugar Refinery",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Richard Borden Manufacturing Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Richmond Iron Works",
+        "city": "Richmond Furnace",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Riley, Rj And Company Veterans Hospital",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Riter Conley Manufacturing Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Riverbank Court Building",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Riverside Paper Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Robert B. Brigham Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Rollin H. Allen",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Rotch Spinning Corporation",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Royal Metal Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "S. Bent And Brothers, Incorporated",
+        "city": "Gardner",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "S.A. Currier & Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "S.D. Warren And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "S.Q. Currier And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "S.W. Card Manufacturing Company",
+        "city": "Mansfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Saco And Pettee Machine Shops",
+        "city": "Newton Upper Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Salem Electric Lighting Company - Power Plant",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Salem Harbor Steam Plant",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Salem Hospital",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Salem Power",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Semass",
+        "city": "Rochester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Shawmut Bank",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Shawsheen Company",
+        "city": "South Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Shraft Candy Plant",
+        "city": "Charlestown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Signal Manufacturing Company",
+        "city": "Salem",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Simplex Electrical Company - Electric Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Simplex Wire And Cable Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Simplex Wire And Cable Company",
+        "city": "Cambridgeport",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Simpson Yard",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Sisters Of St. Joseph",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Sithe Energies",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Smith Adams And Houghton",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Smith And Whaley Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Smith College - Art Building",
+        "city": "Northampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Smith College - Burton Hall",
+        "city": "Northampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Smith College - Science Center",
+        "city": "Northampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Socony Mobil Oil Company",
+        "city": "East Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Soldiers Home",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Soldiers Home",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Somerville Electric Light Company - Power Plant",
+        "city": "Somerville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "South Bay Incinerator",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "South Boston Naval Drydock",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "South Brewer Mill",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "South Postal Annex",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Southeastern Massachusetts Technical Institute, Administration Building",
+        "city": "North Dartmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Southeastern Massachusetts Technical Institute, Student Union",
+        "city": "North Dartmouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Southern Massachusetts Power Company",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Southwell Wool Combing Company",
+        "city": "North Chelmsford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Southworth Brothers",
+        "city": "Stoughton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Southworth Paper",
+        "city": "Westfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Spalding Manufacturing Company",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Sprague Electric Co.",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Sprague Electric Company - Electronics Factory",
+        "city": "North Adams",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Springdale Finishing Company",
+        "city": "Canton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "Springdale Power",
+        "city": "Springdale",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Springfield Armory",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Springfield Armory, Building 15",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Springfield Breweries Company Liberty Branch",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Springfield Brewing Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Springfield Coach Works",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "Springfield Gas Light Company - Gas Plant",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 946,
+        "company": "Springfield Hospital",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 947,
+        "company": "Springfield Provision Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Springfield Provision Company",
+        "city": "Brightwood",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 949,
+        "company": "Springfield Realty Trust Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Springfield St Railway Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Springfield Street Railway Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 953,
+        "company": "Springfield Waste Company",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "St. Regis Paper Company",
+        "city": "East Pepperell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Stafford Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Stafford Mills",
+        "city": "Watuppa",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Standard Braid Company",
+        "city": "Attleboro Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "Standard Refinery",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "Standard Sugar Refinery",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 962,
+        "company": "Standard Sugar Refining",
+        "city": "South Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 963,
+        "company": "Stanley-G.I. Electric Manufacturing Company - Pittsfield Plant",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "State Farm",
+        "city": "Bridgewater",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "State House",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "State Mutual Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "Stone & Webster",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 968,
+        "company": "Stone & Webster Engineering Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "Stone And Webster Engineering Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "Stop & Shop, Incorporated",
+        "city": "Marlboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "Stop & Shop, Incorporated, Meat Warehouse, Crane Meadow Rd.",
+        "city": "Marlboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 975,
+        "company": "Stoughton Gas And Electric Company - Gas Plant",
+        "city": "Stoughton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 976,
+        "company": "Strathmore Paper",
+        "city": "Woronoco",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 977,
+        "company": "Stratton Rotating Engine Company",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "Strong, Hewat And Company Incorporated",
+        "city": "Briggsville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 979,
+        "company": "Submarine Signal Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 980,
+        "company": "Suburban Gas And Electric Company - Steam Plant",
+        "city": "Revere",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 981,
+        "company": "Sudamtex Argentina",
+        "city": "Chace Mills",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 982,
+        "company": "Sumner Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 983,
+        "company": "Superior Fast Black And Chemical Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 984,
+        "company": "Swan Incandescent Electric Light Company - Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Swift And Company",
+        "city": "Somersville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 986,
+        "company": "Switzer Paper Mill",
+        "city": "Lee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 987,
+        "company": "T.J. Smith Company",
+        "city": "North Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 989,
+        "company": "Taun Man Power Plant",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 990,
+        "company": "Taunton Municipal Lighting Plant - Cleary-Flood Generating Station",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 991,
+        "company": "Taunton Municipal Lighting Plant - Power Plant",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 992,
+        "company": "Taunton Street Railway Company",
+        "city": "Taunton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 993,
+        "company": "Tecumseh Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "Tewksbury State Hospital",
+        "city": "Tewksbury",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 995,
+        "company": "Texas Instruments, Incorporated",
+        "city": "Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 996,
+        "company": "Texon, Incorporated",
+        "city": "Russell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 997,
+        "company": "Texon, Incorporated, South Hadley Falls",
+        "city": "Russell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "Textron, Incorporated",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "Thiokol Corporation",
+        "city": "Danvers",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "Thomas G. Plant Company - Shoe Factory",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Thompson Chemical Company",
+        "city": "Freetown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Thompson-Houston Electric Company - Lynn Plant",
+        "city": "Lynn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1003,
+        "company": "Tileston And Hollingsworth Company",
+        "city": "Fairmount",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Tileston And Hollingsworth Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1005,
+        "company": "Tileston And Hollingsworth Company",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1006,
+        "company": "Town Of Braintree",
+        "city": "Braintree",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Town Of Peabody - Water Works",
+        "city": "Peabody",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1008,
+        "company": "Tremont And Suffolk Mills",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Tremont Nail Company",
+        "city": "Tremont",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1010,
+        "company": "Trinity Court",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Tubular Rivet And Stud Company",
+        "city": "Wollaston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Tucker, Anthony And Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Tyer Rubber Company",
+        "city": "Andover",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "U.S. Naval Shipyard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "Union Street Railway Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Union Twist Drill Company",
+        "city": "Athol",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Uniroyal",
+        "city": "Chicopee",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "Uniroyal, Incorporated",
+        "city": "Chicopee Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "United Drug Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "United Elastic Corporation",
+        "city": "Easthampton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "United Fruit Trading Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "United Merchants And Manufacturing, Incorporated",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1023,
+        "company": "United Shoe Machinery Company",
+        "city": "Beverly",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1024,
+        "company": "United Shoe Machinery Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "United Shoe Machinery Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "United States Bakery",
+        "city": "Revere",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "United States Bunting Company",
+        "city": "Lowell",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "United States Generating",
+        "city": "Somerset",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "United States Naval Hospital",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "United States Navy Yard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "University Of Massachusetts Medical Center",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1033,
+        "company": "University Of Massachusetts, Apple Cold Storage",
+        "city": "Belchertown",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "University Of Massachusetts, Bartlett Hall",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "University Of Massachusetts, Bowditch Greenhouses",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "University Of Massachusetts, Fine Arts Building, Classroom & Laboratory",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "University Of Massachusetts, Goodell Library",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "University Of Massachusetts, Graduate Research Center",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "University Of Massachusetts, Steam Distribution System",
+        "city": "Amherst",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1042,
+        "company": "Us Armory",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "Us Armory Shops",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1044,
+        "company": "Us Fish Commission",
+        "city": "Woods Hole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1045,
+        "company": "Us Naval Hospital",
+        "city": "Chelsea",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "Us Navy Yard",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "Us Navy Yard Charlestown",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "Valley Paper Company",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "Vappi And Company Incorporated",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "Veterans Administration Hospital",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "Veterans Administration Hospital",
+        "city": "Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1052,
+        "company": "Visayan Refining Company",
+        "city": "Opon Island",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "W. Warren Thread Works",
+        "city": "Westfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "W.E. Fernald School, Valley Barn, Temple Colony",
+        "city": "Baldwinville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "W.E. Tillotson Manufacturing. Company",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "W.F. Schrafft And Sons",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1057,
+        "company": "W.F. Schrafft And Sons Corporation",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "W.F. Schrafft And Sons Corporation",
+        "city": "Charleston (Boston )",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "W.J. Niles Estate",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1060,
+        "company": "W.L. Douglas Shoe Company",
+        "city": "Brockton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1061,
+        "company": "W.L. Lockett",
+        "city": "East Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "W.S. Lowe And Company",
+        "city": "Haverville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "W.T. Henry Eng.",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1064,
+        "company": "Wainright Manufacturing Company",
+        "city": "Medford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1065,
+        "company": "Walker Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1066,
+        "company": "Walpole Tire And Rubber Company",
+        "city": "Walpole",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "Walter Baker And Company, Incorporated",
+        "city": "Milton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1069,
+        "company": "Walter Baker Chocolate And Coco Division, General Food Corporation",
+        "city": "Dorchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Waltham Bleachery And Dye Works",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Waltham Gas Light Company - Gas Plant",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Waltham Watch Works",
+        "city": "Waltham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1075,
+        "company": "Walworth-English-Flett Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1076,
+        "company": "Wampanoag Mills",
+        "city": "Fall River",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1077,
+        "company": "Wampanoag Mills",
+        "city": "Watuppa Station",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1078,
+        "company": "Wamsutta Mills",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "Warehouse 13 Incorporated",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1080,
+        "company": "Warren Chambers",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "Warwick Mills",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1082,
+        "company": "Washburn And Moen Manufacturing Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1083,
+        "company": "Webster Company",
+        "city": "North Attleboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1084,
+        "company": "Webster Division",
+        "city": "Webster",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "Webster Street Power Plant",
+        "city": "Sandwich",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "Wellesley College - Mcalee Hall Dorm",
+        "city": "Wellesley",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "Wentwork Institute",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "Wentworth Institute Of Boston",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1090,
+        "company": "West End Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "West End Street Railway Company",
+        "city": "Cambridge",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1092,
+        "company": "West End Street Railway Company",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1093,
+        "company": "Westboro State Hospital, Boiler Plant",
+        "city": "Westboro",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1095,
+        "company": "Western Massachusetts Electric Company - Silver Lake Station",
+        "city": "Pittsfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1096,
+        "company": "Westfield State College - New Boiler Plant",
+        "city": "Westfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1097,
+        "company": "Westfield Trade School",
+        "city": "Westfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1098,
+        "company": "Westinghouse Electric And Manufacturing Company - Springfield Plant",
+        "city": "Springfield",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1099,
+        "company": "Westinghouse Electric Company - Hyde Park Factory",
+        "city": "Hyde Park",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1100,
+        "company": "Westover Air Force Base, T-182",
+        "city": "Chicopee Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1101,
+        "company": "Westvaco Chemical Division, Food Machinery And Chemical Corporation",
+        "city": "Lawrence",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1102,
+        "company": "Weyerhaeuser Company Paper Division",
+        "city": "Fitchburg",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1103,
+        "company": "Weymouth High School",
+        "city": "Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1104,
+        "company": "Weymouth Light & Power Company",
+        "city": "East Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1107,
+        "company": "Weymouth Light & Power Company",
+        "city": "Weymouth",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1108,
+        "company": "Whidden Memorial Hospital",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1109,
+        "company": "Whirlpool Corporation",
+        "city": "Clyde",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1111,
+        "company": "Whitin Machine Works",
+        "city": "Whitinsville",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1112,
+        "company": "William F Schrafft And Sons",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1113,
+        "company": "William Filene And Sons",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1114,
+        "company": "William Warren Thread Works",
+        "city": "Westfeild",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1115,
+        "company": "William Whitman Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1116,
+        "company": "Winchester Hospital",
+        "city": "Winchester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1118,
+        "company": "Winston And Company And Locker",
+        "city": "Berlin",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1119,
+        "company": "Winter St. Building",
+        "city": "Boston",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1120,
+        "company": "Woburn Courthouse",
+        "city": "Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1121,
+        "company": "Woburn Public Library",
+        "city": "Woburn",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1122,
+        "company": "Worcester And Southbridge Street Railway Company",
+        "city": "Charlton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1123,
+        "company": "Worcester And Webster Street Railway Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1124,
+        "company": "Worcester And Webster Street Railway Company",
+        "city": "Oxford",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1125,
+        "company": "Worcester Brewing Corporation",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1129,
+        "company": "Worcester Consolidated Street Railway Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1131,
+        "company": "Worcester Consolidated Street Railway Company",
+        "city": "Charlton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1132,
+        "company": "Worcester Electric Light Company - Webster Street Station",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1133,
+        "company": "Worcester Gas Light Company - Coke Plant",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1134,
+        "company": "Worcester Hospital & Medical Center",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1135,
+        "company": "Worcester Insane Asylum",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1136,
+        "company": "Worcester Memorial Hospital",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1138,
+        "company": "Worcester Polytechnic Institute",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1139,
+        "company": "Worcester State Hospital",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1140,
+        "company": "Worthington Pump Corporation",
+        "city": "Holyoke",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1141,
+        "company": "Worumbo Manufacturing Company",
+        "city": "Lisbon Falls",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1142,
+        "company": "Wrentham State School",
+        "city": "Wrentham",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1143,
+        "company": "Wright Wire Company",
+        "city": "Palmer",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1145,
+        "company": "Wyman-Gordon Company",
+        "city": "North Grafton",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1146,
+        "company": "Wyman-Gordon Company",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1147,
+        "company": "Wyman-Gordon Products Corporation",
+        "city": "Worcester",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1149,
+        "company": "Yankee Atomic Electric Company - Yankee Rowe Nuclear Power Station",
+        "city": "Rowe",
+        "state": "MA",
+        "visibility": ""
+      },
+      {
+        "id": 1150,
+        "company": "Yosnold Mills Company",
+        "city": "New Bedford",
+        "state": "MA",
+        "visibility": ""
+      }
+     ]
+}

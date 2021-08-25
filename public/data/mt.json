@@ -1,0 +1,690 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Alta Montana Company",
+        "city": "Wicks",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Amalgamated Sugar Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Amalgamated Sugar Company",
+        "city": "Whitehall",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "American Crystal Sugar Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Anaconda Aluminum Plant",
+        "city": "Columbia Falls",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Anaconda Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Anaconda Company, Green Leach Building",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Anaconda Copper Mining Company",
+        "city": "Silver Lake",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Anaconda Copper Mining Company",
+        "city": "Anaconda",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Anaconda Copper Mining Company",
+        "city": "Black Eagle",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Anaconda Copper Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Anaconda Copper Mining Company, Warehouse",
+        "city": "Anaconda",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Anaconda Smelter",
+        "city": "Anaconda",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Anaconda Smelter Stack",
+        "city": "Anaconda",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Arco Aluminum Plant",
+        "city": "Columbia Falls",
+        "state": "MT",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Billings Laundry",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Billings Mutual Heating Company",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Billings Sugar Company",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Billings Utility Company - Central Heating Plant",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Boston And Montana Consolidated Copper And Silver Mining Company",
+        "city": "Great Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Boston And Montana Consolidated Copper And Silver Mining Company",
+        "city": "Black Eagle Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Boston And Montana Consolidated Copper And Silver Mining Company",
+        "city": "Black Eagle",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Boston And Montana Reduction Department",
+        "city": "Black Eagle",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Broeder Lumber Company",
+        "city": "Creston",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "C. & C. Plywood Corporation",
+        "city": "Kalispell",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Carter Oil Company",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Carter Oil Refinery",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Cascades Plywood Company",
+        "city": "Polson",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Catholic Hospital",
+        "city": "Great Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Champion Paper",
+        "city": "Libby",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Conoco Refinery",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Conrey Placer Mining Company",
+        "city": "Virginia City",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Consolidated Copper And Silver Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Copper And Silver Mining Company",
+        "city": "Black Eagle",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Copper And Silver Mining Company",
+        "city": "Great Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Corette Powerhouse",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Cyprus Industrial Minerals Company",
+        "city": "Three Forks",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "East Butte Copper Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Evans Products Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Exxonmobil Oil Corporation",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Farmer'S Union Cooperative Oil",
+        "city": "Laurel",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Forsyth Electric Light & Power Company - Power Plant",
+        "city": "Forsyth",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Glendive Heat, Light And Power Company - Power Plant",
+        "city": "Glendive",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Granite Bimetalic Consolidated Mining Company",
+        "city": "Philipsburg",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Great Western Sugar Company",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Great Western Sugar Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Heartland Grain Fuels",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Helena Power Transmission Company - Hauser Dam Power Plant",
+        "city": "Helena",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Hoerner Waldorf Corporation",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Hoerner Waldorf Corporation, Hot Process Softener Tank",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Iowa Valley Sugar Company, Incorporated",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "J. Neils Lumber Company",
+        "city": "Libby",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "J. Neils Paper Company",
+        "city": "Libby",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Kelly Heating Plant",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Laurel Oil And Refining Company",
+        "city": "Laurel",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Legal Tender Mining Company",
+        "city": "Clancy",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Midland Sugar Company",
+        "city": "Sidney",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Miles City Water And Electric Light Company - Power Plant",
+        "city": "Miles City",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Minute Man Missile Site",
+        "city": "Great Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Missoula Light And Water Company - Power Plant",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Montana Coal And Iron Company",
+        "city": "Washoe",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Montana Ore Purchasing Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Montana Power Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Montana State Hospital",
+        "city": "Warm Springs",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Montana-Dakota Utilities Company - Clough Street Power Plant",
+        "city": "Glendive",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Montana-Dakota Utilities Steam Plant",
+        "city": "Glendive",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Moulton Gold And Silver Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Moulton Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "National Mining And Exploring Company",
+        "city": "Helena",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "North Butte Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Northern Pacific Railroad Company",
+        "city": "Livingston",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Northern Pacific Railroad Company",
+        "city": "Glendive",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Northern Pacific Railway Company",
+        "city": "Livingston",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Northern Pacific Railway Company",
+        "city": "Mullan Tunnel",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Northwestern Improvement Company",
+        "city": "Red Lodge",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Northwestern Improvement Company",
+        "city": "Chestnut",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Original Butte Mining Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "P.B. Moss",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Phoenix Electric Company - Power Plant",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Pittsburg And Montana Copper Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Plum Creek Lumber Company",
+        "city": "Columbia Falls",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Sierra Talc And Clay Company, Incorporated",
+        "city": "Three Forks",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Smurfit-Stone Container Corporation",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Smurfit/Stone Container Corporation",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "St. Regis Paper Company",
+        "city": "Libby",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "St. Vincent's Hospital",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Stauffer Chemical",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Stone Container",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Timber Butte Milling Company",
+        "city": "Butte",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "United Sierra Division, Cyprus Mines Corporation",
+        "city": "Three Forks",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Chinook",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Van Evan Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Waldorf Hoerner Paper Products Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Waldorf Paper Products Company",
+        "city": "Missoula",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Warm Springs State Hospital",
+        "city": "Warm Springs",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "WR Grace",
+        "city": "Libby",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Yellowtail Dam",
+        "city": "Billings",
+        "state": "MT",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Yellowtail Dam",
+        "city": "Hardin",
+        "state": "MT",
+        "visibility": ""
+      }
+     ]
+}

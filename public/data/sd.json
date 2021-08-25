@@ -1,0 +1,326 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Aberdeen Mill Company",
+        "city": "Aberdeen",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Akron Milling Mining And Manufacturing Company",
+        "city": "Custer",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Angus C. Anson Power Plant",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Armour And Company",
+        "city": "Grand Forks",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Battle Mountain Sanitarium",
+        "city": "Hot Springs",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Big Stone Power Plant - Unit 1",
+        "city": "Big Stone City",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Black Hills Power And Light Company - Ben French Power Plant",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Black Hills Power And Light Company - Deadwood Power Plant",
+        "city": "Deadwood",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Black Hills Power, Incorporated",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Consolidated Power And Light Company - Pluma Power Plant",
+        "city": "Pluma",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Custer Electric Light, Heat And Power Company - Power Plant",
+        "city": "Custer",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Deadwood And Delaware Smelter Company",
+        "city": "Deadwood",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Eureka Milling Company",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Farmers Cooperative Company",
+        "city": "Bowdle",
+        "state": "SD",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Fraser And Chalmers",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Frederick Milling Company",
+        "city": "Frederick",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "General Public Utilities - Puma Power Plant",
+        "city": "Pluma",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "General Public Utilities - Rapid City Power Plant",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Ideal Mining Company",
+        "city": "Custer",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "John Morrell And Company",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "John Morrell Company",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Lucky Strike Mining Company",
+        "city": "Deadwood",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Mandr Dietetic Laboratories, Incorporated",
+        "city": "Mitchell",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Mount Marty Association",
+        "city": "Yankton",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Mount Marty Hospital Assoc",
+        "city": "Yankton",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Northern States Power Company",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Northwestern Public Service Company",
+        "city": "Aberdeen",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Northwestern Public Service Company",
+        "city": "Mitchell",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Northwestern Public Service Company. Ottertail Power Company",
+        "city": "Grant County",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Otter Tail Power Company",
+        "city": "Big Stone City",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Pillsbury Company",
+        "city": "Grand Forks",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "School And Home For Feeble Minded",
+        "city": "Redfield",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Sioux Falls Light And Power Company",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "South Dakota Sanatorium",
+        "city": "Sanatos",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "South Dakota State Cement Commission",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "South Dakota State Hospital",
+        "city": "Yarkton",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "South Dakota State Hospital",
+        "city": "Yankton",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "South Dakota State Soldiers' Home",
+        "city": "Hot Springs",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Spokane Silver And Lead Company",
+        "city": "Custer",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "State Sanitorium For Tuberculosis",
+        "city": "Sanator",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "State School Of Mines",
+        "city": "Rapid City",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "State Soldiers Home",
+        "city": "Hot Springs",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Veterans Administration Facility",
+        "city": "Hot Springs",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Watertown Light And Power Company - Watertown Power Plant",
+        "city": "Watertown",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Yankton Industrial Alcohol Corporation",
+        "city": "Yankton",
+        "state": "SD",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Yankton State Hospital",
+        "city": "Yankton",
+        "state": "SD",
+        "visibility": ""
+      }
+     ]
+}

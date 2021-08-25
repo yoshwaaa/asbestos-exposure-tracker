@@ -1,0 +1,1656 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.E. Staley Manufacturing Company",
+        "city": "Van Buren",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "ALCOA Aluminum Plant",
+        "city": "Boxide",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Alcoa Aluminum Plant",
+        "city": "Lafayette",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Alcoa Plant",
+        "city": "Benton",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Aluminum Company Of America",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Aluminum Company Of America",
+        "city": "Benton",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Aluminum Company Of America, Refining Division",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Aluminum Ore Company",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Oil Company",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Oil Refinery",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Argenta Shops",
+        "city": "Argenta",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Arizona State Hospital",
+        "city": "Phoenix",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Arkansas Brick And Tile Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Arkansas Electric Cooperative Corp - Thomas B. Fitzhugh Generating Station",
+        "city": "Ozark",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Arkansas Electrical Co-Op",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Arkansas Kraft",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Arkansas Kraft Corporation",
+        "city": "Oppelo",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Arkansas Kraft Corporation",
+        "city": "Morrilton",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Arkansas Kraft Corporation",
+        "city": "Opello",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Arkansas Kraft Paper Mill",
+        "city": "Morrilton",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Arkansas Light & Power Plant",
+        "city": "Malvern",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Arkansas Louisiana Lumber",
+        "city": "Emerson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Arkansas Nuclear One",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Arkansas Power & Light",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Arkansas Power & Light",
+        "city": "Newark",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Arkansas Power & Light",
+        "city": "Redfield",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Arkansas Power & Light (AP&L)",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Arkansas Power & Light Co - Robert E Ritchie Plant",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Arkansas Power & Light Company - Cecil Lynch Plant",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Arkansas Power & Light Company - Harvey Couch Steam Electric Station",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Arkansas Power & Light Company - Independence Power Plant",
+        "city": "Newark",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Arkansas Power & Light Company - Power Plant",
+        "city": "Arkadelphia",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Arkansas Power & Light Company - White Bluff Generating Plant",
+        "city": "Redfield",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Arkansas Power & Light Company- Arkansas Nuclear One - Unit 1",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Arkansas Power & Light Company- White Bluff Generating Plant",
+        "city": "Redfield",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Arkansas Power & Light Harvey Couch Power Plant",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Arkansas Power & Light Plant",
+        "city": "Hot Springs",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Arkansas Power & Light Storeroom",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Arkansas Power & Power",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Arkansas Power Nuclear Power Plant",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Arkansas Water And Light Plant",
+        "city": "Jonesboro",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Arsenal",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Ash Grove Cement Plant",
+        "city": "Foreman",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Atomic Energy Commission Plant",
+        "city": "Prairie Grove",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Atomic Genery Commission",
+        "city": "FT. Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Bekaert Steel Wire Corporation",
+        "city": "Van Buren",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Bentonville School",
+        "city": "Bentonville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Bentonville School District No. 6",
+        "city": "Bentonville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Big Four Mining And Milling Company",
+        "city": "Nogales",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Bornice Anthracite Coal. Company",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Bradley Lumber Company",
+        "city": "Warren",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Buckeye Cellulose Corporation",
+        "city": "Wilson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Buckeye Cellulose Corporation",
+        "city": "Evadale",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Bush Brothers Cannery",
+        "city": "Blytheville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Campbell‚Äôs Soup Plant",
+        "city": "Fayetteville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Cecil Lunch Steam Plant",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Central Coal And Coke Company",
+        "city": "Hartford",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Central Heating And Manufacturing Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Chapman Dewey Lumber Company",
+        "city": "Marked Tree",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Chicago Mill And Lumber Company",
+        "city": "West Helina",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Chicago Mill And Lumber Company",
+        "city": "Blythesville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "City Ice And Cold Storage Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "City Light Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "City Of Jonesboro",
+        "city": "Jonesboro",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Conoco Chemical Plant",
+        "city": "Blytheville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Cooper Tire & Rubber Co",
+        "city": "Texarkana",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Cooper Tire & Rubber Company",
+        "city": "Texarkana",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Cooper Tire & Rubber Company",
+        "city": "Miller County",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Cooper Tire Manufacturing Plant",
+        "city": "Texarkana",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Coosa River Newsprint, aka Kimberly Clark Paper Mill",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Crompton Osceola Company",
+        "city": "Osceola",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Cross Oil",
+        "city": "Smackover",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Cross Oil And Refining Company",
+        "city": "Smackover",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Crosset Mill",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Crossett Lumber Company",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Crossett Paper Mill",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Crossett Paper Mills, Incorporated",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Defense Plant Corporation",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Delta Pipeline",
+        "city": "Mena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Delta Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Delta Products Company",
+        "city": "Evadale",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Delta Products Company",
+        "city": "Wilson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Derrick Paper Mill",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Detroit Copper Mining Company",
+        "city": "Morenci",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Dewitt Rice Mill",
+        "city": "Dewitt",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Diamond Shamrock Chemical Company",
+        "city": "Van Buren",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Dierks Forest, Incorporated",
+        "city": "Dierks",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Dierks Paper Mill",
+        "city": "Dierks",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Dierks Papermill Wood Products",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Dixie Cup Plant",
+        "city": "Fort Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Dravo Steel",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Dyke Brothers",
+        "city": "Ft. Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "E.L. Bruce Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "El Dorado Light And Water Company - Power Plant",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Eldorado Chemical",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Entergy - Harvey Couch Steam Electric Station",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Entergy Arkansas - Arkansas Nuclear One",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Entergy Arkansas - Moses Plant",
+        "city": "Forrest City",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Entergy Arkansas ‚Äì Ritchie Plant",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Ethyl Plant",
+        "city": "Magnolia",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Flint Creek Power Plant",
+        "city": "Flint Creek",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Foreman Cement Plant",
+        "city": "Foreman",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Fort Smith Light And Traction Company - Power Plant",
+        "city": "Fort Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Freeport Sulphur Company",
+        "city": "Oriente",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Frigorifico Armour De La Plata",
+        "city": "La Plata",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Fruit Of The Loom",
+        "city": "Osceola",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Ft. Smith Wagon Company",
+        "city": "Ft. Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Gates Rubber Company",
+        "city": "Siloam Springs",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Georgia Pacific",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Georgia Pacific",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Georgia Pacific",
+        "city": "Junction City",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Georgia Pacific Papermill",
+        "city": "Crossen",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Georgia Pacific Plywood Mill",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Georgia-Pacific Chemical Plant",
+        "city": "Crossett",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Green Bay Packaging",
+        "city": "Morrilton",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Green Bay Packaging, Incorporated",
+        "city": "Oppelo",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Helena Cotton Oil Company",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Helena Gas And Electric Company - Gas Plant",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Helena Ice Company",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Hope Heading Company",
+        "city": "Hope",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Hot Springs Electric Light Company - Power Plant",
+        "city": "Hot Springs",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Houston Electric Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Hurricane Creek Plant",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Ideal Cement Plant",
+        "city": "Okay",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "International Paper Co.",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "International Paper Company",
+        "city": "Camden",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "International Paper Company",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "International Paper Company, Southern Kraft Division",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "International Paper Corporation",
+        "city": "Malvern",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "International Paper Mill",
+        "city": "Camden",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "International Paper Mill",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "J.J Farrell And Company",
+        "city": "Brinkley",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "J.L. Williams And Sons",
+        "city": "Sheridan",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Kansas City Hard Wood Flooring Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Kingsway Hotel",
+        "city": "Hot Springs",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Koppers Company, Incorporated",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Koppers Company, Incorporated, Wood Preserving Division",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Kraft Paper Mill",
+        "city": "Morrilton",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Lee Wilson Company",
+        "city": "Wilson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Lee Wilson Company Soy Bean Mill",
+        "city": "Wilson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Lincoln Steam Power Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Lion Oil Company",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Lion Oil Division, Monsanto Chemical Company",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Lion Oil Refinery",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Little Rock Airport",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Little Rock Cotton Oil Mills",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Little Rock Heating Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Little Rock Railway And Electric Company - Power Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Lone Star Ammo Plant",
+        "city": "Texarkana",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Lynch Power Plant",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "M.M. Cohn Store, Mccain Mall",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Marion Hotel Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Merchants' Lighting Company - Power Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Middle South Services, Incorporated",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Middle South Utilites, Incorporated",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Middle South Utilities - Harvey Couch Power Plant",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Missouri Pacific Railroad",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Missouri Pacific Railway, Argenta Shops",
+        "city": "Argenta",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Monsanto Chemical Plant",
+        "city": "North Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "National Guard Barracks",
+        "city": "Camp Robinson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "National Gypsum Company",
+        "city": "Arkadelphia",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Naval Ordnance Plant",
+        "city": "Shumaker",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Necussa Edwards Paper Mill",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Nekoosa Edwards Paper Company",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Nekoosa Edwards Paper Mill",
+        "city": "Ashdown",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Number 11 Mine",
+        "city": "Huntington",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Odonnell Draeger Rice Mill Company",
+        "city": "Stuttgart",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Olin Mathieson Chemical Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Ozark Ordnance Works",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Pan-Am Southern Corporation",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Pine Bluff Arsenal",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Pine Bluff Mill",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Pineville Kraft Corporation",
+        "city": "Stamps",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Pirelli Tire North America",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Poinsett Lumber And Manufacturing Company",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Poinsett Lumber And Manufacturing Company, Plant #7",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Poinsett Lumber And Manufacturing Company, Plant #9",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Poinsett Lumber Company, Plant #8",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Poinsett Lumer Company",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Potlatch Corporation",
+        "city": "Mcgehee",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Potlatch Forests, Incorporated",
+        "city": "Prescott",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Power Service Corporation",
+        "city": "Oppelo",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Premier Cotton Mills",
+        "city": "Helena",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Procter And Gamble Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Redville Steam Plant",
+        "city": "Redville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Reeves L. Ritchie Steam Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Remington",
+        "city": "Lonoke",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Retail Crucers Ice Company",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Reynolds - Hurricane Creek Plant",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Reynolds Alum",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Reynolds Metals \"Jones Mills\" Reduction Plant",
+        "city": "Jones Mills",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Reynolds Metals Alumina & Ceramics Plant",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Reynolds Metals Company",
+        "city": "Bauxite",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Reynolds Metals Reduction Plant",
+        "city": "Arkadelphia",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Riceland Foods Plant",
+        "city": "Stuttgart",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Root Refining Company",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Russellville Nuclear Power Plant",
+        "city": "Russellville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Seaman Dunning Corporation",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Singer Furniture",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Singer Manufacturing Company",
+        "city": "Trumann",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "South Kraft Division International. Paper Company",
+        "city": "Pine Bluff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Southern Kraft Corporation",
+        "city": "Camden",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Southern Kraft Division International Paper Company",
+        "city": "Camden",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Southwestern Electric Power Company - Flint Creek Power Plant",
+        "city": "Gentry",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Southwestern Portland Cement Company",
+        "city": "White Cliff",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Sparks Medical Center",
+        "city": "Fort Smith",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "St John's Hospital",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "St. Louis And Iron Mountain And South Railway",
+        "city": "Baring Cross",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "St. Louis, Iron Mountain, And Southern Railroad Company Union Station",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "St. Vincent Infirmary",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Stamp Steam Plant",
+        "city": "Stamp",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Stuttgart Hospital",
+        "city": "Stuttgart",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Sun Company, Incorporated",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Super Wood",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Tennessee Eastman",
+        "city": "Batesville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Texaco Plant",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Texarkana Gas And Electric Company - Power Plant",
+        "city": "Texarkana",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Tosco Oil",
+        "city": "El Dorado",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Travenol Laboratories, Incorporated",
+        "city": "Mountain View",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Tri State Refining Company",
+        "city": "Wilson",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Union Pacific Railroad",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "United States Government Explosive Plant",
+        "city": "Picron",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "United States Government Explosive Plant",
+        "city": "Piezon",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "University Of Arkansas",
+        "city": "Fayetteville",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "University Of Arkansas Medical Center",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Valley Planing Mill Company",
+        "city": "Hot Springs",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Veterans Administration Hospital",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Veterans‚Äô Administration Hospital",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "W.R. Wrape Stone Company, Incorporated",
+        "city": "Little Rock",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Weyerhaeuser Timber Company",
+        "city": "Dierks",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Weyerhauser Paper Company",
+        "city": "Dierks",
+        "state": "AR",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Weyerhauser Paper Company",
+        "city": "Mt. Pine",
+        "state": "AR",
+        "visibility": ""
+      }
+     ]
+}

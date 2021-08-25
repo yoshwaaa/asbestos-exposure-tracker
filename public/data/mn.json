@@ -1,0 +1,2174 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Ashland Oil",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Ashland Oil Refinery",
+        "city": "Saint Paul",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Bethlehem Steel Tukentie Plant",
+        "city": "Onora",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Blackdog Powerhouse",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Butler Tactinite",
+        "city": "Naswalk",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Cleveland Cliffs Taconite Pellet Mill",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Cornelius Manufacturing",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Cyprus Minerals",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "E.W. Davis Works",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Fox Lake Power Plant",
+        "city": "Sherburn",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Great Northern Oil Co.",
+        "city": "Pine Bend",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Honeywell Plant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Koch Oil Refinery",
+        "city": "Pine Bend",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Koch Refinery",
+        "city": "Hastings",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "M & O Paper Company",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "M.L. Hibbard Steam Plant",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Madison Power Plant",
+        "city": "Madison",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Minnesota Power & Light",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Nicolette Mall",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Northern States Power",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Northern States Power Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Northwest Paper Co.",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Radisson Hotel",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Reserve Mining Co.",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Sartell ISD",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "St. Cloud Power House",
+        "city": "St. Cloud",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Tactinite Plant",
+        "city": "Hibbing",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Twin Cities Arsenal",
+        "city": "Minnesota",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Twin City Mall",
+        "city": "Monroe",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "University Of Minnesota",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "US Steel",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Waldorff Paper Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "",
+        "city": "",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Aurora Steam Electric Station",
+        "city": "Aurora",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Cargill, Incorporated",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Degree Of Honor Building",
+        "city": "Menneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Interstate Power Company - Fox Lake Station",
+        "city": "Sherburn",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Kraft Food Company",
+        "city": "Melrose",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Northern States Power Company, 3rd St. Heating Plant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Northern States Power Company, Riverside Station",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "St. Regis Paper Company",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Toni Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Waldorf Paper Products Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "International Paper",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Sartell Paper Company",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "A. Booth & Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Al J. Potts Company",
+        "city": "St. Peter",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Allan Black Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Allen S. King Generating Station - Unit 1",
+        "city": "Oak Park Heights",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "American Steel And Wire Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "American Steel And Wire Division Of Duluth",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "American Beet Sugar Company",
+        "city": "East Grand Forks",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "American Crystal Sugar Company",
+        "city": "East Grand Forks",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "American Crystal Sugar Company",
+        "city": "Crookston",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "American Crystal Sugar Company",
+        "city": "Moorhead",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "American Crystal Sugar Company",
+        "city": "Chaska",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "American Hoist & Derrick Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Moorhead",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Archer Daniels Midland Company",
+        "city": "Mankato",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Armour And Company, Union Stock Yards",
+        "city": "South St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Armour And Company",
+        "city": "South St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Aurora Iron Mining Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Automobile Owners Tire Corporation",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "B.F. Nelson Manufacturing Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Barclay Manufacturing Company",
+        "city": "Fergus Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Redwood Falls Light And Power Company - Power Plant",
+        "city": "Redwood Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Black Dog Generating Station",
+        "city": "Burnsville",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Blandin Paper Company",
+        "city": "Grand Rapids",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Blerke Tire And Rubber Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Board Of Control For State Of Minnesota",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "City Of Winona Board Of Municipal Works - Water Plant",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Board Of Water, Electric, Gas, And Power Commissioners - Electric Light And Pumping Station",
+        "city": "Austin",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Boise Cascade Corporation",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Bongards Creameries",
+        "city": "Bongards",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Bridgeman-Russell Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "C.E. Wentworth And Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Carow County Sugar Company",
+        "city": "Chaska",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Chicago, Milwaukee, St. Paul And Pacific Railroad Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Commander Mill Company",
+        "city": "Montgomery",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Consumers Power Company - Cannon Falls - Power Plant",
+        "city": "Faribault",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Consumers Power Company - Steam Plant",
+        "city": "Stillwater",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "County Building",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Crescent Milling Company",
+        "city": "Fairfax",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Crookston Water Works, Power And Light Company - Power Plant",
+        "city": "Crookston",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Cudahy Packing Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Cyprus North Shore Mining",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Cyprus North Shore Mining",
+        "city": "Beaver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Duluth And Iron Range Railroad Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Duluth Board Of Trade Building",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Duluth Imperial Mill Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Duluth Street Railway Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Dwyer Plumbing And Heating Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Eastern Minnesota Power Company - Steam Power Plant",
+        "city": "Pine City",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Elliott And Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Farmers Terminal Packing Company",
+        "city": "Newport",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Federal Reserve Bank Building",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Fergus Falls Dairy",
+        "city": "Fergus Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Fleischmann Malting Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Foss Wells And Company",
+        "city": "Jordan",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "George C. Howe",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "George A. Homiel And Company",
+        "city": "Austin",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "George Fuller",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Gregory Cook And Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Hamms Brewing Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Hannepin Paper Company",
+        "city": "Little Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Hastings State Asylum",
+        "city": "Hastings",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "High Bridge",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Northern States Power Company - High Bridge Generating Station",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Hinckle, Greenleaf & Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Hoechst Celanese Corporation",
+        "city": "Monticello",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Hoerner Waldorf Corporation",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Honeymead Products",
+        "city": "Mankato",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Hospital For The Insane",
+        "city": "St. Peter",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Interstate Packing Company",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Interstate Power Company - Albert Lea Power Plant",
+        "city": "Albert Lea",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Itasca Paper Company",
+        "city": "Grand Rapids",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "J.S. Porteous",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Jackson School",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Jefferson School",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Jos. T. Gilbert",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Journal Printing Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Kraft Foods Company",
+        "city": "New Ulm",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Lake City Light And Water Works - Power Plant",
+        "city": "Lake City",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Lakeside Project Power Plant",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Luger Furniture Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Luger Furniture Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Lyceum Blding",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Manhattan Light, Heat And Power Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Marshall-Wells Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Mesaba Railway Company",
+        "city": "Virginia",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Metropolitan Opera House",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Minkota Milling Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Minneapolis Gas Light Company - Minneapolis Gas Works",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Minneapolis General Electric Company - Main Street Station",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Minneapolis St Railway Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Minneapolis Street Railway Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Minnesota And Northwestern Railroad Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Minnesota And Ontario Paper Company",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Minnesota And Ontario Power Company",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Minnesota Blast Furnace Company",
+        "city": "West Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Minnesota By-Products Coke Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Minnesota Corn Processors",
+        "city": "Marshall",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Minnesota Light And Power Company",
+        "city": "Minnesota City",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Minnesota Linseed Oil Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Minnesota Linseed Oil Paint Company",
+        "city": "Fridley",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "General Electric Company - Minnesota Mazda Lamp Works",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Minnesota Mining And Manufacturing Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Minnesota State Prison",
+        "city": "Stillwater",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Minnesota Steel Company",
+        "city": "Steelton",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Minnesota Steel Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Minnesota Steel Company",
+        "city": "New Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Minnesota Sugar Company",
+        "city": "Chaska",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Minnesota Valley Cooperative Milk Processing Association",
+        "city": "Belle Plaine",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Mississippi Valley Public Service Company",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Montevideo Roller Mill Company",
+        "city": "Montevideo",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Montevideo Roller Mills Company",
+        "city": "Montevideo",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Montgomery Ward And Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Municipal Light And Power Plant",
+        "city": "New Ulm",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Municipal Power Plant",
+        "city": "Alexandria",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Northern Pacific Railway Company, Como Shops",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "National Biscuit Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "New Ulm Public Utilities Commission - New Ulm Power Plant",
+        "city": "New Ulm",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Nicnn Street Railway Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "North St. Paul Table Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "No. Western Imp. Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Northern Pacific Railway Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Northern Pacific Railroad Company",
+        "city": "Brainerd",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Northern Pacific Railroad Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Northern Pacific Railway Company",
+        "city": "Staples",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Northern Pacific Railway Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Northern State Power Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Northern States Power",
+        "city": "Monticello",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Northern States Power Company",
+        "city": "Granite Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Northern States Power Company",
+        "city": "Mankato",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Northern States Power Company",
+        "city": "Bayport",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Northern States Power Company",
+        "city": "Becker",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Northern States Power Company",
+        "city": "Burnsville",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Northern States Power Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Northern States Power Company, Allen S. King Plant",
+        "city": "Bayport",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Northern States Power Company, Black Dog Plant",
+        "city": "Nichols",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Northfield Electric Light Company - Power Plant",
+        "city": "Northfield",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Northwest Paper Company",
+        "city": "Brainerd",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Northwest Paper Company, Paper Mill",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Northwestern Consolidated Milling Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Northwestern Fuel Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Northwestern Grass Furn Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Northwestern Improvement Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Notherrn States Power Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "New York City Insurance Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "New York Life Insurance Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Oliver Iron Mining Company",
+        "city": "Mountain Iron",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Ottertail Power Company",
+        "city": "Fergus Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Owatonna Electric Company - Steam Plant",
+        "city": "Owatonna",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Pillsbury Washburn Flour Mills Company Limited",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Pioneer Iron Company",
+        "city": "Ely",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Pioneer Malting Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Post Office",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Potlatch Corporation, Paper Mill",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Potlatch Corporation, Northwest Paper Company Division",
+        "city": "Brainerd",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Power Service Corporation",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Public Service Department",
+        "city": "Moorhead",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Public Service Operating Company",
+        "city": "Owatonna",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "R.B. Whitacre And Company, Incorporated",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Red River Sugar Company",
+        "city": "East Grand Forks",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Red River Valley Rolling Mill",
+        "city": "Fisher",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Redwood Falls Light And Power Company",
+        "city": "Redwood Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Reserve Mining Company - Taconite Plant",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Reserve Mining Company",
+        "city": "Beaver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Riverside Generating Station",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Riverside Generating Station - Unit 8",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Rochester Public Utilities - Silver Lake Plant",
+        "city": "Rochester",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Rogers Brocon Iron Company",
+        "city": "Hibbing",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Sherburne County Generating Plant",
+        "city": "Becker",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Sherburne County Generating Plant - Unit 3",
+        "city": "Becker",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Silver Lake Power Plant",
+        "city": "Rochester",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Sleepy Eye",
+        "city": "Nicolet County",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Sleepy Eye Public Utilities Commission - Power Plant",
+        "city": "Sleepy Eye",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Smith And Taylor",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Southern Minnesota Gas And Electric Company - Albert Lea Power Plant",
+        "city": "Albert Lea",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Southern Minnesota Sugar",
+        "city": "Renville",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Southern Minnesota Beet Sugar Cooperative",
+        "city": "Livia",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "St. Paul And White Bear Railroad Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "St. Peter State Hospital",
+        "city": "St. Peter",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "St. Joseph Hospital",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "St. Paul And Northern Pacific Railway Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "St. Paul City Railway Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "St. Paul Gas Light Company - Electric Light Plant",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "St. Peter State Hospital For The Insane",
+        "city": "St. Peter",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Standard Brands, Incorporated",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Boiler House #2",
+        "city": "Steelton",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Superior Wood Products Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Superwood Corporation",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Swift And Company",
+        "city": "South St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Swift And Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Swift And Company, Union Stock Yards",
+        "city": "South St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Twin City Rapid Transit Company - Southeast Steam Plant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Thomas Lowry Temple Building Minneapolis",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Twin Cities Cold Storage Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Twin City Rapid Transit Company - Power Plant",
+        "city": "St. Anthony'S Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Twin City Ri Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "United States Bedding Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "United States Post Office",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "University Of Minnesota Farm Power House",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "University Of Minnesota University Farm",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "W.A. Wood Harvester Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "W.I. Gray And Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Waldorf Hoerner Paper Products Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Watab Pulp And Paper Company",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "West Side Power Heat And Light Company",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "William H Eustis Flour Exchange",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Winona Malting Company",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Winona Railway And Light Company - Power Plant",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Wisconsin Hydroelectric Company - Chengwatana Dam - Power Plant",
+        "city": "Pine City",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Wisconsin Railway Light And Power Company - Power Plant",
+        "city": "Winona",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Wisconsin Steel Company",
+        "city": "Nashwauk",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "William H. Eustis Flour Exchange",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Wolvin Building Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Wood Conversion Company",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Xcel Energy",
+        "city": "Nichols",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Xcel Energy",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Zenith Furnace Company",
+        "city": "West Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Zenith Furnace Company",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Sherburne",
+        "city": "Becker",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Usg Interiors, 35 Arch Street",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Duluth, Missabe & Iron Range Railway",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Hoot Lake",
+        "city": "Fergus Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Dayton Rogers Manufacturing, 2824 13th Ave. South",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "General Mills, 25 44th Avenue Northeast",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "C.E. Rogers, Highway 65 South",
+        "city": "Mora",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Honeywell, Ordinance Division Building 502",
+        "city": "New Brighton",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Dart & Kraft, 2525 Bridge St. South",
+        "city": "New Ulm",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Burlington Northern & Santa Fe Railway",
+        "city": "Proctor",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Duluth, Missabe & Iron Range Railway",
+        "city": "Proctor",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Silver Lake",
+        "city": "Rochester",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Champion International Corporation",
+        "city": "Sartell",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Pathfinder",
+        "city": "Sioux Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Del Monte Plants 114 & 206",
+        "city": "Sleepy Eye",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Great Northern Railroad",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Northern States Power, Highbridge Steam Plant",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Waldorf, 2250 Wabasha Avenue",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Northern States Power, 5701 St. Croix Terr North",
+        "city": "Stillwater",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Willmar Municipal Utilities, 810 Benson Avenue Southwest",
+        "city": "Willmar",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "City Of Worthington - Power Plant",
+        "city": "Worthington",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Duluth And Iron Range Railroad Company",
+        "city": "Proctor",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Barnes Riverside Shipyard",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Taconite Plant",
+        "city": "Eveleth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Honeywell",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Lumber Exchange Building",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Duluth, Missabe & Iron Range Railway",
+        "city": "Two Harbors",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Altria Corporate Services, Incorporated",
+        "city": "New Ulm",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Bongards Creameries",
+        "city": "Norwood",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Busch Agricultural Resources",
+        "city": "Moorhead",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Chs, Incorporated",
+        "city": "Mankato",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Dairy Farmers Of America",
+        "city": "Fergus Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Del Monte Foods Company",
+        "city": "Sleepy Eye",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Georgia Pacific",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Minnesota State Correctional Facility",
+        "city": "Bayport",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Monumental Sales",
+        "city": "St. Cloud",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Rock Tenn",
+        "city": "St Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Sappi Fine Paper, Paper Mill",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Silver Bay Power",
+        "city": "Silver Bay",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Wausau Paper Company",
+        "city": "Brainerd",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Soo Line Railroad",
+        "city": "Shoreham Shops",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "St. Clair Power Station",
+        "city": "St. Clair",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "3M",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Boise Cascade",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Burlington Northern",
+        "city": "Duluth",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Burlington Northern",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Great Northern/Burlington Northern",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Rochester Public Utilities - Silver Lake Power Plant",
+        "city": "Rochester",
+        "state": "MN",
+        "visibility": ""
+      }
+     ]
+}

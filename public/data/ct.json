@@ -1,0 +1,2797 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A. Bedell Benjamin",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.N. Pierson Incorporated",
+        "city": "Cromwell",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Acme Shear Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Aetna Life Insurance Co - 151 Farmington Ave.",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Aetna Life Insurance Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Allen Manufacturing",
+        "city": "Bloomfield",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Brass Company (Benedict And Burnham Manufacturing Company)",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Cyanamid",
+        "city": "Wallingford",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Cyanamid Company",
+        "city": "Wallingford",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Ecla Corporation",
+        "city": "Fairfield",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Enka Corporation, Rockyhill Division",
+        "city": "Rockyhill",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "American Felt Company",
+        "city": "Glenville",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "American Graphophone Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "American Radiator And Standard Sanitary Corporation",
+        "city": "Wauregan",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "American Thread Company",
+        "city": "Willimantic",
+        "state": "CT",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "American Tube & Stamping Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "American Woolen Company, Incorporated",
+        "city": "Moosup",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Ansonia Brass & Copper Company",
+        "city": "Ansonia",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Arena Centerfreeze Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Arrow Electric Company - Manufacturing Plant",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Ashcroft Manufacturing Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Ashland Corporation",
+        "city": "Jewett City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Ashland Corporation",
+        "city": "Jewett City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Ashland Division Of United Merchants & Manufacturers",
+        "city": "Jewett City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Aspinook Corporation",
+        "city": "Jewett City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Aspinook Corporation",
+        "city": "Jewett City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "B. Shoninger Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "B.F. Goodrich",
+        "city": "Shelton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Babcock Printing Press Manufacturing Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Baker, Smith & Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Ball, Socket Manufacturing Company",
+        "city": "Cheshire",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Baltic Mills Company",
+        "city": "Baltic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Barnum Richardson Company",
+        "city": "Lime Rock",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Barreet Manufacturing Company",
+        "city": "Shady Side, Bergen County",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Bay Company",
+        "city": "Versailles",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Belfast Mesh Underwear Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Benedict And Burnham Manufacturing Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Benedict And Burnham Manufacturing Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Benedict And Burnham Manufacturing Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Benedict And Burnham Manufacturing Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Berkshire Ice Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Bigelow-Hartford Carpet Company",
+        "city": "Thompsonville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Billings And Spencer Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Bilton Machine Tool Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Blickensderfer Manufacturing Company",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Bon Ami Company",
+        "city": "Manchester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Bon Ami Company",
+        "city": "Manchester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Bridgeport Brass Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Bridgeport Electric Light Company - Power Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Bridgeport Electric Light Company - Power Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Bridgeport Electric Light Company - Power Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Bridgeport Forge Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Bridgeport Projectile Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Bridgestone Firestone",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Brown Cotton Gin Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Brunswick Worsted Mills, Incorporated",
+        "city": "Moosup",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Brunswick Worsted Mills, Incorporated",
+        "city": "Moosup",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Bryant & Chapman, And R.G. Miller & Sons",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Bryant Electric Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Bureau Of Yards And Docks",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Bushnell And Morehouse",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "C.C. Fischer And Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "C.D. Boss And Son",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "C.H. Dexter And Sons, Incorporated",
+        "city": "Windsor Locks",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "C.H. Merritt And Son",
+        "city": "Danbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "C.W. Blakeslee And Sons",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Cereal Products Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Charles A. Wimpfheimier And Brothers",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Charles Pfizer And Company",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Chase Metal Works",
+        "city": "Waterville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Chase Rolling Mill Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Cheney Brothers",
+        "city": "South Manchester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Citizens Gas Company - Loomis Fuel Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Coe Brass Company",
+        "city": "Ansonia",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Colts Patent Fire Arms Manufacturing Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Colts Patent Fire Arms Manufacturing Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Columbia Brewing Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Connecticut Breweries Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Connecticut Breweries Company",
+        "city": "Meriden",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Connecticut Chemical Company",
+        "city": "East Canaan",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Connecticut Coke Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Connecticut Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Connecticut Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Connecticut Light & Power Company- Montville Power Station",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Connecticut Light And Power - Middletown Station",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Connecticut Light And Power - Middletown Station",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Connecticut Metal And Chemical Company",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Connecticut Power Company - Stamford Power Plant",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Consolidated Ashcroft Hancock Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Consolidated Railway Corporation",
+        "city": "South Norwalk",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Consolidated Railway Corporation",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Consolidated Railway Corporation",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Consolidated Safety Valve Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Consolidated Safety Valve Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Crane Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Crane Value Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Crane Valve Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Cremo Brewing Company",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Danbury Bethel Street Railway Company",
+        "city": "Danbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Derby Gas And Electric Company - Power Plant",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Derby Gas Company - Power Plant",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Derby Gas Company - Power Plant",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Diamond Match Company",
+        "city": "Southford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Dressler Valve And Instrument Division",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Eastern Connecticut Power Company - Montville Power Station",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Eastern Connecticut Power Company - Montville Power Station",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Eastern Ship Building Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Eaton, Cole And Burnham",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Edison Electric Illuminating Company - Power Plant",
+        "city": "East Bridgewater",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Electric Boat Shipyard",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Electrolux Corporation",
+        "city": "Old Greenwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Elton Hotel",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Ely School",
+        "city": "Greenwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Emhart Corporation",
+        "city": "Berlin",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Engineering Laboratory Itasca, Us Coast Guard Academy",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Eveready Machinery Company",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Excelsior Needle Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Excelsior Needle Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Fairchild And Shelton",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Fall Company",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Falls Company",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Farnsworth Pinney Company",
+        "city": "Central Village",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Farrell Foundry And Machine Company",
+        "city": "Ansonia",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Farrell Machine Corp",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Federal Paper Board Company, Incorporated",
+        "city": "Versailles",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "First National Bank",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Fitzgerald Manufacturing Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "G. Fox And Company Department Store",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "G. Fox And Company, Incorporated",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "G.F. Heublein And Brothers Incorporated",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "General Electric Company - Consumer And Industrial Division Plant",
+        "city": "Plainville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "General Electric Company - Electrical Components",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "General Motors Corporation",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "George C. Batcheller And Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Glastonbury Toiletries",
+        "city": "South Glastonbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Goodrich Sponge Rubber Company",
+        "city": "Shelton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Goodyear Cotton Mills",
+        "city": "Killingly",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Goodyear Cotton Mills Company",
+        "city": "Dayville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Goodyear Rubber Company",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Greist Manufacturing Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Groton & Stonington Street Railway Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Groton & Stonington Street Railway Company",
+        "city": "Mystic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Groton Iron Works",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "H.D. Smith & Company",
+        "city": "Plantville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Hall Brothers",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Hartford And Springfield Street Railway Company",
+        "city": "Warehouse Point",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Hartford Carpet Corporation",
+        "city": "Thompsonville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Hartford Electric Light And Power Company - Middletown Power Station",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Hartford Electric Light Company - Middletown Power Station",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Hartford Electric Light Company - South Meadow Station",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Hartford Electric Light Company - South Meadow Station",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Hartford Electric Light Company- Middletown Station",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Hartford Light And Power Company - Pearl Street Station",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Hartford Rayon Corporation",
+        "city": "Rocky Hill",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Hendey Machine Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Heublein, Incorporated",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Hockanum Mills Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Holmes, Booth & Haydens",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Hotchkiss School",
+        "city": "Lakeville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Housatonic Public Service Company",
+        "city": "Derby",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Illuminating Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Inland Paper Board Division Federal Paper Board Company",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Inland Paper Board Division Of Federal Board Company",
+        "city": "Versailles",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "International Paper",
+        "city": "Versailles",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Interstate Container Corporation",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Inverform #1",
+        "city": "Versailles",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "J.B. Williams Company",
+        "city": "Glastonbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "J.H. Sessions And Son",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "J.H. Sessions And Sons",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "James J. Regan Manufacturing Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "James L. Howard And Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Jas J. Regan Manufacturing Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Jas J. Regan Manufacturing Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Jenkins Brothers",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Jewell Belting Company",
+        "city": "Heartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Kerite Company",
+        "city": "Seymour",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Kerite Insulated Wire And Cable Company",
+        "city": "Seymour",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Kimberly Clark Corporation",
+        "city": "New Milford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Kimberly Clark Corporation",
+        "city": "New Milford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "L.D. Brown And Son Company",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Landers, Frary And Clark",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Landers, Frary And Clark",
+        "city": "New Britian",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Lawton Mills Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Lawton Mills Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Liberty Ordnance Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Lilly Swift And Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "M. Seward And Sons Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "M.J. Daly And Sons",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Manning, Maxwell And Moore, Incorporated",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Manning, Maxwell And Moore, Incorporated",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Manning, Maxwell And Moore, Incorporated",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Max Stein",
+        "city": "Willimantic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Maxim Munitions Corporation",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Meriden Gas Light Company - Gas Plant",
+        "city": "Meriden",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Merritt W. Burwell",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Middlesex Chemical Company",
+        "city": "Chester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Middletown Electric Light Company - Steam Plant",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Miles Laboratories, Incorporated",
+        "city": "West Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Miles, Incorporated",
+        "city": "West Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Milford Steam Power And Building Company",
+        "city": "Milford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Millstone Power Station",
+        "city": "Waterford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Milner And Company",
+        "city": "Moosup",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Milner And Company",
+        "city": "Moosup",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "N.T. Adams",
+        "city": "Woodstock",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "National Essential Oils Distilling Company",
+        "city": "Chester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "National Fire Insurance Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "National Folding Box",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "National Folding Box And Paper Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "National Manufacturing Corporation",
+        "city": "Plainfiled",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "National Manufacturing Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "National Plainfield Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Naugatuck Chemical Division",
+        "city": "Naugatuck",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Naugatuck Chemical Division",
+        "city": "Naugatuck",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Naugatuck Chemical Division Of United States Rubber Company",
+        "city": "Naugatuck",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Nestle Company, Incorporated",
+        "city": "New Milford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "New Britain General Hospital",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "New Britain Machine Company",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "New Departure Division, General Motors Corporation",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "New Departure Manufacturing Company",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "New Departure-Hyatt Bearings Division, General Motors Corporation",
+        "city": "Bristol",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "New England Engineering Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "New England Engineering Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "New England Engineering Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "New England Engineering Company",
+        "city": "Norwalk",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "New England Engineering Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "New England Engineering Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "New Haven Electric Company - Power Plant",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "New Haven Electric Company - Power Plant",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "New Haven Gas Light Company - Power Plant",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "New Haven Iron And Steel Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "New Haven Iron And Steel Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "New Haven Power Plant",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "New Haven Rolling Mill Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "New Haven Silk Mills",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "New Havens Hotel Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "New London Brewing Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "New London Gas And Electric Company - Power Plant",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "New London St Railway Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "New York, New Haven, And Hartford Railway Company",
+        "city": "Cos Cob",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Nonpareil Laundry Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "North And Judd Manufacturing Company",
+        "city": "New Britian",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Northeast Nuclear Energy Company - Millstone Nuclear Power Station",
+        "city": "Waterford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Northeast Nuclear Energy Company - Millstone Nuclear Power Station",
+        "city": "Waterford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Norwalk And South Norwalk Electric Light Company - Power Plant",
+        "city": "Norwalk",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Norwalk General Hospital",
+        "city": "Norwalk",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Norwich Gas And Electric Company - Power Plant",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Norwich Gas And Electric Company - Power Plant",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Norwich Lock Manufacturing Company",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Norwich State Hospital",
+        "city": "Ft. Point",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Norwich, Conn",
+        "city": "Norwich",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Nougatuck Malleable Iron Company",
+        "city": "Union City",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Nougatuck Malleable Iron Company",
+        "city": "Naugatuck",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Nrg Energy Incorporated",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Oakville Company",
+        "city": "Oakville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Olin Mathieson Corporation",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Oneco Manufacturing Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Orford Soap Company",
+        "city": "Manchester",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Otto Barthol Company",
+        "city": "South Norwalk",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Palmer Brothers",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Palmer Brothers Company",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Peck Brothers And Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Peck Stow And Wilcox Company",
+        "city": "Southington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Peck Stow And Wilcox Company",
+        "city": "Saithurg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Petroleum Heat And Power Company",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Pfizer Chemical",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Pfizer Incorporated",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Plainfield Mills Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Plastic Film Corporation",
+        "city": "Plainfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Ponemah Mills",
+        "city": "Taftville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Poneman Mills",
+        "city": "Taftville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Powdrell And Alexander, Incorporated",
+        "city": "Danielson",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Pratt And Whitney Aircraft",
+        "city": "East Harford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Pratt And Whitney Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Public Service Production Company",
+        "city": "Essex Station",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Putnam-Herzl Finishing Company, Incorporated",
+        "city": "Putnam",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Quinebaug Company",
+        "city": "Danielsonville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Quinebaug Company",
+        "city": "Danielson",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Quinnipiac Energy Llc",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "R. Wallace And Sons Manufacturing Company",
+        "city": "Wallingford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "R.T. Palmer Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Randolph Clowes Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Randolph Clowes Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Raymark",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Remington Arms And Ammunition Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Remington Arms Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Remington Noiseless Typewriter Company",
+        "city": "Middletown",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Republic Steel Corporation",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Resource Recovery Systems",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Richards And Company",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Riverton Paper Company",
+        "city": "Winsted",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Robert Gair Company",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Robert Gair Company, Incorporated",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Robertson Paper Box Company",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Rockville And Ellington Street Railway Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Rockville Worsted Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Rogers Paper Manufacturing Company",
+        "city": "Dayville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "S.O. And C. Company",
+        "city": "Shelton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "S.Y. Beach Paper Company",
+        "city": "Seymour",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Salte Textile Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Salts Textile Manufacturing Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Scovill Manufacturing Company",
+        "city": "Oakville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Scovill Manufacturing Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Scovill Manufacturing Company",
+        "city": "Waterburg",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Scovill Manufacturing Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Scovill Manufacturing Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Seamless Rubber Co",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Semon Ice Cream Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Seth Thomas Clock Company",
+        "city": "Thomaston",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Singer Manufacturing Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Singer Sewing Machine Factory",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Somersville Manufacturing Company",
+        "city": "Hazardville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Somersville Manufacturing Company",
+        "city": "Hazardville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Somerville Manufacturing Company",
+        "city": "Somerville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Sperry Engineering Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Springville Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Springville Manufacturing Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Stamford Gas And Electric Company - Stamford Power Plant",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Standard Machinery Company",
+        "city": "Mystic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Standard Machinery Company",
+        "city": "Mystic River",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Stanley Rule & Level Company",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Stanley Works",
+        "city": "New Britian",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Stanley Works, Stanley Tools Division",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Stanley Works, Stanley Tools Division",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Steel Point Powerhouse",
+        "city": "Steel Point",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Sterling Dyeing & Finishing Company",
+        "city": "Sterling",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Sterling Improvement Company",
+        "city": "Sterling",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Stollwerck Brothers",
+        "city": "Stamford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Summit Thread Company",
+        "city": "East Hampton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Taft Hotel",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Thames River Specialties Company",
+        "city": "Montville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Tilo Roofing Company",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Tilo Roofing Company, Incorporated",
+        "city": "Stratford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Torrington Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Travelers Insurance",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Travelers Insurance Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Travelers Insurance Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Travelers Insurance Company Building",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Turner And Seymour Manufacturing Company",
+        "city": "Torrington",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Turner And Seymour Manufacturing Company",
+        "city": "Walcottville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Uncas Printing And Finishing Company",
+        "city": "Mechanicsville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Underwood Commerce Properties",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Underwood Corporation",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Underwood Elliott Fisher Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Underwood Typewriter Plant",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Union Drawn Steel Company",
+        "city": "Hartford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Union Electric Light And Power Company - Power Plant",
+        "city": "Unionville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Union Manufacturing Company",
+        "city": "New Britain",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Union Metalic Cartridge Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Union Typewriter Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "United Illuminating Company",
+        "city": "Devon",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "United Illuminating Company - Bridgeport Power Station",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "United Illuminating Company - English Station",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "United Illuminating Company - Steel Point Station",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "United Illuminating Company, Congress St. Power House",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "United States Aluminum Company",
+        "city": "Fairfield",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "United States Coast Guard Station",
+        "city": "Groton",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "United States Finishing Company Sterling Department",
+        "city": "Sterling",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "United States Naval Shipyard, Submarine Base",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "United States Navy Underwater Sound Laboratory",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "United States Rayon Corporation",
+        "city": "Danielson",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "United States Rubber Company",
+        "city": "Naugatuck",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "United States Submarine Base",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Us Naval Submarine Base",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Vulcan Iron Works",
+        "city": "New Britian",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Walken Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Wallace And Sons",
+        "city": "Ansonia",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Wallace Barnes Company",
+        "city": "Forestville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Wallingford Manufacturing Company",
+        "city": "Wallingford",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Warren Woolen Company",
+        "city": "Stafford Springs",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Waterbury Clock Company",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Waterbury Hospital",
+        "city": "Waterbury",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Weibel Brewing Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Westinghouse Electric And Manufacturing Company - West End Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Westinghouse Electric And Manufacturing Company - West End Plant",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Wheeler And Wilson Manufacturing Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "White Manufacturing Company",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Whiting Manufacturing Company",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Willimantic Gas And Electric Light Company - Power Plant",
+        "city": "Willimantic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Willimantic Linen Company",
+        "city": "Willimantic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Winchester Repeating Arms Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Winchester Repeating Arms Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Winchester Rereating Arms Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Windham Manufacturing Company",
+        "city": "Willimantic",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Windsor Paper Company",
+        "city": "Windsor Locks",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Winthrop Ice Company",
+        "city": "New London",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Wisvest Connecticut",
+        "city": "Bridgeport",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Wooden Goods",
+        "city": "Rockville",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Wyandotte Worsted Mills, Incorporated",
+        "city": "Central Village",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Yale Tire And Rubber Company",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Yale University, Sterling Power Plant",
+        "city": "New Haven",
+        "state": "CT",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Yantic Woolen Mills Incorporated",
+        "city": "Yantic",
+        "state": "CT",
+        "visibility": ""
+      }
+     ]
+}

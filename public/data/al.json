@@ -1,0 +1,6157 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "#1 Steam Plant, Ensley Works",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "1st Methodist Church",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "3M Chemical Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "3M Chemical Plant",
+        "city": "Guin",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "5400 Building",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Ace Fabrication",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "ACIPCO",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Adams Manufacturing Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Addsco",
+        "city": "Pinto Island",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Addsco Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Addsco Shipyard",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Admiral Sims Motor Hotel",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Air Pro",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Airco",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Airco Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Alabama And Tennessee Coal And Iron Company",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Alabama Binder & Chemical Corporation",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Alabama By Products",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Alabama By-Products Co. (Abc)",
+        "city": "Tarrant City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Alabama By-Products Co. (ABC) Foundry",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Alabama By-Products Co. (Abc) Foundry",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Alabama By-Products Corporation",
+        "city": "Dolcite Junction",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Alabama By-Products Corporation Coke Plant",
+        "city": "Tarrant City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Alabama By-Products Corporation, Coke Plant",
+        "city": "Tarrant City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Alabama College",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Alabama Consolidated Coal And Iron Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Alabama Consolidated Coal And Iron Company",
+        "city": "Ironaton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Alabama Consolidated Coal And Iron Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Alabama Consolidated Coal And Iron Company",
+        "city": "Boyle",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Alabama Dry Dock",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Alabama Dry Dock (Addsco) Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Alabama Dry Dock And Shipbuilding Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Alabama Electirc Cooperative Incorporated",
+        "city": "Leroy",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Alabama Electric Cooperative, Inc. - Mcwilliams Power Plant",
+        "city": "Gantt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Alabama Electrical Corp.",
+        "city": "Grant",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Alabama Feed",
+        "city": "Hanceville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Alabama Fuel And Iron Company",
+        "city": "Acmar",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Alabama Fuel And Iron Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Alabama Fuel And Iron Company",
+        "city": "Colgate",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Alabama Kraft Company",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Alabama Lumber Company",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Alabama Ordinance Works",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Alabama Ordnance Works",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Alabama Pine Pulp, Incorporated",
+        "city": "Perdue Hill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Alabama Pipe Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Alabama Polytechinic Institute",
+        "city": "Auburn",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Alabama Power & Light",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Alabama Power Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Alabama Power Company - Barry Steam Plant",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Alabama Power Company - Ernest C Gaston Steam Plant",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Alabama Power Company - Ernest C Gaston Steam Plant - Unit 1",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Alabama Power Company - Ernest C Gaston Steam Plant - Unit 2",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Alabama Power Company - Ernest C Gaston Steam Plant - Unit 3",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Alabama Power Company - Ernest C Gaston Steam Plant - Unit 4",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Alabama Power Company - Gadsden Steam Plant",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Alabama Power Company - Gaston Steam Plant",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Alabama Power Company - Greene County Steam Plant",
+        "city": "Forkland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Alabama Power Company - Greene County Steam Plant Unit 1",
+        "city": "Forkland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Alabama Power Company - Miller Steam Plant",
+        "city": "Quinton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Alabama Power Company - Miller Steam Plant - Unit 1",
+        "city": "Quinton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Alabama Power Company - Miller Steam Plant - Unit 2",
+        "city": "Quinton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Alabama Power Company - Miller Steam Plant - Unit 3",
+        "city": "Quinton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Alabama Power Company - Miller Steam Plant - Unit 4",
+        "city": "Quinton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Alabama Power Company - William Crawford Gorgas Electric Generating Plant",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Alabama Power Company - William Crawford Gorgas Electric Generating Plant - Turbine #6",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Alabama Power Company - William Crawford Gorgas Electric Generating Plant - Unit 6",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Alabama Power Company - William Crawford Gorgas Electric Generating Plant - Unit 7",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Alabama Power Company - William Crawford Gorgas Steam Plant",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Alabama Power Office Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Alabama Power Office Building",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Alabama Power Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Alabama Power Plant",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Alabama Power Plant",
+        "city": "Gorgas",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Alabama Power Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Alabama River Pulp Company",
+        "city": "Clairborne",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Alabama Rug & Linoleum Company, 2106 North 1st Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Alabama Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Alabama State Docks",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Alabama State Hospital And Partlow State School For Searcy Hospital",
+        "city": "Mt. Vernon",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Alabama State Hospital And Partlow State School For Searcy Hospital",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Alabama Steel And Iron Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Alabama Steel And Shipbuilding Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Alabama Steel And Shipbuilding Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Alabama Steel And Wire Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Alabama Steel And Wire Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Alabama Steel Drum",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Alberta Provincial Government",
+        "city": "Oliver",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "ALCOA Aluminum Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Aldrich Mining Company",
+        "city": "Brilliant",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Alexander City Creamery",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Alexander City Mills",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Allen Graphite Company",
+        "city": "Talladega",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Allied-Celotex-Barrett-Jim Walters Roof Materials Plant",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Allied/Boise Cascade Paper Mill",
+        "city": "Jackson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Alrich Mining Company",
+        "city": "Brilliant",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Aluminum Company Of America",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Aluminum Company Of America, Refining Division",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Aluminum Ore Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Aluminum Ore Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Aluminum Ore Powerhouse",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "American Automatic Railway Switch Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "American Can Company",
+        "city": "Bellamy",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "American Can Company",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "American Can Company, Marathon Division",
+        "city": "Naheola",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "American Can Paper Mill",
+        "city": "Butler",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "American Cast Iron Pipe Co. (ACIPCO) Pipe Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "American Container Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "American Cyanamid Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "American Laundry Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "American Net And Twine Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "American Oil Refinery (Amoco)",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "American Service Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "American Tar Products Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Amoco",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Amoco Chemical",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Amoco Chemical Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Anniston Army Depot",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Anniston Cordage Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Anniston Electric And Gas Company Plant",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Anniston Manufacturing Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Armour & Company, 330 Lee St.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Armour/La Roche/Us Agriculture Chemical Plant",
+        "city": "Cherokee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Arnold Lumber Company",
+        "city": "Cullman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "AT&T Office",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Atlanta & West Point Railroad",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Atlantic Coastline Railroad",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Atlas Marine Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Auburn University, Thach Hall",
+        "city": "Auburn",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Automatic Electric Electronics Plant",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Auxiliary Pumping Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Avondale Chemical Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Avondale Mills",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Avondale Mills",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Avondale Mills",
+        "city": "Pell City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Avondale Mills",
+        "city": "Sylacauga",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Avondale Mills Textile Mill",
+        "city": "Pell City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Avondale Mills Textile Mill",
+        "city": "Sylacauga",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "B. & B. Sales Company, 1925 North 5th Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "B.A. Rogers",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "B.C. Fertilizer Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "B.F. Barbour Plumbing & Electric Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "B.F. Goodrich Company",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "B.F. Goodrich Plant",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Bachelor Officers Quary Motel",
+        "city": "Ft. Rucker",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Badham Insulation Co. Warehouse",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Badham Insulation Shop",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Barnett Mill",
+        "city": "Prichard",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Barry Steam Plant",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Barry Steam Plant",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Bayless Machine & Welding, 1001 North 19th St.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Bear Brothers, Incorporated, 25 East Jefferson St.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Beaunit \"Knitting\" Rayon (Coosa Pines) Textile Mill",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Bell Telephone Building (s)",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Bellefont Nuclear Generating Station",
+        "city": "Hollywood",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Bellefonte Nuclear Plant",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Bellefonte Nuclear Plant",
+        "city": "Hollywood",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Bellefonte Nuclear Powerhouse",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Bemis Bag Paper Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Bender Shipbuilding",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Bender Shipbuilding & Repair",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Bender Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Bender Welding & Metal Shop",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Bessemer Coal, Iron & Land Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Bessemer Coal, Iron & Land Company",
+        "city": "Belle Ellen",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Bessemer Coal, Iron & Land Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Bessemer Rolling Mill",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Bessemer Steel Mill",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Bessemer Water Works - Plant",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Big Four Company, Incorporated, 6424 North 1st Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Birmingham Coke And By-Products Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Birmingham Electric Company - Powell Avenue Steam Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Birmingham Flooring Company, 1007 North 10th Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Birmingham Forest Products, Incorporated",
+        "city": "Cordova",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Birmingham Ice & Cold Storage, Ave. East & South 21st St.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Birmingham Ice Factory Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Birmingham Linen Supply Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Birmingham Machine And Foundry Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Birmingham Oil Mills, Incorporated",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Birmingham Rolling Mill Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Birmingham Rug &  Linoleum Company, 1722 North 2nd Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Birmingham Water Works Company, Cahaba Station",
+        "city": "Hedona",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Bishop-Parker Furniture Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Boar Mills",
+        "city": "Guntersville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Boaz Mills",
+        "city": "Guntersville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Boaz Spinning Company, Incorporated",
+        "city": "Guntersville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Borden'S Ice Cream Company",
+        "city": "Dothan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Brewton Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Brockway Glass",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Brookley Air Force Base",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Brookley Field",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Brookley Field Warehouse (s)",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Brown Ferry Nuclear Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Brown‚Äôs Ferry Nuclear Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Browns Ferry Nuclear Plant",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Butler Manufacturing",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "C. & G. Cooper Company",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Calabama Chemical Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Caldwell Foundry",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Capital Chevrolet Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Capital Refrigeration Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Central Foundry",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Central Foundry Co.",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Central Foundry Company",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Central Iron And Coal Company",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Central Mills",
+        "city": "Sylacauga",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Central Supply Company, Inc.",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Champion International Corporation",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Champion Paper Company",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Champion Paper Company",
+        "city": "Pensacola",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Champion Papermill",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Chemstrand Company, Division Of Monsanto Chemical Company",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Chemstrand Corporation",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Chemstrand/Monsanto Chemical Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Cherry Cotton Mills",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Chicago Bridge & Iron Fabricating Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Ciba Geigy Corporation",
+        "city": "Mcintosh",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Ciba-Geigy Chemical Plant",
+        "city": "Mcintosh",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Cloverdale Manufacturing Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Clow Pipe Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Coaburg Coal Coke Company",
+        "city": "South Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Coastal Mobile Refinery",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Cogle Lumber Mill",
+        "city": "Thomasville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Colbert Steam Plant",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Colbert Steam Plant",
+        "city": "Barton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Colbert Steam Plant",
+        "city": "Cherokee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Colbert Steam Plant",
+        "city": "Tuscumbia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Cole Supply Company, Inc.",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Collins Baking Company, Ovens",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Columbia General Hospital",
+        "city": "Andalusia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Container Corporation Of America",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Container Corporation Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Continental Can Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Continental Can Paper Mill",
+        "city": "Butler",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Continental Gin Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Convict Bureau",
+        "city": "Speigner",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Coosa Pipe & Foundry",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Coosa River Newsprint Company",
+        "city": "Coosa Pines",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Coosa River Newsprint, aka Kimberly Clark Paper Mill",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Coosa River Ordnance Plant",
+        "city": "Talladega",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Courtaulds Chemical Plant",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Courtaulds Fibers",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Cowikee Cotton Mills",
+        "city": "Eufaula",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Craig Air Force Base",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Creasey Company",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Crossfield Ice & Ice Cream Company, 210 Forest Ave.",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Cudahy Packing Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Cullman Creamery",
+        "city": "Cullman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Culp Smelting & Refining",
+        "city": "Steele",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Cumberland Steam Plant",
+        "city": "Cumberland City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Dallas Manufacturing Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Dan River Cotton Mill",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Dan River Power Station",
+        "city": "Eden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Daniel Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Debardeleben Coal Corporation",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Decatur Land Improvement And Furnace Company",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Decatur Substation (TVA)",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Deep South Creamery Company",
+        "city": "Cullman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Defense Plant Corporation",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Degussa Chemical Plant",
+        "city": "Theodore",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Department Of Buildings & Grounds, S.F. Brewster",
+        "city": "Auburn",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Diamond Head Chemcial Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Diamond Shamrock Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Diamond Shamrock/Occidental Alkalai",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Dimmick Pipe Company",
+        "city": "North Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Dixie Land Dairy",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Doctors Hospital",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Dothan Electric Light And Water Works Plant",
+        "city": "Dothan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Dothan Grocery Company",
+        "city": "Dothan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Dow Corning Fibreglass",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Dunlop Tire And Rubber Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Dupont Powder Plant",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Dupont Powder Plant",
+        "city": "Watson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Dwight Manufacturing Company",
+        "city": "Alabama City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Watson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "E.I. Dupont De Nemours And Company, Jefferson County",
+        "city": "Watson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "E.M. Dorms & Mess Hall",
+        "city": "Ft. Rucker",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Eagle Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "ECM Hospital",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Electric Lighting Company Of Mobile -Powerhouse",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Eliza Coffee Memorial Hospital",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Empire Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Enterprise Ice & Meat Curing Company",
+        "city": "Enterprise",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Eufaula Cotton Mills",
+        "city": "Eufaula",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "F.C. Huyck Company",
+        "city": "Aliceville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Fairfield Steel Works",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Fairfield Works",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Faulkner Ice Company, Powell & Cherry Sts.",
+        "city": "Dothan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Fidelity Warehouse Corporation",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "First National (Southern Natural Gas) Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "First National Bank Building",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "First National Bank Building",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Florence Hardware Company",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Florence State Teachers College - Treasurer'S Office",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Fluor Daniel",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Ford Motor Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Foremost Dairies, Incorporated",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Fort Rucker Boiler Plant",
+        "city": "Fort Rucker",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Franklin Coal Mining Company",
+        "city": "Powhatan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Freuhauf Trailer Smelting Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Fruehauf Trailer Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Ft. James Operating Company",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "G.A. Leftwich",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Gadsden Alabama Furnace Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Gadsden Steam Plant",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Gaf Corporation",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "GAF Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Gant Power",
+        "city": "Andulusia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Gant Power Plant",
+        "city": "Gant",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Gaston Steam Plant/Wilsonville Steam Plant",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "GE Fiber Plant",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Georgia Kraft Project",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Georgia Pacific",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Monroeville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Gloss-Sheffield Steel And Iron Company",
+        "city": "Bessie Mines",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Gnatt Powerhouse",
+        "city": "Gnatt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Goldstein's Furs, 1811 North 3rd Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Goodyear And Rubber Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Goodyear Tire & Rubber Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Goodyear Tire & Rubber Plant",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Gorgas Steam Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Gorgas Steam Plant",
+        "city": "Gorgas",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Goslin Foundry",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Graveman's Dairy, Rte. 1",
+        "city": "Cullman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Graysons Delicious Ice Cream, 701 South 20th St.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Great Plains Pipeline",
+        "city": "Theodore",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Green County Paper Mill",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Green County Steam Plant",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Green County Steam Plant",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Green County Steam Plant",
+        "city": "Green County",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Gulf Atlantic Operations",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Gulf Development Company, Inc.",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Gulf Electric Co. Shop",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Gulf Engineering",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Gulf Lumber Company",
+        "city": "Prichard",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Gulf Lumber Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Gulf Power, Leroy Steam Plant",
+        "city": "Leroy",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Gulf Ship Building Company",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Gulf Ship Building Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Gulf Shipbuilding",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Gulf Shipbuilding",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Gulf Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Gulf Shipyard",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Gulf State Paper Mill",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Gulf States Creosoting Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Gulf States Lumber Company",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Gulf States Paper",
+        "city": "Tuscalooca",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Gulf States Paper",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Gulf States Paper Corporation",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Gulf States Paper Corporation",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Gulf States Paper Mill",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Gulf States Paper Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Gulf States Paper Mill",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Gulf States Paper Mill",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Gulf States Steel",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Gulf States Steel Company",
+        "city": "Alabama City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Gulf States Steel Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Haas Davis Packing Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Halby Chemical",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Hammermill Paper Company",
+        "city": "Riverdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Hammermill Paper Company - Riverdale Mill",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Hammermill/International Paper Mill",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Harbison Walker Refractories Company",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Harbison-Walker Refractories Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Harbison-Walker Refractories Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Hardy Corporation, 2126 South 4th Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Hayes International Corporation",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Hayes International Shop",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Helburn Company, 412 Montgomery St.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Henry L. Beckman, 1437 Princeton Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Hercules Powder (Explosives) \"Birmingham\" Chemical Plant",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Hill Grocery Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Hollingsworth And Whitney Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Hollingsworth And Whitney Division",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Hollingsworth/Whitney Paper Mill (N/K/A Scott Paper Mill)",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Home Ice & Coal Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Home Ice Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Home Industry Iron Works",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Houston Compress Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Howard Harrison Iron Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Humble Oil Field",
+        "city": "Flomaton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Hunt Oil Refinery",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Huntsville Arsenal",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Huntsville City Schools",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Huntsville High School",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Huntsville Ice Cream & Creamery Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Huntsville Railway Light And Power Company - Power Plant",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Hutchens Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Ide Cotton Mills",
+        "city": "Jacksonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Ideal Cement",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Ideal Cement Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Illinois Car & Equipment Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Ingalls Barge Works Repair Yard",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Ingalls Iron Works",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Ingalls Iron Works 2nd Shipbuilding",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Ingalls Shipyard",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Ingalls Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Ingalls Steel Construction Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "International Paper",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "International Paper",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "International Paper",
+        "city": "Cortland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "International Paper",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "International Paper",
+        "city": "Riverdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "International Paper Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "International Paper Company, Southern Kraft Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "International Paper Company, Southern Kraft Division",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "International Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "International Paper Mill",
+        "city": "Camden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "International Paper Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "J. G. Whiddon, 1920 South Perry St.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "J. Graham Brown Educational Center",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Jacksonville State University",
+        "city": "Jacksonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "James River Dixie Northern - Georgia Pacific",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "James River Dixie, Northern",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "James River Paper",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "James River Paper Mill",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "James River Paper Mill",
+        "city": "Butler",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "James River Paper Mill",
+        "city": "Naheola",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "James River/American Can/Marathon Paper Mill",
+        "city": "Butler",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "James River/American Can/Marathon Paper Mill",
+        "city": "Pennington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Jefferson Foundry",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Jefferson Iron & Metal",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Jefferson Smurfit",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Jim Walter Resources",
+        "city": "North Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Jos. Mcwilliams And Company, Battle House",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Joseph Mcwilliams & Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Kaul Lumber Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Kaul Lumber Company",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Kerr Mcgee Chemical Corporation",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Ketona Chemical Company",
+        "city": "Ketona",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Ketona Chemical Corporation",
+        "city": "Tarrant",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Ketona Chemical Plant",
+        "city": "Ketona",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Kilby Frog And Switch Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Kilby Locomotive And Machine Works",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Kimberly Clark Paper Mill",
+        "city": "Coosa Pines",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Kimberly-Clark Corporation",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Knit Kote Textile Mill",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Koolman's Quick Freeze",
+        "city": "Guntersville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Koppers Company",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Koppers Company, Incorporated",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Koppers Company, Incorporated",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Koppers Company, Incorporated, Tar And Chemical Division",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Koppers/Woodward Iron",
+        "city": "Hueytown",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "L & N Division Office",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "L & N Railroad",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "L.C. Young Ice Cream Company, 121 Bell St.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Lanett Bleachery & Dye Works",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Lanett Bleachery And Dye",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Lanett Bleachery And Dye Works",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Lanett Cotton Mills",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Lanett Mills",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Lily Ice Cream Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Little Big Horn",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Livingston State Teachers College",
+        "city": "Livingston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Livingston University",
+        "city": "Livingston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Louis Fizitz Dry Goods Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Louisville And Nashville Railroad",
+        "city": "Boyles",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Louisville And Nashville Railway",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "LTV Steel",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "M.L. Angelini, 511 Cloverdale Rd.",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Macmillan Bloedel Particleboard, Incorporated",
+        "city": "Pine Hill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Macmillan Bloedel, Incorporated",
+        "city": "Pine Hill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Marathon Oil Refinery",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Marathon Southern Corporation",
+        "city": "Naheola",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Marine Junk Co., Inc.",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Marine Specialties",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Marine Specialty Store",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Marshall Space Flight Center",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Mason & Dulion",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Matthews Electric Supply Company - North 1st Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Maxwell Air Force Base",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Mcdonald Cotton Mills",
+        "city": "Sylacauga",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Mcmillian Bloedel Paper Mill",
+        "city": "Pine Hill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Mcwane Iron",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Mead Coated Board",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Mead Coated Board",
+        "city": "Phenix City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Mead Corporation",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Mead Corporation",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Mead Paper",
+        "city": "Phenix City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Mead Paper Co.",
+        "city": "Cottonton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Meade Paper Mill",
+        "city": "Stevenson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Merrimack Manufacturing Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Michelin North America",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Michelin Tire",
+        "city": "Dothan",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Midland City Elementary School",
+        "city": "Midland City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Miller Steam Plant",
+        "city": "West Jefferson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Mitsubishi",
+        "city": "Theodore",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Mobile Airport",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Mobile Energy Services",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Mobile Infirmary",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Mobile Infirmary Hospital",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Mobile Light And Railroad Company - Power Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Mobile Linen",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Mobile Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Mobile Pulley & Machine Works",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Mobile Pulley Works",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Mobile River Saw Mill",
+        "city": "Mount Vernon",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Mobile Ship Repair (A/K/A Gulf Shipyard)",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Mobile Ship Repair Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Mobile Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Moffatt Plumbing & Heating Company, 315 South 20th St.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Monsanto",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Monsanto Chemical Plant",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Monsanto Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Monsanto Company",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Montclair Baptist Hospital",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Montclair Hospital",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Montevallo College",
+        "city": "Montevallo",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Montgomery Lighting And Water Power Company - Power Plant",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Moretti Harrah Marble Company",
+        "city": "Sylacauga",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Muscle Shoals Rubber Company",
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Muscle Shoals Rubber Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "National Cement Plant",
+        "city": "Ragland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "National Gypsum Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "National Gypsum Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "National Gypsum Company",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "National Gypsum Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "New Providence Hospital",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Newport Industries, Incorporated",
+        "city": "Bay Minette",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Newport News Shipbuilding And Dry Dock Company",
+        "city": "Bay Minette",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Newport/Tenneco/Reichold Plant",
+        "city": "Bay Minette",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Nitrate Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Nixon Mine",
+        "city": "Crudup",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Norfolk Southern Railroad",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "North Alabama Turn Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "North Alabama Turn Company",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "North Brothers Warehouse",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Northern Alabama Coal Iron And Railway Company",
+        "city": "Talladega",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Old Alabama Power Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Olin Belcher Lumber Company, Incorporated",
+        "city": "Brent",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Olin Mathieson Chemical",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Olin Mathieson Chemical",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Olin Mathieson Chemical Plant",
+        "city": "Mcintosh",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Olinkraft Incorporated",
+        "city": "Monroeville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Opelika Manufacturing",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Osborn Ice Company",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Partlow State School",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Peerless Steam Laundry And Dyeing Company - Laundry Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Pemco Aeroplex, Inc.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Pepperell Manufacturing Company",
+        "city": "Pepperell",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Pepperell Manufacturing Company",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Pepperell Mills",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Phila Ensley Tur",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Phillip Schillinger Brewing Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Pinitz Dry Goods Company, 1822 North 2nd Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Pioneer Fabricating Shop",
+        "city": "Attalla",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Pittsburgh Plate Glass (PPG) Chemical Plant",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Princeton Hospital",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Profile Cotton Mills",
+        "city": "Jacksonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Proividence Infirmary",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Protective Life Insurance",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Pullman Standard",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Pullman Standard Car Manufacturing",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Pure Carbonic Incorporated",
+        "city": "Siloria",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Purity Bakery, Ovens",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Railroad Station High Level",
+        "city": "Parrish",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Red Stone Arsenal",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Redstone Arsenal",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Redstone Arsenal",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Reichhold Chemical",
+        "city": "Bay Minette",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Reichhold Chemical, Incorporated",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Reichold Chemical Plant",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Republic Iron And Steel Company",
+        "city": "Thomas",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Republic Iron And Steel Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Republic Steel",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Republic Steel - General Labor Pool",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Republic Steel Company, Defense Plant Corporation",
+        "city": "Alabama City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Republic Steel Corporation",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Republic Steel Mill",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Republic Steel/Gulf States Steel/LTV Steel",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Republican Steel",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Reynolds Alloy Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Reynolds Alloys Plant",
+        "city": "Listerhill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Reynolds Alloys Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Reynolds Aluminum",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Reynolds Aluminum",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Reynolds Aluminum Plant",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Reynolds Aluminum Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Reynolds Credit Union",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Reynolds Metals Company",
+        "city": "Lister",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Reynolds Metals Plant",
+        "city": "Listerhill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Reynolds Metals Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Reynolds Metals-Sherwin Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Reynolds Reclamation Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Reynolite Plant aka Sheffield Can Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Richard Tillis",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Roanoke Cotton Mills",
+        "city": "Roanoke",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Robbins Tire & Rubber Plant",
+        "city": "Tuscumbia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Rockwool Plant",
+        "city": "Leeds",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Rogers, Incorporated",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Ruberoid Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Ruberoid Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Ruberoid Roof Shingle Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Ruberoid/GAF Manufacturing Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Russell Foundry",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Russell Manufacturing Company",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Russell Mills Incorporated",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Russell Pipe",
+        "city": "Alexander City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Russelville Metal Company",
+        "city": "Darlington",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Sam Joy Laundry, Incorporated",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Sanders Cotton Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Scotch Plywood Company",
+        "city": "Beatrice",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Scott Paper & Wood Yard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Scott Paper Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Scott Paper Company, Hollingsworth And Whitney Division",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Scott Paper Credit Union",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Scott Papermill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Seaboard Manufacturing Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Searcy Hospital",
+        "city": "Mt. Vernon",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Sears, Roebuck & Company, 1531 North 2nd Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Semet-Solvay Company",
+        "city": "North Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Semet-Solvay Company",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Semet-Solvay Company",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Semet-Solvay Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Sewing Mil",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Shelby Iron Company",
+        "city": "Shelby",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Shell Chemical",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Shell Chemical Plant",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Shell Chemical Plant",
+        "city": "Lemoyne",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Shell Refinery",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Shook & Fletcher",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Shook & Fletcher Warehouse",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Sloss Furnaces",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Sloss Industries",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Sloss Sheffield Steel & Iron",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Sloss Sheffield Steel & Iron Company, Blast Furnace",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Russellville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Sloss",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "North Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Flat Top",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Sloss-Sheffield Steel & Iron Company",
+        "city": "Bessie Mines",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Sloss-Sheffield Steel & Iron Company, Sloss Mines",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Sloss-Sheffield Steel And Iron Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Smith & Kelly Brick Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Smith Kelly Supply Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Southeastern Compress And Warehouse Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Southeastern Ice Corporation",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Southeastern Production Company",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Southern Detinning Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Southern Division",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Southern Electric Generating (SEGCO) Power Plant",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Southern Electric Generating Company- Ernest C Gaston Steam Plant",
+        "city": "Wilsonville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Southern Iron And Steel Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Southern Iron And Steel Company",
+        "city": "Alabama City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Southern Iron And Steel Company",
+        "city": "Crudup",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Southern Kraft Corporation",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Southern Kraft Division International Paper Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Southern Natural Gas Compressor Station",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Southern Railroad",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Southern Railroad Warehouse",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Southern Railway Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Southern Railway Systems",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Southern Steel Company",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "St. Margaret'S Hospital",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "St. Regis Paper Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Standard Coal Company",
+        "city": "Brookwood",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Standard Oil Refinery",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Standard Portland Cement Company",
+        "city": "Leeds",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "State Of Alabama",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "State Of Alabama, Convict Bureau",
+        "city": "Speigner",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "State Of Alabama, Department Of Finance, Division Of Purchases & Stores",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Stauffer (Lemoyne) Chemical Plant",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Stauffer Chemical (Lemoyne) Plant",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Stauffer Chemical Company",
+        "city": "Axis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Stauffer Chemical Company",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Stauffer Chemical Company- Cold Creek Plant",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Stauffer Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Stevens Manufacturing",
+        "city": "Shawmut",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Stockholm Valve",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Stockholm Valve",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Stone Container",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Stone Container",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Stone Container Paper Mill",
+        "city": "Bruton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Stutts Saw Mill",
+        "city": "Thomasville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "T.M. & B.A. Rogers",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "T.R. Miller Mill Company, Incorporated",
+        "city": "Brewton",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Talladega College",
+        "city": "Talladega",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Talladega Furnace Company",
+        "city": "Talladega",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Tar Products Division, Koppers Company, Incorporated",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Teague Hardware Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Temple Inland Forest Products",
+        "city": "Monroeville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Tenneco Chemicals, Incorporated",
+        "city": "Bay Minette",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Tennesse Valley Authority",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Tennessee Coal & Iron",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Tennessee Coal & Iron",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Tennessee Coal And Iron",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Tennessee Coal And Iron And Railroad Company",
+        "city": "Pratt City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Tennessee Coal And Iron Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Tennessee Coal And Iron Company - Ensley Steel Works - Number 1 Steam Plant",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Tennessee Coal And Iron Company - Ensley Steel Works - Number 4 Steam Plant",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Tennessee Coal And Iron Company - Ensley Steel Works - Number 5 Steam Plant",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Tennessee Coal And Iron Division, Us Steel Corporation",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Tennessee Coal Iron & Railroad Co.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "Tennessee Coal, Iron And Railroad",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Tennessee Coal, Iron And Railroad",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Pratt City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Holt",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Corey",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Tennessee Coal, Iron And Railroad Company",
+        "city": "Fairfield Works",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Tennessee Land Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "Tennessee Valley Authority",
+        "city": "Bridgeport",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Tennessee Valley Authority",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Tennessee Valley Authority",
+        "city": "Tuscumbia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Tennessee Valley Authority",
+        "city": "Pratt City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Tennessee Valley Authority - Browns Ferry Nuclear Plant",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Tennessee Valley Authority - Colbert Steam Plant",
+        "city": "Tuscumbia",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Tennessee Valley Authority - Fertilizer Plant",
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "Tennessee Valley Authority - Widows Creek Steam Plant",
+        "city": "Stevenson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Tennessee Valley Authority - Widows Creek Steam Plant - Unit 5",
+        "city": "Stevenson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "Tennessee Valley Authority - Widows Creek Steam Plant - Unit 8",
+        "city": "Stevenson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "Tennessee Valley Authority, Chemical Accounting Office",
+        "city": "Wilson Dam",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Tennessee Valley Authority, Fertilizer Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Tennessee Valley Authority, John Svier Accounting Office",
+        "city": "Wilson Dam",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "The Starr Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Thiokol Chemical",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Thos C. Brasfield, 3023 South 6th Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Trinity Substation (TVA)",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Turkey Point Powerhouse",
+        "city": "Homestead",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Turner Lumber Mill",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Turner Supply Co.",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Tuskegee Institute",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Tuskegee Normal And Industrial Institute",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Tutwiler Coal, Coke And Iron Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Tutwiler Hotel",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "TVA Ammonia Nitrate Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "TVA Fertilizer Chemical Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "TVA Fossil Fuel Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "TVA Gasification Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "TVA Nerve Gas Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "TVA Nitrate Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "TVA Nitrate Plant #2",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "TVA Office Building",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "TVA P.D.W. Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "TVA Phosphate Chemical Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "TVA Phosphate Development Works Nerve Gas Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "TVA Power Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "TVA Power Service Shop",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "TVA Pwd Chemical Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "TVA Service Shop",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "TVA Sheffield Garage",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "TVA Water Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "TVA Watershed Property",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Tyndall Air Force Base, Mess Hall",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "U.S. Gypsum Mine",
+        "city": "Montevallo",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "U.S. Pipe & Foundry Chemical",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "U.S. Pipe And Foundry",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "U.S. Pipe Plant",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "U.S. Reduction Plant",
+        "city": "Russellville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "U.S. Steel",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "U.S. Steel Corp",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "U.S. Steel Mill",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "U.S. Steel Mill",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "U.S. Steel, Fairfield Coke Works, Jefferson County",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "U.S. Steel, Tank Insulation",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Union Bag Paper Mill",
+        "city": "Demopolis",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Union Bag-Camp Paper Corporation",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Union Camp Corporation",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Union Camp Corporation",
+        "city": "Chapman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Union Camp Corporation, Paper Mill",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Union Camp Corporation, Plywood Plant",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "Union Camp Paper Mill",
+        "city": "Prattville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Union Camp Saw Mill",
+        "city": "Chapman",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Union Carbide Chemical Plant",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Union Carbide Chemical Plant",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Union Carbide Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Union Carbide Company",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Union Carbide Corporation",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Union Carbide Metallurgical Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Union Refining Company",
+        "city": "Montgomery",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "United Paint & Wallpaper Company, 5th & Chestnut Sts.",
+        "city": "Gadsden",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "United States Cast Iron Pipe And Foundry Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "United States Government Cyanamid Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "United States Government Nitrate Plant",
+        "city": "Benoit",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "United States Government Nitrate Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "United States Government Nitrate Plant #2",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "United States Pipe",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "United States Pipe And Foundry Company",
+        "city": "North Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "United States Plywood-Champion Papers, Incorporated",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "United States Steel",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "United States Steel",
+        "city": "Concord",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "United States Steel",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "United States Turpentine And Roslin Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "University Hospital",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "University Of Alabama",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "University Of Alabama, Central Utilities Facility",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "University Of Alabama, Medical Center, Lyons-Harrison Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Us Pipe & Foundry",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "US Pipe And Foundry Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "US Steel",
+        "city": "Wenonah",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Usx Corporation",
+        "city": "Fairfield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Valley Packing Company",
+        "city": "Huntsville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Vanity Fair Mills",
+        "city": "Monroeville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Vaugh Medical Center",
+        "city": "Selma",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Veterans Administration Hospital",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Veterans Administrative Hospital",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Veterans‚Äô Administration Hospital",
+        "city": "Tuskegee",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Virginia Chemical Plant",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "W.A. Handley Manufacturing. Company",
+        "city": "Roanoke",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "W.M. Smith And Company",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "W/O Advanced Training Facility",
+        "city": "Ft. Rucker",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Warrent Warehouse Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Warrior & Gulf Shipyard",
+        "city": "Chickasaw",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Warrior & Gulf Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Waterman Building",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Waterman Steam Ship Company",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Waterman‚Äôs Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Watermans Shipyard",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Watts Bar",
+        "city": "Spring City",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "West Point Manufacturing",
+        "city": "Langdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "West Point Manufacturing",
+        "city": "Fairfax",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "West Point Manufacturing Company",
+        "city": "Fairfax",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "West Point Manufacturing Company",
+        "city": "Shawmut",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "West Point Manufacturing Company",
+        "city": "Langdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "West Point Papermill",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "West Point Pepperell",
+        "city": "Abbeville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "West Point Pepperell",
+        "city": "Fairfax",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "West Point Pepperell",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "West Point Pepperell",
+        "city": "Langdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "West Point Pepperell",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "West Point Pepperell Manufacturing",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "West Point Pepperell Manufacturing Company",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "West Point Pepperill Textile Mill",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "West Point Stevens",
+        "city": "Fairfax",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "West Point Stevens",
+        "city": "Lanett",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "West Point Stevens",
+        "city": "Langdale",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "West Point Stevens",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "West Point Stevens - Carter Mill",
+        "city": "Valley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Western Grain Feed Plant",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Westinghouse Electric Shop",
+        "city": "Mobile",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Westinghouse Plant",
+        "city": "Montevallo",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "WestPoint Teppermill Cotton Mill",
+        "city": "Opelika",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Weyerhaeuser",
+        "city": "Pine Hill",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Weyerhauser Paper Mill",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Whaley Company, Liberty National Life Building",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Wheeler Dam",
+        "city": "Athens",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Wheeler Dam",
+        "city": "Courtland",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Wheeler Dam",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Wheeler Dam",
+        "city": "Rogersville",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Wheeler Dam",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Wheeler Dam",
+        "city": "Wheeler Dam",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Wheeler Dam Power Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Wheeler Dam Steam Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Wheeling Coke Ovens",
+        "city": "Ensley",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Widow‚Äôs Creek Power Plant",
+        "city": "Stevenson",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Widows Creek Steam Plant",
+        "city": "Bridgeport",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "William Edenborn",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Wilson Dam",
+        "city": "Florence",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Wilson Dam",
+        "city": "Muscle Shoals",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Wilson Dam",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Wilson Dam",
+        "city": "Wilson Dam",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Wilson Dam Hydro Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Wilson Dam Steam Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Wilson Steam Plant",
+        "city": "Sheffield",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Wilsonville Steam Plant",
+        "city": "Childersburg",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Wimberly & Thomas Hardware, 2011 North 1st Ave.",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Wiregrass Hospital",
+        "city": "Geneva",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Wolverine Copper Tube Plant",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Wolverine Tube",
+        "city": "Decatur",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "Woodstock Iron Works, Incorporated",
+        "city": "Anniston",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Woodward Iron",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Woodward Iron",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Woodward Iron",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Woodward Iron Company",
+        "city": "Wheeling",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Woodward Iron Company",
+        "city": "Woodward",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 955,
+        "company": "Woodward Iron Company",
+        "city": "Bessemer",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "Woodward Iron/ Koppers",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "Woodward/Iron Koppers",
+        "city": "Birmingham",
+        "state": "AL",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "Zeneca",
+        "city": "Bucks",
+        "state": "AL",
+        "visibility": ""
+      }
+     ]
+}

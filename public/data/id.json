@@ -1,0 +1,606 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.L. Flewelling",
+        "city": "Coeur D'Alene",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Buhl",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Almagated Sugar Plant",
+        "city": "Paul",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Amalgamated Sugar Company",
+        "city": "Paul",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Amalgamated Sugar Company",
+        "city": "Burley",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Amalgamated Sugar Company",
+        "city": "Nampa",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Amalgamated Sugar Company",
+        "city": "Twin Falls",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Atomic Energy Commission",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "B.C. Fertilizer Plant",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Beet Growers Sugar Company",
+        "city": "Rigby",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Boise Cascade Company",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Bunker Hill & Sullivan Mining And Concentrating Company",
+        "city": "Kellogg",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Bunker Hill Company",
+        "city": "Kellogg",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Bunker Hill Lead Smelter",
+        "city": "Bunker Hill",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Bunker Hill Smelter",
+        "city": "Kellogg",
+        "state": "ID",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "California Packing Corporation",
+        "city": "Franklin",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Carnation Milk Products Company",
+        "city": "Nampa",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Chicago Bridge & Dam",
+        "city": "Orofino",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Craig Mountain Lumber Company",
+        "city": "Winchester",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Dairyman's Cooperative Creamery",
+        "city": "Caldwell",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Del Monte Corporation",
+        "city": "Franklin",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Del Monte Corporation",
+        "city": "Burley",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Ebr-Ii Powerhouse",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Empire Copper Company",
+        "city": "Mackay",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Fmc Corporation, Phosphorus Chemical Division",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Franklin County Sugar Company",
+        "city": "Whitney, Preston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Fremont County Sugar Company",
+        "city": "St. Anthony",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Hecla Mining Company",
+        "city": "Burke",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Idaho Mining Company",
+        "city": "Mountain Home",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Idaho Pacific Corporation",
+        "city": "Ririe",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Idaho State Capitol",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Idaho State Hospital",
+        "city": "South Blackfoot",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Idaho Sugar Company",
+        "city": "Sugar City",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Inel",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Intermountain Gas Company - Central Service Facility",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "J. R. Simplot Processing Plant",
+        "city": "Barley",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "J.R. Simplot Company",
+        "city": "Caldwell",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "J.R. Simplot Company",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "John F. Cooney",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Latter Day Saints Hospital Association",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Louisiana Pacific",
+        "city": "Sandpoint",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Mcalister Equipment Leasing Company",
+        "city": "Burley",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Monsanto Chemical Plant",
+        "city": "Soda Springs",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Monsanto Company",
+        "city": "Soda Springs",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Moore Dry Kiln Company",
+        "city": "Osborn",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "National Reactor Testing Station",
+        "city": "Scoville",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Naval Reactor Facility (NRF) Nuclear Submarine Training Facility",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Northern Idaho And Montana Power Company",
+        "city": "Sandpoint",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Oregaon Shortline Railroad",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Oregon Short Line Railroad Company",
+        "city": "Glenns Ferry",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Oregon Short Line Railroad Company",
+        "city": "Batiste Springs",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Oregon Short Line Railroad Company",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Oregon Short Line Railroad Company",
+        "city": "Montpelier",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Pinehurst HS",
+        "city": "Pinehurst",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Potlatch Forests",
+        "city": "Lewiston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Potlatch Forests, Incorporated",
+        "city": "Lewiston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Potlatch Paper & Pulp Mill",
+        "city": "Lewiston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Potlatch Paper Mill",
+        "city": "Lewiston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Research Cottrell",
+        "city": "Lewiston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Rupert, Idaho Factory",
+        "city": "Rupert",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Sego Milk Products Company",
+        "city": "Buhl",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Sego Milk Products Company",
+        "city": "Preston",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Standard Mining Company",
+        "city": "Wallace",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "State Hospital South",
+        "city": "Blackfoot",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Sugar Factory",
+        "city": "Paul",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Sullivan Mining Company",
+        "city": "Kellogg",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Tiger And Poorman Mining Company",
+        "city": "Burke",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Titan Missile",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Union Pacific Railroad",
+        "city": "Sun Valley",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Union Pacific Railroad",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Union Pacific System Oregon Short Line Railroad Company",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "United States Atomic Energy Commission",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "United States Naval Ordnance Plant",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "University Of Idaho",
+        "city": "Moscow",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "University of Idaho",
+        "city": "Boise",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Us Atomic Energy Corporation",
+        "city": "Arco",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Blackfoot",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Idaho Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Utah Falls",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Utah-Idaho Sugar Company",
+        "city": "Shelley",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Utah-Idaho Sugar Company",
+        "city": "Nampa",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Utah-Idaho Sugar Company, House Number 29",
+        "city": "Sugar City",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Westinghouse Electric Corporation - Idaho National Engineering Laboratory",
+        "city": "Scoville",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Westinghouse Idaho Nuclear Company - National Reactor Testing Station",
+        "city": "Scoville",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Westvaco Chemical Division, Food Machinery And Chemical Corporation",
+        "city": "Pocatello",
+        "state": "ID",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Winton Lumber Company",
+        "city": "St. Joe",
+        "state": "ID",
+        "visibility": ""
+      }
+     ]
+}

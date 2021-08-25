@@ -1,0 +1,1089 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.T. & S.F. Railway Company",
+        "city": "Clovis",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Alamogordo Lumber Company",
+        "city": "Alamogordo",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Albuquerque & Cerrillos Coal Company",
+        "city": "Los Cerrillos",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Albuquerque & Cerrillos Coal Company",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Albuquerque City Auditorium",
+        "city": "Albuquerque City",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Albuquerque Gas And Electric Company - Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Albuquerque School District",
+        "city": "Albuquerque City",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Gypsum Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Laundry And Dry Cleaning Company",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Anapra Power House (El Paso Electric Co.)",
+        "city": "Anapra",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Arizona Public Service Company",
+        "city": "Fruitland",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Associates Food Services",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Atchinson Topeka & Santa Fe Railroad",
+        "city": "Belen",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Atchinson, Topeka And Santa Fe Railway Company",
+        "city": "Clovis",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Atchinson, Topeka And Santa Fe Railway Company",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Banco Plant",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Bloomfield Plant",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Burlington Northern & Santa Fe Railway",
+        "city": "Clovis",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Calumet And Arizona Mining Company",
+        "city": "Valedon",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Camp Cody - Power Plant",
+        "city": "Deming",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Carlsbad Power House",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Chaco Canyon Plant (Natural Gas)",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Chaco Plant",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Charles Eneu Johnson Company",
+        "city": "Monument",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Cherokee And Pittsburg Coal Mining Company",
+        "city": "Waldo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Chevron Gas Plant",
+        "city": "Eunice",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "China Mines Division",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Chino Mines Division",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Cia Fundidora De Fierro Y Acero De Monterrey",
+        "city": "Monterrey",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Ciniza Refinery",
+        "city": "Gallup",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "City Of Alexandria Power Plant",
+        "city": "Alexandria",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "City of Los Cruces",
+        "city": "Los Cruces",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Community Public Service Company - Lordsburg Power Plant",
+        "city": "Lordsburg",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Coronado Center",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Corps Of Engineers, Albequerque District",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Cuttingham Station",
+        "city": "Hobbs",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Dawson Fuel Company",
+        "city": "Dawson",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Deming Ice And Electric Company - Power Plant",
+        "city": "Deming",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Duval Sulfur And Potash Company",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Eighty-Five Mining Company",
+        "city": "Valedon",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "El Paso Electric - Rio Grande Power Station",
+        "city": "Sunland Park",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "El Paso Electric Company - Rio Grande Power Station",
+        "city": "Sunland Park",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "El Paso Electric Rio Grande Power Plant",
+        "city": "Sunland",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "El Paso Natural Gas Company - Eunice Plant",
+        "city": "Eunice",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "El Paso Natural Gas Company - Jal Plant No. 1",
+        "city": "Jal",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "El Paso Natural Gas Company Booster Station (s)",
+        "city": "Hobbs",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "El Paso Natural Gas Plant",
+        "city": "Jal",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "El Paso Natural Gas Refinery",
+        "city": "Oil Center",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Excelsior Laundry Company",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Four Corners Power Plant",
+        "city": "Fruitland",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Four Corners Power Plant",
+        "city": "Four Corners",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Four Corners Power Plant/Arizona Public Service",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Four Corners Steam Plant",
+        "city": "Fruitland",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "G. Billing Smelting Works",
+        "city": "Socorro",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Houston Lumber Company",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Imperial Laundry Company",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Ingenio La Joya",
+        "city": "Hatterncheu",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "International Minerals And Chemical",
+        "city": "Loving",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "International Minerals And Chemical Company",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "International Minerals And Chemical Corporation",
+        "city": "Loving",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "International Minerals And Chemicals Corporation",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Johnson Space Center",
+        "city": "Las Cruces",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Kennecott Copper Corporation",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Kennecott Copper Refinery",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Kennicott Copper Mines",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Kerr-Mcgee Potash Refinery",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Kirtland Air Force Base",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Kirtland Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Las Vegas Light And Power Company - Power Plant",
+        "city": "East Las Vegas",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Lea County Electric Cooperative, Incorporated - Lovington Power Plant",
+        "city": "Lovington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Los Alamos National Laboratory",
+        "city": "Los Alamos",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Lovington Power Plant",
+        "city": "Fruitland",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "M.R. Prestridge Lumber Company",
+        "city": "Alamogordo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Mcnutt Oil And Refining Company",
+        "city": "Brickland",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Merrill H. Fisher",
+        "city": "Alamogordo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "National Pot Ash Refinery",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "National Potash Co",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "New Mexico Fuel Company",
+        "city": "Graym",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "New Mexico Insane Asylum",
+        "city": "East Las Vegas",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "New Mexico Light Heat And Power Company",
+        "city": "Silver City",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "New Mexico Lumber Company",
+        "city": "Edith",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "New Mexico Penitentiary",
+        "city": "Santa Fe",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "New Mexico Power & Light",
+        "city": "Hobbs",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "New Mexico Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "New Mexico Public Service",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "New Mexico State College",
+        "city": "Las Cruces",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "New Mexico State University",
+        "city": "Las Cruces",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Newman Power Plant",
+        "city": "Newman",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Nuclear Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Oil Center Plant",
+        "city": "Oil Center",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Ortiz Mining And Milling Company",
+        "city": "Cerillos",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Ozark Smelting And Mining Company",
+        "city": "Magdalena",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Panhandle Carbon Company",
+        "city": "Eunice",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Paqosa Lumber Company",
+        "city": "Dulce",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Park Plaza",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Parsons Mining Company",
+        "city": "Carrizozo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Pecos Valley Compress Company",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Person Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Person Power Station",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Peru Mining Company",
+        "city": "Deming",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Phelps Dodge",
+        "city": "Playas",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Phelps Dodge Copper Refinery",
+        "city": "Tyrone",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Phelps Dodge Corp. Concentrator",
+        "city": "Tyrone",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Phelps Dodge Corporation",
+        "city": "Playas",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Phelps Dodge Mining",
+        "city": "Hurley",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Phelps Dodge Tyrone Mine",
+        "city": "Tyrone",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Potash Company of America",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Public Service Co. Of New Mexico (San Juan Power Plant)",
+        "city": "Waterflow",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Public Service Company Of New Mexico",
+        "city": "Las Vegas",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Public Service Company Of New Mexico",
+        "city": "Santa Fe",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Public Service Company Of New Mexico",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Public Service Company Of New Mexico",
+        "city": "Waterflow",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Public Service Company Of New Mexico - San Juan Generating Station - Unit 2",
+        "city": "Waterflow",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Public Service New Mexico",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Public Service New Mexico",
+        "city": "Waterflow",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Public Service Powerhouse",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Reeves Generating Station",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Reeves Power Plant",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Roswell Electric Light Company - Power Plant",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Roswell Laundry Company",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "San Juan Generating Plant",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "San Juan Power Plant",
+        "city": "Farmington",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Sandia Air Base",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Santa Fe Dredging Company",
+        "city": "Cerillos",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Santa Fe General Hospital",
+        "city": "Santa Fe",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Santa Fe Railroad",
+        "city": "Grants",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Silver City Reduction Company",
+        "city": "Silver City",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Skelly Oil",
+        "city": "Eunice",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Socorro Mines",
+        "city": "Silver City",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Southwest Lumber Company",
+        "city": "Alamogordo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Southwest Potash Corporation",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Southwestern Public Service Company",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Southwestern Public Service Company",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Southwestern Public Service Power Plant",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "St. Joseph'S Hospital",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "St. Louis, Rocky Mountain And Pacific Company",
+        "city": "Hebron",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "St. Louis, Rocky Mountain And Pacific Company",
+        "city": "Hebron Near Raton",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "St. Louis, Rocky Mountain And Pacific Company",
+        "city": "Koehler",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "St. Louis, Rocky Mountain And Pacific Company",
+        "city": "Raton",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "St. Mary‚Äôs Hospital",
+        "city": "Roswell",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Stag Canon Fuel Company",
+        "city": "Dawson",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Stearns-Roger Manufacturing Company",
+        "city": "Gallup",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Texas Louisiana Power Company",
+        "city": "Alamogordo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Town Of Gallup",
+        "city": "Gallup",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "TU Electric",
+        "city": "Trinidad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "United Carbon Company",
+        "city": "South Eunice",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "United States Potash Company",
+        "city": "Carlsbad",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "United States Veterans Hospital",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "University of New Mexico",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "University Of New Mexico Hospital",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Veterans Administration",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Warren Petroleum",
+        "city": "Monument",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Western Skies Hotel",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "White Pine Lumber Company",
+        "city": "Bernalillo",
+        "state": "NM",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "White Sands Missile Site",
+        "city": "White Sands",
+        "state": "NM",
+        "visibility": ""
+      }
+     ]
+}

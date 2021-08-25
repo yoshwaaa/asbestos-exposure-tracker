@@ -1,0 +1,1103 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.G. Processing, Incorporated",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "AAA Appliances",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Alliance Potash Company",
+        "city": "Antioch",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Allied Chemical Corporation",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Allied Chemical Corporation",
+        "city": "Plattsmouth",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Allied Mills, Incorporated",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Beet Sugar Company",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Crystal Sugar Company",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Loan And Trust Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Smelting & Refining Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Smelting And Refining Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Armour And Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Armour And Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Asarco",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Atlas Missile Site",
+        "city": "Pine Bluff",
+        "state": "NE",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Aultman Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Bellevue Power Plant",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Bernal And Company",
+        "city": "Ingo El Lugareno",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Boys Home",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Boys Town",
+        "city": "Boys Town",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Boystown",
+        "city": "Boystown",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Central Power Company - Reserve Power Plant",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Chemical Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Chicago, Burlington And Quincy Railroad Company",
+        "city": "Havelock",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "City Of Beatrice, Neb Water Works",
+        "city": "Beatrice",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Compania De Maderas",
+        "city": "Demoa",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Consumers Public Power - Sheldon Station",
+        "city": "Hallam",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Consumers Public Power Company - Scottsbluff Power Plant",
+        "city": "Scottsbluff",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Consumers Public Power District - Power Plant",
+        "city": "Columbus",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Consumers Public Power District - Power Plant",
+        "city": "Ogallala",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Consumers Public Power District - Sheldon Power Plant",
+        "city": "Hallam",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Continental Gas And Electric Company - York Plant",
+        "city": "York",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Cooper Nuclera Power Plant",
+        "city": "Auburn",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Corn Derivatives Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Cornell Hydro Electric Company - Valentine Substation",
+        "city": "Valentine",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Cornhusker Ordinance Plant",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Crete Mills, Incorporated",
+        "city": "Crete",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Cudahy Packing Co.",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Cudahy Packing Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Department Of The Navy, Naval Ammunition",
+        "city": "Hastings",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Drake Court",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Fairmont Creamery Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Falstaff Brewing Corporation",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Father Flanagan'S Boys Town",
+        "city": "Boys Town",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Fred Krug Brewing Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Fremont Brewing Company",
+        "city": "Fremont",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Fremont Gas And Electric Company - Plant",
+        "city": "Fremont",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "G. Gentleman",
+        "city": "Southerland",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "G.H. Hammond Packing Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Gerald Gentleman Power Plant",
+        "city": "Auburn",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Gering Sugar Company",
+        "city": "Gering",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Great Western Cereal Company",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Great Western Sugar",
+        "city": "Minatare",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Great Western Sugar Company",
+        "city": "Bayard",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Great Western Sugar Company",
+        "city": "Mitchell",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Hallam Power Plant",
+        "city": "Hallam",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Hammond Packing Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Hord Alkali Products Company",
+        "city": "Lakeside",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Ideal Cement Company",
+        "city": "Superior",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Iowa Valley Sugar Company, Incorporated",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Kingfalfa Mills",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Kramer",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Lauhoff Grain Company",
+        "city": "Crete",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Lincoln Fraction Company",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Lincoln Gas And Electric Company - Plant",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Lincoln Gas And Electric Light Company - Power Plant",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Lincoln General Hospital",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Lincoln Traction Company",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Loup River Public Power District",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Loup River Public Power District",
+        "city": "Columbus",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Loup River Public Power District",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "M.E. Smith Warehouse",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Merkle Machinery Company",
+        "city": "Falls City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Midland College - Observatory",
+        "city": "Freemont",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Municipal Power Plant",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "National Potash Company",
+        "city": "Anticoh",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "National Potash Company",
+        "city": "Antioch",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "National Starch Company",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Nebraska Cement Company",
+        "city": "Superior",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Nebraska City Water And Light Company - Power Plant",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Nebraska Ordnance Plant",
+        "city": "Wahoo",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Nebraska Power Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Nebraska Power Station",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Nebraska Public Power District",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Nebraska Public Power District",
+        "city": "Hallam",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Nebraska Public Power District",
+        "city": "Scottsbluff",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Nebraska Public Power District",
+        "city": "Sutherland",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Nebraska Public Power District",
+        "city": "Columbus",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Nebraska Public Power District - Kramer Station",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Nebraska Public Power System, Bellevue Plant",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Nebraska Public Power System, Kramer Plant",
+        "city": "Bellevue",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "New Omaha Thomson-Houston Electric Light Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "New Union Station",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "New York Life Insurance Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Nitrogen Division Allied Chemical And Dye Corporation",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "North Denver",
+        "city": "Hastings",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "North Omaha Power Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Northern Gas Products Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Northwestern Iron And Metal Company",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Norton Gregson Company",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Nuclear Plant",
+        "city": "Brownsville",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Oluaha Public Powerslist",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Omaha And Council Bluffs Street Railway Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Omaha Country Club",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Omaha Distilled Water Ice Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Omaha Electric Light And Power Company - Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Omaha Gas Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Omaha Gas Works",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Omaha Ice And Cold Storage Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Omaha Packing Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Omaha Public Power District",
+        "city": "Fort Calhoun",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Omaha Public Power District",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Omaha Public Power District - Jones Street Station",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Otoe Food Products Company",
+        "city": "Nebraska City",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Pacific Fruit Express",
+        "city": "North Platte",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "People'S Ice And Cold Storage Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Peoples Ice And Cold Storage Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Phillips Chemical Plant",
+        "city": "Beatrice",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Phoenix Utility Company - Power Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Power Service Corporation",
+        "city": "Tremont",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Quaker Oats Co",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Red Cloud Junior High School",
+        "city": "Red Cloud",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Red Cloud Senior High School",
+        "city": "Red Cloud",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Scottsbluff Sugar Company",
+        "city": "Scottsbluff",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Sheldon",
+        "city": "Hallam",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Sierra Talc And Clay Company",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Skinner Packing Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Sperry Electric Light Company - Power Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "St. Anthony‚Äôs Church",
+        "city": "Steinauer",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Standard Distilling And Distributing Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Standard Distilling And Distributing, The Willow Springs Distillery Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Standard Potash Company",
+        "city": "Lakeside",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Storz Brewing Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Sutro Tunnel Company",
+        "city": "Sutro",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Swift And Company",
+        "city": "South Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Union Pacific Coal Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Union Pacific Railroad",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Union Pacific Railroad",
+        "city": "North Platte",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Union Pacific Railroad Company",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Union Pacific Railroad Company",
+        "city": "Gilmore",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Union Pacific Railroad Company",
+        "city": "Grand Island",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Union Pacific Railroad Company",
+        "city": "North Platte",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Union Pacific Railroad/Pacific Fruit Express - Ice Plant",
+        "city": "North Platte",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Union Station",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "United Electric Company - Power Plant",
+        "city": "Lexington",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "United Gas Improvement Company - Gas Plant",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "United States Naval Ammunition Depot",
+        "city": "Hastings",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "University Of Nebraska",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Veterans‚Äô Administration Hospital",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Water And Light Company Of Nebraska City",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Wells-Abbott-Neiman Company",
+        "city": "Schuyler",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Western Public Service Company",
+        "city": "Crawford",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "William Berg Company",
+        "city": "Merriman",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Willow Springs Distillery",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Woodmen Tower Bldg",
+        "city": "Omaha",
+        "state": "NE",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Yeargin Construction",
+        "city": "Lincoln",
+        "state": "NE",
+        "visibility": ""
+      }
+     ]
+}

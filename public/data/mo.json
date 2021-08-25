@@ -1,0 +1,3049 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Alligator Oil Clothing Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Ameren U.E.",
+        "city": "West Alton",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "American Brake Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "American Car And Foundry Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "American Car Foundry",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "American Hominy Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Oil Company (Amoco)",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Oil Refinery",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Steel Foundry Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Steel Foundy Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Tobacco Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Amoco Oil Company",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Anaconda Wire And Cable Company",
+        "city": "Harrisonville",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Anheuser Busch",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Anheuser Busch, Incorporated, Brewery",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Anheuser-Busch Brewery",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Armco Steel - Kansas City",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Armco Steel Corporation",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Armour Packing Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Asbury",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Asbury Generating Station - Unit 1",
+        "city": "Asbury",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Asbury Power Plant",
+        "city": "Asbury",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Associated Electric Cooperative - New Madrid Power Plant",
+        "city": "New Madrid",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Associated Electric Cooperative - Thomas Hill Energy Center",
+        "city": "Clifton Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Associated Electric Cooperative - Thomas Hill Energy Center - Unit 2",
+        "city": "Clifton Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Atlanta Exp.",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Atlas Portland Cement Company",
+        "city": "Hannibal",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Atlas Powder Co",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Atlas Powder Co",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Atlas Powder Company",
+        "city": "Atlas",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Atomic Energy Commission",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Auditorium",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "August J. Bulte Milling Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Barnes Hospital",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Bedford Construction Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Belcher Sugar Refining Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Bernard Corrigan",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Bernet, Craft & Kauffman Milling Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Booth Cold Storage Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "BOP",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Boston Aurora Zinc Company",
+        "city": "Aurora",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Brookfield Light And Power Company - Power Plant",
+        "city": "Brookfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Bryant Building",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Buckman Laboratories, Incorporated",
+        "city": "Cadet",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Buell Manufacturing Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Bureau Of Mines",
+        "city": "Louisiana",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Carondelet Foundry",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Carr Square Village",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Carthage Water Works",
+        "city": "Carthage",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Caruthersville And Kennett Electric Light And Power Company - Power Plant",
+        "city": "Caruthersville",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Celanese Fiber Plant",
+        "city": "Amecelle",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Central Electric Power Cooperative - Chamois Power Plant",
+        "city": "Chamois",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Cerro Copper Products Company",
+        "city": "Sauget",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Chamois",
+        "city": "Chamois",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Chamois Powerhouse",
+        "city": "Chamois",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Charmin Paper Products Company",
+        "city": "Cape Girardeau",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Chase Candy Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Checkerboard Soybean Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Chemagro Corporation",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Chemagro Corporation, Building 27",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Chemagro Corporation, Dasanit Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Chemagro Corporation, Systox Building, Hawthorne Rd.",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Chevrolet Motor Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Chevrolet St. Louis Division Of General Motors Corporation",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Chevrolet, Division Of General Motors Corporation",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Chicago Rock Island And Pacific Railway Company",
+        "city": "Trenton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Chrysler Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "City Light And Traction Company - Power Plant",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "City Water Company - Waterworks Plant",
+        "city": "Chillicothe",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Clark Oil Refinery",
+        "city": "Hartford",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Clay & Bailey Steel",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Clinton Generating Plant",
+        "city": "Clinton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Colgate-Palmolive-Peet Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Columbia Brewing Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Combustion Engineering",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Commonwealth Steel Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Consolidated Kansas City Smelting & Refining Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Continental Portland Cement Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Contractors Machinery Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Corn Products Refining Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Corn Products Refining Company",
+        "city": "North Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Crown Center Hotel",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Curtiss Robertson Airplane Manufacturing Company",
+        "city": "Anglum",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "D.L. Wing Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "D.W. Pratt",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Dayco Products, Incorporated",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Department Of Penal Institutions",
+        "city": "Jefferson City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Desloge Lead Company",
+        "city": "Desloge",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Diamond Cement And Limestone Company",
+        "city": "Saverton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Dr. John Bryant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Dugdale Packing Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Dunlap Laundry",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "E.D. Harnbrook",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "E.D. Hornbrook Contractor",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "E.H. Abadie And Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "E.H. Abadie Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Webb City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Hattiesburg",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Webb City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Ashburn",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Eagle-Picher Plant",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Economy Steam Heating And Electric Company - Heating Plant",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Edison Electric Light Company - Power Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Empire Brewing Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Empire District Electric Company - Asbury Generating Station",
+        "city": "Asbury",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Falstaff Brewing Corporation",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Fayette R. Plumb, Incorporated",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Ferd Heim Brewing Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Flexible Packaging",
+        "city": "Hazelwood",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Fluer Piping",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Ford Motor Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Ford Motor Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Fort Scott & Nevada Light, Heat, Water & Power Company - Power Plant",
+        "city": "Nevada",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Fowler Packing Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Fred Heim Brewing Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "G.H. Hammond Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "G.P. Plant Milling Company - Flour Mill",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "General Motors Corporation",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "General Motors Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "General Motors, Chevrolet Assembly Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "George Fowler, Sons & Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "George P. Plant Milling Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Grand Avenue Hotel Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Grand Avenue Power Station",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Grand Avenue Railway Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Great Scolt Mining Company",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Great Western Sugar Company",
+        "city": "Missoula",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Griffin Wheel Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "H.R. Wilson Machinery Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Haish Wire And Implement Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Hall Building",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Hammond Packing Company",
+        "city": "South St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Hawthorne Powerhouse",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Helmbacher Forge And Rolling Mills Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Himmelberger Harrison Manufacturing Company",
+        "city": "Morehouse",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Huse And Loomis Ice And Transportation Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Hydraulic Press Brick Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Iatan Generating Station",
+        "city": "Weston",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Illinois Steel Company",
+        "city": "Bayview",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Illinois Traction System",
+        "city": "Jefferson City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Indiahoma Refining Company",
+        "city": "Steele",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Industrial National Lead",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "International Paper Company",
+        "city": "Larimore",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "International Paper Company",
+        "city": "Someriole",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "International Paper Company, Container Division",
+        "city": "Larimore",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "International Shoe Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "International Shoe Company",
+        "city": "Hannibal",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "International Shoe Company",
+        "city": "Capelsirardeau",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "International Shoe Company",
+        "city": "St. Charles County",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "J.F. Pritchard & Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "James River Power Plant",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Jefferson City Light, Heat And Power Company - Power Plant",
+        "city": "Jefferson City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "John B. Buss",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Johnston Tin Foil And Metal Company",
+        "city": "Carondelet",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Jose T. Guerra",
+        "city": "Cuernavaco",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Journal Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Jusepin Creole",
+        "city": "Jusepin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Kansas City And Leavenworth Street Railway",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Kansas City Bridge And Iron Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Kansas City Electric Light Company - Power Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Kansas City Fort Scott And Memphis Railroad",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Kansas City Gas Light And Coke Company - Gas Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Kansas City Grape Sugar Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Kansas City Heating Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Kansas City Light & Power Steam Plant",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Kansas City Light And Power Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Kansas City Power & Light - East Bottoms",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Kansas City Power And Light",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Kansas City Power And Light",
+        "city": "Weston",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Kansas City Power And Light Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Kansas City Power And Light Company",
+        "city": "Iatan",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Kansas City Star",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Kansas City Stock Yards Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Kansas City Terminal Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Kansas City Terminal Railway",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Kansas City Terminal Railway Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Kansas City Works",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Kas. Cy. Sml. Arms Amm. Plight",
+        "city": "Lake City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Kehlor Milling Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Koppers Company, Incorporated, Wood Preserving Division",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Kraft Food Company",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Labadie Power Station",
+        "city": "Gray Summitt",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Labadie Powerhouse",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Laclede Gas Company - Shrewsbury Manufactured Gas Plant",
+        "city": "Shrewsbury",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Laclede Power And Light Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Lake City Arsenal",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Lake City Ordnance Plant",
+        "city": "Lake City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Lake City Ordnance Plant",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Lake Road Generating Station",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Lake Road Power Plant",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Lake Superior Power Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Lewis And Kitchen",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Long Hall Laundry",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Long Hall Laundry Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Loose Wiles Cracker And Candy Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Louisana Purchase Exposition",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Louisian Purchase Exposition",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Louisiana Purchase Exposition",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Louisiana Purchase Exposition Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Louisiana Purchase Exposition Of Missouri",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "M.A. Seed Dry Plate Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "M.A. Seed Dry Plate Company",
+        "city": "Woodland",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Madison Lead And Land Company",
+        "city": "Fredericktown",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Mallenkrodt Chemical Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Mallinckoot Chemical",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Mallincrott Chemical Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Marshall Light, Heat And Power Company",
+        "city": "Marshall",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Maryville Electric Light And Power Company - Power Plant",
+        "city": "Maryville",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "McDonnell-Douglas Manufacturing Plant",
+        "city": "Saint Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Mcnair And De Camp",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Mcnair And De Camp",
+        "city": "Carondelet",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Medical Plaza Company, 4320 Wornell Rd.",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Meramec Power Station",
+        "city": "Arnold",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Mercantile Trust Building",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Metropolitan Street Railway Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Metropolitan Street Railway Company, 9 And Lister Sts.",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Metropolitan Street Railway Company, Missouri River Power House",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Mid Continent Iron Company",
+        "city": "Midco, Freemont",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Mid Continent Iron Company",
+        "city": "Fremont",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Midwest Steel Division",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Missoula Mercantile Company",
+        "city": "Missoula",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Missour Valley Sack Company",
+        "city": "St. Jospeh",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Missouri 73",
+        "city": "Thomas Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Missouri Cobalt Company",
+        "city": "Fredericktown",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Missouri Electric Light And Power Company - Power Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Missouri Iron And Steel Company",
+        "city": "Haiqart",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Missouri Pacific Railroad Company",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Missouri Pacific Rr",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Missouri Power And Light - Manufactured Gas Plant",
+        "city": "Moberly",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Missouri Power And Light Company",
+        "city": "Brookfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Missouri Power And Light Company",
+        "city": "Thomas Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Missouri Public Service",
+        "city": "Pleasant Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Missouri Public Service",
+        "city": "Raytown",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Missouri Public Service Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Missouri Public Service Company",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Missouri Public Service Company",
+        "city": "Clinton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Missouri Public Service Company",
+        "city": "Pleasant Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Missouri Public Service Company",
+        "city": "Sibley",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Missouri Public Service Company - Ralph Green Plant",
+        "city": "Pleasant Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Missouri Public Service Company - Sibley Generating Station - Unit 3",
+        "city": "Sibley",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Missouri Public Service Company - Sibley Generating Station - Units 1 & 2",
+        "city": "Sibley",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Missouri Public Service Powerhouse",
+        "city": "Sibley",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Missouri Railroad Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Missouri State Penitentry",
+        "city": "Jefferson City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Missouri Ultities Company",
+        "city": "Poplar Bluff",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Missouri Zinc Fields Company",
+        "city": "Webb City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Mo. River Power House",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Moberly Light And Power Company",
+        "city": "Moberly",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Mobil Oil Refinery",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Monsanto Chemical",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Monsanto Chemical - World Headquarters",
+        "city": "Creve Coeur",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Monsanto Chemical Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Monsanto Chemical Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Monsanto Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Montgomery Ward And Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Morris And Company",
+        "city": "South St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Mound City Ice And Cold Storage Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "N.K. Fairbank And Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "National Ammonia Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "National Biscuit Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "National Biscuit Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "National Lead Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "National Lead Company Titanium Division",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "National Lumber And Creosoting Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "National Lumber Creosating Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "National Lumber Creosoting Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "National Steel",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Nelson Morris And Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "New Madrid Power Plant",
+        "city": "New Madrid",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "New Madrid Powerhouse",
+        "city": "New Madrid",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "New York Life Insurance Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "None",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Nooter Corporation",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Noranda Aluminum Plant",
+        "city": "New Madrid",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "North American Lead Company",
+        "city": "Fredericktown",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "North East Power Station",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Northeast Street Railway Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Olin Arms",
+        "city": "Lake City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Olin Corporation",
+        "city": "Lake City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "P. Dec. Ball",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "P.D.C. Ball. V.P.",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Pacific Sand Company",
+        "city": "Pacific",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Peoples Cable Railway Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Peoples Street Railway, Electric Light And Power Company - Light Plant",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Peters Eichler Heating Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Philadelphia Quartz Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Philip Ball",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Pickering Lumber Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Pittsburg Plate Glass Company",
+        "city": "Crystal City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Pittsburgh Plate Glass (PPG) Chemical Plant",
+        "city": "Crystal City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "Crystal City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Polar Wave Ice And Fuel Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Portage De Sioux Powerhouse",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Portage De Sioux Powerhouse",
+        "city": "Portage Des Sioux",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Portland Railroad Company",
+        "city": "Portland",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Prairie Pipe Line Company",
+        "city": "Gorin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Printpack",
+        "city": "Hazelwood",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Procter And Gamble Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Procter And Gamble Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Pullman Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Purkett Laundry Company",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Quaker Oats Company",
+        "city": "Columbia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Quaker Oats Company",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Quebec Liquor Commission",
+        "city": "Longue Point",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "R.A. Long Building",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "R.A. Long Real Estate And Investment Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Ralston Purina Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Reorganized Church Of Jesus Christ Of Latter Day Saints Auditorium",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Republic Steel Corporation",
+        "city": "East St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Rust Engineering",
+        "city": "St Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Schwarzchild And Sulzberger Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Scullin Steel Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Scullin Steel Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Sears, Roebuck And Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Sedalia Electric Railway Company - Power Plant",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Semi Steel",
+        "city": "St Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Sheffield Steel Corporation",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Sikeston Power Plant",
+        "city": "Sikeston",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Sikeston Power Station",
+        "city": "Sikeston",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Sioux Power Plant",
+        "city": "West Alton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Sligo Furnace Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Sligo Furnace Company",
+        "city": "Sligo",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Small Arms Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Southwest Missouri Electric Railroad Company - Power Plant",
+        "city": "Webb City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Southwest Missouri Electric Railway Company - Power Plant",
+        "city": "Webb City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Southwest Power Plant",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Southwestern Milling Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Spencer Chemical Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Springfield City Water Company - Water Plant",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Springfield Gas And Electric Company - Power Plant",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "St. Joe Railway Light, Heat And Power Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "St. Johns Hospital",
+        "city": "Joplin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "St. Joseph Electric Light Company - Power Plant",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "St. Joseph Lead Company",
+        "city": "River Mines",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "St. Joseph Light And Power",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "St. Joseph Light And Power Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "St. Joseph Light And Power Company",
+        "city": "Buchanan County,  St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "St. Joseph Light Heat And Power",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "St. Joseph Railway Light Heat And Power Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "St. Joseph Railway, Light, Heat And Power Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "St. Joseph Refining Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "St. Joseph'S Railway, Light, Heat And Power Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "St. Louis And San Francisco Railroad Company",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "St. Louis And San Francisco Railroad Shops",
+        "city": "Springfield",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "St. Louis And San Francisco Railway Company",
+        "city": "Chaffee",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "St. Louis Car Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "St. Louis Cordage Mills",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "St. Louis Housing Authority",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "St. Louis Lead And Oil Works",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "St. Louis Manufacturing Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "St. Louis Ordnance Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "St. Louis Plate Glass Company",
+        "city": "Valley Park",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "St. Louis Refrigerator And Wooden Gutter Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "St. Louis Shipbuilding",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "St. Louis Shipbuilding And Steel Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "St. Louis Smelting And Refining Company",
+        "city": "St. Francios",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "St. Louis Smelting And Refining Company",
+        "city": "St. Francois",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "St. Louis Smelting And Refining Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "St. Louis Smelting And Refining Company",
+        "city": "Desloge",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "St. Louis Stamping Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "St. Louis Transit Company - Power Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "St. Louis University Hospital",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "St. Louis Wire Mill Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "St. Louis Wire Mills",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Stanbury Manufacturing co",
+        "city": "Stanbury",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Standard Oil Company",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Standard Oil Company Of Indiana",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "State Industrial School For Girls",
+        "city": "Chillicothe",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Stone And Barnard",
+        "city": "Republic",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Sugar Creek Refinery",
+        "city": "Sugar Creek",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Sulzberger And Sons Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Swift And Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Swift And Company",
+        "city": "South St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Swift And Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Swift And Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Swift Company",
+        "city": "East St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Swift Company",
+        "city": "St. Joseph",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "T.C. Power And Bro.",
+        "city": "Butter",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Terminal Railroad Association",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Terminal Railroad Association Of St. Louis",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Terminal Railroad Association Of St. Louis - Terminal Plant",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Terminal Railroad Association Of St. Louis, 10 St. Warehouse",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Thayer Dry Goods Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Thomas Hill",
+        "city": "Clifton Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Thomas Hill Energy Center",
+        "city": "Thomas Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Thomas Hill Powerhouse",
+        "city": "Thomas Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Titanium Division",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Titanium Pigment Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Tretolite Company",
+        "city": "Webster Groves",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Tretolite Corporation",
+        "city": "Webster Groves",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Trumbull Asphalt Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Union Depot Railwood Company",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Union Electric",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Union Electric Company - Sioux Power Plant",
+        "city": "West Alton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Union Electric Company - Sioux Power Plant - Boiler 1",
+        "city": "West Alton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Union Electric Light And Power Company - Ashley Street Power House",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Union Electric Light And Power Company - Bagnell Dam - Osage Hydroelectric Power Plant",
+        "city": "Bagnell",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Union Pacific",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Union Pacific Railroad",
+        "city": "Sedalia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Union Pacific Railroad",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Union Press Brick Works",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "United States Atomic Energy Commission",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Universal Atlas Cement Company, American Bridge Division",
+        "city": "Hannibal",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "University Of Missouri",
+        "city": "Columbia",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "University Of Missouri, Schools Of Mines And Metallurgy",
+        "city": "Rolla",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Us Bureau Of Mines",
+        "city": "Louisiana",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "US Coast Guard Depot",
+        "city": "St Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Us Custom House And Post Office",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Us Post Office And Custom House",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Usa Detergents, Incorporated",
+        "city": "Harrisonville",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Utilicorp United, Incorporated",
+        "city": "Sibley",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Valley Park Land Company",
+        "city": "Valley Park",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "W.S. Dickey Clay Manufacturing Company",
+        "city": "Deepwater",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "W.S. Dickey Clay Manufacturing Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Waggoner And Gates Milling Company",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Waggoner Gates Milling Company",
+        "city": "Independence",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Wagner Electric",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Water, Light And Transit Company - Power Plant",
+        "city": "Carrollton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Wellville Fire Brick Company",
+        "city": "Wellville",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "West Missouri Power Company",
+        "city": "Pleasant Hill",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Western Electric Company - Southwestern Region Headquarters",
+        "city": "Ballwin",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Western Electrical Supply Company - Electrical Supply House",
+        "city": "St. Louis",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Western Ice And Cold Storage Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Western Waxide Division, Crown Zellerbach Corporation",
+        "city": "Hazelwood",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Westport And Waldo Railway",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "White-Rodgers Electric Company - Affton Manufacturing Plant",
+        "city": "Affton",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "William B. Knight",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "William H. Baldwin Jr. And Company",
+        "city": "Savage",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "William S. Barnickel And Company",
+        "city": "Webster Groves",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Wood Preserving Division",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Zenith Milling Company",
+        "city": "Kansas City",
+        "state": "MO",
+        "visibility": ""
+      }
+     ]
+}

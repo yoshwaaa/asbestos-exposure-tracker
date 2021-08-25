@@ -1,0 +1,774 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.E.S. Corporation",
+        "city": "Georges",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.E.S. Corporation",
+        "city": "Whitefield",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "American Agricultural Chemical Company",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "American Hoechst Corporation",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "American Locomotive Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Merrimack",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "B.R. Weld",
+        "city": "Suncook",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Bargers Sulphite Fibre Company",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Boston & Maine Railroad Company",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Brezner Tanning Corporation",
+        "city": "Penacook",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Brown Company",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Brown Paper Mill",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Brown Paper/James River",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Bureau Of Supplies And Accounts",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Concord Electric Company - Sewall'S Falls Hydroelectric Facility",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Concord Land And Water Power Company - Sewall'S Falls Hydroelectric Facility",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Davidson Rubber Company",
+        "city": "Dover",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Davis Boxboard Division",
+        "city": "West Hopkinton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Davis Paper Company",
+        "city": "West Hopkinton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Diamond Match Company",
+        "city": "Keene",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Diamond Match Company",
+        "city": "Charlestown",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Dover Gas And Electric Company - Dover Manufactured Gas Plant",
+        "city": "Dover",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Eastern Oil And Rendering Company",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Franconia Paper Corporation",
+        "city": "Lincoln",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Frank P. Holt",
+        "city": "Laconia",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "French And Steald",
+        "city": "Milford",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "General Electric Company",
+        "city": "Somersworth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "General Electric Somersworth Plant - Industrial Systems",
+        "city": "Somersworth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "General Electric Somersworth Plant - Realty Corporation",
+        "city": "Somersworth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Glen Mill",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Gonic Manufacturing Company",
+        "city": "Gonic",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Granite Board, Incorporated",
+        "city": "Goffstown",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Granite Hosiery Mills",
+        "city": "Laconia",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Hamilton Smith",
+        "city": "Durham",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Hoague Sprague Corporation",
+        "city": "West Hopkinton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Hoague Sprague Corporation, Davis Boxboard Division",
+        "city": "West Hopkinton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Hooksett Mills",
+        "city": "Hooksett",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Insuline Corporation Of Amer",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Insuline Corporation Of America",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "International Paper Company",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "International Shoe Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "J.W. Busier And Company",
+        "city": "Laconia",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "James River",
+        "city": "Cascade Mill, Berlin",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "James River Paper Company",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Johns Manville Corporation",
+        "city": "Tilton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Keene Gas Company",
+        "city": "South Keene",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Kelley'S Falls Steam Plant",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Macallen Company",
+        "city": "Newmarket",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Manchester Knitted Fashions",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Manchester Traction, Light And Power Company",
+        "city": "Grasmere",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Manchester Traction, Light And Power Company",
+        "city": "Kelly Falls",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Manchester Traction, Light And Power Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Merrimack",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Milton Leather Board Company",
+        "city": "Milton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Monadnock Mills",
+        "city": "Bennington",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Monadnock Paper Mills, Incorporated",
+        "city": "Bennington",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "N.H. Mcelevain Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Nashua Foundation",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Nashua Light, Heat, And Power Company",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Nashua Manufacturing Company",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "National Leather Company",
+        "city": "Winchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Navy Yard",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "New England Wood Preserving Company",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Newport Electric Light Company - Sunapee Street Plant",
+        "city": "Newport",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Nylstar, Incorporated",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Pacific Mills",
+        "city": "Dover",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Phillips Exeter Academy",
+        "city": "Exeter",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Pittsburgh Wood Preserving Company",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Plymouth Manufacturing Company",
+        "city": "Plymouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Portsmouth Naval Shipyard",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Portsmouth Navy Yard",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Public Service Company Of New Hampshire",
+        "city": "Bow",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Public Service Company Of New Hampshire",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Public Service Company Of New Hampshire",
+        "city": "Seabrook",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Public Service Company Of New Hampshire",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Public Service Company Of New Hampshire - Merrimack Station",
+        "city": "Bow",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Public Service Company Of New Hampshire - Merrimack Station, Unit 1",
+        "city": "Bow",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Public Service Company Of New Hampshire - Schiller Station",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Public Service New Hampshire",
+        "city": "Bow",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Publishers Paper Company",
+        "city": "Woodstock",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Pulp And Paper America",
+        "city": "Berlin",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Pulp And Paper Of America Llc",
+        "city": "Gorham",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Quinn-T Corporation",
+        "city": "Tilton",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "R.B. Phillips Manufacturing Company",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Rockingham County Light And Power Company",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Rumford Press",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Schiller Power Plant Station",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Seabrook Station, Units 1 And 2",
+        "city": "Seabrook",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Spaulding Fibre Company, Incorporated",
+        "city": "North Rochester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Sprague Electric",
+        "city": "Nashua",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "St. Paul'S School",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Syntextils, Incorporated",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Textron, Incorporated",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "The Tool Company",
+        "city": "Concord",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Twin State Gas And Electric Company - Dover Manufactured Gas Plant",
+        "city": "Dover",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "United Gas And Electric Company - Dover Manufactured Gas Plant",
+        "city": "Dover",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "United States Navy Yard",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "University Of New Hampshire",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "University Of New Hampshire Facilities Business Service Center",
+        "city": "Durham",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Us Navy Yard",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "W.H. Mcelwain Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "W.J. Barker And Company",
+        "city": "Monadonock Mills Bennington",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Warren Separating Company",
+        "city": "Warren",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Wentworth By The Sea",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "White Mountain Paper Company",
+        "city": "Portsmouth",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "White Washburne Corporation",
+        "city": "Hinsdale",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Wilkins Toy Company",
+        "city": "Keene",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "William H. Mcelwain Company",
+        "city": "Manchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Winchester Tannery Company",
+        "city": "Winchester",
+        "state": "NH",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Wyoming Valley Paper Company",
+        "city": "Northumberland",
+        "state": "NH",
+        "visibility": ""
+      }
+     ]
+}

@@ -1,0 +1,2825 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "15th St. Investment Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Acme Markets Incorporated",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Adolph Coors Company",
+        "city": "Golden",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Air Force Academy",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Ajax Gold Mining Company",
+        "city": "Victor",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Alamo Hotel And Garage Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Alexander Industries, Incorporated",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Alpha Beta Acme Packing Division",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Beet Sugar Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Beet Sugar Company",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Beet Sugar Company",
+        "city": "Las Animas",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "American Beet Sugar Company",
+        "city": "Lamar",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "American Crystal Sugar Company",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "American Gilsonite Company",
+        "city": "Gilsonite",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "American Gilsonite Company",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "American Gilsonite Company",
+        "city": "Fruita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "American Metals Climax, Incorporated",
+        "city": "Climax",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "American Motors Corporation Research Center",
+        "city": "Lakewood",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "American Potash And Chemical Corporation",
+        "city": "Trona",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Smelting And Refining Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Smelting And Refining Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Sugar Beet Company - Sugar Beet Factory",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Antlers Hotel Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Arapahoe",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Arapahoe Power Plant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Arizona Marble Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Arkansas Valley Railway, Light & Power Company",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Armour And Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Asamere Refinery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Ashland High School",
+        "city": "Arapahoe City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Ashland High School",
+        "city": "Highlands",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Atchinson, Topeka And Santa Fe Railway Company",
+        "city": "La Junta",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "B.H. Lichter And Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Barber Asphalt Paving Company",
+        "city": "Lockwood Greene",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Bay Petroleum Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Beet Sugar Factory",
+        "city": "Brush",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Benbow Plumbing",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Best Western Denver West Hotel",
+        "city": "Lakewood",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Black Hills Energy - Rocky Ford Plant",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Boulder Rolling Mills Company",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Broadmoor Hotel",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Broadmoor Hotel",
+        "city": "Broadmoor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Burlington Northern & Santa Fe Railroad",
+        "city": "La Junta",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Burlington Northern Railroad",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Burns Theatre",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Cameo Power Plant",
+        "city": "Cameo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Capitol Steam Plant - 4",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Central High School",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "CFI Steel Mill",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Chase Rolling Mill Company",
+        "city": "Waterbury",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Cherokee Power Plant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Cherry Creek Nursing Home",
+        "city": "Aurora",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Chicago, Burlington And Quincy Railroad Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Childrens Hospital Association",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Citizens Light, Heat And Power Company - Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "City And County Court House",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "City And County Of Denver Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "City Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Climax Molybdenum Company",
+        "city": "Climax",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Climax Uranium Company",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Coffins Packing Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Colorado And Southern Railway Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Colorado And Utah Coal Company",
+        "city": "Mt. Harris",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Colorado Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Colorado Cold Storage Corporation",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Colorado Condensed Milk Company",
+        "city": "Ft. Lupton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Colorado Forestry Department",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Crested Butte",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Minnequa",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Bessemer",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Colorado General Hospital Of The University Of Colorado",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Colorado Ice And Cold Storage Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Colorado Laundry Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Colorado Light And Power Company",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Colorado Mental Health Institute At Pueblo",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Colorado Packing And Provision Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Colorado Refinery",
+        "city": "Commerce City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Colorado Refinery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Colorado School For The Deaf And Blind",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Colorado School Of Mines",
+        "city": "Golden",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Colorado Springs",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Colorado Springs Department Of Public Utilities / Nixon Plant",
+        "city": "Fountain",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Colorado Springs Rapid Transit Company - Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Colorado Springs Utilities - Ray D Nixon Power Plant",
+        "city": "Fountain",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Colorado Springs Utilities - Ray D. Nixon Power Plant",
+        "city": "Fountain",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Colorado State Home For Dependent And Neglected Children",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Colorado State Hospital",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Colorado State Industrial School",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Colorado State Reformatory",
+        "city": "Buena Vista",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Colorado State University, Physical Plant Department",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Colorado Tires And Iron Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Colorado Utilities Corporation - Power Plant",
+        "city": "Mcgregor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Columbine Laundry Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Comanche Generating Station - Unit 2",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Comanche Power Plant",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Commodore Mining Company",
+        "city": "Creede",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Conoco Refinery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Consolidated Railway Corporation",
+        "city": "New Haven",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Continental Oil Company - Refinery",
+        "city": "Commerce City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Continental Oil Refinery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Continential Oil Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Corley Coal Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Cosmopolitan Hotel",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Courthouse Square Development",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Craig Power Plant",
+        "city": "Craig",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Craig Powerhouse",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "D.E. Burke",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "D.S. Grimes Son",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Davis Brothers Floral Company",
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Denver And Rio Grande Railroad Company",
+        "city": "Burnham",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Denver And Rio Grande Railroad Company",
+        "city": "Barnham",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Denver And Rio Grande Western Railroad Company",
+        "city": "Alamosa",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Denver And Rio Grande Western Railroad Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Denver Auditorium",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Denver Brick And Pipe Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Denver City Cable Railway Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Denver City Hall",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Denver City Tramway Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Denver Dry Goods Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Denver Gas And Electric Company - Lacombe Station",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Denver Municipal Airport",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Denver Public Bath And Gymnasium",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Denver Sewer Pipe And Clay Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Denver Sewer Pipe And Clay Company",
+        "city": "Argo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Denver Tramway - Denver Tramway Company Powerhouse",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Denver Union Water Works",
+        "city": "Platte Canon, Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Denver US National Bank",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Doctor Jack Pot Consolidated Mining Company",
+        "city": "Anaconda",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Dome Investment Company, Ideal Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Dow Chemical \"Rocky Flats\" Plant",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Dow Chemical Plant",
+        "city": "Golden",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Durango Light & Power Company - Power House",
+        "city": "Durango",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "E.G. Stoiber",
+        "city": "Silverton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Toluca",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Louviers",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Eastman Kodak Company",
+        "city": "Windsor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Eastman Kodak Company, Kodak Colorado Division",
+        "city": "Windsor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Eastman Kodak Project, Buildings C-17 & C-27",
+        "city": "Windsor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "El Paso Consolidated Gold Mining Company",
+        "city": "Anaconda",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "El Paso Consolidated Gold Mining Company",
+        "city": "Elkton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "El Paso Gold Mine",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Elkton Consolidated Mining And Milling Company",
+        "city": "Elkton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Ernest And Cramner Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Fabrica De Grasas Y",
+        "city": "Bogota",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Federal Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Federal Correctional Institute",
+        "city": "Lakewood",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Federal Correctional Institute",
+        "city": "Englewood",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Federal Youth Center",
+        "city": "Englewood",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Fitzsimmons General Hospital",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Fitzsimmons General Hospital",
+        "city": "Bunell",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Foley Brothers And Walbridge",
+        "city": "Aldinger",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "For Sale Per Dave Black",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Fort Carson",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Fort Carson",
+        "city": "Fort Carson",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Fort Carson Army Base",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Fort Saint Vrain Generating Station",
+        "city": "Platteville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Franklin Park Apartments",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Ft. Collins Sugar Company",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Garden Terrace Apartments",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Gary Refining Company",
+        "city": "Fruita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Gates Rubber",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Gates Rubber Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "General Iron Works",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "General Palmer Residence",
+        "city": "Colorado City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Geneva Pharmaceutical",
+        "city": "Broomfield",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Glockner Penrose Hospital",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Glockner Sanatorium",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Gold Coin Mining And Leasing Company",
+        "city": "Victor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Golden Cycle M And M Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Golden Cycle Mining And Reduction Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Golden Cycle Mining Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Golden Cycle Mining Company",
+        "city": "Independence",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Goodenough Mining And Milling Company",
+        "city": "Ruby City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Government Of The Republic Of Mexico",
+        "city": "Moncloua",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Grand Junction Regional Center",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Graymore Sanatorium",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Great Western Beet Sugar Company",
+        "city": "Longmont",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Great Western Machinery Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Great Western Sugar Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Great Western Sugar Company",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Great Western Sugar Company",
+        "city": "Johnstown",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Great Western Sugar Company",
+        "city": "Loveland",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Great Western Sugar Company",
+        "city": "Windsor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Great Western Sugar Company",
+        "city": "Brighton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Great Western Sugar Company",
+        "city": "Ft. Morgan",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Great Western Sugar Company",
+        "city": "Greeley",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Great Western Sugar Company",
+        "city": "Longmont",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Great Western Sugar Company",
+        "city": "Ovid",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Great Western Sugar Company",
+        "city": "Sterling",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Great Western Sugar Company",
+        "city": "Eaton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Great Western Sugar Company, Sugar Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Greenleaf Wholesale Florist",
+        "city": "Brighton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "H.L. Bridgeman",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Hawkins And Davis Crosswell Barnett Machine Company",
+        "city": "Trinidad",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Hayden Power Plant",
+        "city": "Hayden",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Hendrie & Bolthoff Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Hendrie & Bolthoff Manufacturing & Supply Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Highland South Apartments",
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Hilton Hotel",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Holly Sugar Building",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Industrial Sugar Company",
+        "city": "La Salle",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Ingenio Rio Castilla",
+        "city": "Valle",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Ingenio Rio Paila",
+        "city": "Cali",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "International Rubber Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Iron Silver Mining Company",
+        "city": "Leadville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "J.C. St. John Plumbing And Heating Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "J.W. Lawrence, Department M. E.",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Jewish Consumptives Relief Society",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Job A Cooper",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Juanita Coal And Coke Company",
+        "city": "Bowie",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Julius Hyman Company",
+        "city": "Ladora",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "K. & B. Packing And Provision Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Kendrie And Bolthoff Manufacturing And Supply Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Kitayama Brothers Greenhouse",
+        "city": "Brighton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Kuner Pickle Company",
+        "city": "Brighton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "La Bella Mill, Water And Power Company - La Bella Plant",
+        "city": "Goldfield",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "La Comb Powerplant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "La Combe Plant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Lacombe Station",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Landmark Petroleum",
+        "city": "Fruita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Larimer Light And Power Company",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Leadville Gas And Electric Company",
+        "city": "Leadville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Leadville Light And Power Company",
+        "city": "Leadville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Light And Power Department",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Lindrooth Shubart And Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Littleton Creamery Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Longmont Beet Sugar Company",
+        "city": "Longmont",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Louisiana Pacific",
+        "city": "Fruita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Madre Tierra",
+        "city": "Port Morgan",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Madre Tierra Sugar",
+        "city": "Ft. Morgan",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Marcus Mason Company",
+        "city": "Savanilla",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Marie Calenders",
+        "city": "Littleton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Martin Drake STM Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Martin Marietta Plant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Mc Phee And Mcginnity Lumber Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Memorial Hospital",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Mesa Insulation",
+        "city": "Fruita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Midland Savings And Loan Company Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Midwest Plumbing And Heating, Incorporated",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Mine And Smelter Supply Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Modern Woodmen Of America Sanatorium",
+        "city": "Woodmen",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Moffat Coal Company",
+        "city": "Oak Hills",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Moffat Coal Company",
+        "city": "Oak Creek Mines",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Monfort Packing Company",
+        "city": "Greeley",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Morey Mercantile Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Morse Brothers Machinery Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Municipal Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Myron Stratton Home",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Myron Stratton Home Power House",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "National Beet Sugar Company",
+        "city": "Sugar City / Ordway",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "National Biscuit Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "National Sugar Manufacturing Company",
+        "city": "Sugar City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Nixon Power Plant",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Nuckolls Packing Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Oak Creek Power Company",
+        "city": "Oak Creek",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Oak Ridge Motel",
+        "city": "Pagosa Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Opera House Block",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "P.S.C.O., Arapahoe Power Plant, 2601 South Platte River",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Palmer Center",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Pasco Incorporated",
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Pasto Brewery",
+        "city": "Pasto",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Pawnee Power Plant",
+        "city": "Brush",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Peata Verde Silver Mining Company",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Penn Chemical Works",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Penrose Hospital",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Phillip Zang Brewing Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Picker Medical Systems",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Porter Memorial Hospital",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Public Service Company Of Colorado",
+        "city": "Alamosa",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Public Service Company Of Colorado",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Public Service Company Of Colorado",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Public Service Company Of Colorado",
+        "city": "Brush",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Public Service Company Of Colorado",
+        "city": "Cameo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Public Service Company Of Colorado",
+        "city": "Valmont",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Public Service Company Of Colorado",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Public Service Company Of Colorado",
+        "city": "Durango",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Public Service Company Of Colorado",
+        "city": "Palisade",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Public Service Company Of Colorado",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Public Service Company Of Colorado - Cameo Power Plant",
+        "city": "Palisade",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Public Service Company Of Colorado - Cherokee Steam Electric Station",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Public Service Company Of Colorado - Valmont Station",
+        "city": "Valmont",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Public Service Company Of Colorado, Valmont Power Plant",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Public Service Of Colorado",
+        "city": "Platteville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Pueblo And Suburban Traction And Lighting Company - Power Plant",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Pueblo By Products Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Pueblo Central School",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Pueblo Power Plant",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Pueblo Powerhouse",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Pueblo Smelting And Refining Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Pueblo Street Railway Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Pueblo Traction And Lighting Company - Power Plant",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Pulbic Service Company Of Colorado",
+        "city": "North Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Randolph And Company, Custom Stamp Mill",
+        "city": "Central City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Ray Nixon Power Plant",
+        "city": "Fountain",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Republic Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Rock Flats",
+        "city": "Golden",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Rocky Flats Powerhouse",
+        "city": "Rocky Flats",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Rocky Ford Power Plant",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Rocky Mount Brewery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Rocky Mountain Arsenal",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Rocky Mountain Arsenal",
+        "city": "Ladora",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "San Luis Valley Beet Sugar Company",
+        "city": "Monte Vista",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Sayre Newton Lumber Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Senior Citizens Housing, 6340 West 38th Ave.",
+        "city": "Wheatridge",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Shell Chemical Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Shell Chemical Company",
+        "city": "Ladora",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Silver Cliff Mining Company",
+        "city": "Silver Cliff",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Silver Cliff Mining Company Of Colorado",
+        "city": "Silver Cliff",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Simpson And Watkins",
+        "city": "Forty Fort",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Southern Colorado Power Company",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Southern Colorado Power Company",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Southern Colorado Power Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Southern Sierras Power Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "St Mary's Hospital",
+        "city": "Grand Junction<",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "St. Joseph‚Äôs Hospital",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "St. Luke's Hospital",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "St. Mary-Corwin Hospital",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "St. Thomas Seminary",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Standard Fire Brick Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Stapleton International Airport",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "State Highway Department",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "State Home And Training School",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Strong Gold Mining Company",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Summit County Power Company",
+        "city": "Dillon",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Summit Thread Company",
+        "city": "East Hampton",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Swift And Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Thompson Pipe Steel",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Titan Missile Sites",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Total Refinery",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Tower Building Denver",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Tri State Gandt Association",
+        "city": "Craig",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Tri-State Generation & Transmission Association - Craig Station",
+        "city": "Craig",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Trinidad Power Plant",
+        "city": "Trinidad",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Twin Lakes Power Plant",
+        "city": "Leadville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "U.S. Atomic Energy Commission - Climax Uranium Mill",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Union Carbide",
+        "city": "Olefins",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Union Pacific",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Union Pacific Railroad Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Union Printers Home",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Union Stockyards",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "United Collieries Company",
+        "city": "Erie",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "United Illuminating, Bridgeport Harbor Station",
+        "city": "Bridgeport",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "United Light And Power Company",
+        "city": "Georgetown",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "United States Atomic Energy Commission",
+        "city": "Rocky Flats",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "United States Federal Jail",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "United States National Bank Building",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "United States Vanadium Corporation",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "United States Vanadium Corporation",
+        "city": "Rifle",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "United States Veterans Administration",
+        "city": "Ft. Lyon",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "United States Zinc Company",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Univ Of Colorado, Williams Village",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "University Hospital, Health Sciences",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "University Of Colorado",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "University Of Colorado",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "University Of Colorado",
+        "city": "Greeley",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "University Of Colorado Health Services Center",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "University Of Colorado Medical Center",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Uranium Mill",
+        "city": "Naturita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "US Aluminum Company",
+        "city": "Westmoreland",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "UTE Power Plant",
+        "city": "Hayden",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Utilicorp United, Incorporated",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Utilicorp United, Incorporated",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Utilicorp United, Incorporated",
+        "city": "Rocky Ford",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Valmont Power Plant",
+        "city": "Boulder",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Vanadium Corporation Of America",
+        "city": "Naturita",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Veterans Administration",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Veterans Administration Hospital",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Victor Fuel Company",
+        "city": "Victor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Vindicator Consolidated Gold Mining Company",
+        "city": "Independence",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Vindicator Gold Mining Company",
+        "city": "Victor",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "W.N. Clark Station",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Walsenburg Power Plant",
+        "city": "Walsenburg",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Walsenburg Powerhouse",
+        "city": "Walsenburg",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Walter Brewing Co",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Webb And Knapp",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Webb And Knapp Courthouse Square Development",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "West Plains Energy",
+        "city": "Canon City",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Western Chemical Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Western Chemical Manufacturing Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Western Colorado Power Company",
+        "city": "Durango",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Western Colorado Power Company",
+        "city": "Montrose",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Western Colorado Power Company",
+        "city": "Somerset",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Western Colorado Power Company - James A Bullock Steam Electric",
+        "city": "Montrose",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Western Iron Mills",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Western Packing Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Western Sugar",
+        "city": "Port Morgan",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Western Sugar",
+        "city": "Greeley",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Western Sugar Company",
+        "city": "Ft. Morgan",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "William E. Renshaw",
+        "city": "Idaho Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "William Russell Coal Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Wilshire Oil Company",
+        "city": "Santa Fe Springs",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Xcel Energy",
+        "city": "Brush",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Xcel Energy",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Xcel Energy",
+        "city": "Palisade",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Xcel Energy",
+        "city": "Platteville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Xcel Energy",
+        "city": "Pueblo",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Yak Mining, Milling And Tunnel Company",
+        "city": "Leadville",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "YMCA",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Zang Brewing Company",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Zuni Power Plant",
+        "city": "Denver",
+        "state": "CO",
+        "visibility": ""
+      }
+     ]
+}

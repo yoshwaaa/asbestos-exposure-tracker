@@ -1,0 +1,445 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Alaska Constructors",
+        "city": "Prudhoe Bay",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Alaska Juneau Gold Mining Company",
+        "city": "Juneau",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Alaska Lumber & Pulp Company, #7 Digester Insulation",
+        "city": "Sitka",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Alaska Lumber & Pulp Company, Pulp Mill",
+        "city": "Sitka",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Alaska Lumber And Pulp Company",
+        "city": "Sitka",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Alaska Pulp And Paper Company",
+        "city": "Sitka",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Alaska Steamship Company",
+        "city": "Nome",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Alaska Treadwell Gold Mining Company",
+        "city": "Treadwell",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Alaskan Pipeline",
+        "city": "Valdez",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Alcoa Bauxite",
+        "city": "Bauxite",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Anchorage Hospital",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Aurora Energy",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Baxter Labs",
+        "city": "Mountain Home",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Beluga Power Station",
+        "city": "Beluga",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Bernice Lake Power Plant",
+        "city": "Nikiski",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Bethel Municipal",
+        "city": "Bethel",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Bureau Of Indian Affairs",
+        "city": "Sitka",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Cape Lisburne AFB",
+        "city": "Cape Lisburne",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Cape Newenham AFB",
+        "city": "Cape Newenham",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Cape Romanzof AFB",
+        "city": "Cape Romanzof",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Chandler",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Chugach Electric - International Power Plant",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Chugach Electric Association - Eklutna Power Plant",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Collier Carbon & Chemical Plant",
+        "city": "Kenai",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Department Of The Interior, Alaska Railway",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "E.C. Andrews",
+        "city": "Dawson City Klondike",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Eilson Air force Base",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Elmendorf AFB",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Elmendorf Air Force Base",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Evans Jones Coal Company",
+        "city": "Jonesville",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Fairbanks Exploration Company",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Fairbanks Public Utilites",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Fairbanks Public Utilities - Chena Power Plant",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Galena AFB",
+        "city": "Galena",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Ketchikan",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Healy River Coal Corporation",
+        "city": "Suntrana",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Home Power Company - Power Plant",
+        "city": "Skagway",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Jualin Mines Company",
+        "city": "Juneau",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Jualin Mines Company",
+        "city": "Berners Bay",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Ketchikan Pulp",
+        "city": "Ketchikan",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Ketchikan Pulp Company",
+        "city": "Ketchikan",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Ketchikan Pulp Company",
+        "city": "Ward Cove",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Ketchikan Spruce Mills",
+        "city": "Ketchikan",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Knik Arm Power Plant",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Ladd Air Force Base",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Municipal Ulitities System",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Nelbro Packing Company",
+        "city": "Naknek",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "New England Fish Company",
+        "city": "Chatham",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Nome Mining Company",
+        "city": "Nome",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Northwest Light And Power Company",
+        "city": "Skagway",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Pacific Beach",
+        "city": "Washington",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Siems Drake Puget Sound",
+        "city": "Kodiak",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Sims Drake Puget Sound",
+        "city": "Adan",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Sitka Paper Mill",
+        "city": "Anchorage",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "U.S. Naval Base",
+        "city": "Kodiak",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Union Carbide",
+        "city": "Kenai",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Union Collier",
+        "city": "Kenai",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "United States Smelting, Refining, And Mining Company",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "University of Alaska",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "US Air Corps, Eilson Air Field",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "US Belly Power House",
+        "city": "Fairbanks",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Wildwood AFB",
+        "city": "Kenai",
+        "state": "AK",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Yukon Gold Company",
+        "city": "Iditarod",
+        "state": "AK",
+        "visibility": ""
+      }
+     ]
+}

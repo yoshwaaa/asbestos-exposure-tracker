@@ -1,0 +1,6346 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "111 Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "1414 Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A.L. Flewelling",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Aberdeen Plant",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Aberdeen Schools",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Abitibi",
+        "city": "Steilacoom",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Acme Linen Supply",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Acology Oil",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "AFC Richland",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Aircraft Plywood Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "AJ Zinda Co.",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "AKWA Tacoma Shipyard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Alaska Oil Modules",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Alaska Pipeline",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Alaska Sheds",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Albers Brothers Milling Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "ALCOA Aluminum Plant",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Alcoa Plant",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Alhadeaf Residence",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Allied Mech",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Aluminum Company Of America",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Bridge",
+        "city": "Boundary Dam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Bridge",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Building Maintenance",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Lake Hospital",
+        "city": "Lakewood",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Linen Supply Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Smelting & Refining",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Ammonia Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Anderson & Middleton Lumber Company",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Arco Refinery",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Arco Refinery",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Arco Refinery",
+        "city": "Cherry Point",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Arco Refinery",
+        "city": "Ferndale",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Arco Refinery",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Arco Seattle",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Armour And Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Asarco",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Asarco Smelter",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Assoc. Shipbuilders",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Atlantic Richfield (ARCO) Refinery",
+        "city": "Cherry Point",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Atlantic Richfield (ARCO)/\"Cherry Point\" Refinery",
+        "city": "Ferndale",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Atlas Foundry",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Atomic Energy Commission",
+        "city": "Kennewick",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Atomic Energy Commission",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Atomic Energy Richland",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Auburn High School",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Auxiliary Steam House",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Avamere Hlthcre-Highlands Ctr",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "B. Schade Brewing Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Babcock & Wilcox",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Babcock & Wilcox",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Babcock & Wilcox",
+        "city": "Wallula",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Ballard Electric Company - Power Plant",
+        "city": "Ballard",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Ballard Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Bank of California",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Becco Chemical Division",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Bechtel Corp",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Bell Telephone Seattle",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Bellevue Public Schools",
+        "city": "Bellevue",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Benevolent And Protective Order Of Elks, #1450",
+        "city": "Puyallup",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Berg Apartments",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Bethlehem School Dist.",
+        "city": "Bethlehem",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Bethlehem Steel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Bethlehem Steel Mill",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Beverly Investment Company",
+        "city": "Beverly",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Black Carbon Coal Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Bloedel Donovan Lumber Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Boeing - 500 Degree Test Rig",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Boeing Aircraft",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Boeing Aircraft - Plant #2",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Boeing Aircraft - Renton Plants 4,5,10",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Boeing Aircraft Assembly Plant",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Boeing Aircraft Assembly Plant",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Boeing Aircraft Assembly Plant 1",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Boeing Aircraft Plant",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Boeing Aircraft Plant",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Boeing Aircraft Plant",
+        "city": "Tukwila",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Boeing Assembly Plant 2",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Boeing Company",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Boeing Company",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Boeing Company",
+        "city": "Kent",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Boeing Company - Boeing Field",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Boeing Company - Boeing Field - Multi Purpose Hanger",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Boeing Office Building-Tukwila",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Boeing Plant",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Boeing Plant",
+        "city": "Fredrickson",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Boeing Plant",
+        "city": "Guerrett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Boeing Plant",
+        "city": "Kent",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Boeing Plant",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Boeing Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Boeing Plant #2",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Boeing Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Boise Cascade",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Boise Cascade",
+        "city": "Stilcom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Boise Cascade",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Boise Cascade",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Boise Cascade Corporation",
+        "city": "Wallula",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Boise Cascade Corporation",
+        "city": "Attalia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Boise Cascade Corporation",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Boise Cascade Corporation",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Boise Cascade Lumber Mill",
+        "city": "Kettle Falls",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Boise Cascade Paper Mill",
+        "city": "Kennewick",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Boise Cascade Paper Mill",
+        "city": "Pasco",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Boise Cascade Paper Mill",
+        "city": "Steilcom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Boise Cascade Paper Mill",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Boise Cascade Paper Mill",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "BonMarche",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Bonneville Power Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Botting Plumbing & Heating",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Bremerton Naval Shipyard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Bremerton Navy Yard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Bremerton-Charleston Light & Fuel Company - Power Plant",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Bridgeport Land Company",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Brimington Naval Shipyard",
+        "city": "Brimington",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Broadmoor Apartments",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Bronson Residence",
+        "city": "Yakima",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Buckley State Schools",
+        "city": "Buckley",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Buffalo Electrochemical Company",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Bumstead & Woolford, Boiler Drums",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Bunker Hill Mine",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Bureau Of Aircraft Production",
+        "city": "Joyce (Lake Pleasant Mill)",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Bureau Of Yards And Docks",
+        "city": "Puget Sound",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Bureau Of Yards And Docks, Puget Sound Navy Yard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Burlington Northern",
+        "city": "Pasco",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "C-Z Pulp Mill",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Cabin Creek Lumber Company",
+        "city": "Easton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "California Packing Corporation",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Camp Ghormley",
+        "city": "Naches",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Canadian Fisheries Company",
+        "city": "Bay City",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Capital Building",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Caprini Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Carnation",
+        "city": "Moses Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Carnation Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Carnation Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Carnation Company",
+        "city": "Sunnyside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Carnation Milk Products Company",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Carnation Milk Products Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Cascade Kraft Corporation",
+        "city": "Wallula",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Cascade Kraft, Division Of Boise Cascade Corporation",
+        "city": "Attalia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Cascade Paper Company",
+        "city": "West Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Casco Company",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Celanese Chemical",
+        "city": "Belvedere",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Centennial Mill Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Central Kitsap Fire & Rescue 6-4",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Central Steam Plant",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Central Washington College Of Education",
+        "city": "Ellensburg",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Centralia Power Plant",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Certaineteed Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Charles R. Mccormick Lumber Company",
+        "city": "Port Ludlow",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Chemical Proof",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Cheney Schools",
+        "city": "Cheney",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Chevrolet Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Chewelah High School",
+        "city": "Chewelah",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Chief Joseph High School",
+        "city": "Moses Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Childrens Orthopedic Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Church Grape Juice Company",
+        "city": "Kennewick",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "City Of Olympia Maintenance Center",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "City Of Seattle Garbage Destructor #2",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "City Of Tacoma Public Building",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Clark College",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Claussen Brewing Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Clear Lake Lumber Company",
+        "city": "Clear Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Clough Lumber Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Clover Community College",
+        "city": "Midway",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Coast Ice And Cold Storage Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Coleman Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Coliseum Theater",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Columbia And Puget Sound Railway Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Columbia Brewers Industries, Incorporated",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Columbia Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Columbia Kraft Corporation",
+        "city": "Attalia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Columbia River Paper Mill",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Commercial Ship Repair",
+        "city": "Winslow",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Commissary Ft. Lewis",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Container Corporation Of America",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Container Corporation Of America",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Continental Can Co",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Contintenal Can Company, Cardell Growers",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Convalescent Home",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Convention Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Coolney Cranes",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Copalis Lumber Company",
+        "city": "Carlisle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Coulee Dam",
+        "city": "Coulee City",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Covey Laundry Service",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Cranes Service, Inc.",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Crown Columbia Paper Company",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Crown Columbia Pulp And Paper Company",
+        "city": "Carmas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Crown Willamette Paper Company",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Crown Zellerbach",
+        "city": "Port Angels",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Crown Zellerbach Corporation",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Crown Zellerbach Corporation",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Crown Zellerbach Corporation",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Crown Zellerbach Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Crown Zellerbach Corporation, Recovery Boiler Duct",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Crown Zellerbach Paper Mill",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Crown Zellerbach Paper Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Crown Zellerbach Paper Mill",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Crown Zellerbach Paper Mill (now Port Townsend Paper Mill)",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Crown Zellerbach Paper Port",
+        "city": "Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Crown Zellerbach Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Cummings Boat",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "D A Public Works - #9660/9665/9785/9996",
+        "city": "Fort Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "D A Public Works - Madigan/#9576",
+        "city": "Fort Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Dabney Mack",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Daishowa America",
+        "city": "Ft. Amgelis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Daishowa America",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Davenport Hotel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Deaconess Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Defense Plant Corporation",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Defense Plant Corporation, Plancor 156",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Denny Renton Clay And Coal Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Denny Renton Clay And Coal Company",
+        "city": "Taylor",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Department Of Yards And Docks, Puget Sound Navy Yard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Diamond Ice And Storage Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Dishowa Pulp Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Dulien Steel Products, Incorporated Of Washington",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Duwamish Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "E.A. Nord Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Dupont",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Dupont",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "E.K. Wood Lumber Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "E.K. Wood Lumber Company",
+        "city": "Hoquain",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "E.K. Wood Lumber Company",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "E.K. Wood Lumber Company",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Eastern Railway And Lumber Company",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Eastern State Hospital Annex",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Eastern Washington Hospital For The Insane",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Eastern Washington State University",
+        "city": "Cheney",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Eastern Washington University, Power Plant",
+        "city": "Cheney",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Eckstein School",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Ellensburg Junoir High School",
+        "city": "Ellensburg",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Emerson Elementary School",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Eureka Cedar Lumber And Shingle Company",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Everett Flour Mill Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Everett General Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Everett General Hospital",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Everett Pulp & Paper/Simpson Lee Paper Mill",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Everett Pulp And Paper Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Everett Railway And Electric Company - Power Plant",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Everett Railway, Light And Water Company - Power Plant",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Evergreen Heights Elementary",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Fairchild Air Force Base",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Fairchild Air Force Base Hospital",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "FFTF Nuclear",
+        "city": "Hanover",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Fibreboard Products, Incorporated",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Fibreboard Products, Incorporated",
+        "city": "Sumner",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Fisher Flouring Mills, Incorporated",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Fleischmann Company",
+        "city": "Sumner",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Fmc Corporation",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Food Machinery And Chemical Corporation",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Fort Lewis",
+        "city": "Fort Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Fort Lewis Army Base",
+        "city": "Fort Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Foss Maritime Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Fraser Boiler Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Frederick & Nelson",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Ft. Casey",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Ft. Flagler",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "General Electric",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "General Electric Company - Steam Turbine Plant",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "General Store And Coal",
+        "city": "Melmont",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Georgia Pacific",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Georgia Pacific",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Georgia Pacific Corporation, Mill Boilers",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Georgia Pacific Paper Company",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Georgia Pacific Plywood Mill",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Georgia Pacific, Pandia Cook & Wash",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Georgia-Pacific Chemical Plant",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "GMC Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Good will Industries",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Gordon Brown",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Grand Cooley Dam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Grays Harbor Mill",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Grays Harbor Mill",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Grays Harbor Railway And Light Company - Power Plant",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Great Northern Railway Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Green Hills School",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Habor Plywood Corporation",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Hanford Atomic Energy Plant",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Hanford Engineer Works",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Hanford Engineer Works",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Hanford Nuclear Facility",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Hanford Nuclear Reservation",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Hanford Power Plant",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Hanford Power Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Hanford Test Site",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Harbor Plywood Corporation",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Harborview Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Harrison Memorial Hospital",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Heidelberg Brewing Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Henry Foss Tug",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Henshaw, Bulkley & Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Holy Family Hospital",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Home Oil Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Hooker Chemical",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Hooker Chemical",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Hooker Chemical Plant",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Hooker Electo Chemical Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Hooker Electro-Chemical Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Hoquiam Plywood Company, Incorporated",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Hydraulic Supply Fabrication Shop",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "IBM Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Independent Food Processors",
+        "city": "Sunnyside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Independent Insulating, Incorporated",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Inland Empire Paper Company",
+        "city": "Millwood",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Inland Empire Paper Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Isaacson Iron Works",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "ITT Rainer Pulp Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "ITT Rainer Pulp Mill",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "ITT Rainer Pulp Mill",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "ITT Rainer Pulp Mill",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Itt Rayonier, Incorporated",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "J.A. Veness Lumber Company",
+        "city": "Winlock",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "J.F Duthie Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "J.R. Harvey",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Jackson Hall Medical Center",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "James River Paper Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "James River Paper Mill",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "James Smyth Plumbing Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Jas Smyth Plumbing And Heating Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Jones Block",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Jt Mcintire Mint Farm",
+        "city": "Sunnyside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Kaiser Aluminum",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Kaiser Aluminum",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Kaiser Aluminum Plant",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Kaiser Aluminum Plant",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Kaiser Aluminum Rolling Mill (Trentwood Works)",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Kaiser Aluminum Trentwood Words",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Kaiser Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Kaiser Shipyard",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Kaiser Steel",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Kalama Chemical",
+        "city": "Kalama",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Kentucky Building",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Kerley Chemical Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Key Services",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Keyport Torpedo Station - Bureau Of Yards And Docks",
+        "city": "Keyport",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Kimberly Clark",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Kimberly-Clark Paper Mill fka Scott Paper Mill",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "King County Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Kraft Pulp Division, St. Regis Paper Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "L.C. Smith Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Lake Union Drydock",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Lake Union Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Lake Washington Shipyards",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Lakeland Village State Hospital",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Larson Lumber Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Lewiston-Clarkston Improvement Company",
+        "city": "Clarkston",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Libby, Mcneill & Libby",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Lincoln Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Lincoln High School",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Lipsee Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Liquid Carbonic",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Liquid Carbonic Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Little Falls Fire Clay Company",
+        "city": "Bayne",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Lockheed Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Lockheed Shipyard (Harbor Island)",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Long Bell Lumber Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Longview Fiber Co.",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Longview Fibre Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Longview Fibre Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Longview Fibres Paper Mill",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Lower Columbia Cooperative Association",
+        "city": "Grays River",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Lucky Lager",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Mackall Paine Veneer Company",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Manley-Moore Lumber Company",
+        "city": "Fairfax",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Marco Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "McCord AFB",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Metropolitan Investment Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Mobil Oil",
+        "city": "Ferndale",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Mobil Oil Refinery",
+        "city": "Ferndale",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Monsanto Chemical",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Monsanto Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Morrison Mill Company",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Mount St. Vincent'S Home",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Mt. View Christian Center",
+        "city": "Ridgefield",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Multi Care Health System",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Mutual Light And Heat Company - Power House",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "N Cascade Gateway Cir",
+        "city": "Sedro Woolley",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "N River Senior High (Brooklyn)",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Nalleys Pickle",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "National Paper Products Company",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "National Paper Products Division",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "National Paper Products Division, Crown Zellerbach Corporation",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "National Pole And Treating Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "National Realty Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "New Providence Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Nippon Paper Industries - Boiler No. 10",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Nippon Paper Industries - Boiler No. 9",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "North Bowl Bowling Alley",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "North Central High School",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "North Western Lumber Company",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Northern Life Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Northern Pacific Railroad",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Northern Pacific Railroad",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Northern Pacific Railroad Company",
+        "city": "South Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Northern Pacific Railroad Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Northern Pacific Railway Company",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Northern Pacific Railway Company",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Northern Pacific Railway Company",
+        "city": "Parkwater",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Northern Pacific Railway Company",
+        "city": "Pasco",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Northern Pacific Railway Company",
+        "city": "Stampede",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Northern Pacific Railway Company",
+        "city": "Roslyn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Northern Railway And Improvement Company",
+        "city": "Whatcom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Northern State Hospital",
+        "city": "Sedro-Woolley",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Northern States Hospital",
+        "city": "Sedro-Woolley",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Northwest Agri Products",
+        "city": "Moses Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Northwest Chair Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Northwest Glass",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Northwest Improvement Company",
+        "city": "Roslyn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Northwest Light And Water Company - Naches Plant",
+        "city": "Yakima",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Northwest Natural Gas Company, Calorimeter Building",
+        "city": "Camas",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Northwest Petrochemical",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Northwestern Gas And Electric Company - Gas And Electric Plant",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Northwestern Glass Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Northwestern Improvement Company",
+        "city": "Melmont",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Northwestern Improvement Company",
+        "city": "Ronald",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Northwestern Improvement Company",
+        "city": "Roslyn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Northwestern Improvement Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Northwestern Improvement Company",
+        "city": "Cle Elum",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Northwestern Improvement Company",
+        "city": "Ravensdale",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Northwestern Improvement Company",
+        "city": "Ravensdales",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Norton Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "O'Malley & Tuffey",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Occidental Chemical",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Ohio Ferro",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Olympia Brewery",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Olympia Christian School",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Olympia Hotel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Olympia Oil and Wood",
+        "city": "Port of Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Olympia School District",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Olympic Calpet Refining Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Olympic Forest Products Company",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Onalaska Lumber Company",
+        "city": "Onalaska",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "One Union Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Opera House",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Orchard Point",
+        "city": "Puget Sound",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Oregon Washington Depot",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Oregon-Washington Railroad And Navigation Company",
+        "city": "Argo",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Oregon-Washington Railroad And Navigation Company",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Overall Cleaning And Supply Company",
+        "city": "North Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "PACCAR Building",
+        "city": "Bellevue",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "PACCAR Inc. Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Pacific Bell Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Pacific Boat Shipyard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Pacific Brotherhood Investment Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Pacific Car & Foundry",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Pacific Car And Foundry Company",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Pacific Car Plant & Foundry",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Pacific Coast Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Mt. Vernon",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Pacific Coast Consolidated Milk Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Pacific Gas & Electric Company - Transmission Station 6",
+        "city": "Rosalia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Pacific Gas-Electric",
+        "city": "Emeryville",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Pacific Heating Company",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Pacific Inland Navigation",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Pacific Lutheran University",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Pacific Marine",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Pacific Northwest Bell",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Pacific Power And Light And Washington Water Power Company - Centralia Power Plant",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Pacific Power And Light Company",
+        "city": "Yakima",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Pacific Power And Light Company",
+        "city": "North Yakima",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Pacificorp",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Paper Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Paper Mill ( Weyerhouser)",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Paraffine Company",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Parker Lumber And Box Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Paulsen Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Payne Equipment Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Peirce County Building",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Pendleton Woolen Mills",
+        "city": "Washougal",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Peninsula College",
+        "city": "Port Angles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Peninsula Plywood Mill",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Penn Iron And Steel Company",
+        "city": "Edmonds",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Penn Salt",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Penn Salt",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Penn Salt Company Of Washington",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Pennsylvania Salt Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Pennsylvania Salt Manufacturing Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Pennwalt Corporation",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Penwalt Chem",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Peoples Bank",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Perkins Building",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Perter Sandberg",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Peter Kiewit & Sons-Satsop",
+        "city": "Satsop",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Peterson's Boat",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Petty House Moving",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Philadelphia Quartz Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Philpher Brewery",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "PI Newspaper",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Pier 7",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Pier 9",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Pierce County Courthouse",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Pierce County Hospital",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Pike Place Market",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Pioneer Chlor Alkali Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Pittsburgh And Midway Coal Mining Company",
+        "city": "Ft. Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Plainwell Paper",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Play House Theater",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Point Power-Simpson Paper Company",
+        "city": "Shelton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Polson Logging Company",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "POOM Tank Bellevue",
+        "city": "Bellevue",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Pop's Truck Stop",
+        "city": "Ravenna",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Port Aneces Paper",
+        "city": "Port Aneces",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Port Angeles Division",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Port Angeles Paper Mill",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Port of Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Port Orchard HS",
+        "city": "Port Orchard",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Port Townsend Paper",
+        "city": "Port Townsend",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Potlatch Forests, Incorporated",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Precision Piping",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Providence Everett Medical Ctr",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Providence Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Puget Sound Energy",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Puget Sound Engineering",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Puget Sound Hospital",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Puget Sound International Railway And Power Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Puget Sound Naval Shipyard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Puget Sound Navy Yard",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Puget Sound Plaza",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Puget Sound Power & Light",
+        "city": "Boundy Dam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Puget Sound Power And Light Company",
+        "city": "Lakeside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Puget Sound Power And Light Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Puget Sound Pulp And Timber Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Puget Sound Pulp And Timber Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Puget Sound Refining #3B",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Puget Sound Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Puget Sound Traction Light And Power Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Puget Sound Traction Light And Power Company",
+        "city": "Georgetown",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Puget Sound Traction Light And Power Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Puget South Bridge & Drydock",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Pulp And Paperboard Division",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Puyallup Public School",
+        "city": "Auburn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Quality Dry Wall",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Queen Ann Schools",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Quilcene Public School District",
+        "city": "Quilcene",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Rainier Heat And Power Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Rath Packing Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Rayonier Incorporated",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Rayonier Incorporated",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Rayonier Incorporated",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Rayonier Incorporated, Grays Harbor Mill",
+        "city": "Hoquiam",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Refrigerator Engineering Co,",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Renton Dry Wall",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Renton Schools",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Rescom Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Reynolds Alum",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Reynolds Metals aka ALCOA Aluminum Plant",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Rheinlander Paper Factory",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Rhone Poulenc Basic Chemicals Incorporated",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Richland ISD",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Richter Chemical",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Rock Island Dam",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Rockwood Manor",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Rocky Research Dam",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Rogers Walla Walla",
+        "city": "Paco",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Roosevelt HS",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Roslyn Fuel Company",
+        "city": "Roslyn",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Roundhound Railroad Yard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "rust Building",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "S.E. Brown And Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Sacred Heart Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Sacred Heart Hospital",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Sacred Heart Medical Center",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "San Point Naval Station",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Sand Point Naval Air Station",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Satsup Nuclear",
+        "city": "Satsup",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Satup Atomic Power Plant",
+        "city": "Elma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Scott Paper Company",
+        "city": "Chester",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Scott Paper Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Sea Airport",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Sea First Bank",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Sea-Tac Airport",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Sea-Tac shipyard- Seattle",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Seaborne Shipyards",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Sears Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Sears Department Store",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Sears, Roebuck And Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Seattle Boiler Works",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Seattle Box Factory",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Seattle Brewing And Malting Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Seattle Cedar Lumber Manufacturing Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Seattle Cedar Lumber Manufacturing Company",
+        "city": "Ballard",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Seattle Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Seattle City Light",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Seattle City Light - Lake Union Steam Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Seattle Colosseum",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Seattle Electric Company - Georgetown Steam Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Seattle Gas Company - Lake Station Gas Manufacturing Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Seattle General Hosp",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Seattle Linen",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Seattle Public Schools",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Seattle Steam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Seattle Steam Corporation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Seattle Steel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Seattle Tacoma Power Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Seattle Tacoma Shipbuilding",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Seattle Tacoma Shipbuilding",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Seattle Terminal Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Seattle Times Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Seattle Trust",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Seattle Trust",
+        "city": "Tumwater",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Sequim Pulp Mill",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Shell Company Of California",
+        "city": "Richmond Beach",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Shell Company Of California",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Shell Company Of California",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Shell Company Of California, Incorporated",
+        "city": "Richmond Beach",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Shell Oil",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Shell Oil Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Shell Oil Company, Harbor Island",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Shell Oil Refinery",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Shell Plant",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Shell Refinery",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Shell Steam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Shelton Mill",
+        "city": "Shelton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Shelton Prison",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Shepherd Fruit Products Company",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Shiffenhaus",
+        "city": "Belleville",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Shoenfelds Furniture",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Siems Carey H.S. Kerbaugh Corporation",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Siems Drake Puget Sound",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Sierra Pacific Ind",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Sigma Alpha Epsilon",
+        "city": "Pullman",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Simpson Kraft Paper Mill fka St. Regis fka Chamion Paper Mill",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Simpson Kraft Plywood",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Simpson Lee Paper",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Simpson Logging Company",
+        "city": "Shelton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Simpson Paper",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Simpson Paper Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Simpson Tacoma Kraft",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Simpson Tacoma Kraft Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Simpson Timber Company",
+        "city": "Shelton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Sinclair-Atlantic Richfield Co. (ARCO)- Refinery",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Sisters Of Providence",
+        "city": "Issaquah",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Sisters Of St. Joseph Hospital",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Skagit County Dairymen's Association",
+        "city": "Mt. Vernon",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Smelter",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Snelson-Anvil",
+        "city": "Anacortez",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Snoqualmie Falls Lumber Company",
+        "city": "Snoqualmie Falls",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Snoqualmie Falls Power Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Snoqualmie Falls Power Company",
+        "city": "Benton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Sodo",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Sonoco Products Company",
+        "city": "Sumner",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Sorbara Automotive",
+        "city": "Ravenna",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Sound Oil",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Sound Refining, Incorporated",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Soundview Pulp Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Space Needle",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Spokane County Museum",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Spokane County Steam Plant",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Spokane International Airport",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Spokane Portland And Seattle Railway Company",
+        "city": "Wishram",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Spokane Portland And Seattle Railway Company",
+        "city": "Roundhouse, Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Spokane School District",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "St Elizabeth Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "St Luke's Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "St Mary Hospital",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "St Mary's Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "St Michelle Winery",
+        "city": "Patterson",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "St Regis",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "St Regis",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "St Regis Paper Co",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "St Vincent Nursing Home",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "St. Charles Borromeo",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "St. Johns Hospital",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "St. Joseph'S Hospital",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "St. Paul And Tacoma Lumber Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "St. Paul Tacoma Lumber Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "St. Regis Kraft Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Standard Brands",
+        "city": "Sumner",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Standard Furniture Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Standard Oil",
+        "city": "Edmonds",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Standard Oil Company Of California",
+        "city": "Richmond Beach",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "State Board Of Control",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "State Board Of Control",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "State Board Of Control, East Washington Hospital For Insane",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "State Capitol Building",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "State Of Washington",
+        "city": "Sedro-Woolley",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "State Of Washington",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "State Of Washington",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "State Of Washington Custodial School",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "State Of Washington, Department Of Public Institutions",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "State Of Washington, Lakeland Village",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "State Office Complex",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "State Training School",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Steel Plant",
+        "city": "Warkom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Steve Pinto & Sons",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Stewart Middle School",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Stone Consolidated",
+        "city": "Steilacoom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Subaru-Tacoma",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Sumner Crane Rentals",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Sundfelt Equipment Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Super City Malls",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Super City Malls",
+        "city": "Huron",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Superior Service Laundries",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Supply Laundry Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Swedish Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Sweeney Brewery",
+        "city": "Georgetown",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Tacoma Boat",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Tacoma Boat Shipyard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Tacoma Boatbuilding",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Tacoma Electro Chemical Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Tacoma Gas Company - Gas Plant",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Tacoma General Hosp",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Tacoma General Hospital",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Tacoma Indian Hospital",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Tacoma Mall",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Tacoma News",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Tacoma Paperboard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "Tacoma Public School",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Tacoma Railway And Motor Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "Tacoma Railway And Power Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Tacoma Railway Power Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Tacoma School District",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Tacoma Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Tacoma Smelter",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Tacoma Smelting Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Tacoma Steam Plant",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "Talbott Shipyard",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Tecnal Corporation",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Texaco",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Texaco Oil Refinery",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Texaco Refinery",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Texaco Refinery",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Texaco Refinery",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Texaco, Incorporated",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Texaco, Incorporated, Unit #1",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Texas Company",
+        "city": "Anacortes",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "The City Church",
+        "city": "Issaquah",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "The Summitt At Snoqualmie-West - Housing West",
+        "city": "Snoqualmie Pass",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "Thermaline",
+        "city": "Dubuque",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "Third Power Plant At Coulie Dam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Tide Bay",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "Times Investment Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Titan Missile Sites",
+        "city": "Ephrata",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Todd Drydock & Coast Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Todd Drydocks",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Todd Pacific Shipyards, formerly Seattle-Tacoma (SEA-TAC)",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Todd Shipyard",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Todd Shipyard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Todd Shipyard",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Todd Shipyard (Harbor Island)",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Todd Shipyards",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Trans Alta Centralia Gen Llc",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Troy Cascade Laundry Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Troy Laundry",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "U. S. Oil & Refining Oil Refinery",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Under Sea Gardens",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Unimet Boat",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Union Iron works",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Union Lumber Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "Union Lumber Company",
+        "city": "Union Mill",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Union Oil Company",
+        "city": "Edmonds",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Union Oil Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Union Oil Company Of California",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "United Airlines building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "United Nuclear - Hanford Nuclear Facility",
+        "city": "Hanford",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "United States Department Of Interiors",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "United States Gypsum Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "United States Naval Yard",
+        "city": "Puget Sound",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 792,
+        "company": "United States Navy Yard",
+        "city": "Puget Sound",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "United States Plywood Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "United States Spruce Porduction Corporation",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "United States Veterans Hospital",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "University Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "University HS",
+        "city": "Dishmon",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "University of WA Bagley Hall",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "University of WA Communications Bldg",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "University of WA Health Sciences",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "University of WA Teachers Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "University of Washington",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "University of Washington , Biology Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "University of Washington Hospital",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "University Of Washington, Engineering Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "University Plumbing & Heating",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Ups College",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Urban Plumbing And Heating",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "URM Warehouse",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Us Army Laundry",
+        "city": "Ft. Lewis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "US Oil",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "US Oil & Refinery",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "US Oil & Refining",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "USN",
+        "city": "Bremerton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Sunnyside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Utah Idaho Sugar Company",
+        "city": "Toppenish",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Utah Idaho Sugar Company",
+        "city": "North Yakima",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Valley General Hosp",
+        "city": "Renton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "VAMC",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "VAMC",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "VAMC",
+        "city": "Temple",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Van Hess Lumber Company",
+        "city": "Winlock",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Vancouver Electric Light And Power Company - Power Plant",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Vancouver Hospital",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Vancouver Light And Power Company",
+        "city": "Vancouver",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Vesta Coal Company",
+        "city": "Centerville",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Villa Mart Salem or",
+        "city": "Salem",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Virginia V Foundation",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Vista Chemical",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "W.A. Botting Company",
+        "city": "Portland-Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "W.A. Parish Power Plant",
+        "city": "Rosebud",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "W.R. Orouke",
+        "city": "Pullman",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "WA Water Power Dam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Wabash College",
+        "city": "Crawfordsville",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Wacoal Power Plant",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Walashek Industrial And Marine",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Waldorf-Hoerner, Deaerator & Equalizer",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Walla Walla college",
+        "city": "Washington",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "Walla Walla State Penitentiary",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Wallahula School District",
+        "city": "Washington",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Walton Lumber Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Wards Cove Pulp Mill",
+        "city": "Ketchikan",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Washington Athletic Club",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Washington Correction Center",
+        "city": "Shelton",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Washington Custodial School",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Washington National Guard",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Washington Natural Gas",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "Washington Oregon Corporation",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Washington Penitentiary",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 854,
+        "company": "Washington Plaza Hotel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Washington Portland Cement Company",
+        "city": "Baker",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Washington Public Power",
+        "city": "Richland",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Washington Public Service Company",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Washington Pulp And Paper Company",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Washington Pulp And Paper Corporation",
+        "city": "Port Angeles",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Washington Rehab Center",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Washington Soldiers Home",
+        "city": "Orting",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Washington State Board Of Control Eastern Washington Hospital For The Insane",
+        "city": "Medical Lake",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Washington State Capitol",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Washington State Ferry Terminal",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Washington State Penitentiary",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Washington State Reformatory",
+        "city": "Monroe",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Washington State Training School",
+        "city": "Chehalis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Washington State University",
+        "city": "Pullman",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Washington Veneer Company",
+        "city": "Olympia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Washington Water Power Company - Monroe St Power Plant",
+        "city": "Spokane",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Washington Water Power Dam",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Washougal Branch",
+        "city": "Washougal",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Washougal Woolen Mills",
+        "city": "Washougal",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "WE Stone & Co",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Weidauer And Lansdown",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Wenatchee Steam Laundry - Laundry Plant",
+        "city": "Wenatchee",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "West Coast",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "West Tacoma Mill",
+        "city": "Steilacoom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "West Tacoma Newsprint",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Western State Hosp",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Western State Hospital",
+        "city": "Ft. Steilacoom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Western Walamet",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Western Washington Hospital For The Insane",
+        "city": "Steilacoom",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Western Washington State College - Carver Gymnasium",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Western Washington University Steam Plant-Zone 1",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Western Welding",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Westin Hotel",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "Weyehaeuser",
+        "city": "Anacortez",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "Weyehaeuser",
+        "city": "Chemical Falls",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "Weyehaeuser",
+        "city": "Columbus",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "Weyehaeuser",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Weyehaeuser",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Weyehaeuser",
+        "city": "Fed Way",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Weyehaeuser",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Weyehaeuser",
+        "city": "Marysiville",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Weyehaeuser",
+        "city": "Myopic",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Weyehaeuser",
+        "city": "Plymouth",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "Weyehaeuser",
+        "city": "Pulp Hoquin",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "Weyehaeuser",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Weyehaeuser",
+        "city": "Springfield",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Weyehaeuser",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Weyerhaeuser Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Weyerhaeuser Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Weyerhaeuser Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Weyerhaeuser Hardwoods Company",
+        "city": "Centralia",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Weyerhaeuser Lumber Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Weyerhaeuser Paper Mill",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Weyerhaeuser Technology Ctr",
+        "city": "Federal Way",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Weyerhaeuser Timber Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Weyerhaeuser Timber Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Weyerhaeuser Timber Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Weyerhauser Co. & Subsidiaries",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Weyerhauser De-Barker Sawmill",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Weyerhauser Lumber Mill",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Weyerhauser Paper Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Weyerhauser Paper Company",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Weyerhauser Paper Company",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Weyerhauser Paper Mill",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Weyerhauser Paper Mill",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Weyerhauser Pulp & Paper Mill",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Weyerhauser Pupl & Paper Mill",
+        "city": "Everett",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Weyerhauser Timber Company",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Weyerhauser Timber Company",
+        "city": "Longview",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Weyerhauser Timber Company, Grays Harbour Division",
+        "city": "Cosmopolis",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Whatcom Falls Milling Company",
+        "city": "Bellingham",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Wheeler Osgood Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Wheeler Osgood Company",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "White River Lumber Company",
+        "city": "Yuma Claw",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "WhiteHarnz Stewart Building",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Willapa Lumber Company",
+        "city": "Raymond",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "William Gardner And Company",
+        "city": "Tacoma",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Wilson Brothers And Company",
+        "city": "Aberdeen",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Wood And Iverson Lumber Company",
+        "city": "Hobart",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Woodbrook Jr High",
+        "city": "Lakewood",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Wright Runstad",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "Wright Schucart-Harbor",
+        "city": "Seattle",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Yakima City Creamery",
+        "city": "Sunnyside",
+        "state": "WA",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Young Radiator",
+        "city": "Racine",
+        "state": "WA",
+        "visibility": ""
+      }
+     ]
+}

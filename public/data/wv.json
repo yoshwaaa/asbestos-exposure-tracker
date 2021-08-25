@@ -1,0 +1,7368 @@
+{
+    "results": [
+      {
+        "id": 3,
+        "company": "A & I Company",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A & I Company",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A & I Company",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "A.P. Green Fire Brick Company Of Ohio",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "A.P. Green Fire Brick Company Of Ohio",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "A.P. Green Fire Brick Company Of Ohio",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "A.P. Green Refractories Company",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "A.P. Green Refractories Company Of Ohio",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "A.P. Green Refractories Company Of Ohio",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Abbott (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Acands, Inc.",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Acands, Inc.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Ace Industries",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Acf Shippers",
+        "city": "Red House",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Acf/American Car & Foundry",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": "visible"
+      },
+      {
+        "id": 18,
+        "company": "Acme Fishing Tool Company",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Agsten",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Air Products Plant",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Albright Power Station",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Albright Powerstation",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Alleghany Ballistics Lab",
+        "city": "Rocket Center",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Alleghany Power Service Corp",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Allegheny Energy",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Allegheny Energy",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Allegheny Energy",
+        "city": "Haywood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Allegheny Energy Supply Company",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Allegheny Power Service Corporation - Willow Island Power Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Allied Chemical",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Allied Chemical",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Allied Chemical",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Allied Chemical",
+        "city": "Perkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Allied Chemical & Dye Corp",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Main Plant Mech Store Room",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Allied Chemical & Dye Corp. - Four Miles South Of Moundsville, We",
+        "city": "Perkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Allied Chemical Company",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Allied Chemical Company",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Allied Chemical Company, Solvay Process Division",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Allied Chemical Corp. - Industrial Chemical Div - North Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Allied Chemical Corp. - Industrial Chemical Div - South Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Allied Chemical Corp. - Solvay Process Division - Boiler Nbr 4",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Allied Chemical Corporation",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Allied Chemical Corporation",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Allied Chemical Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Allied Corporation",
+        "city": "Boomer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Allied North Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Allied Services Inc",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Allied Services Incorporated",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Alpine Coal Company",
+        "city": "Henry",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Amax Metals",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "American Alloys (Foote Minerals / Vanadium)",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "American Alloys-Foote Min-Vandium",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "American Car",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "American Car & Foundry Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "American Car Foundry",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "American Cyanamid",
+        "city": "Waverly",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "American Cyanamid",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "American Cyanamid",
+        "city": "St. Mary's",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "American Cyanamid Company",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "American Cyanamid-Ceytec Ind",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "American Electric Power Company - Kammer Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "American National Rubber Co.",
+        "city": "Ceredo",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "American Viscose",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "American Viscose Corporation",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "American Viscose Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "American Viscose Rayon Plant",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "American Viscose Rayon Plant-Fmc",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Amherst Coal Co",
+        "city": "Stringer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Amherst Coal Co",
+        "city": "Slagle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Amherst Coal Co",
+        "city": "Lundale",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Amherst Coal Co.",
+        "city": "Slagle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Amherst Industries, Inc.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Amos Power, John Amos Powerhouse",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Amstan Corporation",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Anchor Hocking Glass",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Aniline Chemical / National Aniline",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Antox Chemical Company Plant",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Appalachian Electric Power Company - Kanawha River Plant",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Appalachian Electric Power Company - Philip Sporn Plant",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Appalachian Electric Power Company (Division Of AEP) - John E. Amos Plant",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Appalachian Power",
+        "city": "Cabin Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Appalachian Power - John E. Amos Plant",
+        "city": "St. Albans",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Appalachian Power - Kanawha Station",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Appalachian Power Co Mit",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Appalachian Power Co.",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Appalachian Power Co.",
+        "city": "Scary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Appalachian Power Company - Kammer Plant",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Appalachian Power, John E. Amos Plant",
+        "city": "St. Albans",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Appalachian Power, Kanawha River Plant",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Appalacian Power Co.",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Aristech",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Armco Steel Corp.",
+        "city": "Montcoal",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Armco Steel Corporation",
+        "city": "Twilight",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Armco Steel Corporation",
+        "city": "Raleigh County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Armistead (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Armstrong Contracting & Supply",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Armstrong Cork Company",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Arthur Foss-85 (USS)",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Asbestos & Insulating",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Asbestos And Insulating Company",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Asbestos Service Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Asbestos Services Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Ashland Oil",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Ashland Oil",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Ashland Oil",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Ashland Oil & Refinery Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Ashland Oil Inc",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Atlantic Ranger (USS)",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Atlas Storage Warehouse",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Avtek Fibers",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "B And B Boiler Making And Wel",
+        "city": "Princeton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "B. & B. Boiler",
+        "city": "Princeton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "B. F. Goodrich",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Badger Fine Coal Plant",
+        "city": "Philippi",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Baldwin Supply Company",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Baltimore & Ohio Railroad",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Baltimore & Ohio Railroad Co - Division Sk",
+        "city": "Grafton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Baltimore & Ohio Railroad Co.",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Banner Fiberboard",
+        "city": "Wellsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Barbican (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Barhard & Wetzel Block Company",
+        "city": "Elkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Barnard & Wetzek Block Company",
+        "city": "Elkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Barricade (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Basf Corporation",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Bastion (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Beckley Mining",
+        "city": "Raleigh City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Beckley National Bank",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Beech Bottom Power Co - Windsor Plant",
+        "city": "Beech Bottom",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Beech Bottom Power Plant",
+        "city": "Beech Bottom",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Bennie Snyder",
+        "city": "White Sulphur Spring",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Berkeley Springs Hospital",
+        "city": "Berkeley Springs",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Beverly Powerhouse",
+        "city": "Beverly",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Bf Goodrich Gulf",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Bf Goodrich Synthetic Rubber Plant",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Big Sandy Power Plant",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Blauknox Steel",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Blaw Knox Co",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Blaw Knox Foundry",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Blaw-Knox Rolls Foundry",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Blenko Glass Company",
+        "city": "Milton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Bloch Brothers Tobacco Company",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Block Bros Tobacco Co",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Bluefield Ice & Coal Company",
+        "city": "Bluefield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Borg-Warner Chemical Plant",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Brockway Glass Co",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Brockway Glass Company",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Brockway Glass Mfg Plant-Anchor-Formerly Hazel Atlas",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Brule Smokeless Coal Company",
+        "city": "Otsego",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Building Products Supply Company Inc.",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Bundy (Uss)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Bureau Of Mines",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "C & O Railroad",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "C&P Telephone Building",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Cabin Creek Power Plant",
+        "city": "Cabin Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Cabin Creek Power Station",
+        "city": "Cabin Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Cabot",
+        "city": "Willow Island/Waverly",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Cabot Carbon Black",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Cabot Carbon Black",
+        "city": "St. Mary's",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Cabot Corp",
+        "city": "Waverly",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Camden Clark Memorial Hds",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Cannelton Coal Co.",
+        "city": "Fairdale",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Capitol Cement",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Capitol Cement Company",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Carbide & Carbon",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Carbide & Carbon",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Carbide & Carbon Chemical",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Carbide & Carbon Chemical",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Carbide & Carbon Chemical",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Carbide & Carbon Chemical - Blains Island Plant",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Carbide & Carbon Chemical - Plant Ct Boiler #9",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Carbide & Carbon Chemicals Corp.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Carbide & Carbon Co.",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Carbide Developement Center",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Carbide Maintenance",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Carborundum Metals Co.",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Carneige Steel",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Celanese Chemical",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Celanese Corp.",
+        "city": "Ft. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Celanese Corporation Of America",
+        "city": "Gallipolis Ferry",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Celotex Corporation",
+        "city": "Chester",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Central Operating Company",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Central Valley Insulation Co.",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Centurial Products",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Centurial Products",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Century Aluminum",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Challenger Electrical Equipment Corp.",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Chance A B Co",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Chapel Coal Company",
+        "city": "Kingwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Charleston Area Medical Center",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Charleston Area Medical Center - Memorial Hospital",
+        "city": "Kanawha",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Charleston General Hospital",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Charleston National Bank - Charleston National Plaza",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Charleston National Plaza",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Charleston Natl Plaza",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Cheat Lake Middle School/Elementary School",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Chesapeake & Ohio Railway Co",
+        "city": "Hinton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Chesapeake & Ohio Railway Co",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Chesapeake & Ohio Railway Co - Section G",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Chesapeake & Potomac Telephone Co - New Dial Bldg",
+        "city": "Elkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Chlor Allied Division",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Christopher Coal Company",
+        "city": "Osage",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Cities Service Company - Columbia Division - Route 2",
+        "city": "Woodland",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Cities Service Company, Columbia Division, Route 2",
+        "city": "Woodland",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Citizens Building Supply",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "City Of Wheeling - New Sewage Disposal Plant",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Clarksburg Baptist Church",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Clinchfield Coal",
+        "city": "Fayette County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Clinchfield Coal Company",
+        "city": "Jola",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Clinchfield Coal Company",
+        "city": "Dola",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Clinchfield Coal Company",
+        "city": "Fayette County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Cohart Refactories",
+        "city": "Buckhannon",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Colonel Chrles W. Bundy",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Colonel George Armistead",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Colonel George Richer",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Colonel H.J. Hunt (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Colonel John Storey",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Columbia Carbon Co.",
+        "city": "Marshall",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Columbia Gas Company",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Columbia Gas Transmission Corp",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Columbia Gas Transmission Corporation - Adaline Compressor Station",
+        "city": "Cameron",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Columbia Gas Transmission Corporation - Coco Compressor Station",
+        "city": "Elkview",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Columbia Gas Transmissions",
+        "city": "Glady",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Columbia Gas Transmissions",
+        "city": "Terra Alta",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Columbia Southern",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Columbia Southern Chemical",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Columbia Southern Chemical Corp.",
+        "city": "Adrian",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Columbia Southern Chemical Corp.",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Columbia Southern Chemical Corp.",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Columbia Southern Chemical Corp. - Dock #1",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Columbia Southern Chemical Corp. - Dock #2",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Compass Coal Company",
+        "city": "Dola",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Conners Steel-Hk Porter-Steel Of Wv",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Connors Steel",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Consolidated Coal Co",
+        "city": "Clear Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Consolidated Coal Co",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Consolidated Gas - Cornwell Station",
+        "city": "Corton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Consolidated Gas - Stonewall Jackson Station",
+        "city": "Chelyan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Consolidated Gas Plant",
+        "city": "Hastings",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Consolidated Light, Heat And Power",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Consolidation Coal Co",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Consolidation Coal Co",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Consolidation Coal Company",
+        "city": "Byrne",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Consolidation Coal Company",
+        "city": "Farmington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Consolidation Coal Company",
+        "city": "Shinnston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Consolidation Coal Company",
+        "city": "Stringer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Consolidation Coal Company",
+        "city": "Owings",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Consolidation Coal Company",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Consolidation Coal Company - Mcelroy Coal Gasoline Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Continental Can",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Continental Can Co - Half Moon Addition",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Continental Clay Products Co",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Continental Foundry",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Corhart Cement Company",
+        "city": "Buckhannon",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Corhart Refractories Company",
+        "city": "Buckhannon",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Corning Glass Co",
+        "city": "Paden City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Corning Glass Company",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Corning Glass Works",
+        "city": "Paden City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Corning Glass Works",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Corning Glass Works",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Cresap Powerhouse",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Csx Railroad",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Csx Transportation",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Csx Transportation",
+        "city": "Peach Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Cultural Center",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Cumberland Products, Incorporated",
+        "city": "Beryl",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Cytec Industries Incorporated",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "D&E Tool Company, Inc.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Danco Incorporated",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Danco, Incorporated, 520 22nd St.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Daniel Boone Hotel",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Daniel Boone Hotel Boiler Rm - Corner Of Capital And Washington",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Davis Lynch Glass",
+        "city": "Star City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Diamond Shamrock",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Diamond Shamrock-Chemetals Inc",
+        "city": "Kingwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Dingess Run Coal Company",
+        "city": "Dingess",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Donnegan Coal & Coke",
+        "city": "Jerryville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Donnegan Coal Company",
+        "city": "Jerryville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Dougherty Co, Inc",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Duekto Comm. Center Fault",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Dunbar Glass",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Dupont",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Dupont",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Dupont",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Dupont Chemical",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Dupont Chemical",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Dupont Chemical Plant",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Dupont Chemical Plant",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Dupont Parkersburg-Washington",
+        "city": "Beech Bottom",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Dupont Plant",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Dupont Washington Works",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Dupont Washinton Bottom",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Duquesne Power & Light Co Phillips 4&5",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "E C Ernest Electric Company",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "E I Dupont",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "E I Dupont",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "E I Dupont De Nemours",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "E I Dupont De Nemours",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "E I Dupont Denemours",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "E. I. Dupont De Nemours & Co.",
+        "city": "Falling Waters",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "E. I. Dupont De Nemours & Co.",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "E. I. Dupont De Nemours & Co.",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "E.I. Du Pont De Nemours & Company",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "E.I. Dupont",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "E.I. Dupont",
+        "city": "Waynesboro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "E.I. Dupont Denemours & Co.",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Eagle Picher Industries Inc",
+        "city": "Scary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Eastern Gas & Fuel",
+        "city": "Affinity",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Grand Town",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Kopperston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Grant Town",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Barrett",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Herndon",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Eastern Gas & Fuel Association",
+        "city": "Cooperstown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Ei Dupont",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Elk Creek Coal Company",
+        "city": "Emmett",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Elk River Refinery",
+        "city": "Falling Rock",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Elkem Metals",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Elkins Hospital",
+        "city": "Elkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Elkins Post Office And Federal Building",
+        "city": "Elkins",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Emix Mfg. Co.",
+        "city": "Mineral Wells",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Enterprise-Black Diamond Corporation",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Equitable Gas Company - Dsitribution Facility",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Equitable Resources, Inc.",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Erwin Supply Company",
+        "city": "Shinnston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Evans Supermarket",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Evans Supermarket - Teamsters Building",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Fairmont Aluminum Plant",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Fairmont General Hospital",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Fairmont Supply Company",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Farm Bureau Siding",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Federal Aviation Administration Records Center",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Federal Building",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Fela Csx Railroad",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Fela Csx Rr Grafton Railroad Yard",
+        "city": "Grafton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Fela Csx Rr Huntington Railroad Yard",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Fela N&W Railroad Williamson Yard",
+        "city": "Williamson",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Fewell Coal Company",
+        "city": "Lookout",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Fike Chemical",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "First Lt. William G. Sylvester",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "First National Bank",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Flat Top National Bank",
+        "city": "Bluefield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Fmc",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Fmc Chemical",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Fmc Chemical",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Fmc Corp",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Fmc Corp; Chemical Group",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Fmc Corp; Industrial Chemical Div",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Fmc Corporation",
+        "city": "Charlotte",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Fmc Corporation",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Fmc Corporation",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Fmc Corporation - Organic Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Fmc Corporation / Food Machinery Corporation",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Fmc Corporation / Food Machinery Corporation",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Fmc Foote Mineral Co.",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Fmc Organic Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Fmc/American Viscose/Avtex/Ohio Apex/Aztec Fibers",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Follansbee Steel",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Food Machinery & Chemicl Corp.",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Foote Mineral",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Fort Martin Power",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Fort Martin Power Plant",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Fort Martin Power Station",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Fort Martin Powerhouse",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Fort Martin Powerstation",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Fort Mountain Powerhouse",
+        "city": "Fort Mountain",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Foster Wheeler Corp",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Foster Wheeler Corp.",
+        "city": "Scary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Fostoria Glass Co",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Fostoria Glass Co.",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Fostoria Glass Company",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Fourco Glass",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Fourco Glass",
+        "city": "Bridgeport",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Fourco Glass Company",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Frank (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Ft. Martin Power Station",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Furnace Engineering Corp",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Furnace Engineering Corporation",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Gallipolis State Hospital - Medical & Surgical Bldg.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Garvin'S Jersey Farms, Inc.",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Gauley Coal & Coke Company",
+        "city": "Fenwick",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Gauley Coal & Coke Company",
+        "city": "Marybill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Gauley Coal & Coke Company",
+        "city": "Tioga",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Gauley Coal & Coke Company",
+        "city": "Maryville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Gauley Coal & Coke Company",
+        "city": "Maysville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Gavens Powerhouse",
+        "city": "Mount Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Gavin Powerhouse",
+        "city": "Cheshire",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "General Chemical",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "General Henry Knox",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "General Motors",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Georgia Pacific Corporation",
+        "city": "Pineville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Georgia Pacific Corporation",
+        "city": "Richwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Georgia-Pacific Corporation",
+        "city": "Pineville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Georgia-Pacific Corporation",
+        "city": "Richwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Germany Valley Greer Limestone Plant",
+        "city": "Riverton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Girdler Corp",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Glasgow Power-Kanawha River Power",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Glasgow Powerhouse",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Goodrich Gulf Chemical Co. Institute",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Goodyear",
+        "city": "Apple Grove",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Goodyear Chemical",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Goodyear Tire & Rubber",
+        "city": "Apple Grove",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Goodyear Tire & Rubber Company",
+        "city": "Apple Grove",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Goodyear Tire & Rubber Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Grant Memorial Hospital",
+        "city": "Petersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Great Lakes Chemical Corporation",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Greenbriar Hotel",
+        "city": "White Sulphur Springs",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Greenbrier Hotel - Boiler Plant",
+        "city": "White Sulphur Springs",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Greenbrier Instruments, Incorporated",
+        "city": "Ronceverte",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Greenland",
+        "city": "Greenland",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "H.J. Thomas Memorial Hospital",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "H.K. Porter Co., Inc.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Hacker's Creek Coal Company",
+        "city": "Hodgesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Halltown Paper Board Company",
+        "city": "Halltown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Harrison Power Station",
+        "city": "Haywood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Harrison Power Station",
+        "city": "Haywood Shinnston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Harrison Powerhouse",
+        "city": "Haywood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Harvey Industries",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Harvey Industries",
+        "city": "Salem",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Hastings Company",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Hawley Coal",
+        "city": "Bradshaw",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Heather",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Herbert J. Thomas Memorial Hospital",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Herbert J. Thomas Memorial Hospital",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Heyden Matheson",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Heyl & Patterson, Incorporated",
+        "city": "Clothier",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Heyl & Patterson, Incorporated",
+        "city": "Madison",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Heyl & Patterson, Incorporated/Island Creek Coal Company",
+        "city": "Coal Mountain",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Hinton Sanitary Board",
+        "city": "Hinton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Hoechst Celanese",
+        "city": "Gallipolis Ferry",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Homer Laughlin China Company",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Hope Natural Gas Company - Chelyan Compressor Station",
+        "city": "Chelyan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Hope Natural Gas Company - Hastings Compressor Station",
+        "city": "Hastings",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Hope Natural Gas Company - West Union Extraction Plant",
+        "city": "West Union",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Hope Natural Gas Company Compressor Station",
+        "city": "Cabin Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Hornor Brothers Engineers",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Houdaille Hershey Corp",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Houdialle Industries",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Hudson Paper Company",
+        "city": "Wellsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Huntington Alloys - Nickel Alloy Processing Mill",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Huntington Alloys Specialty Metals Plant-Formerly Inco Alloys",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Imperial Smokeless",
+        "city": "Carl",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Imperial Smokeless Coal",
+        "city": "Carl",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Inco",
+        "city": "Lavalette",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Inco Alloys",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Inco Alloys International",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Inco Alloys International Inc.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "International Nickel Co",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "International Nickel Co.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "International Nickel Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "International Nickel Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Island Creek Coal Co",
+        "city": "Richwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Island Creek Coal Company",
+        "city": "Amherstdale",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Island Creek Coal Company",
+        "city": "Algoma",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Island Creek Coal Company",
+        "city": "Argonne",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Island Creek Coal Company",
+        "city": "Holden",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Island Creek Coal Company",
+        "city": "Worth Fork",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Island Creek Coal Company",
+        "city": "Wyoming",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Island Creek Coal Company",
+        "city": "Coal Mountain",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Island Green Coal Company",
+        "city": "Algona Northfork",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "J. E. Field Albright Power Station",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "J. F. Pritchard & Company",
+        "city": "Buckhannon",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "J.O. Lively Manufacturing",
+        "city": "Coal Mountain",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Jamison Coal & Coke Company",
+        "city": "Fairview",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Jamison Coal & Coke Company",
+        "city": "Farmington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Jefferson Memorial Hospital (Now Jefferson Medical Center)",
+        "city": "Ranson",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Jewell Ridge Coal Company",
+        "city": "Stollings",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Joanne Coal Company",
+        "city": "Rachel",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "John Amos Power",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "John Amos Power Plant-Formerly Big Scary",
+        "city": "Scary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "John Amos Powerhouse",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "John Amos Powerhouse",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "John E. Amos Power Plant",
+        "city": "Winfield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Johnson Grade School",
+        "city": "Bridgeport",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Jonquil (Uscg - Wlb330)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Kaiser Alum & Chem Corp",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Kaiser Aluminum",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Kaiser Aluminum & Chem Corp.",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Kaiser Aluminum & Chem Corp.Aka Century",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Kaiser Aluminum & Chemical",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Kaiser Aluminum & Chemical Corporation",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Kaiser Aluminum Company",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Kaiser Aluminum Plant",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Kammer Plant (Aka Mitchell Plant)",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Kammer Power",
+        "city": "Captina",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Kammer Power Plant",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Kammer Powerhouse",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Kammer-Mitchell Power Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Kanawha County Board Of Education",
+        "city": "Kanawha County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Kanawha River Power Plant",
+        "city": "Glasgow",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Kane & Keyser Hardware",
+        "city": "Belington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Keene Corp - Penn Metal Div",
+        "city": "Vienna",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Keene Corp - Penn Metal Operation - Penn Metal Div",
+        "city": "Vienna",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Keene Corporation",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Kentucky Power Louisa",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Kentucky Utilities Co - E. W. Brown Power Station Unit 2",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Kerr Glass",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Kerr Glass Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Kerr Glass Mfg Corp",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Kincaid Enterprises",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Knox (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Koppers",
+        "city": "Petrolia",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Koppers Aluminum",
+        "city": "Tollansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Koppers Chemical",
+        "city": "Tollansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Koppers Co., Inc.",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Koppers Co., Inc.",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Koppers Company - Follansbee Plant",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Koppers Company Inc",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Koppers Company, Inc. - Follansbee Plant - Wier Cove Moving And Storage",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Koppers Company, Inc. - Organic Material Div - Warehouse #2",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Koppers Company, Inc. - Tar & Chem Div",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Koppers Company, Inc. - Tar & Chemical Div",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Koppers Company, Inc. - Tar & Chemical Division",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Koppers Company, Inc. - Tar Products Division",
+        "city": "Arroyo",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Koppers Company, Inc. - Tar Products Division",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Koppers Company, Inc. - Tar Products Division - #2 Storeroom",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Koppers Company, Inc. - Tar Products Division - Arroyo Plant",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Koppers Company, Inc. - Tar Products Division - Warehouse #2",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Koppers Company, Inc. - Tar Products Division - Warehouse 2",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Koppers Industries",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "L Air Liquide - Mobay Chemical Co.",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Labelle Iron Works",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Lcp Chemical",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Lehigh Portland Cement Company",
+        "city": "Fogelsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Libbey Owens Ford Glass",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Libbey Owens Ford Glass Co.",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Libby Owens Ford",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Libby Owens Ford Glass",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Libby Owens Ford Glass Company",
+        "city": "Kanawha City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Libby Owens Ford Glass Company",
+        "city": "Kanawha County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Liberty School",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Linde Air Products Co.",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Linde Air Products Co.",
+        "city": "Long Reach",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Linde Air Products Co. - Silicones Division",
+        "city": "Long Reach",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Linden",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Link Belt Company",
+        "city": "Dola",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Link-Belt For Carbon Fuel Coal Co.",
+        "city": "Winifrede",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Logan Board Of Education",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Logan County Animal Shelter",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Logan County Courthouse",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Logan Planing Mill",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Logan Planning Mill",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Logan Power Station",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Louie Glass Company",
+        "city": "Weston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Lt 784 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Lt 785 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Lt 786 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Lt 787 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Lt 788 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Lt 789 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Lt 790 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Lt 791 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Lt 792 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Lt 793 /Tug",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Lubeck Public Service District - Water Treatment Plant",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "M&G Polyesters Usa",
+        "city": "Apple Grove",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Magnolia",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Magnolia High School",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Major General Arthur Murray",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Manganese Chemical",
+        "city": "Kingwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Mansanto Chemical Co.",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Marietta Manufacturing",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Mark-87",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Master Cody",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Mathieson Chemical Corp.",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Matthews International",
+        "city": "Kingwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Maxwell Wood Apartments",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Maybach (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Mcbay Chemical Co.",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Medicenter",
+        "city": "Philippi",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Metsch Refractories",
+        "city": "Chester",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Mills (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Mitchel Power Station",
+        "city": "Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Mitchell Power Plant",
+        "city": "Captina",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Mitchell Powerhouse",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Mobal Chemical Co",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Mobay Chemical",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Mobay Chemical",
+        "city": "St. Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Mobay Chemical (A/K/A Bayer / Miles Chemical Company)",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Mobay Chemical C/O Blaw Knox",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Mobay Chemical Co",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Mobay Chemical Co",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Mobay Chemical Co",
+        "city": "All Wv Locations",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Mobay Chemical Co.",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Mobay Chemical Company",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Mobay Chemical Plant",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Mobay Chemical Plant",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Mobay Chemical Plant",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Mobay Chemical Plant-Bayer",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Mobay Chemical-Miles Corp",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Mongahela Power, Harrison Power Plant",
+        "city": "Haywood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Mongahela Power, Harrison Power Plant",
+        "city": "Shinnston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Mongahela Power, Harrison Power Plant",
+        "city": "Harrison",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Monongahela Power",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Monongahela Power",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Monongahela Power",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Monongahela Power - Harrison Power Station",
+        "city": "Haywood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Monongahela Power Co",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Monongahela Power Co",
+        "city": "R Nesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Monongahela Power Co.",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Monongahela Power Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Monongahela Power Co. - Albright Power Station",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Monongahela Power Co. - Fort Martin Power Station",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Monongahela Power Co. - Fort Martin Power Station - Unit 1",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Monongahela Power Co. - Fort Martin Station Unit 1",
+        "city": "Fort Martin",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Monongahela Power Co. - Rivesville Power Station",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Monongahela Power Co. - Unit #2",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Monongahela Power Co. - Willow Island Power Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Monongahela Power Company",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Monongahela Power Company",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Monongahela Power Company - Albright Power Station",
+        "city": "Albright",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Monongahela Power Company - Rivesville Power Station",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Monongahela Power Company - Willow Island Power Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Monongahela Power Plant",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Monongahela Power Station - Willow Island (A/K/A Pleasants Power Station",
+        "city": "St. Mary's",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Monongahela Power, Rivesville Generating Station",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Monongahela Power, Willow Island Generating Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Monongalia County City Garage",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Monongehela Power Co. - G. E. Willow Island",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Monsanto",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Monsanto - Parkside",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Monsanto - Parkside - Union Carbide",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Monsanto - Union Carbide",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Monsanto Chemical",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Monsanto Chemical",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Monsanto Chemical Co",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Monsanto Chemical Co",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Monsanto Chemical Co",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Monsanto Chemical Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Monsanto Chemical Co. - Tall Oil Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Monsanto Chemical Company",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Monsanto Chemical Company",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Monsanto Chemical Plant-Solutia",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "Monsanto Co - Parkside",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Monsanto Company",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "Monsanto Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Monsanto- Parkside",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Montgomery General Hospital",
+        "city": "Montgomery",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Moray Chemical Corp.",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Morgantown Chemical Corp. - 1000 Gal Reactor",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Moundsville Power Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Mount Storm Power Company",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Mount Storm Power Plant",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Mount Storm Powerhouse",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "Mount View High School",
+        "city": "Welch",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Mountain State Steel Castings Foundry",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Mountain State Steel Foun",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Mountain States",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Mountaineer Coal",
+        "city": "Struger",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Mountaineer Coal",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Mountaineer Coal Co",
+        "city": "Stringer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "Mountaineer Coal Company",
+        "city": "Farmington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Mountaineer Coal Company",
+        "city": "Stringer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Mountaineer Power Plant",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "Mountaineer Powerhouse",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Mt Storm Powerhouse",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Mt. Storm Power House",
+        "city": "Stony River",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Mt. Storm Power Station",
+        "city": "Mt. Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Mt. Storm Powerhouse",
+        "city": "Mt. Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Murray (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "N & W-Nsrs",
+        "city": "Bluefield",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "National Analine",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "National Bottle",
+        "city": "Vienna",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "National Incinerator Corp.",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "National Steel",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "New Haven Power Plant",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Novamont",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Novamont Chemical-Aristech",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Novamont Corporation",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Obstructor",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Occidental Chemical",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Office Of The County Administrator",
+        "city": "Logan",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Ohio Brass Co",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Ohio Power",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "Ohio Power Co",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Ohio Power Co",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Ohio Power Co - Cramer Plant",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Ohio Power Co - Flag Blower",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "Ohio Power Co - Kammer Plant",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Ohio Power Co.",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "Ohio Power Company",
+        "city": "Cresap",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "Ohio Power Company - Kammer Plant - Marshall County",
+        "city": "Captina",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Ohio Power Company - Mitchell Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 792,
+        "company": "Ohio Power Company, Kammer Plant, Marshall County",
+        "city": "Captina",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "Ohio Power, Mitchell Generating Station",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "Ohio Power, Mitchell Generating Station",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "Ohio Valley Electric Railway Co.",
+        "city": "Kenova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Ohio Valley Insulating Co Inc",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Ohio Valley Insulating Co.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "Ohio Valley Insulating Company, Inc.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "Ohio Valley Insulation Co",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Ohio Valley Medical Center",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Ohio Valley Plant",
+        "city": "Saint Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Olga Coal",
+        "city": "Caretta",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Olga Coal Company",
+        "city": "Gary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Olin Mathieson Chemical",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Olin Mathieson Chemical Corp.",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Olin Mathieson Chemical Corp. - Morgantown Operations",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Oliver Refractory, Inc.",
+        "city": "St. Albans",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Omar Mining Company",
+        "city": "Omar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "Omar Mining Company",
+        "city": "Stirrat",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Ordnance Works Disposal Areas",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Ott Heiskell Co",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Owens Corning Fiberglass",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Owens Corning Fiberglass",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Owens Glass",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Owens Illinois",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Owens Illinois",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Owens Illinois",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Owens Illinois Glass Company",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Owens Illinois Glass Company",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Owens Illinois Glass Company",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Owens Illinois Glass Company - Glass Container Division",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Owens Illinois Glass Company - Glass Container Division",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Owens Illinois-Demuth-Brockway Glass",
+        "city": "Vienna",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Owens-Illinois",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Owens-Illinois Gas Plant",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Owens-Illinois Glass Plant",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Owens-Illinois, Inc.",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Owens-Illinois, Inc.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Owens-Illinois, Inc.",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "P P G Industries Inc",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "P.P.G. Industries, Incorporated",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Pace Pipeline Const Co",
+        "city": "Terra Alta",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Pace Work Shop - Route 19",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Pace Work Shop, Route 19",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Panasote Plant",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Pantasote Chemical",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Parco Steel & Machine",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Parkside - Shell",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Parsons Forest Industries",
+        "city": "Hendricks",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Pennzoil United Co; Elk Refining Div",
+        "city": "Falling Rock",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Philip Sporn Power Plant",
+        "city": "Graham Station",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Philip Sporn Power Plant",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Philip Sporn Powerhouse",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Phillip Sporn Power Plant",
+        "city": "New Haven",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Phillip Sporn Power Plant",
+        "city": "Mason County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Pickett",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "Pinecrest Hospital",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Pittsburgh Plate & Glass",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "Pittsburgh Plate Glass",
+        "city": "N. Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Pittsburgh Plate Glass",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 854,
+        "company": "Pittsburgh Plate Glass Co - Chemical Co Division",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Pittsburgh Plate Glass Co - Chemical Division",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Pittsburgh Plate Glass Co - Works 12",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "North Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Pittsburgh Plate Glass Company - Chemical Division - Natrium Plant",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Pittsburgh Plate Glass-Ppg Plant",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Pittston Coal Co.",
+        "city": "Sabine",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Planter",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Pleasants Power Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Pleasants Powerhouse",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Pmc Corp",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Pocahontas Fuel Co",
+        "city": "Itmann",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Pocahontas Fuel Company",
+        "city": "Mccomas",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Pocohontas Coal",
+        "city": "Bishop",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Pocohontas Empire Coal Company",
+        "city": "Keystone",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Port Amherst",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Port Amherst",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Post Office & Federal Office Building",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Potomac Edison Co.",
+        "city": "Harpers Ferry",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Potomac Edison Co.",
+        "city": "Hedgesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Potomac Edison Co.",
+        "city": "Shepherdstown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Potomac Edison Company",
+        "city": "Millville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Powder Plant",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Power Piping Company, Fort Martin Station",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Power Plant",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Ppg",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Ppg Industries - Natrium Plant",
+        "city": "Natrium",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Ppg Industries Inc",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Ppg Industries Incorporated",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Pure Oil Company - Refining Division",
+        "city": "Cabin Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Putnam Fabrication",
+        "city": "Bancroft",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "Qauker State Oil",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "Quaker State Corporation",
+        "city": "St. Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "Quaker State Corporation",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "Quaker State Oil Co",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Quaker State Oil Refinery",
+        "city": "Congo",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Quaker State Oil Refining Co",
+        "city": "St. Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Quaker State Oil Refining Co - Ohio Valley Plant",
+        "city": "St. Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Quaker State Oil Refining Corp",
+        "city": "St. Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Quaker State Ref",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Quaker State Refinery",
+        "city": "Congo",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "Quaker State Refinery-Congo Plant",
+        "city": "Newell",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "Raleigh General Hospital",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Randolph (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Ranger Fuel",
+        "city": "Bolt",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Ranger Fuel Co",
+        "city": "Surveyor",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Ravens Metal Products",
+        "city": "Elizabeth",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Ravenswood",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Ravenswood Aluminum",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Ravenswood Glass Novelty Mfg Plant-Marble Factory",
+        "city": "Ravenswood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Richardson Lumber & Construction",
+        "city": "Shinnston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Richmond-Sewell Coal Co",
+        "city": "Summersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Richwood Sewell Coal Company",
+        "city": "Richmond",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Richwood Sewell Coal Company",
+        "city": "Summerville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Ricker (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Ringgold (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Rivesville Power Plant",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Rivesville Power Plant (Unit #5)",
+        "city": "Rivesville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Rochester & Pittsburgh Coal Co",
+        "city": "Four States",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Saint-Gobain Advanced Ceramics Corp.",
+        "city": "Washington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Salt Mine",
+        "city": "Long Reach",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Sanitary Board",
+        "city": "Hinton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Sement Solvay Coal Co",
+        "city": "Mcdowell County",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Sewell Coal Company",
+        "city": "Nettie",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Sewell Coal Company",
+        "city": "Lookout",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Sharon Steel",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Sharon Steel Company",
+        "city": "Rachel",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Sheidow Bronze",
+        "city": "Kingwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Shell - Parkside",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Shell Chemical",
+        "city": "Canova",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Shell Chemical Company",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Shell Oil Co.",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Shell Oil Company",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Signode Corporation",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Sistersville Tank Works",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "Sistersville Tank Works, Inc.",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Sisterville Tank Works",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Solvay Chemical Company",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Spencer State Hospital",
+        "city": "Spencer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Spencer State Hospital, Laundry Building",
+        "city": "Spencer",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Spurgin (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "St. Francis Hospital",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 946,
+        "company": "St. Joseph Lead Works - Old Compressor House",
+        "city": "Moundsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "St. Joseph'S Hospital",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 949,
+        "company": "St. Mary'S Hospital/St. Mary'S Medical Center",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Standard Lime",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Standard Lime & Cement Co",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Stauffer-Akzo Chemical",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 953,
+        "company": "Sterling Faucet",
+        "city": "Reedsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Sterling Faucet",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 955,
+        "company": "Stone & Webster Engineering Corp - Mt Storm Power Plant",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "Storey (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Stuart-Mcmunn Company",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Summersville Coal Co",
+        "city": "Summersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Summersville Coal Company",
+        "city": "Summerville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "Swaney Coal Company",
+        "city": "Walkersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "Sylvester (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "T & L Supply, Inc.",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "Taylor Smith & Taylor",
+        "city": "Chester",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "Tech Research Ctr Olefins Lab",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "The Culture Center/West Virginia Science And Culture Center",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 968,
+        "company": "The Greenbriar Hotel",
+        "city": "White Sulphur Springs",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "Thomas Memorial Hospital",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "Trapper (ACM-9)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "Triangle",
+        "city": "Glendale",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 973,
+        "company": "Triangle Conduit & Cable Co., Inc.",
+        "city": "Glendale",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 974,
+        "company": "True Temper Corporation",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 975,
+        "company": "U S Steel Corp",
+        "city": "Alpheus",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 976,
+        "company": "U S Steel Corp",
+        "city": "Gary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 977,
+        "company": "U. S. Bureau Of Mines",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "U. S. Department Of Interior",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 980,
+        "company": "U.S. Bureau Of Mines Plant",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 981,
+        "company": "Union Boiler",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 984,
+        "company": "Union Boiler",
+        "city": "Belle",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Union Boiler Repair Fabrication & Erection Co., Inc",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 988,
+        "company": "Union Carbide",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 990,
+        "company": "Union Carbide",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "Union Carbide",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "Union Carbide",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "Union Carbide",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "Union Carbide",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Union Carbide",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Union Carbide",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1003,
+        "company": "Union Carbide",
+        "city": "Long Reach",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Union Carbide",
+        "city": "Hastings",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1005,
+        "company": "Union Carbide",
+        "city": "Anmoore",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Union Carbide / Elkem Metals",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Anmoore",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "Union Carbide / Union Carbide & Chemicals",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "Union Carbide & Carbon Chemicals - Ward Hollow Technical Center",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "Union Carbide & Carbon Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "Union Carbide & Carbon Co.",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "Union Carbide & Carbon Co. - Silicones Division",
+        "city": "Long Reach",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "Union Carbide & Carbon Company",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "Union Carbide & Carbon Institute",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "Union Carbide & Chemical",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1028,
+        "company": "Union Carbide Chem Div",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Union Carbide Chemical",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "Union Carbide Chemical",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "Union Carbide Chemical Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1033,
+        "company": "Union Carbide Chemical Co.",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "Union Carbide Chemical Co. - Building 770",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1036,
+        "company": "Union Carbide Chemical Co. - Carbide & Carbon",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "Union Carbide Chemical Co. - Dunbar Warehouse",
+        "city": "Dunbar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "Union Carbide Chemical Co. - Teek Center Bldg 725",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "Union Carbide Chemical Div",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "Union Carbide Chemical Div",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "Union Carbide Chemical Plant",
+        "city": "Anmoore",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1042,
+        "company": "Union Carbide Chemical Plant",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "Union Carbide Chemicals",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1044,
+        "company": "Union Carbide Chemicals Company",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1045,
+        "company": "Union Carbide Co",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "Union Carbide Co",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "Union Carbide Co.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "Union Carbide Co.",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "Union Carbide Co. - Parkside",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "Union Carbide Corp",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "Union Carbide Corp",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "Union Carbide Corp",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "Union Carbide Corp",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "Union Carbide Corporation",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1057,
+        "company": "Union Carbide Corporation",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "Union Carbide Inst. - West Virginia Piping",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "Union Carbide Institute/West Va Piping",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1060,
+        "company": "Union Carbide Olefin Co.",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "Union Carbide Plant",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "Union Carbide Plant",
+        "city": "Sistersville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1064,
+        "company": "Union Carbide Plant",
+        "city": "Institute",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1065,
+        "company": "Union Carbide Plastics",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1066,
+        "company": "Union Carbide Plastics Co.",
+        "city": "Spring Hill",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "Union Carbide Tech Center",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1069,
+        "company": "Union Carbide Tech. Center Chemical Plant",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Union Carbide-Elkem Metals",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Union Carbide/Elkem",
+        "city": "Alloy",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Union Protestant Hospital",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1076,
+        "company": "Unit. Pocahontas",
+        "city": "Fayette City",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "United Fuel Gas Company - Coco Compressor Station",
+        "city": "Coco",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "United Hospital Center",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "United Hospital Center",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "United Mine Workers Hospital",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "United Pocahontas Coal",
+        "city": "Crumpler",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1088,
+        "company": "Universal Glass",
+        "city": "Vienna",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "University Of West Virginia - College Of Law",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1090,
+        "company": "University Of West Virginia - Evansdale Dorm",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "US Steel",
+        "city": "Gary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1092,
+        "company": "US Steel Corp",
+        "city": "Pineville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1093,
+        "company": "Us Steel, Olga Coal",
+        "city": "Gary",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1094,
+        "company": "USCG Yamacraw",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1095,
+        "company": "Valley Camp Coal",
+        "city": "Triadelphia",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1096,
+        "company": "Valley Camp Coal",
+        "city": "Short Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1097,
+        "company": "Valley Camp Coal Co",
+        "city": "Short Creek",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1099,
+        "company": "Valley Camp Coal Company",
+        "city": "Maidsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1100,
+        "company": "Valley Camp Coal Company",
+        "city": "Triadelphia",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1101,
+        "company": "Valley Camp Coal Company",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1102,
+        "company": "Valley Motor Company",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1103,
+        "company": "Vepco, Mt. Storm Power Station",
+        "city": "Mineral",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1104,
+        "company": "Veterans Administation",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1105,
+        "company": "Veterans Affairs Medical Center",
+        "city": "Beckley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1106,
+        "company": "Viking Glass Company",
+        "city": "New Martinsville",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1107,
+        "company": "Virginia Electric & Power",
+        "city": "Stony River",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1108,
+        "company": "Virginia Electric & Power - Mount Storm Power Station",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1109,
+        "company": "Virginia Electric & Power Co",
+        "city": "Mt Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1110,
+        "company": "Virginia Electric & Power Company - Mount Storm",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1111,
+        "company": "Virginia Electric & Power Company - Mount Storm Power Station",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1112,
+        "company": "Virginia Electric & Power Company - Mount Storm Power Station - Unit 2",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1113,
+        "company": "Virginia Electric And Power Company - Mount Storm Power Station",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1114,
+        "company": "Virginia Power & Light - Mount Storm Station - Unit #1",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1115,
+        "company": "Virginia Power & Light, Mount Storm Station, Unit #1",
+        "city": "Mount Storm",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1116,
+        "company": "Viscoe",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1117,
+        "company": "Volkswagon Plant",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1118,
+        "company": "Waco Insulation Co",
+        "city": "Newport",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1119,
+        "company": "Walker Systems",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1120,
+        "company": "Waste Water Treatment Plant",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1121,
+        "company": "Water Treatment Plant",
+        "city": "Parkersburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1122,
+        "company": "Weaver (USS)",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1123,
+        "company": "Weir-Cove Moving & Storage",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1124,
+        "company": "Weirton Steel",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1125,
+        "company": "Weirton Steel",
+        "city": "Browns Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1126,
+        "company": "Weirton Steel",
+        "city": "Brown's Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1127,
+        "company": "Weirton Steel - B O F Site",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1129,
+        "company": "Weirton Steel - Central Stores Warehouse",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1130,
+        "company": "Weirton Steel - Central Stores Warehouse - Half Moon Ind Area",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1131,
+        "company": "Weirton Steel - Steel Mill",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1132,
+        "company": "Weirton Steel Co",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1133,
+        "company": "Weirton Steel Co.",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1134,
+        "company": "Weirton Steel Co. - Sheet Mill",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1136,
+        "company": "Weirton Steel Company",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1144,
+        "company": "Weirton Steel Company, New Office Building",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1149,
+        "company": "Weirton Steel Corp",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1150,
+        "company": "Weirton Steel Mill",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1151,
+        "company": "Weirton Steel/National Steel",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1152,
+        "company": "West Elementary School - 'Teamsters Building",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1153,
+        "company": "West Elementary School - Teamsters Bldg.",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1155,
+        "company": "West Siding",
+        "city": "Huntington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1201,
+        "company": "West Virginia Glass",
+        "city": "Weston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1286,
+        "company": "West Virginia Insulating Inc",
+        "city": "Hurricane",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1310,
+        "company": "West Virginia Malleable Iron",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1312,
+        "company": "West Virginia Power Company - Farm Bureau Siding",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1313,
+        "company": "West Virginia Power Company - Westvaco",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1315,
+        "company": "West Virginia Pulp & Paper",
+        "city": "Covington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1316,
+        "company": "West Virginia Pulp & Paper",
+        "city": "Luke",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1317,
+        "company": "West Virginia Pulp And Paper",
+        "city": "Piedmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1318,
+        "company": "West Virginia Statehouse",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1319,
+        "company": "West Virginia University",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1320,
+        "company": "West Virginia University - College Of Agriculture & Eng",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1321,
+        "company": "West Virginia University - College Of Engineering",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1322,
+        "company": "West Virginia University - College Of Engineering & Agriculture",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1323,
+        "company": "West Virginia University - Medical Center Campus - Monongalia County",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1324,
+        "company": "West Virginia University - New Agriculture And Engr Bldg",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1325,
+        "company": "West Virginia University - Student Center Building",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1326,
+        "company": "West Virginia University - Twin Towers #3 & #4 - Monongalia County",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1327,
+        "company": "West Virginia University Hospital",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1328,
+        "company": "West Virginia University Physical Plant Hdqtrs",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1329,
+        "company": "West Virginia University, Student Center Building",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1330,
+        "company": "West Virginia University, Twin Towers #3 & #4, Monongalia County",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1331,
+        "company": "West Virginia Water Works",
+        "city": "Nitro",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1332,
+        "company": "Western Maryland Railroad",
+        "city": "Ridgeley",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1333,
+        "company": "Western Printing & Lithographing Co",
+        "city": "Racine",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1334,
+        "company": "Westinghouse - Sealed Beam And Glass Plant",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1335,
+        "company": "Westinghouse Electric Co. - Lamp Division - Plant Expansion",
+        "city": "Fairmont",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1336,
+        "company": "Westmoreland Coal Co",
+        "city": "Clothier",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1337,
+        "company": "Westmoreland Coal Co",
+        "city": "Madison",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1338,
+        "company": "Westmoreland Coal Company",
+        "city": "Hampton Mines",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1340,
+        "company": "Westmoreland Coal Company",
+        "city": "Madison",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1341,
+        "company": "Weston Chemical Co",
+        "city": "Morgantown",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1342,
+        "company": "Westvaco",
+        "city": "Covington",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1349,
+        "company": "Westvaco",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1352,
+        "company": "Westvaco Chemical - Food Machinery & Chemical Corp.",
+        "city": "South Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1353,
+        "company": "Westvaco Chemical Div. (Fmc)",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1354,
+        "company": "Westvaco Chlor Alkalai - Union Carbide Co",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1355,
+        "company": "Westvaco Chlor Alkalai Division - Union Carbide Co",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1356,
+        "company": "Westvaco Chlor-Alkali Division",
+        "city": "Charleston",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1357,
+        "company": "Wheeling Hospital",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1358,
+        "company": "Wheeling Pitt Steel",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1360,
+        "company": "Wheeling Pittsburgh Steel",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1361,
+        "company": "Wheeling Pittsburgh Steel",
+        "city": "Omar",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1362,
+        "company": "Wheeling Pittsburgh Steel",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1364,
+        "company": "Wheeling Pittsburgh Steel",
+        "city": "Weirton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1365,
+        "company": "Wheeling Pittsburgh Steel - Coke Plant East",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1367,
+        "company": "Wheeling Stamping",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1368,
+        "company": "Wheeling Steel",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1369,
+        "company": "Wheeling Steel Co",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1370,
+        "company": "Wheeling Steel Corp - Benwood Works",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1372,
+        "company": "Wheeling Steel Corp - Benwood Works - Pipe Shop",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1381,
+        "company": "Wheeling Steel Corp - Riverside Works",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1382,
+        "company": "Wheeling Steel Corp - Riverside Works - Research Laboratories",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1383,
+        "company": "Wheeling-Pittsburgh Coke Plant-Mountain State Carbon",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1385,
+        "company": "Wheeling-Pittsburgh Steel",
+        "city": "Follansbee",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1386,
+        "company": "Wheeling-Pittsburgh Steel",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1387,
+        "company": "Wheeling-Pittsburgh Steel",
+        "city": "Beech Bottom",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1388,
+        "company": "Wheeling-Pittsburgh Steel",
+        "city": "Wheeling",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1389,
+        "company": "Wheeling-Pittsburgh Steel",
+        "city": "Benwood",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1390,
+        "company": "Wheeling-Pittsburgh Steel Fabrication Plant",
+        "city": "Beech Bottom",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1391,
+        "company": "Willow",
+        "city": "Pt. Pleasant",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1392,
+        "company": "Willow Island Power Plant",
+        "city": "St Marys",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1393,
+        "company": "Willow Island Power Station",
+        "city": "Willow Island",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1394,
+        "company": "Winding Gulf",
+        "city": "E. Gulf",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1395,
+        "company": "Winding Gulf Coal",
+        "city": "Clifton",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1402,
+        "company": "Winding Gulf Coal",
+        "city": "Eccles",
+        "state": "WV",
+        "visibility": ""
+      },
+      {
+        "id": 1404,
+        "company": "WV Malleable Iron",
+        "city": "Point Pleasant",
+        "state": "WV",
+        "visibility": ""
+      }
+     ]
+}

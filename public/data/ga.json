@@ -1,0 +1,7193 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "#1 Mill",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "3M Chemical Plant",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "501 Amsterdam Ave., N.E.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A. & M. Karagheusian, Incorporated",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A.F. Reese Company, 1327 East Henry St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Achinson Power Plant",
+        "city": "Bolton",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Acme Brewing Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Acme Laundry Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Acoustical Treatments, Incorporated",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Airport Restaurant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Aladdin-Stevens Insulators, Incorporated, 120 East Bay St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Albany Cotton Mills",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Albany Firestone",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Alcan Cable Company",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Alec Temple",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Allatoona Dye Company",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Allied Chemical & Dye Corporation Solvay Process Division",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Allied Chemical Corporation",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "American Chatillon Corporation",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Cyanamid",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Cyanamid Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Cyanamid Company, Calco Chemical Division",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Cyanamid Company, President St. Extension",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Legion Post 184",
+        "city": "Thunderbolt",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Mills",
+        "city": "Jackson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Mineral Spirits, 2275 Tucker Indiana Blvd.",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Oil Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Service Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "American Service Company",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "American Sianemy",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "American Woolen Mills",
+        "city": "Tipton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Amoco Oil Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Amoco Oil Company, Foundation Dr.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Anchor Duck Mills",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Aragon Hotel",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Aragon Mills Company",
+        "city": "Aragon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Archer Daniels Midland Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Archer Mills, Incorporated",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Arkwright",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Arkwright Power Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Armour Fertilizer Works",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Armstrong Contracting & Supply Corporation, 501 Amsterdam Ave. North",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Armstrong Cork Company, 4520 Broadway",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Armstrong Cork Company, Digester & Liquor Tank",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Armstrong Cork Corporation",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Armstrong Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Arnold Dairy",
+        "city": "Montezuma",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Artisans, Incorporated",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "At&T Plant",
+        "city": "Norcross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Athens College",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Athens Electric Railway Company - Power Plant",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Athens Railway And Electric Company - Power Plant",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Atkinson Power Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Atlanta Airport",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Atlanta Airport, Delta Air Lines",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Atlanta Airport, Delta Air Lines, Atlanta Jet Base Expansion, Phase Iii",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Atlanta Airport, Eastern Air Lines, Concourse A",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Atlanta American Motor Inn, 160 Spring St. N.W.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Atlanta Depot",
+        "city": "Conley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Atlanta Gas Light Co. - Riverdale Lng Plant",
+        "city": "Riverdale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Atlanta Gas Light Company - Augusta Facility",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Atlanta Gas Light Company - Gas Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Atlanta General Depot",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Atlanta International Cotton Exposition",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Atlanta Laundries",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Atlanta Linen Supply Company / National Linen Service Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Atlanta Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Atlanta Railway And Power Company - Power Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Atlanta Steel Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Atlanta Terminal Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Atlanta Water Works",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Atlantic Coastline Railroad",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Atlantic Coastline Railroad",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Atlantic Creosoting Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Atlantic Foundry",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Atlantic Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Atlantic Refining Company",
+        "city": "Ahapulgus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Atlantic Refining Company",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Atlantic Steel Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Augusta Newsprint",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Augusta Railway Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Austell Box Board Corporation",
+        "city": "Austell",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Austell Box Board Corporation, Washington St.",
+        "city": "Austell",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Austex Foods",
+        "city": "Conyers",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Austin Walden School, 300 Irwin St. N.E.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Auto Craft And Arts And Craft Shops",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Avon Products Facility",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Avondale Mills",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "B-91 Building",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "B. & B. Carpet Mills",
+        "city": "Trenton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "B.F. Goodrich Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "B.F. Sturtevant Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Babcock & Wilcox Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Babcock & Wilcox Company",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Babcock & Wilcox Plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Babcock & Wilcox Plant",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Baptist Home Mission",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Barwick Carpet Mills, Incorporated",
+        "city": "Lafayette",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Batson-Cook Company",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Battey Machinery Company",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Battey State Hospital",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Baxley Nuclear Plant",
+        "city": "Baxley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Beers-Emory Clinic",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Bemis Bag Building",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Bibb Manufacturing",
+        "city": "Forsyth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Bibb Manufacturing Company",
+        "city": "Percale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Bibb Manufacturing Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Bibb Manufacturing Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Bibb Manufacturing Company",
+        "city": "Porterdale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Bibb Manufacturing Company",
+        "city": "Reynolds",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Bibb Manufacturing Company",
+        "city": "Juliette",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Bibb Mills",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Bibb Mills",
+        "city": "Juliette",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Bibb Mills",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Bibb Mills",
+        "city": "Forsyth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Bibb Mills",
+        "city": "Fort Valley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Bibb Sewer Pipe Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Big Apple Supermarket",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Biltmore Hotel, Spring St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Birmingham Branch",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Bona Allen, Incorporated",
+        "city": "Buford",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Bowen Plant",
+        "city": "Stilesboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Bowen Power Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Bowen Power Plant",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Bradley Plywood Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Briarcliff Laundry",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Brumby And Brother",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Brumby Chair Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Brumby Chair Company",
+        "city": "Marrieta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Brunswick Pulp & Paper",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Brunswick Pulp & Paper Mill",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Brunswick Pulp And Paper Company",
+        "city": "Pearson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Brunswick Pulp And Paper Company",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Brunswick Shipyard",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Bucket Shop, Underground Atlanta Old Ivey St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Buckeye Paper Mill",
+        "city": "Oglethorpe",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Burden Smith & Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Burlington Industries, Incorporated, Lees Division",
+        "city": "Rabun Gap",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Burns Brick Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Button Gwinnett Hospital",
+        "city": "Lawrenceville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "C. & S. Bank, Mitchell St. Office",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Cabin Craft, Incorporated",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Callaway Mills",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Callaway Mills",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Callaway Mills Company H.D.V. Division",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Calloway Mills Company",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Calumet Plant",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Calvary Baptist Church",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Camp Gordon",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Campbell Coal Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Campbell Stone Apartments, Pharr Court South",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Candler Investment Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Canterbury Court Apartment, 3752 Peachtree Rd.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Capital City Laundry Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Cargill, Incorporated",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Carlin Tile",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Carolyn Chenilles, Incorporated",
+        "city": "Ringgold",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Carpenters Plumbing Company",
+        "city": "Ft. Benning",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Carson Chemical Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Carterville Power Plant",
+        "city": "Carterville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Cedar Springs Paper Mill",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Cedartown Cotton Manufacturing Company",
+        "city": "Cedartown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Celanese Corporation Of America",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Celanese Corporation Of America",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Celanese Corporation, Chattillon Rd.",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Celanese Plant",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Center For Disease",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Center For Disease Control",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Central City Ice Works",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Central Of Georgia Railway Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Central Of Georgia Railway Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Central Of Georgia Railway Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Central Sash & Door Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Central State Hospital",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Champion Paper Company",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Champion Plywood",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Charmin Paper Products Company",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Chatham Correctional Institute, Travis Field",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Chatham County Courthouse",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Chatham County Nursing Home",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Chattahoochee Plywood",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Chattahoochee River Pumping Station",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Chemical Products Company",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Chemstrand Plant",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Cherokee Iron Company",
+        "city": "Cedartown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Cherokee Iron Works",
+        "city": "Cedartown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Cherokee Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Chevron Bulk Storage",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Chevron Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Chicopee Manufacturing Company",
+        "city": "Cornelia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Chicopee Manufacturing Company",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Chicopee Manufacturing Company",
+        "city": "Chicopee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Church'S Home, 344 Ponce De Leon St. & Seven 11th St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Citizens And Southern National Bank, Mitchell St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "City Of Atlanta - Hemphill Water Treatment Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "City Of Atlanta - Incinerator Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "City Of Atlanta Water Works #1",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "City Of Columbus Pumping Plant",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Civilian Shipyard",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Clark Thread Company",
+        "city": "Austell",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Classroom Building And Plaza, L2",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Clinchfield Portland Cement Company",
+        "city": "Coreen",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Clinchfield Portland Cement Company",
+        "city": "Clinchfield",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Coats & Clark Textile Mill",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Coats & Clark Thread Company",
+        "city": "Toccoa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Coats And Clark, Incorporated",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Coats And Clark, Incorporated",
+        "city": "Toccoa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Coca Cola Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Coca Cola Factory, Great Southwest Pkwy.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Coca Cola Syrup Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Coca-Cola Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Coca-Cola Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Coffee County Creamery",
+        "city": "Douglas",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Colonial Oil Industries, Incorporated",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Colony House",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Columbia Improvement Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Columbia Nitrogen",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Columbia Nitrogen Fertilizer Plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Columbia Nitrogen Plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Columbus Ice Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Columbus Manufacturing Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Columbus Mills",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Columbus Power Company - North Highland Power Plant",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Communicable Disease Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Concord Fabrics",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Concord Fabrics, 212 Hwy. West",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Continental Can Co",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Continental Can Company",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Continental Can Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Continental Can Company, BP-05 Alteration & Additions",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Continental Can Company, I.D. Fan Ducts 1 & 2",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Continental Can Company, Incorporated",
+        "city": "Nixon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Continental Can Company, Incorporated",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Continental Can Company, Incorporated",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Continental Can Company, Incorporated, Robert Gair Paper Poducts Group",
+        "city": "Nixon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Continental Can Company, Incorporated, Robert Gair Paper Products Southern Division",
+        "city": "Nixon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Continental Can Company, Powerhouse, Route 56",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Continental Can Paper",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Continental Can Paper Mill",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Continental Forest Industries",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Corbin Supply Company, 502 Broadway",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Coronet Industries, Incorporated",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Coronet Industries, Incorporated",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Couch Mills Company",
+        "city": "Eastpoint / Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Covington Cotton Mills",
+        "city": "Covington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Covington Paper Mill",
+        "city": "Covington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Cox Newprint",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Craft Decorators Shop, 1706 Bull St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Craig's Bakery",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Crane Company, 501 Broadway",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Crawford W. Long Memorial Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Crisp County Power Commission - Crisp Plant",
+        "city": "Warwick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Crompton Highland Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Crown Cotton Hills",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Crown Cotton Mills",
+        "city": "Valdosta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Crown Cotton Mills",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Crown Zellerbach Corporation, Gaylord Container Division",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Crucial Fire Brick Company",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Crusable Steel Mill",
+        "city": "Carrollton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Crystal Springs Bleachery Company",
+        "city": "Chickamauga",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Csx Transportation",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Csx Transportation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Csx Transportation",
+        "city": "Acworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Curtis Mathis",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "D. Bledsoe",
+        "city": "Mansfield",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Dalton Carpet Finishing Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Dalton Supply Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Danield Fields Air Force Base",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Dart Container Company, 2120 Lithonia Industrial Blvd.",
+        "city": "Lithonia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Davison-Paxon Department Store",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Decatur Federal Savings & Loan",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Decatur Senior Citizens",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Deering Milliken",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Deering Milliken Service Corporation",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Degive Opera House",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Dekalb General Hospital",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Delow Apartment Building",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Delta Airlines, Aircraft Cleaning Shop",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Delta Airlines, Boiler Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Delta Airlines, Hangar Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Delta Airlines, Jet Base",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Delta Airlines, Plating Shop",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Dempsy Hotel",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Department Of Human Resources, Division Of Mental Health, Georgia Retardation Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Dill's Flower Shop",
+        "city": "Jasper",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Dixie Belle Mills, Incorporated",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Dixie Engine Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Dobbins Air Force Base",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Dobbins Air Force Base - Building 826",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Dolco Packaging Corporation",
+        "city": "Lawrenceville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Dolco Packaging Corporation",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Dow Chemical Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Dow Latex Plant",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Dsm Chemicals North America, Incorporated",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Dundee Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Dupont",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Durango Georgia Paper",
+        "city": "St. Mary's",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "E. Van Winkle Gin And Machine Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "E.I. Dupont De Nemours And Company, Tanks & Equipment",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "E.T. Barwick Mills, Incorporated",
+        "city": "Kensington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Eagle And Phenix Manufacturing Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Eagle And Phenix Mill",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Eagle And Phenix Mills",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "East Point Lumber Company",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Eastman Cotton Mills",
+        "city": "Eastman",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Eastman Kodak",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Eastman Kodak Company",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Echeta Cotton Mills",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Echota Cotton Mills",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Eduro Mills",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Edwin I. Hatch Nuclear Plant",
+        "city": "Baxley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Effingham",
+        "city": "Rincon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Eggo Foods, Incorporated",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Elberton Oil Mills",
+        "city": "Elberton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Electrik Maid Bake Shop, Ovens",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Elementary School, Largo Dr.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Elite Process Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Elk Cotton Mills",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Emory Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Emory University Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Emory University Hospital, Central Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Emory University Hospital, Phase I",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Emory University, Emory Clinic",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Emory University, Library",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Emory University, Physical Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Emory University, School Of Dentistry",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Engelhard Minerals And Chemicals Corporation",
+        "city": "Attapulgus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Engineered Fabrics",
+        "city": "Rockmart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Equitable Life Assurance Society Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Escambia Chemical Company",
+        "city": "Colins",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Eugene Talmadge Memorial Hospital",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Exposition Cotton Mills",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Fairburn Ice & Coal Company",
+        "city": "Fairburn",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Fairforest Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Fairview Elementary School",
+        "city": "Stockbridge",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Farmers Hardware Company",
+        "city": "Metter",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "FBI Bldg",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Federal Paper Board Company, Incorporated, Continential Can",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Federal Paper Mill",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Fieldcrest Cannon, Incorporated",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Fieldcrest Mill",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Firestone Tire And Rubber Company",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Firestone Tire Plant",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "First Federal Savings & Loan",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Fitzgerald Cotton Mills",
+        "city": "Fitzgerald",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Flintkote Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Flite Treads, Incorporated",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Floyd County Hospital",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Ford Motor Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Ford‚Äôs Parts House",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Foremost Processing Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Forstman's",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Fort Benning",
+        "city": "Fort Benning",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Fort Gordon",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Fort Gordon Eisenhower Hospital",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Frito Lay",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Frito Lay, Incorporated",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Frito-Lay, Incorporated",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Ft. Benning - B.O.Q. & Mess",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Ft. Stewart - Barracks Boiler Plant - Building 2012",
+        "city": "Ft. Stewart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Ft. Stewart - Brig & Mess Hall",
+        "city": "Ft. Stewart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Ft. Stewart, Barracks Boiler Plant",
+        "city": "Ft. Stewart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Ft. Stewart, Building #650",
+        "city": "Ft. Stewart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Ft. Stewart, Buildings 336 & 931",
+        "city": "Ft. Stewart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Fuel Conversion, A.P.C., Schedules 1 & 3",
+        "city": "Ft. Gordon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Fulton Bag And Cotton Mills",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Fulton Cotton Mill",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Fulton Cotton Spinning Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Fulton County Courthouse",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Fulton County Jail",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Fulton County Juvenile Jail",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Gainesville Cotton Mills",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Gainesville Hospital",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Gatins Apartment Hotel",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Geico",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "General Electric - Transformer Plant",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "General Electric Plant",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "General Motors",
+        "city": "Doraville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "General Motors - Lakewood Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "General Motors Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "General Motors Plant",
+        "city": "Doraville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "General Motors Plant",
+        "city": "Doraville (Atlanta)",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "General Motors, Tire Mounting Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Georgia Alabama Power Company - Flint River Powerhouse",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Georgia Alabama Supply Company",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Georgia Creosoting Company",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Georgia Experiment Station",
+        "city": "Experiment",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Georgia Growers Distilling Company",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Georgia Ice Company, 431 Harmon St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Georgia Institute Of Technology",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Georgia Institute Of Technology (Georgia Tech)",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Georgia Institute Of Techology",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Georgia Iron And Coal Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Georgia Iron And Coal Company",
+        "city": "Rising Fawn",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Georgia Iron And Coal Company",
+        "city": "Rogers",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Georgia Iron And Steel Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Georgia Kaolin",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Georgia Kraft Company",
+        "city": "Newman",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Georgia Lunatic Asylum",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Georgia Manufacturing And Public Service Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Georgia Manufacturing Public Service Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Georgia Marble Company",
+        "city": "Tata",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Georgia Mental Health Institute",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Georgia Pacific",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Georgia Pacific",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Georgia Pacific",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Georgia Pacific",
+        "city": "Warrenton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Georgia Pacific Corporation",
+        "city": "Camilla",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Georgia Pacific Corporation",
+        "city": "Claxton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Georgia Pacific Corporation",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Georgia Pacific Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Georgia Pacific Corporation",
+        "city": "Vienna",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Georgia Pacific Corporation",
+        "city": "Warrenton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Crossett",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Georgia Pacific Paper Mill",
+        "city": "Mellewam",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Georgia Pacific Paper Mill, fka Great Southern Paper Mill",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Georgia Pacific Plywood Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Georgia Power",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Georgia Power",
+        "city": "Newnan",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Georgia Power",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Georgia Power - Arkwright Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Georgia Power - Hammond Steam-Electric Generating Plant - Unit 2",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Georgia Power - Hammond Steam-Electric Generating Plant - Unit 3",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Georgia Power - Plant Bowen",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Georgia Power - Plant Mcintosh",
+        "city": "Rincon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Georgia Power & Light Power Plant",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Georgia Power & Light]",
+        "city": "Millville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Georgia Power Company - Arkwright Steam Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Georgia Power Company - Edwin I. Hatch Nuclear Power Plant",
+        "city": "Baxley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Georgia Power Company - Harllee Branch Plant",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Georgia Power Company - Harllee Branch Plant - Unit 1",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Georgia Power Company - Harllee Branch Plant - Unit 3",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Georgia Power Company - Harllee Branch Plant - Unit 4",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Georgia Power Company - Plant Bowen",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Georgia Power Company - Plant Hammond",
+        "city": "Coosa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Georgia Power Company - Plant Mcdonough-Atkinson",
+        "city": "Smyrna",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Georgia Power Company - Plant Mcmanus",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Georgia Power Company - W. E. Mitchell Plant - Unit 2",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Georgia Power Company -Atlanta Division Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Georgia Power Mechanic Shop",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Georgia Power Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Georgia Power Plant",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Georgia Power Plant",
+        "city": "Coosa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Georgia Power Plant",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Georgia Power Plant",
+        "city": "Smyrna",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Georgia Power Plant",
+        "city": "Carterville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Georgia Power, Bowen Plant",
+        "city": "Taylorsville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Georgia Power/Plant Hatch",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Georgia Power/Plant Mitchell Plant",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Georgia Railway And Electric Company - Butler Street Steam Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Georgia Railway And Electric Company - Davis Street Station",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Georgia Retardation Center, Department Of Human Resources, Division Of Mental Health",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Georgia State Bank, 131 Bull St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Georgia State Capital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Georgia State Hospital",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Georgia State Mental Health Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Georgia State Prison",
+        "city": "Reidsville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Georgia State Sanitarium",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Georgia State University",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Georgia State University, Classroom Building And Plaza, 38 Ivy St. N.W.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Georgia Tech",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Georgia Tech Aerospace Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Georgia Training School",
+        "city": "Gracewood",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Georgia-Pacific Corporation",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Georgia-Pacific Corporation, Old Louisville Rd.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Gilman Paper Company",
+        "city": "St. Marys",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Gilman Paper Company",
+        "city": "St. Mary'S",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Gilman Paper Company, St. Mary's Kraft Division",
+        "city": "St. Mary'S",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Glass Container Corporation",
+        "city": "Forest Park",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Glynn Brunswick Memorial Hospital",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Glynn Ice Company",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Goldens' Foundry & Machine Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Goodyear Clearwater Mills",
+        "city": "Rockmart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Goodyear Plastic Plant",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Goodyear Tire & Rubber",
+        "city": "Rockmart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Goodyear Tire & Rubber Plant",
+        "city": "Rockmart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Gordon Foods",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Gordy Tire Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Gould Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Gracewood State School",
+        "city": "Gracewood",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Gracewood State School And Hospital",
+        "city": "Gracewood",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Grady Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Grady Hospital, Laundry Facility",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Grady Memorial Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Graniteville Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Graniteville Company, Sibley Division",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Great Northern Paper Company",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Great Northern Paper Mill",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Great Southern Land And Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Great Southern Land And Paper Company",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Great Southern, Division Of Great Northern Paper Company",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Greenbar Dial Office #5",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Griffith Labratories",
+        "city": "Lithonia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Gulf Oil Corporation",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Guthman Laundry And Dry Cleaning Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Guthman Steam Laundry",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "H-Bomb Plant",
+        "city": "Aiken",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "H. Benning Hospital",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "H.I. Kimball House Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "H.S. Kimball House Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "H.W. Lay & Company",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "H.W. Lay Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "H.W. Lay Company",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Hajoca Corporation",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Hamburger Cotton Mills",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Hammond Power Plant",
+        "city": "Coosa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Hammond Power Plant",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Harley Branch Power",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Harley Branch Power",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Harley Steam Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Harllee Branch",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Harllee Branch Power Plant",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Hartsfield Airport",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Hatch Nuclear Plant",
+        "city": "Vidayia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Hays Heating & Plumbing, 352 1st St.",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Hemphill Pumping Station",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Henderson Cold Storage",
+        "city": "Monticello",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Hercules Plant",
+        "city": "Covington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Hercules Powder Plant",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Hercules Refinery",
+        "city": "Oxford",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Hercules, Incorporated",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "High Rise Apartments",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "High Shoals Manufacturing Company",
+        "city": "Bishop",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "High Shoals Manufacturing Company",
+        "city": "High Shoals",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Holfast Rubber Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Hormel Company, 3367 Montreal Industrial Way",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Hotel Dempsey Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Hotel, 590 West Peachtree St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Huber Company, Incorporated",
+        "city": "Phillips",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Hunt Wesson Foods, Incorporated, Beatrice Foods",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Hunt-Wesson Foods, Incorporated",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Hunter Air Force Base, Auto Craft And Arts And Craft Shops",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Hunter Air Force Base, Building #1031",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Hunter Air Force Base, Building #1032",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Hunter Air Force Base, Building #14-13",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Hunter Army Airfield, Building #1031",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Huron Technologies",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Hyatt Regency Hotel",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Imperial Cotton Mills",
+        "city": "Eatonton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Independent Presbyterian Church, 25 West Oglethorpe Ave.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "International Container Corporation, Industrial Equipment",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "International Furniture Company",
+        "city": "Cornelia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "International Latex & Chemical Corporation",
+        "city": "Kensington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "International Latex & Chemical Corporation, Polychemical Plant #16",
+        "city": "Kensington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "International Paper",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "International Paper",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "International Paper",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "International Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "International Paper Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Interstate Brands, Incorporated, Dolly Madison Division",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Interstate Container Company, Kraft Linerboard",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Interstate Container Corporation",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Interstate Paper",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Interstate Paper Corporation",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Interstate Paper Mill",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Irwin Company Cotton Mills",
+        "city": "Fitzgerald",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Itt Rayonier",
+        "city": "Jesup",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Itt Rayonier",
+        "city": "Doctortown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Itt Rayonier",
+        "city": "St. Mary'S",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "J. A. Jones Shipyard",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "J. And J. Corrugated Box Corporation",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "J. F. Robinson & Company",
+        "city": "Winder",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "J. I. Newton",
+        "city": "Tifton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "J.A. Kirven Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "J.C. Penney",
+        "city": "Dekalb",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "J.C. Penney, 3rd & Peachtree St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "J.C. Penney, Lake County Mall",
+        "city": "Dekalb County",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "J.C. Penney's Drapery Shop, Glidden Dr.",
+        "city": "Stone Mountain",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "J.C. Russell Company, 1041 13th St.",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "J.D. Jewell Company",
+        "city": "Pendergrass",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "J.M. Huber",
+        "city": "Wrens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "J.M. Huber Company",
+        "city": "Wrens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "J.M. Huber Corporation, Mine Site",
+        "city": "Wrens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "J.P. Allen Store",
+        "city": "Dekalb",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "J.P. Allen Store, North Lake Mall",
+        "city": "Dekalb County",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "J.P. Stevens And Company",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "J.P. Stevens And Company",
+        "city": "Louisville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "J.P. Stevens And Company, Incorporated",
+        "city": "Louisville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Louisville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "J.P. Stevens Textile Mill",
+        "city": "Tipton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "J.W. Cagle",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Jacobs Drug Store",
+        "city": "Dekalb",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Jacobs Drug Store, Buford Clairmont Shopping Center, South Dekalb Shopping Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Jade East Apartments",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Jefferson Cotton Mills",
+        "city": "Jefferson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Jefferson Mills",
+        "city": "Jefferson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "John P. King Finishing Company",
+        "city": "Dover",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "John P. King Manufacturing Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "John P. King Manufacturing Company",
+        "city": "Dover",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Johns-Manville",
+        "city": "Huber",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Johns-Manville Plant",
+        "city": "Winder",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Johns-Manville Products Corporation, 1 Foundation Dr.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Johns-Manville Products Corporation, Plant",
+        "city": "Winder",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Johnson Hardware Company",
+        "city": "Newnan",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Jordan Contracting Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Joseph Hull",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Kaiser Agricultural Chemicals",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Kaiser Agricultural Chemicals",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Keebler Biscuit Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Kelley Hill Barracks",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Kennesaw Mills Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Kennesaw Plastics",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Kerby Saunders, Incorporated",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Kimberly Clark Corporation",
+        "city": "Waynesboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Kincaid Manufacturing Company",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "King Textiles",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Kingsley Mill",
+        "city": "Thomson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Kinnett's Dairies, Incorporated",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Knit-Tex Corporation",
+        "city": "Tifton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Knox Glass Plant",
+        "city": "Forest Park",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Kraft Corporation, Saint Marys Paper Mill",
+        "city": "St. Marys",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Kraft Food Company, Dekalb Industrial Way",
+        "city": "Decatur",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "L-45 Building",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "L.E. Parker",
+        "city": "Wrightsville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "La Fayette Cotton Mills",
+        "city": "La Fayette",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "La Vista Villa Apartments",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Lagrange Packing Company",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Lakeview Baptist Church",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Lanett Bleachery & Dye Works",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Lanett Bleachery And Dye Works",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Lanett Cotton Mills",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Langdale Company",
+        "city": "Valdosta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Lannet Cottom Mills",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Lannett Cotton Mills",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Latex Q Processing Plant",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Lcp Chemical",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Lehigh Portland Cement Company",
+        "city": "Mason City",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Lindsay & Morgan Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Linoleum & Shade Shop, 114 West Congress St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Lockhead Aircraft Corporation, Georgia Division",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Lockheed Aircraft Plant",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Lockheed Martin Plant",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Lockheed-Georgia Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Lois Cotton Mills",
+        "city": "Douglasville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Lowell Bleachery South",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "M.F. Brice",
+        "city": "Vidalia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Macon",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Macon Electric Light And Railway Company - Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Macon Fountain Service",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Macon Gas Light And Water Company - Power Plant",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Macon Knitting Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Madison Throwing Company",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Manchester Ice & Fuel Company",
+        "city": "Manchester",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Mandeville Mills",
+        "city": "Carrollton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Marietta Paper Manufacturing Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Massachusetts Cotton Mills",
+        "city": "Lindale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Massachusetts Mills Company",
+        "city": "Lindale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Materials Technology Lab, Lockheed-Martin Company",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Mc-Burney Corporation",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Mcburney",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Mccrorys",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Mcgaw Lab",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Mcintosh Power Plant",
+        "city": "Rincon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Mead Container Packaging",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Mead Packaging",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Mead Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Mead Paper Mill",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Melton Refrigeration Company, 641 Wilson St.",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Memorial Hospital",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Memorial Hospital Of Chatham Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Memorial Medical Center",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Merck \"Flint River\" Pharmaceutical Plant",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Merck And Company, Incorporated",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Merck Chemical Division",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Merillat Industries",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Metropolitan Caf√©",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Metropolitan Eye Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Mexican Petroleum Company Of Georgia",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Mexican Petroleum Company Of Louisiana, Incorporated",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Mid South Container",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Middle Georgia Cotton Mills",
+        "city": "Eatonton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Milledgeville State Hospital",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Millennium Specialty Chemicals",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Miller Brewery",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Milliken And Company",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Milliken Calumet Plant",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Milliken Mills",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Minerals And Chemicals Corporation Of America",
+        "city": "Attapulgus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Minerals And Chemicals Philipp Corporation",
+        "city": "Attapulgus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Mingledorff Shipyard",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Mitchell",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Mobil Bulk Storage Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Mobil Chemical Company",
+        "city": "Covington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Mohasco Industries, Incorporated",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Moore Hardware Company",
+        "city": "Jasper",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Moreland Chemical Company",
+        "city": "Chamblee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Morrill Manufacturing Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Mount Vernon Mills",
+        "city": "Trion",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Mulberry Market",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Muscogee Manufacturing Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Mutual Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "National Bank Of Georgia, 55 Marietta Blvd.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "National Biscuit Co.",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "National Biscuit Co.",
+        "city": "Hapeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "National Biscuit Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "National Biscuit Company",
+        "city": "Woodbury",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "National Biscuit Company (Nabisco)",
+        "city": "Hapeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "National Biscuit Company (Nabisco)",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "National Biscuit Company (Nabisco)",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "National Gypsum Plant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "National Linen Service Corporation",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "National Rosin Oil And Size Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "National Starch Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Naval Air Station Glynco, Air Traffic Control Training Building",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Naval Air Station Glynco, Airline Passenger Terminal",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Nesmith Sausage Company",
+        "city": "Coolidge",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "New Brunswick Powder Plant",
+        "city": "New Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Newman Construction Company",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Nipro Incorporated",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Nitrogen liquid fertilizer plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Norfolk Southern Railroad",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "North Gate Arms Apartments",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "North Georgia Rendering Company",
+        "city": "Cumming",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Northeast Forest Park Elementary School",
+        "city": "Conley",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "Northern Paper Mill",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Nours Refrigeration Service",
+        "city": "Stone Mountain",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Oak Manufacturing Company",
+        "city": "Eastpoint",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Office Of Bouhan, Williams, And Levy",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Organics Chemical Plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Owens-Corning Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Owens-Illinois Glass Company",
+        "city": "Hopewell",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Owens-Illinois Plant",
+        "city": "Hapeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Owens-Illinois Plant",
+        "city": "Valdosta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "P.P.G. Industries, Incorporated",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "P.P.G. Industries, Incorporated, Paint Plant",
+        "city": "East Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Pabst Brewery",
+        "city": "Perry",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Packaging Corporation Of America",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Pacolet Manufacturing Company",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Pacolet Mills",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Pacolet Mills",
+        "city": "New Holland",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Paragon Mills",
+        "city": "Cedartown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Pattillo Lumber Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "Paul A. Stevenson",
+        "city": "Tunnel Hill",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Payne Mill",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Peachtree Building, 1375 Peachtree St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Peachtree Rd. Elementary School",
+        "city": "Dekalb",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Peerless Woolen Mills Division Of Burlington Industries",
+        "city": "Rossville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "Pelham Investment Company",
+        "city": "Pelham",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "Pendleton Guano Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Pepperell Manufacturing Company",
+        "city": "Lindale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "Pepperton Cotton Company",
+        "city": "Jackson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "Perimeter Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "Perkins Hosiery Mills",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Piedmont Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Piedmont Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "Piedmont Hospital & Medical Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "Piedmont Hotel Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Pineview Hospital",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Plant Bowen",
+        "city": "Bartow County",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Plant Bowen",
+        "city": "Euharlee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Plant Bowen Powerhouse",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Plant Mcmannus Power Plant",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Plant Yates Power Plant",
+        "city": "Newman",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Planters Warehouse & Supply",
+        "city": "Mcdonough",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Plaza Towers",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Pollock Paper",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "Pomona Products Company",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Post Office",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Printpack, Incorporated",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Procter And Gamble",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Procter And Gamble Company",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Procter And Gamble Manufacturing Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Proctor & Gamble",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Proctor & Gamble Plant",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Project St 1400",
+        "city": "Dover",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "R.L.C. Apartment Building, Corner 4th & Juniper St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "R.M. Clayton Water Reclamation Center",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Rabun Apparel",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Rabun Mills Division",
+        "city": "Rabun Gap",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Radar Plumbing Company, 371 Pine St.",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Rayon Yarn Division",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Rayonier Incorporated",
+        "city": "Doctortown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Rayonier Incorporated",
+        "city": "Jesup",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Rayonier Paper Mill",
+        "city": "Jessup",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Regal Textile",
+        "city": "Trion",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Regency Hyatt House",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Regional Health Center",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Regional Mental Health Center",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Retail Credit Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Reynolds & Manley Lumber Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Rich'S Department Store",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Rich'S Warehouse And Service Center",
+        "city": "Stone Mountain",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Richmond County",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Richmond Hosiery Mills",
+        "city": "Rossville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Riegel Textile Corporation",
+        "city": "Trion",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Riverdale",
+        "city": "Riverdale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Riverside Mills",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Riverside Power Station",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Robins Air Force Base - Officers Quarters",
+        "city": "Houston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Robins Air Force Base, Officers Quarters",
+        "city": "Warner Robins",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Rock City Corrugated, Incorporated",
+        "city": "Norcross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Rockwell Manufacturing Company",
+        "city": "Doraville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "Rome Craft Paper Mill",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Rome General Hospital",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 854,
+        "company": "Rome Kraft/Georgia Kraft Paper Mill",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Rossville Development Company",
+        "city": "Rossville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Ruberoid Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Rust Engineering Corporation, Industrial Equipment",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Ryder Truck Lines",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Sacred Heart Church",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Sandoz Laboratory",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Savannah Civic Center, Oglethorpe And Montgomery St.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Savannah Convalescent Center",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Savannah Country Day School",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Savannah Creosoting Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Savannah Electric & Power Co. - Kraft Plant",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Savannah Electric And Power Company - Riverside Plant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Savannah Electric Company - Power Plant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Savannah Gas Company - Gas Plant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Savannah Lumber Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Savannah Machine & Foundry",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Savannah Machine And Foundry",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Savannah Memorial Hospital",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Savannah Mill",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Savannah Plant Site, Old Louisville Rd.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Savannah Power Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Savannah Shipyard",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Savannah State College - Central Heating Plant",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Savannah State College - Dormitory T-6",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Savannah Street Railway Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Savannah Sugar Plant",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Savannah Sugar Refinery",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Savannah Sugar Refining Corporation",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Savannah Sugar Refining Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Scapa Dryers",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Scherer Power Plant",
+        "city": "Juliette",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Schnedl-Jones Company",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Scm Glidco",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Scottdale Mills",
+        "city": "Scottdale",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Seaboard Coastline Railroad",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Seaboard Coastline Railroad",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "Seaboard Coastline Railroad Yard",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "Seabord Coast Line Railroad",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 893,
+        "company": "Sears Fashion Pool, Hugh Howell Rd.",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "Sears Retail Fashion Center",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Sears, Jefferson St.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Sears, Roebuck And Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Sgoda Corporation",
+        "city": "Huber",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Sgoda Corporation",
+        "city": "Phillips",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Shaw Industries - Springdale Road Plant",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Shell Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "Sierra Pine",
+        "city": "Adel",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "Silver Creek Furnace Company",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Snively Groves",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Solvay Process Division, Allied Chemical And Dye Corporation",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Sonoco Paper Co.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "South Georgia Ice Company, Drawer 416",
+        "city": "Tifton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Southeast Paper Manufacturing Company",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Southeastern Furniture Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Southeastern Papermill",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Southeastern Pulp",
+        "city": "Cedar Springs",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Southeastern Shipyard",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Southern Bell Telephone Company - West End Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Southern Bell Telephone Company Building",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Southern Cement",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Southern Cotton Oil Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Southern Cotton Oil Company",
+        "city": "Valdosta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Southern Division",
+        "city": "Nixon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Southern Heat Treat",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Southern Nitrogen Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Southern Railroad Yard",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Southern Railroad Yards",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Southern Railway Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Southern States Phosphate",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Southern States Portland Cement Company",
+        "city": "Rockmart",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Southern Wood Preserving Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Southland Pecan Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Southwestern Cotton Oil Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Southwire Company",
+        "city": "Carrollton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Spalding Knitting Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Sparta Cotton Mills",
+        "city": "Sparta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Spencer Equipment Company, 1220 Linwood Blvd.",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Spring Industries",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "St Marys Kraft Corp",
+        "city": "St Marys",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "St. Joseph's Hospital",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "St. Joseph's Infimary",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "St. Joseph's Infirmary",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "St. Regis Paper Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "St. Regis Paper Company",
+        "city": "Lumber City",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Standard Brand Chemical Industries",
+        "city": "Kensington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Standard Coosa-Thatcher Company",
+        "city": "Washington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Standard Handle Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "State Mental Hospital",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "State Of Georgia",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 946,
+        "company": "State Wholesale Food Company, 507 5th St.",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 947,
+        "company": "Stein Men's Clothing, 72 Broad St, N.W.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Stone & Webster, Columbus Power Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 949,
+        "company": "Stone Savannah River Pulp And Paper",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Stored Products Insects Research Lab",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Streitmann Biscuit Company",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Summerville Cotton Mills",
+        "city": "Summerville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 953,
+        "company": "Swainsboro Printing And Finishing Company",
+        "city": "Swainsboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Sweetwater Paper Board Company - Power Plant",
+        "city": "Austell",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 955,
+        "company": "Sweetwater Rug Company - Plant",
+        "city": "Ringgold",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "Swift And Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Swift And Company, Soak Works",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Swift Cotton Mill",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Swift Manufacturing",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "Swift Manufacturing Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "Swift Textile",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 962,
+        "company": "Synagogue, Lee Blvd. & White Bluff Rd.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 963,
+        "company": "Synthetic Latex Bulk Storage Plant, Goodyear Tire Plant",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "T.C. Crenshaw",
+        "city": "La Grange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "T.J.K. Corporation",
+        "city": "Riceboro",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "Tanner Brice Company",
+        "city": "Vidalia",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "Temple Industries, Incorporated",
+        "city": "Thomson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "Texaco Bulk Storage Plant",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "Texture Tex",
+        "city": "Tifton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "Texture Tex Plant",
+        "city": "Valdosta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 972,
+        "company": "The Landing",
+        "city": "Skidaway Island",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 973,
+        "company": "Thiele Kaolin Company",
+        "city": "Sandersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 974,
+        "company": "Thomas J. Deane",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 976,
+        "company": "Thomaston Cotton Mills",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 977,
+        "company": "Thomaston Mill - Bleachery Division",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "Thomaston Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 979,
+        "company": "Thomaston Mills",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 980,
+        "company": "Thomaston Mills Bleachert Division",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 982,
+        "company": "Thomastown Cotton Mills",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 983,
+        "company": "Thomasville Elementary School",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 984,
+        "company": "Thompson Industries",
+        "city": "Tucker",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Thomson Company",
+        "city": "Thomson",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 986,
+        "company": "Thornaston Mills",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 987,
+        "company": "Tibet Ave. Elementary School",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 988,
+        "company": "Toccoa Cotton Mills",
+        "city": "Toccoa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 989,
+        "company": "Tom Huston Peanut Company",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 990,
+        "company": "Tom Underhill Plumbing & Heating Company, 2705 Norris Rd.",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 991,
+        "company": "Toms Foods",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 992,
+        "company": "Towaligo Falls Power Company",
+        "city": "Griffin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 993,
+        "company": "Toyobo New York, Incorporated",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "Transco Textile Industries, Limited",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 995,
+        "company": "Trend Carpet",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 996,
+        "company": "Trenton Spinning Mill",
+        "city": "Trenton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "Tri City Bulk Storage",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "Trion Company",
+        "city": "Trion",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "Trion Manufacturing Company",
+        "city": "Trion",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Troup Ice Company, Morgan & Hines Sts.",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Trust Company Of Georgia, Edgewood And Pryor Sts.",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Tubize Chatillon Corporation",
+        "city": "Rome",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1005,
+        "company": "U.S. Army Signal Center - Fort Gordon",
+        "city": "Fort Gordon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1006,
+        "company": "U.S. Naval Hospital",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Uarco, Incorporated",
+        "city": "Torcoa",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1008,
+        "company": "Union Bag And Paper Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Union Bag And Paper Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1010,
+        "company": "Union Bag Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Union Bag Paper Mill",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Union Camp Corporation",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "Union Camp Corporation, Savannah Mill",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "Union Camp Paper Co.",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Union Camp Paper Company",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Union Camp Paper Mill",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "Union Carbide Corporation",
+        "city": "Cartersville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "Union Manufacturing Company",
+        "city": "Union Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "United Finishing And Dyeing Company",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "United Stated War Department",
+        "city": "Ft. Screven",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "United States Army Ft. Benning Hospital",
+        "city": "Columbus",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1023,
+        "company": "United States Department Of Agriculture, Stored Products Insects Research Laboratory",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "United States Finishing Company",
+        "city": "Cedartown",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "United States Government Picric Acid Plant",
+        "city": "Brunswick",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "United States Plywood-Champion Papers, Incorporated",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1028,
+        "company": "United States Post Office",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Unity Mills",
+        "city": "Lagrange",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "Universal-Rundle Company",
+        "city": "Monroe",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "University Hospital",
+        "city": "Augusta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "University Of Georgia",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1033,
+        "company": "V.A. Domiciliary",
+        "city": "Thomasville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1034,
+        "company": "VA Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "Venture Carpets",
+        "city": "Calhoun",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1036,
+        "company": "Virginia Manufacturing",
+        "city": "Whitesburg",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "Vogtle Power Plant",
+        "city": "Albany",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "Vulcan Materials Company, Stockbridge Stone Division",
+        "city": "Marietta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "W.T. Johnson Company",
+        "city": "Washington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "Walton Cotton Mills Company",
+        "city": "Monroe",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "Ware County Light And Power Company",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1044,
+        "company": "Warehouse For Stock",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1045,
+        "company": "Warner Robbins AFB",
+        "city": "Macon",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "Warner Robbins Airport",
+        "city": "Warner Robbins",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "Warner-Robbins Air Force Base",
+        "city": "Warner Robbins",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "Waycross Plumbing Compay",
+        "city": "Waycross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "Wesley Memorial Hospital",
+        "city": "Emory",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "Wesson Refinery",
+        "city": "Savannah",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1052,
+        "company": "West Lumber Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "West Paces Ferry Hospital",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "West Point Manufacturing Company",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "West Point Manufacturing Company Division West Point Pepperell Incorporated",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "West Point Paper Mill",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1057,
+        "company": "West Point Pepperell",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "West Point Pepperell Cabin Crafts Carpet And Rug Division",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "West Point Pepperill Textile Mill",
+        "city": "West Point",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1060,
+        "company": "West Point Stevens",
+        "city": "Milledgeville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "Western Electric",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "Western Electric",
+        "city": "Doraville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1064,
+        "company": "Western Electric Company - Atlanta Works",
+        "city": "Norcross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1065,
+        "company": "Western Electric Company - Atlanta Works - Cable Plant",
+        "city": "Norcross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "Western Electric Company - Atlanta Works - Office Building",
+        "city": "Norcross",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1068,
+        "company": "Western Electric Company - Telephone Factory",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1069,
+        "company": "Westinghouse Electric",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Westinghouse Electric Corporation - Athens Plant",
+        "city": "Athens",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Weyerhaeuser",
+        "city": "Oglethorpe",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Weyerhaeuser Company",
+        "city": "Adel",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1073,
+        "company": "White Provision Company",
+        "city": "Atlanta",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1074,
+        "company": "Whittier Mills Company",
+        "city": "Chattahoochee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1075,
+        "company": "Whittler Mills Company",
+        "city": "Chattahoochee",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1076,
+        "company": "Willamette",
+        "city": "Port Wentworth",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1077,
+        "company": "William Carter",
+        "city": "Thomaston",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1078,
+        "company": "William Carter Company",
+        "city": "Barnesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "William H. Mcdaniel, Incorporated",
+        "city": "Kensington",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "William Wrigley Jr. Plant",
+        "city": "Gainesville",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1082,
+        "company": "Willis & Eubanks Company",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1083,
+        "company": "Witham Cotton Mills",
+        "city": "Hartwelll",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1084,
+        "company": "Wm. Wrigley Jr. Company - Georgia Plant",
+        "city": "Flowery Branch",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "Woolen Mill",
+        "city": "Dublin",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "World Carpet Mills",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "World Carpet, Incorporated",
+        "city": "Dalton",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1088,
+        "company": "Yates Bleachery",
+        "city": "Flintstone",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "Yates Power Plant",
+        "city": "Newnan",
+        "state": "GA",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "Zimmerman Manufacturing Company, 100-114 East Forrest Ave.",
+        "city": "Eatonton",
+        "state": "GA",
+        "visibility": ""
+      }
+     ]
+}

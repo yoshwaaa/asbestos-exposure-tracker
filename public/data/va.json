@@ -1,0 +1,7669 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "201 Plaza Office Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "30-32 Commercial Place",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "301 Plaza Office Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "3846 South Four Mile Rd.",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A. Lynn Thomas Company",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "A. Lynn Thomas Company",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "A. Lynn Thomas Company",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Acands, Inc.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Administration Building, Court House",
+        "city": "Princess Ann",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Administration Building, Princess Ann Station",
+        "city": "Princess Ann",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Administration Building, Princess Ann Station",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Alexandria Fluidized Bed Facility",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Alexandria Hospital",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Alexandria Industrial Center",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Alexandria Industrial Center - Colonade Apts.",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Alexandria Industrial Center - Concord Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Alexandria Industrial Center - Forest Glen Medical Building",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Alexandria Industrial Center - Hill Office Building",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Alexandria Powerhouse",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Algonquin Apartment",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Allied Chemical",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Allied Chemical",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Allied Chemical - B Plant - Bermuda Hundred",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Allied Chemical - Chesterfield Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Allied Chemical - Chesterfield Plant - Fibers Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - \"A\" Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - \"B\" Plant - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Ammonia Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Bermuda Hundreds",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Chemical Division - Plant \"A",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Chesterfield Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Chesterfield Plant - Plant \"A\" - Chemical Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Chesterfield Plant \"B\" -Fiber Division - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Hopewell Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - National Aniline Division Siding - Plant \"A",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"A",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"A",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"A\" - Area #7",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"A\" - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"A\" - Chemical Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B\" - Bermuda Hundreds",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B\" - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B\" - Bldg. #12",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B\" - Fiberglas Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant \"B\" - Fiberglas Division - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant #3",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Plant #4",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division - Seaboard Railroad",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division -Chesterfield Plant \"A\" -Chemical Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division -Chesterfield Plant \"B\" - Fiber Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Allied Chemical & Dye Corp - National Aniline Division -Chesterfield Plant \"B\" Fiber Division - Bermuda Hundreds",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Allied Chemical & Dye Corp.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Allied Chemical & Dye Corp. - Plant A",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Allied Chemical & Dye Corporation",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Allied Chemical & Dye Corporation - Plant A",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Allied Chemical & Dye Corporation - Plant B",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Allied Chemical & Dye Corporation Plant",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Allied Chemical Corp.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Allied Chemical Corp.",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Allied Chemical Corp.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Allied Chemical Corp. - Bermuda Hundreds - Plant \"B",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Allied Chemical Corp. - Chesterfield Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Allied Chemical Corp. - Chesterfield Plant - Fibers Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Allied Chemical Corp. - Fibers Division",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Allied Chemical Corporation",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Allied Chemical Inc.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Allied Chemical Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Allied Chemical, Allied Chemical & Dye Corporation",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Allied Signal",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Allied Signal",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Allied Signal Inc",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Alton Aluminum Plant",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Am. Viscose/Avtex Chemical",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "American Cyanamid Company - Piney River Plant",
+        "city": "Piney River",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "American Cyanamid Company - Piney River Plant - Pigments Division",
+        "city": "Piney River",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "American Electric Power",
+        "city": "Glen Lyn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "American Machine And Foundry Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "American National Bank - West Main Office",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "American Oil Co",
+        "city": "Amoco",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "American Oil Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "American Oil Company",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "American Oil Company",
+        "city": "Amoco",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "American Oil Company Amoco Refinery",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "American Standard, Incorporated",
+        "city": "Falls Church",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "American Tobacco",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "American Tobacco Co.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "American Tobacco Company",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "American Tobacco Company American Tobacco Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "American Tobacco Company, R.C. Plant",
+        "city": "Bermuda Hundred",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "American Tobacco Company, Roll Finishing Building",
+        "city": "Bermuda Hundred",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "American Viscose",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "American Viscose",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "American Viscose",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "American Viscose Corporation",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "American Viscose Corporation",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "American Viscose Corporation",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "American Viscose Plant",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Amoco Oil",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Amoco Oil",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Amoco Oil Company",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Amoco Oil Refinery",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Ampthill",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Anderson Orthopedic Hospital",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Anheuser Busch",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Anheuser Busch Brewery",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Anheuser Busch, Incorporated, Brewery",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Appalachian Electric Power Co. - Clinch River Power Plant - Store Room",
+        "city": "Cleveland",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Appalachian Electric Power Company - Clinch River Plant",
+        "city": "Cleveland",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Appalachian Electric Power Company - Glen Lyn Plant",
+        "city": "Glen Lyn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Appalachian Power Co.",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Appalachian Power Service Building - Franklin Road Sw",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Appalachian Power-Glen Lyn Power",
+        "city": "Glen Lyn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Appalachian Power, Steam Plant",
+        "city": "Carbo",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Applied Extrusion Technologies",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Applied Extrusion Technologies/Aet (Formerly Hercules)",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Arcturus (USS)",
+        "city": "Norfolk/Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Arkansas (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Arlington County Wastewater Treatment Plant",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Arlington Hospital - North George Mason Drive",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Arlington Navy Annex - Columbia Pike - Fed Office Bldg #2",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Arlington Towers",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Armstrong Contracting & Supply",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Army Ammo Plant",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Associated Terminal",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Atlantic Creosote Company",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Atlantic Fleet Intelligence Center, Navy",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Atlantic Life Insurance, 6th And Grace Sts.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Atlantic Richfield - Cockpit Point",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "B & B Boiler Co",
+        "city": "Princeton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "B & C Baking Corporation",
+        "city": "Winchester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "B. & C. Baking Corporation",
+        "city": "Winchester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "B. F. Diamond",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Babcock & Wilcox",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Babcock & Wilcox",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Babcock & Wilcox - Nuclear Operations Plant",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Banister Pipeline",
+        "city": "Farmville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Bassett Industries Job",
+        "city": "Bassett",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Beatrice Pocahontas Coal Company",
+        "city": "Keen Mountain",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Beatrice Pocahontas Coal Company",
+        "city": "Oakwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Bedford County Hospital",
+        "city": "Bedford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Bellwood Printing Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Bermuda Hundreds Chemical Plant - Plant B",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Big Island Paper Mill",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Big Stone General Hospital",
+        "city": "Big Stone Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Bilton Insulation & Supply",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Bilton Insulation & Supply, S. Nelson St.",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Bilton Insulation Inc.",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Blacksburg Insulation",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Blue Cross Building",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Blue Ridge School",
+        "city": "Blue Ridge",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Bremo Bluff Power Station",
+        "city": "Bremo Bluff",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Bridgestone",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Brookville Elementary School",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Brown & Cocharn Baking Company",
+        "city": "Winchester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Brown & Root Inc.",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Brown & Williamson Tobacco",
+        "city": "Petersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Buena Vista School",
+        "city": "Buena Vista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Burlington Ind",
+        "city": "Glasgow",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Burlington Industries",
+        "city": "Brookneal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Burlington Industries",
+        "city": "Alta Vista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Burlington Industries",
+        "city": "Altavista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Burlington Mills",
+        "city": "Dublin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Burlington Mills",
+        "city": "Galax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Burlington Mills",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Burton Insulation Company",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Byrd Airport - National Guard Hanger",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "C & O Railroad",
+        "city": "Clifton Forge",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "C & O-Csx",
+        "city": "Clifton Force",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "C & P Telephone Building & Garage",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "C & P Telephone Buildings & Garage",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "C & P Telephone Buildings & Garage",
+        "city": "Pearisburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "C & P Telephone Buildings & Garage",
+        "city": "Christiansburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "C And P Telephone Company Building - Campbell Avenue",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "C E Thurston & Sons Inc",
+        "city": "Accomac",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "C E Thurston & Sons Inc",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "C E Thurston & Sons Inc",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "C E Thurston & Sons Inc",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "C E Thurston & Sons Inc",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "C. E. Thurston & Sons, Inc.",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "C. E. Thurston & Sons, Inc.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "C. E. Thurston & Sons, Inc.",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "C.E. Thurston & Son'S",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "C.E. Thurston & Son'S",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "C.E. Thurston & Son's",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "C.E. Thurston & Sons",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "C.E. Thurston & Sons, Incorporated, 700 Dinneiddie Ave.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "C.I.A.",
+        "city": "Langley",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Calhoun Community Center",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "California (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Camp Manufacturing",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Camp Peary",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Capitol Cement",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Carnation Company",
+        "city": "Galax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Carr Automotive Manufacturing Corporation",
+        "city": "Tappahannock",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Carr China Company",
+        "city": "Bluefield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Caudle Inc",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Ce Thurston & Sons",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Ce Thurston & Sons",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Ce Thurston & Sons",
+        "city": "Bridgewater",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Celanese",
+        "city": "Narrow",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Celanese Chemical",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Celanese Chemical Plant",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Celanese Corporation",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Celanese Corporation - Manufacturing Plant",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Celanese Corporation Of America",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Celanese Fiber Corp",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Celanese Fibers Co",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Celanese Fibers Co",
+        "city": "Celco",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Celanese Fibers Co",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Celanese Fibers Co - Bldg Nbr 10 Addition",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Celanese Fibers Co - Bldg No 10 Addition",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Celanese Fibers Co.",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Celanese Fibers Plant",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Centreville Elementary School",
+        "city": "Centreville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Charleston (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Chase (USS)",
+        "city": "Norfolk/Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Cheatham Annex",
+        "city": "York County",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Chemstone Corp",
+        "city": "Strasburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Chemstone Corporation",
+        "city": "Strasburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Chemstrand Lab",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Chemstrand Lab Job",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Chesapeake & Ohio Railroad",
+        "city": "Clifton Forge",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Chesapeake & Ohio Railway Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Chesapeake Albemarle Corporation",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Chesapeake Corp",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Chesapeake Corp",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Chesapeake Corp Of Va",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Chesapeake Corp.",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Chesapeake Corporation",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Chesapeake Corporation",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Chesapeake Corporation - West Point Mill",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Chesapeake Corporation Paper Mill",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Chesapeake Packaging Company",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Chesterfield Power Plant",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Chesterfield Power Station",
+        "city": "Dutch Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Chincoteague Naval Air Station - Aircraft Maintenance Hanger",
+        "city": "Chincoteague",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Chrysler Dodge Dealership",
+        "city": "Suffolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "City Of Norfolk- Water Treatment Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Clark Gum Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Clarksville Finish Plant",
+        "city": "Clarksville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Clarksville Finishing Plant",
+        "city": "Clarksville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Cleland Co",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Clinchfield Coal Co",
+        "city": "Dante",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Clinchfield Coal Company",
+        "city": "Clintwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Clinchfield Coal Company",
+        "city": "Cola West",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Clinchfield Coal Company",
+        "city": "Dante",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Clinchfield Coal Company",
+        "city": "Fremont",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Clinchfield Coal Company",
+        "city": "Mcclure",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Clinchfield Coal Company",
+        "city": "Clinchfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Cloverleaf Mall - J.C. Penney Department Store",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Coca-Cola Plant",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Coleman Furniture - Manufacturing Plant",
+        "city": "Pulaski",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Coleman Furniture Corp",
+        "city": "Pulaski",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Coliseum Mall - J.C. Penney Department Store",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Colonial Mills, Inc.",
+        "city": "Clarksville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Colonial Village Apartments",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Colonial Williamsburg ‚Äì New Information Center Area (Nica)",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Colonna'S Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Community Hospital",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Connecticut (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Consolidated Coal",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Consolidated Coal Company",
+        "city": "Bishop",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Continental Can",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Continental Can Co",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Continental Can Co.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Continental Can Company",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Continental Can Company - Hummel Ross Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Continental Can Corporation",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Continental Can Paper Mill",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Corning Glass Plant",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Corning Glass Works",
+        "city": "Christiansburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Corning Glass Works",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Corpus Christi Army Depot",
+        "city": "Christiansburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Crompton Textile Plant",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Crossroads Mall - Woolco Store",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Crystal Plaza South",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Culture & Convention Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Dan River Inc",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Dan River Inc.",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Davenport Insulation",
+        "city": "Springfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Davis Iron And Metals",
+        "city": "Lorton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Dealers Warehouse",
+        "city": "Bristol",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Deepsea Ventures",
+        "city": "Gloucester Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Deepsea Ventures Inc.",
+        "city": "Gloucester Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Department Of Corrections, D.C.",
+        "city": "Lorton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Depaul Hospital, Granby St.",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Dewitt Army Hospital",
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Diamond Inc",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Dixie Hospital",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Dow Badische Co",
+        "city": "Lee Hall",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Dow Chemical",
+        "city": "Lee Hall",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Dow Chemical Co",
+        "city": "Lee Hall",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Drorell Bros Tobacco Company",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Dulles Airport",
+        "city": "Dulles",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Dulles International Airport",
+        "city": "Herndon",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Dulles International Airport",
+        "city": "Sterling",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Dulles International Airport",
+        "city": "Chantilly",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Dupont",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Dupont",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Dupont",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Dupont - James River Plant",
+        "city": "Bellwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Dupont Chemical",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Dupont Chemical",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Dupont Chemical Plant",
+        "city": "Parkersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Dupont Chemical Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Dupont Chemical Plant",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Dupont De Nemours",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Dupont De Nemours",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Dupont Martinsville Plant",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Dupont Plant",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Dupont Spruance Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Dupont Waynesboro Plant",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Dupont/E.I. Dupont",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Durham (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Dutch Gap Power Plant",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Dutch Gap Power Plant",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Dutch Gap Power Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Dyna Color 3M",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "E C Ernst, Inc",
+        "city": "Crystal City",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "E I Du Pont De Nemours",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "E I Dupont De Nemours",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Ampthill",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "E. C. Glass High School",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "E. I. Dupont",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "E. I. Dupont",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "E. I. Dupont",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "E. I. Dupont Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "E. I. Dupont De Nemours & Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "E.C. Glass High School - Memorial Avenue",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "E.I. Du Pont De Nemours & Company",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "E.I. Du Pont De Nemours & Company",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "E.I. Du Pont De Nemours & Company",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "E.I. Du Pont De Nemours & Company, Du Pont Spruance Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "E.I. Dupont De Nemours & Company, Dupont Spruance Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "E.I. Dupont De Nemours Company, Inc.",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "E.I. Dupont Denemours",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Eastern Associated Coal Corporation",
+        "city": "Grant Town",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Eastgate Mall",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Ed Turner Excavating",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "El Paso (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Elizabethan Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "English Sam Inc",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Enviromental Control Sys",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Environmental Control Sys",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Eppinger & Russell Company",
+        "city": "So Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Ewart's Cafeteria",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Fairfax County Government Center Administration Building",
+        "city": "Fairfax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Fairfax Hospital",
+        "city": "Falls Church",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Fairfax Hospital, 3300 Gallows Rd.",
+        "city": "Falls Church",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Farmers Fertilizer Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Fauquier County High School",
+        "city": "Warrenton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Fbi Barracks",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Fearnow Brothers Cannery",
+        "city": "Mechanicsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Federal Emergency Management Agency, Mt. Weather",
+        "city": "Bluemont",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Fela Csx N&W Railroad Roanoke Yard",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Ferrum Junior College, Bassett Hall",
+        "city": "Ferrum",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Fibers Division",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Fidelity National Bank",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Fieldcrest Mills - Boiler Room",
+        "city": "Fieldale",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Firestone",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Firestone Fiber Co.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Firestone Fiber Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Firestone Fiber Plant - N & W Delivery",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Firestone Fibers Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Firestone Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Firestone Synthetic Fibers",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Firestone Synthetic Fibers Co",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Firestone Synthetic Fibers Co - Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Firestone Synthetic Fibers Company",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Firestone Synthetic Fibers Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Firestone Textile Fibers",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Firestone Tire & Rubber Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Firestone Tire & Rubber Co. - Synthetic Fiber Division - Nylon Building",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "First & Merchants National Bank",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "First National Bank - Main And Market Street",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Flake Board Plant - Bldg. 139 - Htg. Sys.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Fleet Combat Training Center, Atlantic Dam Neck",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Fmc Corporation",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Fmc Corporation",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Fmc Corporation - American Viscose Division",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Fmc Corporation - Avtex Plant",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Fmc Corporation, American Viscose Division",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Ford Motor Assembly Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Ford Motor Company",
+        "city": "Berkley",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Fort Belvoir Army Base",
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Fort Eustis",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Fort Lee",
+        "city": "Fort Lee",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Fort Monroe, Building 28",
+        "city": "Fort Monroe",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Foster Wheeler Company, Celanese Corporation",
+        "city": "Narrows",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Foster Wheeler Corp",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Frank H. Hott Co, Inc",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Franklin County Junior High School",
+        "city": "Rocky Mountain",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Franklin County Office Building",
+        "city": "Rocky Mountain",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Franklin Printing Company",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Franklin Vender Company",
+        "city": "Rocky Mt",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Fred Hayes Mechanical Contractors",
+        "city": "Bristol",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Freeport Sulphur, T-2 Tanker 5 Tanks",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Friendship Manor",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Friendship Manor - Herahberger Road",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Fruit Growers Express",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Ft. Eustis",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Ft. Myer - Buildings 517 & 51",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Ftp Automotive",
+        "city": "Tappahannock",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "G.C. Murphy Store",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Garden Creek High School",
+        "city": "Garden Creek",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "General Cable Corporation",
+        "city": "Buena Vista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "General Chemical Division",
+        "city": "Front Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "General Electric",
+        "city": "Clifton Forge",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "General Electric Plant",
+        "city": "Staunton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "General Instrument",
+        "city": "Tazewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "General Motors",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "General Motors - Parts Division - Lewis Road",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "General Motors, Parts Division, Lewis Rd.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "General Shale Prod Corp",
+        "city": "Harion",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "General Shale Prod Corp",
+        "city": "Marion",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "General Shale Products",
+        "city": "Richlands",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "General Shale Products Corporation",
+        "city": "Marion",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "General Supply Depot",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "George H. Meyer & Sons",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Georgia Marble Co - Alberne Stone Division Of",
+        "city": "Schuyler",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Georgia Pacific",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Georgia Pacific Corp - Boiler Room",
+        "city": "Emporia",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Georgia Pacific Corporation",
+        "city": "Emporia",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Ginter Park Methodist Church",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Glamorgan Pipe & Foundry Company",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Glamorgan Pipe And Foundry",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Glasco Elementary School",
+        "city": "Glasco",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Goodyear Tire & Rubber Co",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Goodyear Tire And Rubber Co",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Graham White Mfg",
+        "city": "Salem",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Graves Mill Rd.",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Great American Industries - Rubatex Division",
+        "city": "Bedford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Grinnel Corp",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Grundy High School",
+        "city": "Grundy",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Gsa Supply Distribution Facility",
+        "city": "Franconia",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Gsa Supply Distribution Facility",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Halifax Paper Company, Incorporated",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Hampton Institute",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Hampton Road Shipyard",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Hampton Roads Army Terminal",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Hampton Roads Piers And Terminals",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Hanes Corporation",
+        "city": "Galax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Harmon House/Newport News Ship Bldg",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Hercules",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Hercules",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Hercules",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Hercules Company",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Hercules Inc",
+        "city": "Snowden",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Hercules Incorporated",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Hercules Incorporated",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Hercules Plant",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Hercules Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Hercules Powder",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Hercules Powder",
+        "city": "Claremont",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Hercules Powder",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Hercules Powder",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Hercules Powder Co",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Hercules Powder Co",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Hercules Powder Co",
+        "city": "Harford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Hercules Powder Co",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Hercules Powder Co",
+        "city": "Pepper",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Hercules Powder Co",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Hercules Powder Co - Radford Arsenal",
+        "city": "Pepper",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Hercules Powder Company",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Hercules Powder Company",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Hercules Power Company",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Hercules-Radford Arsenal-Raap",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Hercules, Inc.",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Hercules, Inc.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Hercules, Inc.",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Hercules, Inc.",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Hermitage Home - Senior Living Facility",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Herndon Pure",
+        "city": "Herndon",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Hexagon Lee Laboratories",
+        "city": "Petersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "High Point Ave Siding",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Highland Co School Under Constr",
+        "city": "Monterey",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Highway Office Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Highway Office Building Annex",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Hoechst Celanese",
+        "city": "Narrow",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Honeywell",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Honeywell",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Honeywell Inc.",
+        "city": "Petersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Honeywell International",
+        "city": "Chesterfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Hopping (USS)",
+        "city": "Norfolk/Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Horne Brothers Shipyard",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Horne Brothers, Inc.",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Humble Oil & Refinery Co",
+        "city": "Ampthill",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Humble Oil & Refinery Company",
+        "city": "Ampthill",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Hurstbourne Highrise Office Building",
+        "city": "Bermuda Hundred",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Hydronautics, Incorporated",
+        "city": "Bermuda Hundred",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Hydrozine Facilities",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "I.C.I. America, Incorporated",
+        "city": "Bermuda Hundred",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Ibm Building",
+        "city": "Manassas",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Ibm Facility",
+        "city": "Manassas",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Ici Americas, Inc.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Imperial Tobacco Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Indus Sheet Metal Works",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Industrial Sheet Metal Works",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Information Building - Colonial Williamsburg",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Insulators Union #83",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "International Paper",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "International Paper Company",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Dismal River",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Gund",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Keen Mountain",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Oakwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Pilgrims Knob",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Island Creek Coal Co Virginia Pocahontas Div",
+        "city": "Vansant",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Island Creek Coal Company",
+        "city": "Hamilton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Island Creek Coal Company",
+        "city": "Vansant",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Island Crrek Coal Co",
+        "city": "Vansant",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Ivy Memorial Baptist Church",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Jewell Ridge Coal Co",
+        "city": "Jewell Valley",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Jewell Smokeless Coal",
+        "city": "Vansant",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Jewelll Ridge Coal Company",
+        "city": "Jewell Valley",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Johns Manville",
+        "city": "Jarrett",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Johns Manville Plant",
+        "city": "Jarrett",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Johnson-Carper Furniture Company, Hollins Rd.",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Jos. Mcsweeney & Sons",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Keene Corp - Hogge Island",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Keene Corp - Hogge Island - C. Mcclendor",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Keller Extrusions",
+        "city": "Milford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Keller Industries",
+        "city": "Milford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Kingsley Industries Store",
+        "city": "Springvale",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Klopman Mill",
+        "city": "Hurt",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Kraft-Murphy Company",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Kroger Company",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "L.J. Goetz",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "L.S.T. Shipping",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Landmark Mall - Woodward And Lothrop Department Store",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Lane Company, Inc.",
+        "city": "Altavista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Langford Cafeteria",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Langley Afb - Statis Courts",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Langley Afb - Steam Dist System",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Langley Air Force Base",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Langley Air Force Base - Utility Tunnel 4",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Leigh Portland Cement",
+        "city": "Craigsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Leonard Smith Roofing",
+        "city": "Salem",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Lewis Gale Hospital",
+        "city": "Salem",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Libbie Rehabilitation Center",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Liberty Baptist Church - Doorway Nbr 3",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Liberty High School, Rt. 122",
+        "city": "Bedford County",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Life Science Bldg",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Little Creek Naval Base",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Locher Brick",
+        "city": "Glasgow",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Locker Brick Company",
+        "city": "Glasgow",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Lone Star Cement Corporation",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Lone Star Cement Corporation",
+        "city": "Cloverdale",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Lone Star Cement Corporation",
+        "city": "Daleville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Lonesome Pine Hospital",
+        "city": "Big Stone Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Long Island (USS)",
+        "city": "Newport News/Charleston",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Loudon Memorial Hospital",
+        "city": "Leesburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Lynchburg Foundry",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Lynchburg Foundry",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Lynchburg Foundry Company",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Lynchburg Foundry Company, Archer Creek Plant",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Lynchburg Foundry Company, Radford Pipe Works",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Lynchburg Foundry Company, Radford Shell Plant",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Lynchburg Training School",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Lynchburg Training School",
+        "city": "Colony",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "M W Cosby Transfer & Storage",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Madison College - Dormitories 5 & 6",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Madison College - Dormitories N-5 & N-6 - Rockingham County",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Madison College - Dormitory 7",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Madison College - Dormitory N-7 - Rockingham County",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Madison College - Dorms 1 & 2",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Madison College - M2 Dorm",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Madison College, Physical Education Building",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Madison Wood Preserving",
+        "city": "Orange",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Mag Test West Area - Langley Field",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Manchester Board & Paper Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Manchester Board & Paper Co. - 9Th St. Rd. Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Marine Corps Base - Building 2007",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Marine Corps Base Quantico",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Martha Jefferson Hospital",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Martin Processing",
+        "city": "Fieldale",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Martinsville General Hospital",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Mary Washington Hospital",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Mc Graw Morgan Inc",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Mccray Nursing Home",
+        "city": "Abingdon",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Mcgraw-Morgan Inc",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Mcnally Pittsburgh Mfg.",
+        "city": "Whitewood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Mcv Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Mead Corp",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Mead Paper Company",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Medical College Of Virginia",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Medical College Of Virginia Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Medical College Of Virginia, Boiler Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Medical Education Bldg",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Melpar Office Building",
+        "city": "Fairfax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Melrose Towers",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Memorial Library, City Hall Ave.",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Merchants & Farmers Bank, Crawford St.",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Merck Chemical",
+        "city": "Elkington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Metro Machine Corporation",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Metro Machine Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Military Circle Shopping Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Military Circle Shopping Center, J.C. Penney",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Military Circle Shopping Center, Mall Stores",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Military Circle, Smith & Welton Stores",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Military Circle, Virginia National Bank",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Millstead Boiler & Eng Co",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Milstead Boiler & Engine Co.",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Mississippi (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Mobil Oil Corporation - Headquarters",
+        "city": "Falls Church",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Mobile (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Monroe Construction",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Montgomery County Hospital",
+        "city": "Christianburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Monticello Shopping Center",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Monticello Square Apartments - Cowan Boulevard",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Montvale School",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Moon Engineering",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Moon Engineering Company, Inc.",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Moore'S Bridges",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Motor Hotel - Cafeteria Building",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Mundry R E Co",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "N S Marshull And Son Co",
+        "city": "Atlantic",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "N. A. S. A. - N. A. S. A. Boat Dock",
+        "city": "Mappsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "N&W Warehouse",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Nasa - Langley A F B",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Nasa - Langley Research Center",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Nasa - Langley Research Center - Utility Tunnel 4",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Nasa Langley Research Center",
+        "city": "Langley",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Nasa, Langley Research Center",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Nasa, Langlie Research Center",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "National Airport - Eastern Airlines Terminal",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "National Aniline Division - Plant \"A",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "National Bulk Carriers, Inc. - Welding Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "National Gypsum Co. - Brice Bldg Co",
+        "city": "Kimballton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Naval Air Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Naval Air Station Jet Engine Testing Facility",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Naval Air Station Oceana",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Naval Air Station Oceanic",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Naval Base - Bldg. 143",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Naval Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "Naval Staff College, Academic Building",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Naval Station Norfolk - Fleet And Industrial Supply Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Naval Station Norfolk - Naval Supply Center, Building 143",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Naval Station Norfolk - Public Works Center, Bldg. 2200",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "Naval Station Norfolk - Public Works Center, Bldg. X-277",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Naval Station Norfolk - Salvage Fuel Boiler Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Naval Supply Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Naval Supply Depot",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Navy Public Base Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Navy Public Works Center, Receivers Building X-277 (6D)",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Navy Public Works Center, Receivers Building Z-200 (6A)",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "Nbr Recovery Boiler",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Nepco - Lamberts Point Terminal",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "Newport News Naval Shipyard",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Newport News Shipbuild",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "Newport News Shipbuilding",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Newport News Shipbuilding & Drydock",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Newport News Shipbuilding And Dry Dock Co.",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Newport News Shipbuilding And Drydock",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Newport News Shipbuilding Co.",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Newport News Shipyard",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Nicols Department Store",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Noland Co",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Noland Co Inc",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Noland Co.",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Noland Company, Inc.",
+        "city": "Rosslyn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Norfolk & Southern Railway Corporation",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Norfolk & Western Railway, East End Pipe Shop",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Norfolk Civic Center",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Norfolk General Hospital",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Norfolk Naval Air Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Norfolk Naval Base",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Norfolk Naval Base - Power Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Norfolk Naval Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Norfolk Naval Shipyard",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 782,
+        "company": "Norfolk Naval Shipyard - Bldg #15",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Norfolk Naval Shipyard - Bldg #15-A",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Norfolk Naval Shipyard - Bldg #276",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Norfolk Naval Shipyard (Nnsy)",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Norfolk Naval Shipyards",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "Norfolk Naval Shipyards - Bldg 15-A",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Norfolk Naval Shipyards - Bldg 276",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "Norfolk Naval Shipyards - Bldg Nbr 276",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "Norfolk Naval Shipyards - Building 276",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Norfolk Naval Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "Norfolk Naval Yard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Norfolk Operations Base",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Norfolk Place Navy Yard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Norfolk Ship Building And Dry Dock",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Norfolk Shipbuilding & Drydock",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Norfolk Shipbuilding & Drydock",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Norfolk Shipbuilding & Drydock - Berkley Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Norfolk Shipbuilding & Drydock - Brambleton Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Norfolk Shipbuilding & Drydock - West Berkley Avenue",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Norfolk Shipbuilding & Drydock Co - Berkley Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "Norfolk Shipbuilding & Drydock Co - Brambleton Plant",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Norfolk Shipbuilding & Drydock Corporation (Norshipco)",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Norfolk Shipbuilding And Dr",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Norfolk Shipbuilding And Dry Dock Co N/K/A Bae A/K/A Norshipco",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Norfolk Southern Railway",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Norfolk Western Ry Co",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Norport Supply Company Inc",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Norshipco",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "North Anna Nuclear Power Plant",
+        "city": "Louisa",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "North Anna Powerhouse",
+        "city": "Louisa",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "North Site Junior High School",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "O'Ferral, Incorporated",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "O'Ferral, Incorporated, Strebling Ave.",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Old Hickory Chemical Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Olin Corporation",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Olin Matheson Chemical Corp",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Olin Mathieson Chemical",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Olin Mathieson Chemical Corp",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Olin Mathieson Chemical Corp",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Olin Mathieson Chemical Corp.",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Olin Mathieson Chemical Corporation",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Overnite Transportation C",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Owens Corning",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "Owens Illinois",
+        "city": "Fairmont",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Owens Illinois Glass",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Owens Illinois Glass Company",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Owens Illinois Glass Company - Boiler House",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Owens Illinois Glass Company - Forest Products Division",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Owens Illinois Papermill",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Owens Illinois Plant",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Owens-Illinois (Paper Mill)",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Owens-Illinois Inc.",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Owens-Illinois, Inc.",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "Owens-Illinois, Incorporated",
+        "city": "Big Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Parker Gray School",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Parkington Shopping Center",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Parsons Piping Company",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Patrick Copland School",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Paul E. Styles Plastering Company, Graves Mill Rd.",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Paul E. Styles Plastering Company, Rt. 1",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Pennington Excavating",
+        "city": "Springfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "Pentagon Building",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Pentagon Building North Parking Lan - Auxiliary Power Sply",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Pentagon Powerhouse",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Pet Milk Company",
+        "city": "Abingdon",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Petersburg Central Hospital",
+        "city": "Petersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Philip Morris",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Philip Morris Operations Center - Walmsley Boulevard",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Philip Morris, Incorporated, Clark Gum Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Phillip Morris",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Phillip Morris Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Piedmont Trust Bank",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Pigments Division",
+        "city": "Piney River",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Pittsburgh-Des Moines",
+        "city": "Collinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Planters Peanuts",
+        "city": "Suffolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Plumbing & Mill Supplies Inc",
+        "city": "Danville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Pocahontas Fuel Company",
+        "city": "Bishop",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Pochahontas Fuel Co",
+        "city": "Amonate",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Point Express",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Polyester Plant - Bermuda Hundred Plant",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Porter Hayden",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Porter Hayden Corp",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Portsmouth Beltline",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Portsmouth Naval Shipyard",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Portsmouth Power Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Portsmouth Power Station",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Portsmouth Shipyard",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Possum Point Power Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Possum Point Powerhouse",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Post Signal Bldg 246",
+        "city": "Fort Belvoir",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Potomac Edison Co.",
+        "city": "Luray",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Potomac Edison Company",
+        "city": "Shenandoah",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Potomac Edison Company",
+        "city": "Newport",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Potomac Edison Company",
+        "city": "Royal",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Potomac Electric Power Company - Potomac River Generating Station",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Potomac River Generating Station",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Potomac River Generation System",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Potomac River Power Plant",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Process Engineering Inc",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Proctor & Gamble",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Procyon (USS)",
+        "city": "Norfolk/Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Protestant Episcopalian Theological Seminary",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Pulaski Community Hospital",
+        "city": "Pulaski",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Quality Automotive",
+        "city": "Tappahannock",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Quantico Marine Corps Base, Building 3250",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Radford Ammunition Army Arsenal",
+        "city": "Pepper",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Radford Ammunition Army Arsenal",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Radford Ammunition Army Arsenal - New Continuous NT  Plant Facility",
+        "city": "Pepper",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Radford Army Ammunion Plant",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "Radford Army Ammunition Plant",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Radford Army Ammunitions",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Radford Army Ammunitions Plant",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Radford Army Ammunitions/Arsenal",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Radford Army Arsenal",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Radford Arsenal",
+        "city": "Radford",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Radford Arsenal",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Radford Arsenal - Tall Oil Plant",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Radford Shell Foundry",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Randolph Macon Womens College - Dormitory Dining Hall",
+        "city": "Lynchburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Ranger Fuel Co",
+        "city": "Bolt",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Rapoca Ind.",
+        "city": "Lodneys Creek",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Redford Brick Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Reeves Brothers Inc",
+        "city": "Buena Vista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Refractory Service",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Region Number 3 - Stores Depot",
+        "city": "Franconia",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Reid Hayden",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Research Cottrell Wva Vapd",
+        "city": "Virginia",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Reynolds Guyana Mines Ltd",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Reynolds Metal Co",
+        "city": "Bellwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "Reynolds Metals Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 946,
+        "company": "Reynolds Metals Co",
+        "city": "Bellwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Reynolds Metals Company, Printing Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Reynolds Office Bldg.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Reynolds Painting Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Reynolds Painting Plant, Wash-Up Area",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 953,
+        "company": "Richmond Coliseum",
+        "city": "Mechanicsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Richmond Coliseum",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "Richmond Engineering Company Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Richmond Food Stores, Incorporated",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Richmond Greyhound Terminal",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Richmond Memorial Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "Richmond News Leader Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "Richmond Public Library",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 962,
+        "company": "Richmond Steel",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 963,
+        "company": "Ridge Shopping Center",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "River Street Siding",
+        "city": "Petersburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "Riverside Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "Riverside Hospital",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "Roanoke Civic Center",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 968,
+        "company": "Roanoke Electric Steel",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "Roanoke Hospital",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "Roanoke Shop",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "Roanoke Webster Brick Company",
+        "city": "Webster",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 972,
+        "company": "Roberts Lumber Co",
+        "city": "Wheeling West",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 973,
+        "company": "Ross Laboratories - Abbott Lab",
+        "city": "Altavista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 974,
+        "company": "Rosslyn Building",
+        "city": "Rosslyn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "Russell County Jail",
+        "city": "Lebanon",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 983,
+        "company": "S. & W. Cafeteria",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Safe Guard Automotive",
+        "city": "Tappahannock",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 987,
+        "company": "Safety Health & Welfare Building, Civic Center",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 989,
+        "company": "Saint Laurent Paper Mill",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 991,
+        "company": "Salem Civic Center",
+        "city": "Salem",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 992,
+        "company": "Salem Town Of",
+        "city": "Salem",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 993,
+        "company": "Sam English, Inc.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "Sanitorium",
+        "city": "Stanton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 995,
+        "company": "Schrader International",
+        "city": "Alta Vista",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 996,
+        "company": "Scope, Monticello And Brambleton Ave.",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 997,
+        "company": "Scope, Theatre Building",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "Sears & Roebuck Store",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "Seminary Hill Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "Sheet Metal Speciality Co",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Shenandoah Baptist Church",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Shirley Industrial Center - Anacostia Field House",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1006,
+        "company": "Shirley Industrial Center - Callinade Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Shirley Industrial Center - Columbia Union College",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1008,
+        "company": "Shirley Industrial Center - Country Club Tower",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Shirley Industrial Center - Country Club Towers",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1010,
+        "company": "Shirley Industrial Center - Edison High School",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Shirley Industrial Center - Horizon House",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Shirley Industrial Center - Ruxton Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Shirley Industrial Center - Woodson High School",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "Shirley Industrial Highway",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Smithfield Packing",
+        "city": "Smithfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Smithfield Packing Company",
+        "city": "Smithfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "Smurfit Stone",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "Smurfit Stone Corp.",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "Snyder General",
+        "city": "Verona",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "Solvay Process Company/Solvay Process Division",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "South Carolina (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1023,
+        "company": "South Norfolk Terminal",
+        "city": "South Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "Southern Steel And Stove",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "Southern Towers",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Space Conditioning Inc",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "Springfield Mall",
+        "city": "Springfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "Spruance Textiles",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "St Laurent Packaging",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "St. Julians Creek Annex",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "St. Laurent Paper",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "St. Louis (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "St. Mary Star Of The Sea Catholic Church",
+        "city": "Hampton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "St. Mary's Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "St. Marys Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "Standard Oil Office Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "Standard Oil Refinery",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "Stanley Furniture Co",
+        "city": "Stanleytown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "State Office Building, Bank And Governor Sts.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "State Penitentiary Farm - New Laundry & Power House",
+        "city": "Powhatan County",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1052,
+        "company": "State Planters Bank, 9th And Main St.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "Staten River Finishing Co - New Bern Plant",
+        "city": "Dublin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "Staunton River High School/Bedford Court House",
+        "city": "Bedford County",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "Stone & Webster",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1144,
+        "company": "Stone And Webster Corp",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1145,
+        "company": "Stone Container Corporation",
+        "city": "Hopewell",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1146,
+        "company": "Stonewall Jackson Hospital",
+        "city": "Lexington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1147,
+        "company": "Stuart Circle Hospital",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1148,
+        "company": "Stuarts Draft Elementary School",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1149,
+        "company": "Sugar Grove Elementary School",
+        "city": "Sugar Grove",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1150,
+        "company": "Summer Hill Tower Apartments",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1151,
+        "company": "Swan & Son Wm H",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1153,
+        "company": "Swift & Company - Agrichem Division - Money Point",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1154,
+        "company": "T F Minter",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1155,
+        "company": "Tanglewood Mall",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1156,
+        "company": "Taylor Packing Company",
+        "city": "Hallwood",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1158,
+        "company": "Texaco Inc. - Terminal",
+        "city": "South Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1159,
+        "company": "Texaco Refinery",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1160,
+        "company": "Texas (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1161,
+        "company": "Texas Gulf Sulphur",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1162,
+        "company": "Texas Gulf Sulphur Job",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1163,
+        "company": "Textile Fibers Plant",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1164,
+        "company": "Thalheimers Jewelry Store",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1165,
+        "company": "Thalhimers Flagship Store - 7th And Broad Street",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1166,
+        "company": "Thurstan Motors",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1167,
+        "company": "Thurston & Son Inc C E",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1168,
+        "company": "Thurston C E & Sons Inc",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1169,
+        "company": "Thurston C E & Sons Inc",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1170,
+        "company": "Towers Shopping Mall",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1171,
+        "company": "Transcontinental Station No 180",
+        "city": "Unionville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1172,
+        "company": "Tredegar Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1173,
+        "company": "Tredegar Company",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1174,
+        "company": "U S Amphibious Base",
+        "city": "Little Creek",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1175,
+        "company": "U S Army",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1176,
+        "company": "U S Gypsom Co",
+        "city": "Plasterco",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1177,
+        "company": "U S Gypsum Co",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1180,
+        "company": "U S Plywood Corp",
+        "city": "South Boston",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1181,
+        "company": "U. S. Marine Corps Base",
+        "city": "Quantico",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1182,
+        "company": "U. S. S. Cadmus",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1183,
+        "company": "U.S. Post Office",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1184,
+        "company": "U.S. Post Office, Admiral St. & Brook Rd.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1185,
+        "company": "Union Bag Camp Company",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1186,
+        "company": "Union Bag Camp Paper Co. - Doorway Nbr 3",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1187,
+        "company": "Union Bag Camp Paper Corp.",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1188,
+        "company": "Union Bag Camp Paper Corp. - Camp Division",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1189,
+        "company": "Union Bag Camp Paper Corp. - Flake Board Plant - Heating Sys. Bldg 139",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1190,
+        "company": "Union Bag Camp Paper Corp. - Receiving Dept",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1191,
+        "company": "Union Camp",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1192,
+        "company": "Union Camp Corp",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1193,
+        "company": "Union Camp Corp.",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1195,
+        "company": "Union Camp Paper Mill",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1197,
+        "company": "Union Camp Papermill",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1198,
+        "company": "Union Carbide Corp.",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1199,
+        "company": "United States Gypsum Co",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1200,
+        "company": "United States Gypsum Comp",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1201,
+        "company": "United States Naval Navy Yard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1203,
+        "company": "United Virginia Bank Operations Center",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1204,
+        "company": "United Way Building - North Fairfax Street",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1205,
+        "company": "University Of Richmond School Of Law - Westhampton Way",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1206,
+        "company": "University Of Virginia",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1207,
+        "company": "University Of Virginia - 1708 Mactavish Ave",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1208,
+        "company": "University Of Virginia - Boiler Plant",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1209,
+        "company": "University Of Virginia - Dept. Of Bldg. & Grounds",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1210,
+        "company": "University Of Virginia - Division Of - Building & Grounds",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1211,
+        "company": "University Of Virginia - Field House",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1212,
+        "company": "University Of Virginia - Physics Bldg.",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1213,
+        "company": "University Of Virginia - Power House",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1214,
+        "company": "University Of Virginia - School Of Education Building - Ruffner Hall",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1215,
+        "company": "University Of Virginia - Students Activities Bldg",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1216,
+        "company": "University Of Virginia Hospital",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1217,
+        "company": "University Of Virginia, Field House",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1218,
+        "company": "University Of Virginia, Medical Education Building",
+        "city": "Charlottesville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1220,
+        "company": "US Atlantic Fleet",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1221,
+        "company": "Us Department Of Defense - The Pentagon",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1222,
+        "company": "Us Gypsum Co",
+        "city": "Saltville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1223,
+        "company": "Us Gypsum Co",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1224,
+        "company": "US Naval Amphibious Base",
+        "city": "Little Creek",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1225,
+        "company": "US Naval Hospital",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1226,
+        "company": "US Naval Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1227,
+        "company": "Us Navy - Receiving Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1228,
+        "company": "Us Navy Operations Base",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1230,
+        "company": "US Navy Yard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1231,
+        "company": "V E P C O - Portsmouth Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1232,
+        "company": "V E P C O - Possum Point Power Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1233,
+        "company": "V.E.P.C.O. Power Plant",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1234,
+        "company": "V.E.P.C.O., Portsmouth Station",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1235,
+        "company": "V.M.I.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1237,
+        "company": "V.P.I. Dining Hall",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1238,
+        "company": "V.P.I. Home Economics Building",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1239,
+        "company": "Van Zandt High School",
+        "city": "Van Zandt",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1240,
+        "company": "Vepco Power Station 5",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1241,
+        "company": "Vepco, Bremo Power Station",
+        "city": "Bremo Bluff",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1242,
+        "company": "Vepco, Chesterfield Power Station",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1243,
+        "company": "Vepco, Dutch Gap",
+        "city": "Dutch Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1244,
+        "company": "Vepco, North Anna Power Station",
+        "city": "Louisa County",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1246,
+        "company": "Vepco, Portsmouth Power Station",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1247,
+        "company": "Vepco, Possum Point Power Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1248,
+        "company": "Vepco, Reeves Avenue Power Station",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1249,
+        "company": "Vepco, Surry Power Station",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1250,
+        "company": "Vepco, Yorktown Power Station",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1251,
+        "company": "Vint Hill Farms",
+        "city": "Warrenton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1252,
+        "company": "Virginia (USS)",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1253,
+        "company": "Virginia Beach Auditorium",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1255,
+        "company": "Virginia Chemical Inc",
+        "city": "West Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1256,
+        "company": "Virginia Chemical Plant",
+        "city": "Axis",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1257,
+        "company": "Virginia Chemicals",
+        "city": "Portsmouth",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1259,
+        "company": "Virginia Commonwealth University - Chemistry Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1260,
+        "company": "Virginia Electric & Power Co",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1261,
+        "company": "Virginia Electric & Power Co - Chesapeake Energy Center",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1262,
+        "company": "Virginia Electric & Power Co - Portsmouth Power Station",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1263,
+        "company": "Virginia Electric & Power Co Chesterfield Station",
+        "city": "Dutch Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1264,
+        "company": "Virginia Electric & Power Company",
+        "city": "Glen Lynn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1265,
+        "company": "Virginia Electric & Power Company - Chesterfield Power Station",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1266,
+        "company": "Virginia Electric & Power Company - Chesterfield Power Station - Unit 4",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1267,
+        "company": "Virginia Electric & Power Company - Chesterfield Power Station - Unit 5",
+        "city": "Chester",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1268,
+        "company": "Virginia Electric & Power Company - Possum Point Power Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1269,
+        "company": "Virginia Electric & Power Company - Yorktown Power Station",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1270,
+        "company": "Virginia Electric & Power Company - Yorktown Power Station - Unit 3",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1271,
+        "company": "Virginia Electric & Power Company - Yorktown Power Station - Unit 3",
+        "city": "York",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1272,
+        "company": "Virginia Electric & Power Company Siding - Possum Point Power Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1273,
+        "company": "Virginia Electric And Power",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1274,
+        "company": "Virginia Electric And Power - Surry Nuclear Power Plant",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1275,
+        "company": "Virginia Electric And Power Company - Bremo Bluff Power Station",
+        "city": "Bremo Bluff",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1276,
+        "company": "Virginia Electric And Power Company - Portsmouth Station",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1277,
+        "company": "Virginia Electric Power Company - Possum Point Station",
+        "city": "Dumfries",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1278,
+        "company": "Virginia Electric Power Office Building",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1279,
+        "company": "Virginia Electric Power Plant",
+        "city": "Dutch Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1280,
+        "company": "Virginia Electric Power Plant",
+        "city": "Fork Union",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1281,
+        "company": "Virginia Electric Power Plant",
+        "city": "Fredericksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1282,
+        "company": "Virginia Electric, Portsmouth Power Station",
+        "city": "Chesapeake",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1283,
+        "company": "Virginia Electric, Yorktown Power Plant",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1284,
+        "company": "Virginia Hot Springs Inc",
+        "city": "Hot Springs",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1285,
+        "company": "Virginia Institute For Scientific Research",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1286,
+        "company": "Virginia International Terminals",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1287,
+        "company": "Virginia Military Institute",
+        "city": "Lexington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1288,
+        "company": "Virginia Military Institute College",
+        "city": "Lexington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1289,
+        "company": "Virginia Polytechnic Institue",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1295,
+        "company": "Virginia Polytechnic Institute",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1297,
+        "company": "Virginia Polytechnic Institute - Chemical Engineering Dept - Virginia Engineering Experiment Sta",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1301,
+        "company": "Virginia Polytechnic Institute, Powerhouse",
+        "city": "Blacksburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1302,
+        "company": "Virginia Power And Light Power Plant",
+        "city": "Yorktown",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1303,
+        "company": "Virginia Railway & Power",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1305,
+        "company": "Virginia State College, R.O.T.C. Building",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1306,
+        "company": "Virginia State Library",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1307,
+        "company": "Virginian Team Tracks",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1310,
+        "company": "Visco Co.",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1311,
+        "company": "Vmi",
+        "city": "Lexington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1312,
+        "company": "Waco Insulation Co",
+        "city": "Newport News",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1313,
+        "company": "Waco Insulation Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1314,
+        "company": "Waco Insulators",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1315,
+        "company": "Walker Knitting Co",
+        "city": "Martinsville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1316,
+        "company": "Wallace Piping And Supply Company",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1317,
+        "company": "Wallops Flight Facility",
+        "city": "Wallops Island",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1318,
+        "company": "Washington & Lee University",
+        "city": "Lexington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1320,
+        "company": "Washington Gas & Light Company",
+        "city": "Springfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1321,
+        "company": "Washington Gas & Light Company - Springfield Facility",
+        "city": "Springfield",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1325,
+        "company": "Waste Combustion",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1326,
+        "company": "Water Treatment Plant- Norfolk",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1327,
+        "company": "Wayne Insulation Co",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1328,
+        "company": "Wayne Insulation Company, Inc.",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1329,
+        "company": "Wayne Manufacturing (Aka Hopeman Bros. Or Lofton Corp.)",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1330,
+        "company": "Wayne Manufacturing Plant",
+        "city": "Waynesboro",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1331,
+        "company": "Web Furniture Corp",
+        "city": "Galax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1332,
+        "company": "Webb Furniture Corp",
+        "city": "Galax",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1333,
+        "company": "Welding Shipyard",
+        "city": "Norfolk",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1334,
+        "company": "Werauia Pulp & Paper Co - Lime Storage Bldg",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1335,
+        "company": "West Point Paper Mill",
+        "city": "West Point",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1336,
+        "company": "West Point Paper Mill",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1337,
+        "company": "West Virginia Paper And Pulp Company",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1338,
+        "company": "West Virginia Pulp",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1339,
+        "company": "West Virginia Pulp & Paper (Westvaco)",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1340,
+        "company": "West Virginia Pulp & Paper Co",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1342,
+        "company": "West Virginia Pulp & Paper Co",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1343,
+        "company": "West Virginia Pulp & Paper Co",
+        "city": "Roanoke",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1345,
+        "company": "West Virginia Pulp & Paper Co - Company #9 Boiler",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1346,
+        "company": "West Virginia Pulp & Paper Co - Lime Storage Bldg",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1347,
+        "company": "West Virginia Pulp And Paper",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1348,
+        "company": "West Virginia Pulp And Paper Mill",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1350,
+        "company": "Western Craft Corp.",
+        "city": "Franklin",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1353,
+        "company": "Western State Hospital",
+        "city": "Staunton",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1354,
+        "company": "Westinghouse",
+        "city": "Verona",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1356,
+        "company": "Westinghouse",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1357,
+        "company": "Westinghouse Electric, Surry Power Station",
+        "city": "Surry",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1358,
+        "company": "Westmoreland Coal Co",
+        "city": "Big Stone Gap",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1359,
+        "company": "Westvaco",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1360,
+        "company": "Westvaco - West Virginia Power Company",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1361,
+        "company": "Westvaco Corp",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1362,
+        "company": "Westvaco Corporation",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1363,
+        "company": "Westvaco Paper Mill",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1364,
+        "company": "Westvaco Papermill",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1365,
+        "company": "Westvaco Plant",
+        "city": "Covington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1366,
+        "company": "White House Milk Company",
+        "city": "South Houston",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1368,
+        "company": "Whiting Towers",
+        "city": "Alexandria",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1369,
+        "company": "William & Mary College, Life Science Building",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1370,
+        "company": "William & Mary College, Womens Gym",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1371,
+        "company": "William And Mary College",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1372,
+        "company": "Williamsburg Community Hospital",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1373,
+        "company": "Williamsburg Conference Center",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1374,
+        "company": "Williamsburg Inn",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1375,
+        "company": "Williamsburg Lodge",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1376,
+        "company": "Williamsburg Restoration",
+        "city": "Williamsburg",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1377,
+        "company": "Winco Ellitt Crump Co.",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1378,
+        "company": "Winco Ellitt Crump Co. - Siding",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1379,
+        "company": "Women's Club",
+        "city": "Richmond",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1380,
+        "company": "Woodbury Park Apartments",
+        "city": "Arlington",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1381,
+        "company": "Woodlawn High School",
+        "city": "Woodlawn",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1383,
+        "company": "Woodrow Wilson Rehabilitation Center, Dining Hall",
+        "city": "Fishersville",
+        "state": "VA",
+        "visibility": ""
+      },
+      {
+        "id": 1384,
+        "company": "Zuckerman Company, Inc.",
+        "city": "Winchester",
+        "state": "VA",
+        "visibility": ""
+      }
+     ]
+}

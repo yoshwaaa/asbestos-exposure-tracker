@@ -1,0 +1,7102 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.C. Spark Plug Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.C. Spark Plug Division General Motors Corporation, Plant #4",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A.W. Miller",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Abitibi Consolidated, Incorporated",
+        "city": "Alpena",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Abt Company, Incorporated Len Werda",
+        "city": "Alpena",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Ach",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Acme Equipment Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Acme White Lead And Color Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Adrian Electric Light And Power Company - Adrian Plant",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Advance Steam Plant",
+        "city": "Boyne City",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Affiliated Incinerators, Inc",
+        "city": "Farmington",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Allegan H. & P. Company",
+        "city": "Allegan",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Allied Chemical Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Allied Chemical Solvay",
+        "city": "Delray",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Alma Manufacturing Company",
+        "city": "Alma",
+        "state": "MI",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Alma Manufacturing Company",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Altivity Packaging Llc",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Aluminum Refiners Division Of Bohn Aluminum & Brass Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Ambar, Incorporated",
+        "city": "Manistee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Agricultural Chemical Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Arc Lamp Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Bar And Foundry Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Blower Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Box Board Company",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Box Board Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Box Board Corporation",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Car And Foundry Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Chemical Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Malting Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "American Motor Car Company, Hudson Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "American Motors Nash-Kelvinator Refrigerator Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "American Pulp And Paper Company",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "American Pulp And Paper Division Of American Boxboard Company",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "American Radiator Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "American Rule & Block Company",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "American Seating Company Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "American Wire Division",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Ann Arbor Gas Company - Manufactured Gas Plant",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Antrim Iron Company",
+        "city": "Mancelona",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Aragon Mine",
+        "city": "Norway",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Arbuckle, Ryan & Company, Incorporated",
+        "city": "Baldwin",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Arbuckle, Ryan & Company, Incorporated",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Arbuckle, Ryan & Company, Incorporated, Olds Motor Company",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Arcadian Copper Company",
+        "city": "Hancock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Argonant Realty Division Of General Motors Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Argonant Realty Division Of General Motors Corporation, Plant #4",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Ashland Iron & Mining Company",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Atlantic Mining Company",
+        "city": "Atlantic Mine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Atlas Powder Company",
+        "city": "Senter",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Atlas Powder Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Aurora Iron Mining Company",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Austin HS Ice Rink",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "B.O.C. Group Of General Motors Corporation",
+        "city": "Grand Blanc",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Baldwin Rubber Company",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Baltic Mills Company",
+        "city": "Baltic",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Baltic Mining Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Baltic Mining Company",
+        "city": "Red Ridge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Baltic Mining Company",
+        "city": "South Range",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Baltic Mining Company.",
+        "city": "Atlantic Mine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Barrett Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Basf Wyandotte Chemicals Corporation",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Battle Creek Gas Company - Gas Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Battle Creek Sanitarium",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Bay City",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Bay City Consolidated Railway Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Bay City Traction And Electric Company - Power Station",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Bay City Union Railway Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Bay Manufacturing Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Bay Refining Division Of Dow Chemical Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Beckwith Company",
+        "city": "Dowagiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Belknap Wagon And Sleigh Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Belle Isle Creamery Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Benton Harbor Atomic Power Plant",
+        "city": "Benton Harbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Bialy Hardware & Supply Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Biggs Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Blandin Paper Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Blodgett Memorial Hospital",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Board Of Light And Power",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Board Of Water & Light, Moores Park Station, Island Ave.",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Bon Secours Hospital",
+        "city": "Grosse Point",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Bousfield & Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Brecheisen Diesel",
+        "city": "Petoskey",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Briggs Manufacturing Co.",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Briggs Manufacturing Company",
+        "city": "Hamtramck",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Briggs Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Bronson Portland Cement Company",
+        "city": "Bronson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Bronson Public Hospital",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Brown Paper Mill",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Brunswick Corporation, School Equipment Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Brunswick-Balke-Collender Company",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Bryant Paper Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Budd Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Budd Wheel",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Buick City Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Buick Freeman Stamping Plant",
+        "city": "Swartz Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Buick Motor Car Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Buick Motor Division, General Motors Corporation",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Buick Plant",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Bulldog Electric Products Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Bunge Corporation",
+        "city": "Marks",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Burns Baptist Church",
+        "city": "Grosse Point",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Burroughs Corporation",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Burt Portland Cement Company",
+        "city": "Bellevue",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "C.G.A. Voight And Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "C.M.E. White Lead And Color Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "C.P. Limbert Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "C.R. Wilson Body Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Cadillac Automotive Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Cadillac Malleable Iron",
+        "city": "Cadillac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Cadillac Motor Car Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Cadillac Motor Car Company, Division Of General Motors Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Calamet And Heela Mining Company",
+        "city": "Calumet",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Calhoun Gas Company - Gas Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Calumet And Hecla Consolidated Copper Company",
+        "city": "Calumet",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Calumet And Hecla Consolidated Copper Company",
+        "city": "Mills",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Calumet And Hecla Mining Company",
+        "city": "Lake Linden",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Calumet And Hecla Mining Company",
+        "city": "Calumet",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Calumet And Hecla Mining Company",
+        "city": "Lake Lindon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Campbell",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Campbell Rock Wool Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Capac Industries, Incorporated",
+        "city": "Capac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Capac Paper Company",
+        "city": "Capac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Capital Wagon Works",
+        "city": "Ionia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Carboloy Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Cargill Salt",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Cass Technical High School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Castile Mining Company, Eureka Mine",
+        "city": "Bessemer",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Catholic Chancery Building",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Celotex Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Central Heating Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Central Heating Company - Congress St. Station",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Central Heating Company - Congress St. Station - Boiler 2",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Central High School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Central Michigan Light And Power Company - Powerhouse",
+        "city": "Alma",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Central Paper Company",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Central Specialties Company",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Challence Refrigerator Company",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Champion International Corporation",
+        "city": "Quinnesec",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Champion Iron And Steel Company",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Champion-Quinnec Mill",
+        "city": "Iron Mountain",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Charles Sheppard",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Charles T. Clark Chemical",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Charles Weaver, Incorporated",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Charlevoix Sugar Company - Sugar Factory",
+        "city": "Charlevoix",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Charmin Paper Products Company",
+        "city": "Cheboygan",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Chesbrough Brothers",
+        "city": "Emerson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Chevrolet Auto Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Chevrolet Gear And Axle",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Chevrolet Gear And Axle Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Chevrolet Manufacturing Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Chevrolet Motor Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Chevrolet Motor Company",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Chevrolet Motor Company Of Michigan",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Chevrolet Motor Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Chevrolet Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Chevy Stamping Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Chrysler - Hamtrack Assembly Plant",
+        "city": "Hamtrack",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Chrysler Assembly Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Chrysler Assembly Plant",
+        "city": "Hamtramck",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Chrysler Auto Plant",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Chrysler Corporation",
+        "city": "Hamtramck",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Chrysler Corporation",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Chrysler Corporation",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Chrysler Corporation, Dodge Truck Division",
+        "city": "Macomb County",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Chrysler Corporation, Dodge Truck Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Chrysler Corporation, Powerhouse",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Chrysler Engine Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Chrysler Kercheval Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Chrysler Military Tank Plant",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Chrysler Motors Corp.",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Chrysler Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Chrysler Plant",
+        "city": "Hamtramck",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Chrysler Power Steering Gear Plant",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Chrysler Stamping Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Chrysler-Plymouth-Dodge Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Chysler Military Vehicle Service Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Citizens Electric Light Company - Power Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Citizens Light And Power Company - Adrian Plant",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Citizens Street Railway Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "City Of Blissfield - Municipal Plant",
+        "city": "Blissfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "City Of Charlevoix - Electric Light And Water Works",
+        "city": "Charlevoix",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "City Of Chelsea - Municipal Electric Light And Water Works",
+        "city": "Chelsea",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "City Of Chesaning - Municipal Electric Light And Water Works",
+        "city": "Chesaning",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "City Of Clinton - Municipal Electric Light Plant",
+        "city": "Clinton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "City Of Detroit - Dept. Of Public Lighting - Randolph Street Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "City Of Monroe - Wastewater Treatment Plant",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "City Of Norway - Municipal Electric Lighting Plant",
+        "city": "Norway",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "City Of Pontiac - Water Works",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Cleveland Chiffa Iron Company",
+        "city": "Gladstone",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Cleveland Cliffs Iron Company",
+        "city": "Gladstone",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Cleveland Cliffs Iron Company",
+        "city": "Princeton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Cleveland Cliffs Iron Company",
+        "city": "Ishpeming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Cleveland Cliffs Iron Company",
+        "city": "Negaunee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Cleveland-Cliffs - Ore Improvement Plant",
+        "city": "Eagle Mills",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Cliffs Dow Chemical Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Cliffs Power And Light Company - Power Plant",
+        "city": "Ishpeming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Clinton Woolen Manufacturing Company",
+        "city": "Clinton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Cluer Roues Steel",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Cms Energy Corporation",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Coloma Building",
+        "city": "Benton Harbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Colonial Laundry Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Columbia Broadcasting System",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Columbiaville Wool Mills",
+        "city": "Columbiaville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Commonwealth Associates, Incorporated",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Commonwealth Iron Company",
+        "city": "Commonwealth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Commonwealth Iron Company",
+        "city": "Norway",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Commonwealth Power Company - Power Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Commonwealth Power Company - Steam Plant",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Conglomerate Mining Company",
+        "city": "Eagle Harbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Connors Creek Power Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Consolidated Coal Company",
+        "city": "Keweenaw Bay",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Consolidated Paper Company",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Consolidated Paper Company",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Consolidated Street Railway Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Consumer Power Gas Plant",
+        "city": "Marysville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Consumer Powerhouse",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Consumer's Power House",
+        "city": "Saginaw Bay",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Consumers Energy Company",
+        "city": "Erie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Consumers Energy Company",
+        "city": "Essexville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Consumers Energy Company",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Consumers Energy Company - Midland Nuclear Plant",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Consumers Power Co - Midland Power Plant",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Consumers Power Co. Coal Gasificaton Plant",
+        "city": "Marysville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Consumers Power Cobb Power Plant",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Consumers Power Company - De Karn/ Jc Weadock Generating Complex",
+        "city": "Essexville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Consumers Power Company - J.H. Campbell Generating Plant",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Consumers Power Company - J.R. Whiting Generating Plant",
+        "city": "Erie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Consumers Power Company - Karn Generating Plant - Unit 3",
+        "city": "Essexville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Consumers Power Company - Steam Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Consumers Power Company- Fulton Steam Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Consumers Power Company- Saginaw River Steam Plant",
+        "city": "Zilwaukee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Consumers Power Plant",
+        "city": "Erie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Cook Nuclear Powerhouse",
+        "city": "Bridgeman",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Cooper, Wells And Company",
+        "city": "St. Joseph",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Copper Range Company",
+        "city": "White Pine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Cottage Hospital",
+        "city": "Grosse Point",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Covalence Specialty Materials Holding Corporation",
+        "city": "Constantine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Crown Hat Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Cummer & Diggins Lumber Company",
+        "city": "Cadillac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "D.S.C. Limited",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "D.S.I. Limited",
+        "city": "Gibraltar",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Dafoe Shipbuilding",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Daimler Chrysler",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Darling International",
+        "city": "Coldwater",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "David E. Waters",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "David Stott Flour Mills",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Decorative Panels International",
+        "city": "Alpena",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Defoe Shipyard",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Delphi Automotive System",
+        "city": "Wyoming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Delray Power",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Department Of Municipal Service",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Detriot United Railway",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Detroit Aero Metals Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Detroit And Lake Orion Company",
+        "city": "Rochester",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Detroit And Pontiac Railway Company",
+        "city": "Birmingham",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Detroit Auto Dash Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Detroit Ball Bearing",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Detroit Board Of Health",
+        "city": "Northville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Detroit Brass Works Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Detroit Citizens Street Railway Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Detroit City Gas Company - Station A",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Detroit Copper And Brass Rolling Mills",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Detroit Creamery Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Detroit Creamery Company",
+        "city": "Brighton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Detroit Diesel Corporation",
+        "city": "Redford Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Detroit Diesel Engine Division Of General Motors Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Detroit Edison - Enrico Fermi Nuclear Generating Station",
+        "city": "Newport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Detroit Edison Company",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Detroit Edison Company - Beacon Heating Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Detroit Edison Company - Belle River Power Plant",
+        "city": "China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Detroit Edison Company - Belle River Power Plant - Unit 2",
+        "city": "China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Detroit Edison Company - Conners Creek Power Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Detroit Edison Company - Delray Power Plant 2",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Detroit Edison Company - Delray Power Plant 3",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Detroit Edison Company - Enrico Fermi Nuclear Generating Station - Unit 2",
+        "city": "Newport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Detroit Edison Company - Marysville Power Plant",
+        "city": "Marysville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Detroit Edison Company - Monroe Power Plant",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Detroit Edison Company - Park Place Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Detroit Edison Company - River Rouge Power Plant",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Detroit Edison Company - St. Clair Power Plant",
+        "city": "East China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Detroit Edison Company - Trenton Channel Power Plant",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Detroit Edison Company, Belle River Plant",
+        "city": "China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Detroit Edison Company, Conners Creek Station",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Detroit Edison Company, Marysville Plant",
+        "city": "Marysville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Detroit Edison Company, Monroe Station",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Detroit Edison Company, St. Clair Plant",
+        "city": "East China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Detroit Edison Power Plant",
+        "city": "Harbor Beach",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Detroit Edison Power Plant",
+        "city": "Marine City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Detroit Edison Power Plant",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Detroit Edison Power Plant",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Detroit Edison Power Plant",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Detroit Edison Powerhouse",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Detroit Edison, Beacon Street",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Detroit Edison, Conners Creek",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Detroit Forge Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Detroit General Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Detroit Iron And Steel Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Detroit Lubricator Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Detroit Machine Screw Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Detroit Monroe And Toledo Short Line Refining",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Detroit Opera House",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Detroit Packing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Detroit Reduction Company",
+        "city": "French Landing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Detroit Rendering Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Detroit Sanitary Supply Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Detroit Sanitorium",
+        "city": "Northville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Detroit Seamless Steel Tube Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Detroit Stoker Company",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Detroit Sulphite Pulp And Paper Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Detroit Transmission, Division Of General Motors Corporation",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Detroit United Railway Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Detroit United Railway Company",
+        "city": "New Baltimore",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Detroit United Railway Company",
+        "city": "Rochester",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Detroit United Railway Company",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Detroit Wax Paper Company",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Detroit West Shore And Mount Clemens Railway",
+        "city": "Mt. Clemens",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Detroit White Lead Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Detroit Ypsilanti And Ann Arbor Railway Company",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Detroit Ypsilanti And Ann Arbor Railway Company",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Detroit-Citizens Street Railway Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Detroit, Flint And Saginaw Railway Company",
+        "city": "Bridgeport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Diamond Crystal Salt Company",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Diamond Match Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Diamond Power Specialty Company - Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Diesel Equipment Division Of General Motors Corporation",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Dime Savings Bank Building",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Dodge Brothers",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Dollar Bay",
+        "city": "Kearsarge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Dollar Bay",
+        "city": "Lake Superior",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Donald C. Cook Nuclear Power Plant",
+        "city": "Benton Harbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Dorr Company",
+        "city": "Island Of Illagan Lanao",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Dort Motor Car Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Dow Chemical Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Dow Chemical Company",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Dow Chemical Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Dow Chemical Company Plant",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Dow Chemical Company, Consumer'S Power",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Dow Chemical Company, Midland Division",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Dow Chemical Plant",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Dow Corning Corporation",
+        "city": "Hemlock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Drake And Avery Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Dte Chrysler",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Dte Pontiac North, Llc",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Du Pont De Nemours And Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Durant Building Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "E.H. Dyer And Company, Beet Sugar Factory",
+        "city": "Blissfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "E.N. Voight Brewing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "E.P. Decker",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Eagle Ottawa Leather Company",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "East China Township",
+        "city": "East China Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Eastern Michigan Edison Company - Power Plant",
+        "city": "Geddes",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Eastern Michigan Power Company - Grand Rapids Building",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Eastern Michigan University",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Eddy Paper Company",
+        "city": "Three Rivers",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Edison Electric Illuminating Company - Detroit Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Edison Sault Electric Company - Saint Marys Falls Hydropower Plant",
+        "city": "Sault Ste. Marie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Edison Steam",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Edmund And Jones Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Egyptian Portland Cement Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Egyptian Portland Cement Company",
+        "city": "Fenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Eldred Mill Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Electric Autolite Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Electric Autolite Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Electric Autolite Company, Spark Plug Division",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Elf Atochem",
+        "city": "Riverview",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Elk Cement And Lime Company",
+        "city": "Elk Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Elk Rapids Portland Cement Company",
+        "city": "Elk Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Eloise Hospital",
+        "city": "Westland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Escanaba Municipal Lighting Company - Power Plant",
+        "city": "Escanaba",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Escanaba Paper Company",
+        "city": "Groos",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Escanaba Paper Company",
+        "city": "Gross (Delta County)",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Estate Of P.D. Beckwith, Incorporated",
+        "city": "Dowagiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Excelsior Electric Company - Power Plant",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "F.W. Stock And Sons",
+        "city": "Hillsdale",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Factory #16",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Fairbanks School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Fairview Pumping Station",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Fame Laundries, Incorporated",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Fermi Plant",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Fiamthin Mining Company",
+        "city": "Hancock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Field Manufacturing Company",
+        "city": "Owosso",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Fisher Body Corporation",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Livonia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Grand Blanc",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Fisher Body Division Of General Motors Corporation, Flint #1 Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Fisher Body Division Of General Motors Corporation, Plant #1",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Fisher Body Division Of General Motos Company, Plant #1",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Fisher Body Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Flint And Pere Marquette Railroad",
+        "city": "East Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Flint Cotton And Woolen Mill Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Flint Gas Company - Gas Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Flint High School",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Flint Motor Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Flint Power Syndicate - Power Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Flower Stephens Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Ford Assembly Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Ford Dearborn Engine Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Ford Dearborn Iron Foundry",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Ford Glass Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Ford Motor Co - River Rouge Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Ford Motor Co - World Headquarters, 1 American Road",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Ford Motor Co - World Headquarters, 3000 Schaefer Road",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Ford Motor Company",
+        "city": "Brook park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Ford Motor Company",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Ford Motor Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Ford Motor Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Ford Motor Company",
+        "city": "Gibraltar",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Ford Motor Company",
+        "city": "Hamburg",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Ford Motor Company",
+        "city": "Hapeville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Ford Motor Company",
+        "city": "Milan",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Ford Motor Company",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Ford Motor Company",
+        "city": "Sandusky",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Ford Motor Company",
+        "city": "Tonawanda",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Ford Motor Company",
+        "city": "Michigamme",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Ford Motor Company",
+        "city": "Sterling Heights",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Ford Motor Company - Rawsonville Plant",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Ford Motor Company Foundry",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Ford Motor Company Lincoln-Mercury Assembly Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Ford Motor Company, Steel Division",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Ford Motor Plant",
+        "city": "Livonia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Ford Paint Plant",
+        "city": "Mt. Clemens",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Ford Power Plant",
+        "city": "Sterling Heights",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Ford River Rouge Automotive Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Ford Slabbing Mill",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Forest Products Chemical Company",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Foster Engineering Company",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Frank Cody High School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Franklin Mining Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Froedterdt Grain & Malting Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "G.A. Tomlinsons Boat'S",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "General Chemical Company",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "General Electric Company - Metallurgical Products Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "General Foods",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "General Industrial Alcohol Corporation",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "General Motors",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "General Motors",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "General Motors",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "General Motors",
+        "city": "Willow Run",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "General Motors - Chevrolet Plant 4",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "General Motors - Pontiac North Campus - Power House",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "General Motors - Willow Run Plant",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "General Motors Assembly Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "General Motors Corporation",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "General Motors Corporation",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "General Motors Corporation",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "General Motors Corporation Buick-Oldsmobile-Pontiac Assembly Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "General Motors Corporation Diesel Equipment Division",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "General Motors Corporation Motors Corporation, Fisher Body Division",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "General Motors Corporation Proving Grounds",
+        "city": "Milford",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "General Motors Corporation Truck And Coach Division",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "General Motors Corporation, Ac Spark Plug Division",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "General Motors Corporation, Fisher Body Division - Fleetwood Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "General Motors Diesel Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "General Motors Fisher Automotive Body Plant",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "General Motors Fisher Body Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "General Motors Gear and Axle",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "General Motors Hydramatic",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "General Motors Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "General Motors Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "General Motors Plant",
+        "city": "Hamtramck",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "General Motors Plant",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "General Motors Plant",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "General Motors Plant",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "General Motors Proving Ground",
+        "city": "Milford",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "General Motors Proving Grounds",
+        "city": "Milford",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "General Motors Tech Center Steam Plant",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "General Motors Technical Center",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "General Motors Technical Center",
+        "city": "Macomb County",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "General Motors Technical Center",
+        "city": "Warren Township",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "General Motors Technical Center - Steam Plant",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "General Motors Transmission Plant",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "General Motors Transmission Plant",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "General Motors Transmission Plant",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "General Motors-Chevrolet Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "General Motors, Detroit Transmission Division",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "General Motors, Technical Center",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Genesee County Tuberculosis Sanitarium",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "George B. Swift & Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "George H. Clippert And Brothers Brick Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Gladstone Electric Lighting And Power Company - Power Plant",
+        "city": "Gladstone",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Glazier Stove Company",
+        "city": "Chelsea",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "GM Engine Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Goebel Brewing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Goodyear Tire & Rubber Plant",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Grand Haven Board Of Light & Power",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Grand Haven Board Of Light And Power - Sims Generating Station",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Grand Haven Board Of Light And Power - Sims Generating Station - Unit 3",
+        "city": "Grand Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Grand Rapids Brass Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Grand Rapids Brewing Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Grand Rapids Edison Light And Fuel Company - Fulton Steam Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Grand Rapids Electric Light And Power Company - Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Grand Rapids Electric Light And Power Company - Power Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Grand Rapids Felt Boot Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Grand Rapids Gas Company - Gas Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Grand Rapids Gas Light Company - Power Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Grand Rapids Hand Screw Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Grand Rapids Pulp And Paper Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Grand Rapids Railway Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Grand Rapids Stamping Division General Motors Corporation",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Grand Rapids-Muskegon Power Company - Grand Rapids Steam Plant",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Grand Rapids, Grand Haven And Muskegon Railway",
+        "city": "Fruitport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Great Lakes Engineering Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Great Lakes Engineering Works",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Great Lakes Slab Steel Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Great Lakes Steel",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Great Lakes Steel",
+        "city": "Ecouse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Great Lakes Steel Corp",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Great Lakes Steel Corporation",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Great Lakes Steel Corporation",
+        "city": "Zug Island",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Great Lakes Steel Corporation",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Great Lakes Steel, Division Of National Steel Corporation",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Great Lakes Stone And Lime Company",
+        "city": "Altena",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Great Lakes Tissue Company",
+        "city": "Cheboygan",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Great Northern Portland Cement Company",
+        "city": "Baldwin",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Greenwood",
+        "city": "Greenwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Grey Iron Foundry",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Groveland Iron Mines",
+        "city": "Felch",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "H.J. Heinz And Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "H.S. Robinson And Burtenshaw",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Hackley Hospital",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Hamilton Ore Company",
+        "city": "Iron Mountain",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Hammond, Standish & Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Harbor Beach Power",
+        "city": "Harbor Beach",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Harrison Radiator Division Of General Motors Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Harrow Spring Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Hastings Cabinet Company",
+        "city": "Hastings",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Hastings Wool Boot Company",
+        "city": "Hastings",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Hayes Body Corporation",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Hayes Manufacturing Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Hayes Wheel Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Hecla Portland Cement And Coal Company",
+        "city": "West Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Hemlock Semiconductor Corporation",
+        "city": "Hemlock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Henry Ford Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Henry Ford Museum",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Henry Richardi",
+        "city": "Bellaire",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Herman Kiefer Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Highland Park High School",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Highland Park Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Home Canning Company",
+        "city": "Blissfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Hotel Statler",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Houghton County Electric Light Company - Power Plant",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Howell Plastics, 1100 Sutton Ave.",
+        "city": "Howell",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Hudson Motor Car Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Huetteman And Cramer Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Huron Milling Company",
+        "city": "Harbor Beach",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Hygeia Filter Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Indiana Michigan Power Company - Donald C. Cook Nuclear Power Plant",
+        "city": "Bridgman",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Industrial Works",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Inland Fisher Guide",
+        "city": "Livonia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "International Paper Company",
+        "city": "Livermore Falls",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "International Paper Company",
+        "city": "Quinnesec",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "International Seal And Lock Company",
+        "city": "Hastings",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Interurban Creamery Company",
+        "city": "Jamestown",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Ionia State Hospital",
+        "city": "Ionia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Ionia Wagon Company",
+        "city": "Ionia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "J.B. Ford",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "J.B. Ford And Company",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "J.J. Kennedy",
+        "city": "Rochester",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "J.L. Hudson Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "J.R. Whiting",
+        "city": "Erie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "J.W. Wells Lumber Company",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Jackson Cushion Spring Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Jackson Gas Company - Gas Plant",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Jackson Prison",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "James H Campbell Plant Unit Number 2",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "James Pendill",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "James River Paper Mill",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "James River Paper Mill",
+        "city": "Parchment",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Jas. Johnson And Company",
+        "city": "New Richmond",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Jaxon Steel Products Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Jaxon Steel Products Division Gmc",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Jessco, Incorporated",
+        "city": "Dowagiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Jewish Hospital Association Of Detroit",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "John C. Campbell Plant",
+        "city": "West Olive",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Kaiser Aluminum Plant",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Kalamazoo Gas Company - Gas Plant",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Kalamazoo State Hospital",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Karn",
+        "city": "Essexville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Kawneer Manufacturing Company",
+        "city": "Niles",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Keeler Brass Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Keith Car And Manufacturing Company",
+        "city": "Sagamon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Kelley Island Lime And Transport Company",
+        "city": "Rockport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Kelley Island Lime And Transport Company",
+        "city": "Alpena",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Kellogg Company",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Kelsey Hayes",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Kelsey Hays Wheel Foundry",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Kelsey Wheel Company, Incorporated",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Kimberly Clark Corporation",
+        "city": "Quinnesec",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Kimberly Clark Corporation",
+        "city": "Munising",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Kimberly Clark Corporation, Munisiug Paper Company Division",
+        "city": "Munising",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "Kimberly-Clark Paper Mill",
+        "city": "Munsing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "Kraft Foods",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "Kraft General Foods",
+        "city": "Naperville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "Kroger Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Kroger Grocery And Baking Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "L. A. Young Spring & Wire Corp.",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "L.E. Myers Company",
+        "city": "Negaunee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Lake Orion Railroad",
+        "city": "Rochester",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Lake Superior And Ishpeming Railroad Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Lake Superior Iron Company",
+        "city": "Ishpeming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Lansing Board Of Water & Light - Erickson Station",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Lansing Board Of Water & Light - Otto E. Eckert Station",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Larrowe Milling Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Leaf River Forest Industries",
+        "city": "Harriesburg",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Lee Paper Company",
+        "city": "Vicksburg",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Lewis Spring And Axle Company",
+        "city": "Chelsea",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Lift Tech International",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Lincoln Motor Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Lion Brewery",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Livonia Transmission/Detroit Transmission, Division Of General Motors",
+        "city": "Livonia",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Luce Furniture Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Lufkin Rule Company",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "M. And R. Dietetic Laboratories",
+        "city": "Sturgis",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "M.A. Hanna And Company",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Mac Sim Bar Paper Company",
+        "city": "Otsego",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Manistee Salt Works",
+        "city": "Manistee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Marathon Corporation",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Marathon Oil",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Marine City Stave Company",
+        "city": "Marine City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Marquette City Presque Isle Railway",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Marquette County Gas And Electric Company - Gas Plant",
+        "city": "Ishpeming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Marquette County Gas, Light, And Traction Company - Gas Plant",
+        "city": "Ishpeming",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Marysville",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Mass Consolidated Mining Company",
+        "city": "Mass City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Massachusetts Consolidated Mining Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Massachusetts Consolidated Mining Company",
+        "city": "Mass City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Massachusetts Consolidated Mining Company",
+        "city": "Keweenaw Bay",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Massachusetts Mine",
+        "city": "Negaunee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Maxwell Motor Car Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Mc Inerney Spring And Wire Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Mc Louth Steel Corporation",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Mc Rae Roberts Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Mcclouth Steel",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Mclouth Steel Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Mclouth Steel Corporation",
+        "city": "Gibraltar",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Mclouth Steel Corporation",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "McLouth Steel Plant",
+        "city": "Gibraltar",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Mead Papers",
+        "city": "Escanaba",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Mechanics Laundry Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Medical Center Development Corporation, Central Laundry Building",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Menominee Paper Company",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Michigan Alkali Company",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Michigan Alkali Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Michigan Alkali Company, #2 Works",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Michigan Brass And Iron Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Michigan Carbon Works",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Michigan Carbon Works",
+        "city": "West Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Michigan Carton Company",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Michigan Central Railroad Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Michigan Chemical Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Michigan Chemical Corporation",
+        "city": "St. Louis",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Michigan Condensed Milk Company",
+        "city": "Mt. Pleasant",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Michigan Condensed Milk Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Michigan Consolidated Gas Company - Station J",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Michigan Electrochemical Company",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Michigan Fruit Canners, Incorporated",
+        "city": "Fennville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Michigan Grape Sugar Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Michigan Home And Training School",
+        "city": "Lapeer",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Michigan Home For The Feeble Minded And Epileptic",
+        "city": "Lapeer",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Michigan Iron Company",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Michigan Lake Superior Power Company",
+        "city": "Sault Ste. Marie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Michigan Limestone And Cehmical Company",
+        "city": "Calcite",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Michigan Limestone And Chemical Company",
+        "city": "Rogers City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Michigan Manufacturing Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Michigan Mining School",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Michigan Paperboard",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Michigan Peat Company",
+        "city": "Eaton Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Michigan School For Deaf",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "Michigan Smelting Company",
+        "city": "Cole'S Creek, Houghton County",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Michigan Smelting Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Michigan South Cent Power",
+        "city": "Litchfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Michigan South Central Power",
+        "city": "Litchfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "Michigan South Central Power Agency",
+        "city": "Litchfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "Michigan Stamping Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 752,
+        "company": "Michigan Starch Company",
+        "city": "Traverse City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "Michigan State Girls Training School",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "Michigan State Prison",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "Midland Public Warehouse",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "Midland Steel Products Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "Minergy Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "Mistersky Power Station",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "Mitchell Diggins Iron Company",
+        "city": "Cadillac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "Mobil Oil Corporation",
+        "city": "Woodhaven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "Mohawk Mining Company",
+        "city": "Kearsarge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "Mohawk Mining Company",
+        "city": "Mohawk",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "Mohawk Mining Company",
+        "city": "Gay",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "Monitor Sugar Company",
+        "city": "Mt. Clemens",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 765,
+        "company": "Monroe Paper Products Company",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "Monroe Power Plant",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Monroe Power Plant, Unit 4",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 768,
+        "company": "Monroe Powerhouse",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Monroe Silica Company",
+        "city": "Steiner",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Moores Park",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Morton Salt Company",
+        "city": "Ludington",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Morton Salt Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Mount Carmel Mercy Hospital",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "Mount Carmel Mercy Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Mount Pleasant Sugar Company",
+        "city": "Mt. Pleasant",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Mueller Brass Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Mueller Metals Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 779,
+        "company": "Mulkey Salt Company",
+        "city": "Oakwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Munising Paper Company",
+        "city": "Munising",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Munising Wood Products Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Munro Iron Mining Company",
+        "city": "Iron River",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 784,
+        "company": "Murphy Power Building",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "National Biscuit Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "National Biscuit Company, Vail Crane Bakery",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "National Biscuit Company, Vail Crane Bakery",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "National Container Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 789,
+        "company": "National Food Warehouse",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "National Gypsum",
+        "city": "National City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "National Gypsum Company",
+        "city": "National City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 792,
+        "company": "National Gypsum Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "National Standard Company",
+        "city": "Niles",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 794,
+        "company": "National Standard Corporation",
+        "city": "Niles",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "National Steel Corporation",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Neenah Paper",
+        "city": "Munising",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Negaunee And Ishpeming Street Railway Company",
+        "city": "Negaunee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "New York Central Railroad",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "New York Central Railroad",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Newberry State Hospital",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Newbery Furnace Company",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Newpage Corporation",
+        "city": "Escanaba",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 803,
+        "company": "Newport Iron Company",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Nichols And Shepard Company",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Norge Machine Products Division, Borg-Warner Corporation",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Norrie Mine",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "North America Chemical Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "North America Chemical Company",
+        "city": "South Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 809,
+        "company": "North American Chemical Company",
+        "city": "South Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Northern Michigan Asylum",
+        "city": "Traverse City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 812,
+        "company": "Northern Michigan Electric Cooperative - Advance Steam Plant",
+        "city": "Boyne City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 813,
+        "company": "Norwood Institute",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "O.J. Beandett Company",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Ohio Oil Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Ohio Paper Company",
+        "city": "Niles",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 817,
+        "company": "Old Dutch Refining Company",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Olds Motor Company",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Oldsmobile Manufacturing Plant",
+        "city": "Lansing",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Oliver Iron Mining Company",
+        "city": "Ironwood",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Oliver Iron Mining Company",
+        "city": "Ansasa",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Oliver Iron Mining Company",
+        "city": "Stambaugh",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Oliver Iron Mining Company, #10 Shaft Tilden Mine",
+        "city": "Bessemer",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Omega Portland Cement Company",
+        "city": "Jonesville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Omega Portland Cement Company",
+        "city": "Mosherville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 828,
+        "company": "Ottawa Furniture Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Oval Wood Dish Company",
+        "city": "Traverse City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Owosso & Coruna Electric Company - Power Plant",
+        "city": "Owosso",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "Owosso Manufacturing Company",
+        "city": "Owosso",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Owosso Sugar Company",
+        "city": "Owosso",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "P.D. Beckwith Estate",
+        "city": "Dowagiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Packaging Corporation Of America",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Packaging Corporation Of America",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Packaging Corporation Of America/Tenneco Packaging",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 838,
+        "company": "Packard Motor Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Page Woven Wire Fence Company",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Pancake House",
+        "city": "Grosse Point",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Parke Davis And Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Peerless Cement Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Peerless Portland Cement Company",
+        "city": "Union City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Penberthy Injector Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Peninsula Electric Light And Power Company - Power Plant",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Peninsula Portland Cement Company",
+        "city": "Cement City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Peninsulan Portland Cement Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Peninsulan Portland Cement Company",
+        "city": "Woodstock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "Peninsular Paper Company",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Peninsular Portland Cement Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Penn Iron Mining Company",
+        "city": "Vulcan",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Pennsylvania Salt Manufacturing",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Pennsylvania Salt Manufacturing Company",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Pennsylvania Salt Mill",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Pennwalt Corporation",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Penokee And Gogebic Consol And Mines",
+        "city": "Bessemer",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Penwalt Corporation",
+        "city": "Riverview",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Peoples' Electric Light Company - Power Plant",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Pere Marquette Railroad",
+        "city": "East Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Peregrine Incorporated",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Perkins And Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Pet Milk Company",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Petrochemical Plant",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Pfeiffer Brewing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Pfizer",
+        "city": "Portage",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Pfizer",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Phelps Dodge",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Pilgrim Paper Company",
+        "city": "Capac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Pingree And Smith Shoe Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Pioneer Iron Company",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Pioneer Laundry And Cleaning Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Pittsburgh Forgings Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Plum Hollow Golf Course",
+        "city": "Plum Hollow",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Plymouth Fertilizer",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "Plymouth HS",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 881,
+        "company": "Pontiac",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 882,
+        "company": "Pontiac Foundry",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Pontiac Light Company - Power Plant",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Port Huron Gas And Electric Company - Power Plant",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Port Huron Light And Power Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Post Cereal Plant",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Post Products Division Of General Foods Corporation",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Postum Cereal Company Limited",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 889,
+        "company": "Postum Company Incorporated",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Power Service Corporation",
+        "city": "South Haven",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "Presque Isle Corporation",
+        "city": "Alpena",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Prestolite Factory",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Producers Refining Incorporated",
+        "city": "West Branch",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Quaker Chemical",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 898,
+        "company": "Quincy Mining Company",
+        "city": "Hancock",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Quincy Mining Company",
+        "city": "Mason",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Quincy Stamp Mill",
+        "city": "Mason",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "R.D. Whittier Junior High School",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "R.G. Peters",
+        "city": "Manistee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Ralston Purina Company",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Rapid Railway Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Regina HS",
+        "city": "Haper Woods",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Reichhold Chemicals, Incorporated",
+        "city": "Ferndale",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Republic Iron And Steel Company",
+        "city": "Republic",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Republic Iron Plant",
+        "city": "Republic",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Republic Mines",
+        "city": "Republic",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Republic Motor Truck Company",
+        "city": "Alma",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "River Rouge Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "River Rouge Power Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "River Rouge Power Plant",
+        "city": "River Rouge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Riverside Osteopathic Hospital",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Robbins Flooring Company",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Robin Towers",
+        "city": "Southfield",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Roseville Chrysler- Plymouth",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Ross Products",
+        "city": "Sturgis",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Rouge Steel Company",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Rouge Steel Company, Bof",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Round Oak Stove Works",
+        "city": "Dowagiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "Rust Engineering Company, Escanaba Paper Company",
+        "city": "Groos",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "S.D. Warren Company, Central Mill",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "S.D. Warren Paper Mill",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Saginaw And Flint Railway",
+        "city": "Bridgeport",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Saginaw Heating Company",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Saginaw Manufacturing Company",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Saginaw Wood Products Company",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Sand Lime Brick Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Saxon Motor Car Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Scott Paper",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Scott Paper Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Scott Paper Company",
+        "city": "Delray",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 934,
+        "company": "Seamless Steel Bathtub Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Sears Warehouse",
+        "city": "Highland Park",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Second Section",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Selfridge Air Force Base",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Semet-Solvay Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "Semet-Solvay Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Semet-Solvay Company",
+        "city": "Delray",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 941,
+        "company": "Severstal North America",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 942,
+        "company": "Shatter Proof Glass",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Shaw Crane Works",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Shaw Electric Crane Company - Factory",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "Shaw-Box Crane",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 947,
+        "company": "Shaw-Box Division",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Sheffield Car Company",
+        "city": "Three Rivers",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 949,
+        "company": "Shops",
+        "city": "Owosso",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Sibley Quarries Company",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Simplex Industries Incorporated",
+        "city": "Constantine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Simpson Lee Paper Company",
+        "city": "Vicksburg",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 953,
+        "company": "Sinai Hospital Of Detroit",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Snyder Tool",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 955,
+        "company": "Socony Mobil Oil Company",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 956,
+        "company": "Solvay Process Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Somerset Mall Apts",
+        "city": "Troy",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Soo Line Railroad",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Sorrance-Sort Carriage Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "South Eastern High School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "South Side Power Plant",
+        "city": "Midland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 962,
+        "company": "Square D Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 963,
+        "company": "St Joe's",
+        "city": "Lake Orion",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "St Joe's",
+        "city": "Mt. Clemens",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "St John's Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "St Mary's Girl School",
+        "city": "Northville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "St Pius",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 968,
+        "company": "St Saclalic School",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "St. Clair Paper Company",
+        "city": "Capac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "St. Clair Power Plant",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "St. Clair Powerhouse",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 972,
+        "company": "St. Clair Tunnel Company",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 974,
+        "company": "St. Joseph And Benton Harbor Railway",
+        "city": "St. Joseph",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 975,
+        "company": "St. Joseph And Benton Harbor Railway",
+        "city": "Benton Harbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 976,
+        "company": "St. Joseph And Benton Harbor Street Railway Company",
+        "city": "St. Joseph",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 977,
+        "company": "St. Joseph Hospital",
+        "city": "Mt. Clemens",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "St. Mary'S Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 979,
+        "company": "Stauffer Chemical Company, Sand Creek Highway",
+        "city": "Weston",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 980,
+        "company": "Stauffer Chemical Plant",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 981,
+        "company": "Steel And Tubes, Incorporated",
+        "city": "Ferndale",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 983,
+        "company": "Stickley Brothers Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 984,
+        "company": "Straugh Brewery",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Stroh Brewery Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 986,
+        "company": "Sulfite Paper Mill",
+        "city": "Port Huron",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 987,
+        "company": "Superior Seating Company",
+        "city": "Muskegon",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 988,
+        "company": "Superior Sugar Refining Company",
+        "city": "Menominee",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 989,
+        "company": "Sutherland Paper Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 990,
+        "company": "Sws Silicones Division, Stauffer Chemical Company",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 991,
+        "company": "Tawas Sugar Company",
+        "city": "East Tawas",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 992,
+        "company": "Tenneco Packaging",
+        "city": "Filer City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 993,
+        "company": "Ternstedt Division Of General Motors Corporation - Manufacturing Plant",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "Tilden Mine-Cleveland Cliffs",
+        "city": "Ishpeming / Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 995,
+        "company": "Titan Refining Company",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 996,
+        "company": "Toledo And Monroe Railway",
+        "city": "Monroe",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 997,
+        "company": "Total Petroleum Refinery",
+        "city": "Alma",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "Towar Wayne County Creamery",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "Townsend And Bottom",
+        "city": "St. Clair",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "Traverse City Light & Power - Bayside Power Plant",
+        "city": "Traverse City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Traverse City Light And Power",
+        "city": "Traverse City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Trenton Channel Plant",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1003,
+        "company": "Trenton Channel Power House",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Trenton Valley Distilleries Corporation",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1006,
+        "company": "Trimountain Mining Company",
+        "city": "Trimountain",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Trimountain Mining Company",
+        "city": "Houghton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1008,
+        "company": "Troy Holiday Inn",
+        "city": "Troy",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Turnsted Division Of General Motors",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1010,
+        "company": "Tyco International",
+        "city": "Constantine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Udilite Corporation",
+        "city": "Warren",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Uncle Ben'S Food",
+        "city": "Greenville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "United Alkali Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "United Forge And Machine Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "United Machine And Manufacturing Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "United Shirt And Collar Company",
+        "city": "Troy",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "United States Army Corps Of Engineers - Soo Locks",
+        "city": "Sault Stainte Marie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "United States Heater Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "United Steel And Wire Company",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "Universal Zonolite company",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "University Of Michigan",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1023,
+        "company": "University Of Michigan Hospital",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1024,
+        "company": "Upjohn Company",
+        "city": "Portage",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "Upjohn Company",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "Upjohn Plant",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "Upper Peninsula Hospital For Insane",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1028,
+        "company": "Upper Peninsula Hosptal For The Insane",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Upper Peninsula Power Company",
+        "city": "Escanaba",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "Upper Peninsula Power Company - Escanaba Power Plant",
+        "city": "Escanaba",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "Upper Peninsula Power Plant",
+        "city": "Marquette",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "Upper Peninsular Hospital For The Insane",
+        "city": "Newberry",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1033,
+        "company": "Us Government St. Mary Falls Canal",
+        "city": "Sault Ste. Marie",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1034,
+        "company": "Valley City Brick Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "Valley City Milling Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1036,
+        "company": "Valley City Street And Cable Railway Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "Van Camp Packing Company",
+        "city": "Adrian",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "Veterans Admin Hospital",
+        "city": "Iron Mountain",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "Voight Milling Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "W. Michigan School Seat Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "W. Soule And Company",
+        "city": "Paw Paw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1042,
+        "company": "W.A. Berkey Furniture Company",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "W.A. Coombs Milling Company",
+        "city": "Coldwater",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "W.E. Davis And The Acme Equipment Company Incorporated",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "W.F. Stewart Company",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "W.H. Maybury Sanitorium",
+        "city": "Northville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "W.R. Burt",
+        "city": "East Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "W.R. Burt",
+        "city": "Bellevue",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "Walsh De Roo Milling Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "Warren Featherbone Company",
+        "city": "Three Oaks",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "Washtenaw Gas Company - Coal Gas Plant",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "Washtenaw Light And Power Company",
+        "city": "Geddes",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "Watervliet Paper Company - Paper Mill",
+        "city": "Watervliet",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "Wayne County Airport",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1061,
+        "company": "Wayne County Poor House",
+        "city": "Westland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "Wayne County Training School",
+        "city": "Plymouth",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "Weddock Powerhouse",
+        "city": "Essexville",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1064,
+        "company": "West Bay City Sugar Company",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1066,
+        "company": "West Michigan Furniture Company",
+        "city": "Holland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "West Michigan Sugar Company",
+        "city": "Charlevoix",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1068,
+        "company": "Western Knitting Mills, Incorporated",
+        "city": "Rochester",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Western States Portland Cement Company",
+        "city": "Jackson",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Wheeling Coke Ovens",
+        "city": "Delray",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Whirlpool Corporation",
+        "city": "St. Joseph",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1073,
+        "company": "Whirlpool-Seeger Corporation",
+        "city": "St. Joseph",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1074,
+        "company": "Whisky Distillery",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1075,
+        "company": "White Pine Copper Company",
+        "city": "White Pine",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1077,
+        "company": "White Portland Cement Company",
+        "city": "Chelsea",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1078,
+        "company": "White Star Refining Company",
+        "city": "Trenton",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "Wicker Brothers",
+        "city": "Saginsaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1080,
+        "company": "Wickes Brothers",
+        "city": "Saginaw",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "Wicks Brothers",
+        "city": "Bay City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1082,
+        "company": "Wicks Brothers",
+        "city": "Flint",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1083,
+        "company": "William A. Coombs",
+        "city": "Coldwater",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1084,
+        "company": "William H. White And Company",
+        "city": "Boyne City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "Wilson Foundry And Machine Company",
+        "city": "Pontiac",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "Winkley Company",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "Wirtsmouth AFB",
+        "city": "Mt. Pleasant",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1088,
+        "company": "Wisconsin Public Service Company",
+        "city": "Winona",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "Wolverine Copper Mining Company",
+        "city": "Allouez",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1090,
+        "company": "Wolverine Copper Mining Company",
+        "city": "Kearsarge",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "Wolverine Power Cooperative - Advance Steam Plant",
+        "city": "Boyne City",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1092,
+        "company": "Women'S Hospital",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1093,
+        "company": "Worcester Salt Company",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1094,
+        "company": "Worcesters Alt Company",
+        "city": "Ecorse",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1095,
+        "company": "World Headquarters",
+        "city": "Dearborn",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1096,
+        "company": "Wyandotte Chemical",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1097,
+        "company": "Wyandotte Chemical Company",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1098,
+        "company": "Wyandotte Chemical Company, South Works, Biddle Ave.",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1099,
+        "company": "Wyandotte Chemical Corporation, South Works Station",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1100,
+        "company": "Wyandotte Chemicals Corporation",
+        "city": "Detroit",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1101,
+        "company": "Wyandotte Chemicals Corporation",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1103,
+        "company": "Wyandotte Chemicals Corporation, South Plant",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1104,
+        "company": "Wyandotte Corporation",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1105,
+        "company": "Wyandotte Municipal Services - Power Plant",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1107,
+        "company": "Wyandotte Portland Cement Company",
+        "city": "Wyandotte",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1108,
+        "company": "Zeeland Brick Company",
+        "city": "Zeeland",
+        "state": "MI",
+        "visibility": ""
+      },
+      {
+        "id": 1111,
+        "company": "Zenith Port Cement Company",
+        "city": "Grass Lake",
+        "state": "MI",
+        "visibility": ""
+      }
+     ]
+}

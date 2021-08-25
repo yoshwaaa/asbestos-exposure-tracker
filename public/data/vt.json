@@ -1,0 +1,389 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.S. Dewey Company",
+        "city": "Zuechee",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "American Woolen Company, Incorporated",
+        "city": "Wincoski",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Burlington Light And Power Company - Gas Plant",
+        "city": "Burlington",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Burlington Light And Power Company - Winooski Plant",
+        "city": "Winooski",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Central Vermont Medical Center",
+        "city": "Berlin",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Central Vermont Railway, Incorporated",
+        "city": "St. Albans",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Central Vermont Railway, Incorporated",
+        "city": "White River Junction",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Champlain Mills",
+        "city": "Wincoski",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Consolidated Lighting Company - Steam Plant",
+        "city": "Montpelier",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Corry, Deavitt Frost Electric Company - Winooski River Steam Plant",
+        "city": "Montpelier",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Dial Exchange Building",
+        "city": "Rutland",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "E. & T. Fairbanks And Company",
+        "city": "St. Jonnsbury",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Eagle Square Manufacturing Company",
+        "city": "South Shaftsbury",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Eastern Talc Company",
+        "city": "East Granville",
+        "state": "VT",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Fairbanks Morse & Company",
+        "city": "St. Johnsbury",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Fall Mountain Mill",
+        "city": "Bellows Falls",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Fitzdale Paper Company",
+        "city": "Fitzdale",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Gilman Paper Company",
+        "city": "Gilman",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Windsor",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Granite Quarry",
+        "city": "Barre",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Green Mountain Power Corporation - Essex Junction 19 Plant",
+        "city": "Colchester",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Green Mountain Power Corporation - Winooski River Steam Plant",
+        "city": "Montpelier",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "H.E. Bradford Company",
+        "city": "Bennington",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Howe Scale Company",
+        "city": "Rutland",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "International Paper Company",
+        "city": "Wilder",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "International Paper Company",
+        "city": "Bellows Falls",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Joel H. Gates And Company",
+        "city": "Burlington",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Jones And Lamson Mach Company",
+        "city": "Springfield",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Jones Brothers Company",
+        "city": "Barre",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Mack Moulding Company",
+        "city": "Arlington",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Manufacturers Quarring Company",
+        "city": "Websterville",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Manufactures Quarring Company",
+        "city": "Barre",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Montpelier And Barre Light And Power Company",
+        "city": "Montpelier",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "New England Tale Company",
+        "city": "Pittsfield",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "North Pownal Manufacturing Company",
+        "city": "North Pownal",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Oak-Mitsui",
+        "city": "Waterbury",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Olcott Falls Company",
+        "city": "Wilder",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Queen City Cotton Company",
+        "city": "Burlington",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Rice Brothers",
+        "city": "Poultney",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Sheffield Farms Company, Incorporated",
+        "city": "Vergennes",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Sheffield Farms, Slawsons-Decker Company",
+        "city": "Vergennes",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "St. Albans Cooperative Creamery Company",
+        "city": "St. Albans",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "St. Albans Electric Light And Power Company - Steam Plant",
+        "city": "St. Albans",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "State Of Vermont, Department Of Administration Purchasing Division",
+        "city": "Waterbury",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Twin State Gas And Electric Company - Gas Manufacturing Plant",
+        "city": "Brattleboro",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Vermont Marble Company",
+        "city": "Proctor",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Vermont Marble Company",
+        "city": "Rutland",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Vermont State Hospital",
+        "city": "Waterbury",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Vermont State Prison",
+        "city": "Windsor",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Wallingford Manufacturing Company",
+        "city": "Wallingford",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "White Pigment Corporation",
+        "city": "Florence",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Windsor Manufacturing Corporation",
+        "city": "Windsor",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Windsor State Prison",
+        "city": "Windsor",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Woodbury Granite Company",
+        "city": "Hardwick",
+        "state": "VT",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Wyman Flint And Sons",
+        "city": "Bellows Falls",
+        "state": "VT",
+        "visibility": ""
+      }
+     ]
+}

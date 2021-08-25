@@ -1,0 +1,1418 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A. & P. Corregated Box Corporation",
+        "city": "Mechanic Falls",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A. & P. Corrugated Box Corporation",
+        "city": "Mechanic Falls",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A.C. Lawrence Leather Company",
+        "city": "South Paris",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A.H. Moulton",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Abenaki Mill",
+        "city": "Madison",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Advance Bag & Paper Company",
+        "city": "Howland",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Cyanamid Company",
+        "city": "Sanford",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Telephone & Telegraph Company - Andover Earth Station",
+        "city": "East Andover",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Androscoggin Mill",
+        "city": "Livermore Falls",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Androscoggin Mills",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Androscoggin Paper Mill",
+        "city": "Livingston",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Augusta State Hospital",
+        "city": "Augusta",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Baldwin-Lima-Hamilton Corporation",
+        "city": "Cutler, Washington County",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Bancroft And Martin",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Bangor State Hospital",
+        "city": "Bangor",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Bates Manufacturing Company",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Bates Manufacturing, Incorporated",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Bath Iron Works",
+        "city": "Bath",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Bath Iron Works Shipyard",
+        "city": "Bath",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Boise Cascade Corporation",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Boralex, Incorporated",
+        "city": "Athens",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Boralex, Incorporated",
+        "city": "Ft. Fairfield",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Bowater, Incorporated",
+        "city": "Millinocket",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Bureau Of Yards And Docks",
+        "city": "Cutler",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Burnham And Morrill Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Carleton Woolen Company",
+        "city": "Winthrop",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Carman Thompson Company",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Carolina Lacoste",
+        "city": "Ingo San Jose",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Central Maine General Hospital",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Central Maine Medical Center",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Central Maine Power Company",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Central Maine Power Company - Gulf Island Power Plant",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Central Maine Power Company - Power Plant",
+        "city": "Farmingdale",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Central Maine Power Company - Power Plant",
+        "city": "Gardiner",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Central Maine Power Powerhouse - Mason Steam Plant",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Chinet Company",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "City Of Bangor Water Works",
+        "city": "Bangor",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Cumberland Mills",
+        "city": "Cumberland Mills",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Cyro Industries",
+        "city": "Sanford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Diamond National Corporation",
+        "city": "Great Works",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Dr. Campbell",
+        "city": "Sangerville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Dumbarton Woolen Mills",
+        "city": "Sangerville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Eastern Corporation",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Eastern Corporation",
+        "city": "South Brewer",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Eastern Fine Paper And Pulp Divison Standard Packaging Corporation",
+        "city": "South Brewer",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Eastern Fine Paper And Pulp Divison Standard Packaging Corporation",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Eastern Fine Paper, Incorporated",
+        "city": "Brewer",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Eastern Manufacturing Company",
+        "city": "South Brewer",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Eastern Manufacturing Company",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Econby Corporation Madison Mills",
+        "city": "Madison",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Farnsworth Mill",
+        "city": "Lisbon Center",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Fells Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Forest City Sugar Refining Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Forest Paper Company",
+        "city": "Yarmouthville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Fpl Energy",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Fpl Energy Mason LLC",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Ft. James Operating Company",
+        "city": "Old Town",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "G. Isaacs",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Georgia Pacific Corporation",
+        "city": "Woodland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Georgia Pacific Corporation, St. Croix Paper Company Division",
+        "city": "Woodland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Gorbell/Thermo Electron Power Plant",
+        "city": "Athens",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Great Northern Paper Company",
+        "city": "East Millinocket",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Great Northern Paper Company",
+        "city": "Madison",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Great Northern Paper Company",
+        "city": "Millinocket",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Great Northern Paper Company",
+        "city": "Norcross",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Green Consolidated Copper Company",
+        "city": "Cananea Sonava",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Heard Pidr Company",
+        "city": "Pejepscot",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Hearst Corporation, Pejepscot Paper Division",
+        "city": "Brunswick",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Hearst Publishing Company, Incorporated",
+        "city": "Pejepscot",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Hearst Publishing Company, Incorporated, Pejepscot Division",
+        "city": "Pejepscot",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Houlton Water Works And Pumping Station",
+        "city": "Houlton",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Hudson Pulp And Paper Company",
+        "city": "Augusta",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Indeck Energy Services",
+        "city": "Jonesboro",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Indeck Energy Services",
+        "city": "West Enfield",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Indeck Maine Energy, LLC",
+        "city": "West Enfield",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "International Paper",
+        "city": "Bucksport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "International Paper",
+        "city": "Livermore Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "International Paper Androscoggin Mill",
+        "city": "Jay",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "International Paper Company",
+        "city": "Jay",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "International Paper Company",
+        "city": "Chisholm",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "International Paper Company",
+        "city": "Livermore Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "International Paper Company",
+        "city": "Rumford Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "International Paper Company",
+        "city": "Webster",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "International Paper Company",
+        "city": "Androscoggin",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "International Paper Company",
+        "city": "Costigan",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "International Paper Company, Limited",
+        "city": "Livermore Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "International Paper Company, Otis Mill",
+        "city": "Chisholm",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "International Paper Company, Otis Mill",
+        "city": "Riley",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "James River",
+        "city": "Old Town",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "James River Corporation",
+        "city": "Old Town",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Jas. P. Baxter",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Jay Paper Mill",
+        "city": "Jay",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "John E Warren",
+        "city": "Cumberland Mills",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Katadline Pupl And Paper Company",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Kathadin Pulp And Paper Company",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Kennebec Pulp And Paper Company",
+        "city": "Augusta",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Kennebec River Pulp & Paper Company, Incorporated",
+        "city": "Madison",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Keyes Fibre Company",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Keyes Fibre Company",
+        "city": "Shawmut",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Kti, Incorporated",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Kuhr Technologies, Incorporated",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Lewisport And Auburn",
+        "city": "Freeport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Lewiston And Auburn Street Railway Company",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Lewiston Brunswich And Bath Street Railway Company",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Lewiston Gas Light Company - Manufactured Gas Plant",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Lfc Power Systems",
+        "city": "Lewiston",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Lincoln Pulp And Paper",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Lincoln Pulp And Paper Company",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Lockwood Company",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Loring Air Force Base",
+        "city": "Limestone",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Maine Central Railroad",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Maine Central Railroad Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Maine Central Railroad Company",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Maine Energy Recovery Company",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Maine Eye And Ear Infirmary",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Maine Medical Center",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Maine Seaboard Paper Company, Division Of Time Incorporated",
+        "city": "Bucksport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Maine Yankee Atomic Power Company",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Marcal Paper Mils Incorporated",
+        "city": "Mechanic Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Masonic Building",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Mead Paper Group",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Mead Publishing Paper Division",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Nathan Clifford School",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Northern Chemical Industries, Incorporated",
+        "city": "Searsport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Northern Paper Company",
+        "city": "Madison",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Orono Pulp And Paper Company",
+        "city": "Basin Mills",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Orono Pulp And Paper Company",
+        "city": "Orono",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Otis Falls Pulp And Paper Company",
+        "city": "Linmon Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Otis Falls Pulp Company, Chisholm Mills",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Otis Mills",
+        "city": "Chisholm",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Oxford Paper Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Oxford Paper Company",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Oxford Paper Company",
+        "city": "Rumford Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Oxford Paper Company - Paper Mill",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Oxford Paper Mill",
+        "city": "Rumford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Pejepscot Paper Company",
+        "city": "Lisbon Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Pejepscot Paper Company",
+        "city": "Brunswick",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Penobscot Chemical Fibre Company",
+        "city": "Great Works",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Penobscot Paper Company",
+        "city": "Great Works",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Pineland Hospital And Training Center",
+        "city": "Pownal",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Pinkham Lumber Company",
+        "city": "Ashland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Poland Paper Company",
+        "city": "Mechanic Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Poland Springs Hotel",
+        "city": "South Poland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Pond'S Extract Company",
+        "city": "Mechanic Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Portland & Yarmouth Electric Railway Company - Powerhouse Road Power Plant",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Portland And Yarmouth Street Railway Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Portland Gas Light Company - Manufactured Gas Plant",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Portland Iron & Steel Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Portland Lighting And Power Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Portland Railroad Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Portland Street Railway Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Portsmouth Navy Yard",
+        "city": "Kittery",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Portsmouth Shipyard",
+        "city": "Portsmouth",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Pownal",
+        "city": "Pownal",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Pownal State School",
+        "city": "Pownal",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "R.J. Peacock Canning Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Richards Paper Company",
+        "city": "South Gardner",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Rumford Falls Paper Company",
+        "city": "Rumford Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "S. D. Warren Co - Paper Mill",
+        "city": "Westbrook",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "S.D. Warren",
+        "city": "Hinckley",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "S.D. Warren And Company",
+        "city": "Cumberland Mills",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "S.D. Warren And Company",
+        "city": "Skowhegan",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "S.D. Warren And Company, Copsecook Mills",
+        "city": "Gardiner",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "S.D. Warren Company",
+        "city": "Westbrook",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Sanford Mills",
+        "city": "Sanford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Sanford Sheet Plant",
+        "city": "Sanford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Sanford Textile Mill",
+        "city": "Sanford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Sappi Fine Papers",
+        "city": "Westbrook",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Sappi Incorporated",
+        "city": "Skowhegan",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Scarborough Downs Racetrack",
+        "city": "Scarborough",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Scott Paper Company",
+        "city": "Winslow",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Scott Paper Company",
+        "city": "Skowhegan",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Scott Paper Company",
+        "city": "Westbrook",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Seacoast Canning Company",
+        "city": "Eastport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Seacoast Canning Company",
+        "city": "Lubec",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Seton Hospital",
+        "city": "Waterville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Somerset",
+        "city": "Skowhegan",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Somerset Fibre Company",
+        "city": "Fairfield",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "South Portland Dry Dock And Repair Company",
+        "city": "South Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "South Portland Shipyard",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "St. Croix Paper Company",
+        "city": "Woodland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "St. Regis Paper Company",
+        "city": "Bucksport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "St. Regis Paper Company - Maine Seaboard Division",
+        "city": "Bucksport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Standard Packaging Corporation",
+        "city": "Lincoln",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "State Of Maine",
+        "city": "Augusta",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Statler Tissue",
+        "city": "Augusta",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Swift River Hafslund Company",
+        "city": "Greenville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Theatre Corporation Of Portland",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "U.S. Naval Air Station, Hangar 1",
+        "city": "Brunswick",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Veneer Products Company",
+        "city": "Greenville",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "West Point Pepperell Manufacturing Company",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "West Point Pepperell, Incorporated",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Westpoint Pepperell",
+        "city": "Biddeport",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Willey Calhown",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Wilton Woolen Company",
+        "city": "Winthrop",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Winslow And Company",
+        "city": "Portland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Winthrop Manufacturing Company",
+        "city": "Winthrop",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Wiscasset Power Plant",
+        "city": "Wiscasset",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Woodland Division",
+        "city": "Woodland",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Worumbo Manufacturing Company",
+        "city": "Lisbon Falls",
+        "state": "ME",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "York Light And Heat Company - Power Plant",
+        "city": "Biddeford",
+        "state": "ME",
+        "visibility": ""
+      }
+     ]
+}

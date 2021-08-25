@@ -1,0 +1,3413 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "2316 Watterson Trail",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.C. Lawrence Leather Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Acme Mills",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Acme Newport Steel Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Air Reduction Company",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Allied Chem-Semet Solvay-Armco Coke",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Allied Chemical Coke Plant",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Medicinal Spirits Company, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Radiator And Standard Sanitary Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Rolling Mill Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Rolling Mills Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "American Suppliers, Incorporated",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "American Tabacco Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "American Textile Woolen Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "American Tobacco Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Anaconda Wire And Cable Company",
+        "city": "La Grange",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Andrews Steel Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Armco Coke Plant",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Armco Oil Refinery",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Armco Steel",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Armco Steel Corporation",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Armstrong Contracting & Supply Corporation, 421 East Woodbine",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Asher Coal Mining Company",
+        "city": "Wasioto",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Asher Coal Mining Company",
+        "city": "Varilla",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Ashland Artificial Ice Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Ashland Coal And Coke Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Ashland Fire Brick Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Ashland Iron & Mining Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Ashland Leather Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Ashland Oil",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Ashland Oil",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Ashland Oil - Refinery 2 Lube Plant",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Ashland Oil & Refining Company",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Ashland Petroleum Company",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Ashland Refining Company",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Ashland Refining Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Ashland Steel Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Ashland Synthetic Fuels, Incorporated",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Ashland Works",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Atlantic Seaboard Corporation",
+        "city": "Boldman",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Atlantic Seaboard Corporation",
+        "city": "Harold",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "B.F. Goodrich Chemical Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "B.P. Avery & Sons",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Ballard And Ballard Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Bavarian Brewing Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Beaver Dam Milling Company",
+        "city": "Beaver Dam",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Belknap Hardware And Manufacturing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Bellefonte Plant, Ashland Works",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Bernheim Distilling Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Big Branch Coal Company",
+        "city": "Lookout",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Big Branch Coal Company And Henry Clay Coal Company",
+        "city": "Henry Clay",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Big Rivers Electric - Sebree Station",
+        "city": "Robards",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Big Rivers Electric Corporation - Henderson Station Ii",
+        "city": "Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Big Run Coal Company",
+        "city": "Princess",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Big Sandy Power Plant",
+        "city": "Louisa",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Big Sandy Power-Louisa Power",
+        "city": "Louisa",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Blue Diamond Mining Corporation",
+        "city": "Centertown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Blue Grass Cooperage Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Bonnie Brothers Distillery",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Boone Distillery",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Bosch Chemical Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Bowling Green High School",
+        "city": "Bowling Green",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Britts Department Store",
+        "city": "Winchester",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Britts Department Store",
+        "city": "Danville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Brown And Williamson Tobacco Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Brown Forman Distillers Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Buckeye Cellulose Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Buckeye Cotton Oil Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Buffalo Springs Distilling Company",
+        "city": "Stamping Ground",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "C & O-CSX",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "C & O-CSX",
+        "city": "Raceland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "C.F. Vissman",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "C.F. Vissman And Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Calgon Corporation",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Camden And Interstate Railway Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Campbell Country Hospital",
+        "city": "Ft. Thomas",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Capitol Annex - Boiler Plant",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Carbide And Carbon Chemicals Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Carroll County Memorial Hospital",
+        "city": "Carrollton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Carroll County Middle School",
+        "city": "Carrollton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Catlettsburg Kenova And Ceredo Water Company - Water Plant",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Cava Springs Distillery",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Central Baptist Hospital",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Central Consumers Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Central Kentucky Lunatic Asylum",
+        "city": "Anchorage",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Central Kentucky Lunatic Asylum",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Chandler Medical Center",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Chesapeake And Ohio Railroad Company",
+        "city": "Silver Grove",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Chesapeake And Ohio Railroad Company",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Chesapeake And Ohio Railroad Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Chesapeake And Ohio Railroad Company",
+        "city": "Graceland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Chesapeake And Ohio Railroad Company",
+        "city": "Raceland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Chrysler Plant",
+        "city": "Bowling Green",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Cincinnati Gas And Electric Company - East Bend Generating Station",
+        "city": "Rabbit Hash",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Cincinnati, Newport And Covington Railway",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Cincinnati, Newport And Covington Street Railway Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "City Consumers Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "City Of Paducah - Lighting Plant",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Clarkson School, Grayson County",
+        "city": "Clarkson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Cohankus Manufacturing Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Commonwealth Of Kentucky",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Commonwealth Of Kentucky, Western State Hospital",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Consolidated Realty Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Consolidation Coal Company",
+        "city": "Shelby",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Consumers Ice Manufacturing And Cold Storage Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Continental General Tire",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Cooper Hewitt Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Corning Glass Works",
+        "city": "Harrodsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Cornwall Brothers",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Cornwall Brothers",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Country Distillers Products Company",
+        "city": "Deatsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Courier Journal Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Covington Electric Light Company - Power Plant",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Covington Water Works - Pumping Station",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Creasey Company, 4420 Bishop Ln.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Crothersville School",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Crystal Ice Company, Incorporated",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Csx Transporation, Inc.",
+        "city": "Raceland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Cumberland Chemical Corporation",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Cumberland Chemical Corporation, Division Of Air Reduction Company",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Curlee Clothing Company",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Customs Resins",
+        "city": "Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Dant Distilling Company",
+        "city": "Gethsemane",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Danville Laundry And Dry Cleaning Company",
+        "city": "Danville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Danville Plaza, Dritts Department Store",
+        "city": "Danville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Danville Plaza, Roses Department Store",
+        "city": "Danville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Daviess County Distilling Company",
+        "city": "Owensboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Dayton Power & Light Company - East Bend Power Plant",
+        "city": "Rabbit Hash",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Donaldson Art Sign Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Dosker Manor Project",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Drummond Manufacturing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Dupont",
+        "city": "Wurtland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Duvin Coal Company",
+        "city": "Providence",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "E.I. Dupont De Nemours And Company, 4200 Camp Ground Rd.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "East Kentucky Power Cooperative - H.L. Spurlock Power Station",
+        "city": "Maysville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "East Kentucky Power Cooperative - John Sherman Cooper Station",
+        "city": "Burnside",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "East Kentucky Rural Electric Cooperative - Dale Power Station",
+        "city": "Ford",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Edgewater Coal Company",
+        "city": "Henry Clay",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Elf Atochem",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Elkhorn Forks Distillery",
+        "city": "Millbrook, Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Ellis Ice And Coal Company",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Falls City Brewing Company, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Falls City Ice And Beverage Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Federal Correctional Institute",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Fischer Packing",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Five-Fifty Apartments, 8th & Liberty St.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Forbes And Brothers",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Ford Elkhorn Mining Company",
+        "city": "Robinson Creek",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Ford Motor Company",
+        "city": "Stone",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Fordson Coal Company",
+        "city": "Stone",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Francis Building",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Frank Fehr Brewing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Frankfort Water Company - Water Works",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Fruit Of The Loom",
+        "city": "Campbellsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Ft. Campbell Central Heating Plant",
+        "city": "Ft. Campbell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Ft. Knox Dental Clinic",
+        "city": "Ft. Knox",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "G.T. Stagg Company Division Schenley Distillers Incorporated",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Gamble Brothers, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "GE Appliance Park",
+        "city": "Buechel",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "General Aniline & Film Corporation",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "General Electric Co. - Appliance Park - Building 1",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "General Refractories",
+        "city": "Hitchens",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "General Refractories Company",
+        "city": "Hitchins, Carter County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "General Refractories Company",
+        "city": "Olive Hill",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "General Tire And Rubber Company",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Geon Performance Materials Plant",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "George T. Stagg Company",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "George T. Stagg Company Distillery",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "George Wiedemann Brewing Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Glenmore Distilleries",
+        "city": "Owensboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Glenview East Apartment Building",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Golden Foods",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Graves County Water And Light Company - Power Plant",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Green River Distilling Company",
+        "city": "Stamping Ground",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "H.J. Heinz Company Plant",
+        "city": "Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Harbison-Walker Refractories Company",
+        "city": "Olive Hill",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Hardin County Memorial Hospital",
+        "city": "Elizabethtown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Harlan Fuel Company",
+        "city": "Yancey",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Heaven Hill Distilleries, Incorporated",
+        "city": "Bardstown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Heidelberg Brewing Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Henderson County Rural Electrification Association",
+        "city": "Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Henry Fischer Packing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Hillcrest Carpets Division Of Hill Industries, Incorporated",
+        "city": "Morganfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Holmes High School",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Hooker Chemical and Plastics",
+        "city": "South Shore",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Hope Worsted Mills",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Hopkins County Development Corporation",
+        "city": "Madisonville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Hurstbourne Highrise Office Building",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "I.C.I. America, Incorporated",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Ibm Corporation, Utilities Building Expansion",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Illinois Central Railroad Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "INCO",
+        "city": "Burnaugh",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Independent Distilleries",
+        "city": "Bardstown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Indian Refining Company",
+        "city": "Georgetown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "International Business Machines Corporation",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Isp Chemical",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "J. Graham Brown Educational Center",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "J. Mc Thelliauis Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "J. Schwarzwalder And Sons Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "J. Swarzwaelder And Sons.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "J.B. Speed And Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "J.B. Speed And Company",
+        "city": "Grays Knox County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "J.B. Speed And Company",
+        "city": "Wilton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "J.B. Speed Company",
+        "city": "Mchenry",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "J.B. Speeds And Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "J.B. Wathen And Brothers Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "J.G. Mattingly Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "J.N. Canden For Ashland And Cattlettsburg Railway Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "James B. Speed Company",
+        "city": "Beaver Dam",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "James E. Smith, & Sons, Incorporated",
+        "city": "Ft. Knox",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "James P. Beam Distilling Company",
+        "city": "Clermont",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Jas. E. Pepper Company And Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Jas. Mc Williams And Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Jefferson Company Jail",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Jefferson County Jail",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Jefferson Woodworking Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Jeffersontown",
+        "city": "Jeffersontown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Jim Beam - Old Grandad Plant",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "John Finzer And Brothers",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Joseph E. Seagram And Sons, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Joseph Mcwilliams & Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "K. Taylor Distilling Company",
+        "city": "Millbrook",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "K. Taylor Distilling Company",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "K. Taylor Distilling Company, Incorporated",
+        "city": "Millbrook",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "K.X.C. & I. Girdler",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Kendall Corporation",
+        "city": "Franklin",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Kentuckey Wagon Manufacturing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Kentucky And Indiana Terminal Railroad Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Kentucky And West Virginia Power Company",
+        "city": "Lothair",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Kentucky Distilleries And Warehouse Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Kentucky Electric Company - Power Plant",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Kentucky Electric Power Company - Power Plant",
+        "city": "Nortonville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Kentucky Electric Steel",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Kentucky Houses Of Reform",
+        "city": "Greendale",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Kentucky Hydrocarbon Company",
+        "city": "Langley",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Kentucky Power Company",
+        "city": "Louisa",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Kentucky Power Company",
+        "city": "Morehead",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Kentucky Public Service Company",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Kentucky River Power Company",
+        "city": "Hazard",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Kentucky River Power Company, Incorporated",
+        "city": "Lothair",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Kentucky Solvay Coke Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Kentucky State Board Of Control",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Kentucky State Board Of Control For Charitable Institutions",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Kentucky State Capitol Power Plant",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Kentucky State Hospital",
+        "city": "Danville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Kentucky State Reformatory",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Kentucky State Reformatory",
+        "city": "La Grange",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Kentucky Tobacco Product Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Kentucky Tobacco Products Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Kentucky Training Home",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Kentucky Utilities Company - E. W. Brown Station",
+        "city": "Harrodsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Kentucky Utilities Company - E.W. Brown Generating Station",
+        "city": "Harrodsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Kentucky Utilities Company - Green River Generating Station",
+        "city": "Central City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Kentucky Utilities Company - Green River Power Station",
+        "city": "Central City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Kentucky Utilities Company - Haefling Power Plant",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Kentucky Utilities Company - Pineville Power Plant",
+        "city": "Pineville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Kentucky Utilities Company - Tyrone Power Station",
+        "city": "Versailles",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Kentucky Utilities Company/Green River Plant",
+        "city": "Central City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Kentucky Valley Distilling Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Kentucky West Virginia Gas Company - Pumping Plant",
+        "city": "Dwale",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Kenwood Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Koppers Company, Incorporated, Wood Preserving Division",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Kraft Food Company",
+        "city": "Lawrencebery",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Kraft Foods, Incorporated",
+        "city": "Owenton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "L&N Railroad",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Latonia Refining Corporation",
+        "city": "Latonia",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Leitchfield Elementary School",
+        "city": "Leitchfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Levy Brothers",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Lexington Brewing Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Lexington Hydraulic And Manufacturing Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Lexington Laundry Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Lexington Railway Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Lexington Roller Mills Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Lexington Signal Depot",
+        "city": "Avon",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Lexington Utilities Company - Power Plant",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Lexmark",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Liberty Cherry And Fruit Company, Incorporated",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Lily Tulip Cup Corporation, Us Route #62",
+        "city": "Bardstown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Lorillard Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Louisa Chemical Company, Lawrence County",
+        "city": "Torchlight",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Louisa Power",
+        "city": "Louisa",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Louisville",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Louisville And Interurban Rr Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Louisville And Nashville Railroad",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Louisville And Nashville Railway",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Louisville And Nashville Railway",
+        "city": "South Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Louisville Cotton Oil Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Louisville Electric Light Company - Power Plant",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Louisville Fire Brick Works",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Louisville Gas And Electric - Mill Creek Station - Unit 3",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Louisville Gas And Electric - Mill Creek Station - Unit 4",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Louisville Gas And Electric Company - Mill Creek Station",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Louisville Provision Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Louisville Railway Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Louisville Soap Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Louisville Trust Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Louisville Water Company - Crescent Hill Filtration Plant",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Lousia Power Plant",
+        "city": "Louisa",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "M. And T. Chemicals, Incorporated",
+        "city": "Carrollton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Mansbach Metal Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Mayfield Water And Light Company - Water And Light Plant",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Mayfield Woolen Mills",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Mayfield Woolen Mills Clothing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Mealey Distilling Company",
+        "city": "Owensboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Medium Security Prison",
+        "city": "La Grange, Oldham County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Memgel Box Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Memphis Cool Mining Company",
+        "city": "Mannington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Mengel Body Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Mengel Box Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Mengel Box Company",
+        "city": "Hickman",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Methodist Evangelical Hospital, East Broadway St.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Methodist Evangelical Hospital, Parking Facilities",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Methodist Hospital, South 1630 West Hill St.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Meuqel Box Company",
+        "city": "Hickwau",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Middlesboro",
+        "city": "Middlesboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Midwest Dairy Products Corporation",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Mobil Chemical Company, 1630 West Hill St.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Monarch Branch",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Municipal Electric Light Plant",
+        "city": "Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Municipal Housing Commission",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Murphy Chair Company",
+        "city": "Owensboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Murray Roofing Tile Company",
+        "city": "Cloverport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Nashville Chattanooga And St. Louis Railway",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "National Distillers - Sunny Brook Plant",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "National Distillers Products Corporation",
+        "city": "Millbrook",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "National Distillers Products Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "National Mine Service",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Nazareth Literary & Benevolent Institution",
+        "city": "Nazareth",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "New Phoenix Company Incorporated",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Newport Ky",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Newport Rolling Mill Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Nimh Clinical Research Center",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "North American Refractories",
+        "city": "South Shore",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "North American Refractory",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "North East Coal Company",
+        "city": "Thealka",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "North Hardin High School",
+        "city": "Hardin County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "North Jellico Coal Company",
+        "city": "Grays Knox County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "North Jellico Coal Company",
+        "city": "Wilton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "North Jellico Coal Company",
+        "city": "Woodbine",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Northwestern Railroad",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Northwestern Railroad",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Norton Iron Works",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Ohio Falls Dye And Finishing Works",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Okolona Elementary School",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Okonite Company",
+        "city": "Richmond",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Old \"76\" Distilling Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Old Crow Distillery",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Old Joe Distilling Company",
+        "city": "Mcbrayer",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Old Kentucky Distillery",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Old Kentucky Woolen Mills",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Olin Mathieson Chemical",
+        "city": "Brandenberg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Olive Hill Fire Brick Company",
+        "city": "Eastern Kentucky Junction",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Olive Hill Fire Brick Company",
+        "city": "Olive Hill",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Overman And Schrader Cordage Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Owensboro Municipal Utilities - Power Plant",
+        "city": "Owensboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "P. Lorillard Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Paducah City Railway Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Paducah Light And Power Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Paducah Street Railway Company",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Paducah Water Treatment Facility",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Panoply Corporation",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Park And Dilford Distillery",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Park City Hospital",
+        "city": "Bowling Green",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Pennsalt Chemicals Corporation",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Pennsylvania Salt Manufacturing",
+        "city": "Calvert City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Peppleprd Distillery",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Philip Morris And Company Limited, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Philip Morris Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Phillip Morris, Incorporated",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Phoenix Brewing Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Phoenix Hotel",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Phoenix Hotel Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Pigmy Mining Company",
+        "city": "Mexico",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Pioneer Coal Company",
+        "city": "Pineville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Pioneer Coal Company",
+        "city": "Kettle Island",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Pittsburgh Coal Company",
+        "city": "Betsy Lane",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Polyken Plant",
+        "city": "Franklin",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Pond Creek Coal Company",
+        "city": "Pike County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Proctor & Gamble Manufacturing Company",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Publicker Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Pullman Company",
+        "city": "Ludlow",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Puritan Apartments",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Quenton County High School",
+        "city": "Quenton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Quinnsee Iron Mining Company",
+        "city": "Wolfpit",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "R.T. Vanderbilt Company",
+        "city": "Murray",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Raceland Car Shops",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Refinery #2",
+        "city": "Catlettsburg",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Reliance Textile And Dye Works",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Republic Iron And Company, Mitchell Trauier Works",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Republic Iron And Steel - Mitchell And Trantor Works",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Reynolds Metal Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "River Front Parking Garage",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Rohm & Haas Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Ross Paris Hotel Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Ruckman Coal Company",
+        "city": "Providence",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Russell Engine Terminal",
+        "city": "Russell",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "S. Wallace Edwards",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Schenley Distilleries, Geo T. Stad And Company",
+        "city": "Limestone Springs",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Schenley Distillers",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Schenley Distillery Company",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Seelbach Hotel",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Seelbach Realty Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Semet-Solvay Company",
+        "city": "Ashland",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Shawhan Distillery Company",
+        "city": "Bardstown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Shawnee Fossil Plant",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Shawnee Fossil Plant - Unit 1",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Shawnee Fossil Plant - Unit 2",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Shawnee Fossil Plant - Unit 3",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Shawnee Fossil Plant - Unit 4",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Shawnee Fossil Plant - Unit 5",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Shawnee Fossil Plant - Unit 6",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Shawnee Fossil Plant - Unit 7",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Shawnee Fossil Plant - Unit 8",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Shawnee Fossil Plant - Unit 9",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Sheller-Globe Corporation",
+        "city": "Morganfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Shenley Distillery Bernheim Distillery",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Sisters Of The Good Shepherd",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Sohio Oil Company",
+        "city": "Latonia",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Solvay Process Division, Allied Chemical And Dye Corporation",
+        "city": "West Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "South Central Bell Telephone Company Building - 26th & Magazine St.",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "South Covington & Cincinnati Street Railway Company",
+        "city": "Newport",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "South Covington And Cinti St Railway",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Spalding Laundry And Dry Cleaning Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Speed Realty Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Spencer Chemical Co",
+        "city": "West Henderson",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "St. Bernard Mining Company",
+        "city": "Earlington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "St. Joseph Hospital",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "St. Joseph Infirmary",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "St. Joseph Informary",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "St. Luke Hospital",
+        "city": "Ft. Thomas",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "St. Mary And Elizabeth Hospital",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "St. Xavier Laundry",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Standard Sanitary Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Standiford Field, Airport Control Tower",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "State Capitol Power House",
+        "city": "Frankfort",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "State Colege Of Kentucky",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "State Of Kentucky",
+        "city": "Richmond",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Straight Creek Coal And Coke Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Straight Creek Coal And Coke Company",
+        "city": "Pineville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Sunflower Powerhouse",
+        "city": "Garden City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Sunnybrook Distillery Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "T.W. Samuels Distillery",
+        "city": "Deatsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Taylor Coal Company",
+        "city": "Taylor Mines",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Ten Broeck Tyre Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Tennessee Valley Authority",
+        "city": "Chiles",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Tennessee Valley Authority",
+        "city": "Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Tennessee Valley Authority",
+        "city": "Paradise",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Tennessee Valley Authority",
+        "city": "Drakesboro",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Tennessee Valley Authority",
+        "city": "West Paducah",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Tennessee Valley Authority",
+        "city": "Central City",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Tennessee Valley Authority - Paradise Fossil Plant - Unit 1",
+        "city": "Paradise",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Tennessee Valley Authority - Paradise Fossil Plant - Unit 2",
+        "city": "Paradise",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Tennessee Valley Authority - Paradise Fossil Plant - Unit 3",
+        "city": "Paradise",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Texas Eastern Transmission",
+        "city": "Owensville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Tire Plant",
+        "city": "Mayfield",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Tobacco Warehousing And Trading Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Tom Moore Distillery Company",
+        "city": "Bardstown",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Town Of Russelville",
+        "city": "Russellville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Tube Turns Division Of Chemetron Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Union Underwear Company, Incorporated",
+        "city": "Campbellsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Union Underwear Company, Incorporated",
+        "city": "Bowling Green",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "United States Coal And Coke Company",
+        "city": "Benham",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "United States Coal And Coke Company, Incorporated",
+        "city": "Lynch Station, Harlan County",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "United States Public Health Service",
+        "city": "Lexington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "University Of Louisville, Classroom Building #1",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Veterans Administration Hospital",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Veterans Administration Hospital, Laundry Building",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "W.G. Duncan Coal Company",
+        "city": "Graham",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Wadsworth Watch Case Company",
+        "city": "Dayton",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Warehouse For Stock",
+        "city": "Winchester",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Warren East High School",
+        "city": "Bowling Green",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Watts Steel Iron Syndicate",
+        "city": "Middlesborough",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Wck Company",
+        "city": "Covington",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Weissinger Gaulbert Real Estate Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Western Kentucky Energy",
+        "city": "Robards",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Western Kentucky Insane Asylum",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Western Kraft Corporation",
+        "city": "Hawesville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Western Kraft Division Williamette Industries, Incorporated",
+        "city": "Hawesville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Western State Hospital",
+        "city": "Hopkinsville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Wickliffe Coal Company",
+        "city": "Ladona",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "William Ritter Lumber Company",
+        "city": "Lower Elk",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Williamette Industries",
+        "city": "Hawesville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Williams Coal Company",
+        "city": "Mchenry",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Wood Mosaic Company",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Wood Mosaic Corporation",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Wright And Taylor",
+        "city": "Louisville",
+        "state": "KY",
+        "visibility": ""
+      }
+     ]
+}

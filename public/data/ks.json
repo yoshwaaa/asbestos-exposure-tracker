@@ -1,0 +1,7235 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "3M Paper Mill",
+        "city": "Hartford",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "749 S. Grant Ave.",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A. B. Brown Generating Station",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A. B. Brown Generating Station - Unit 1",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A. B. Brown Generating Station - Unit 2",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Advance Rumely Company, Tractor Works",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Advance Rumley Company",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Albany Paper Company",
+        "city": "Albany",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Alcan",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "ALCOA Aluminum Plant",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "ALCOA Chemical Plant",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "ALCOA Plant",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "ALCOA Power Plant",
+        "city": "Newburgh",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Allen County War Memorial Coliseum",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Allis Chalmers Corn-Picker Machine Plant",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Allison Bedford Foundry Division Of General Motors Corporation",
+        "city": "Bedford",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Allison Division Of General Motors Corporation, Plant B",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Aluminum Company Of America",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Aluminum Company Of America",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Aluminum Company Of America, Warrick Works",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Aluminum Corporation Of America",
+        "city": "Warrick",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Auto Top Company",
+        "city": "Delphi",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Brewing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Bridge Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Can Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Car And Foundry Company",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Coating Mills, Incorporated",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Creosoting Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "American Hominy Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "American Hominy Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "American Hominy Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "American Maize Products Company",
+        "city": "Roby",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "American Maize Products Company",
+        "city": "Ruby",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "American Oil Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "American Oil Refinery (Amoco)",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "American Radiator And Standard Sanitary Corporation",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "American Rolling Mill Corporation",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "American Safety Razor Corporation",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "American Seeding Machine Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "American Sheet & Tin Plate Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "American Sheet & Tin Plate Company",
+        "city": "Elwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "American Sheet And Tin Plate Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "American Sheet Steel Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "American Steel",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "American Steel And Wire Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "American Steel Foundries",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "American Steel Foundries Company",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "American Strawboard Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "American Works",
+        "city": "Elwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Amoco Oil Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Anaconda Lead Products Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Anaconda Wire And Cable Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Anderson Indiana Board Of Public Works - Municipal Light & Power Plant",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Angola Railway And Power Company - Power Station",
+        "city": "Angola",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Arbuckle, Ryan & Company, Incorporated",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Arbuckle, Ryan & Company, Incorporated",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Arbuckle, Ryan & Company, Incorporated",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Arctic Engineering Company, Incorporated",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Arkla Air Conditioning Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Arsenal Technical School",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Art. Portland Cement Company",
+        "city": "Kimmel",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Arvin Exhaust",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Arvin Industries, Incorporated",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Atlantic Richfield Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Atlas Underwear Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Attica Electric & Power Company - Power Plant",
+        "city": "Attica",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Auburn Mining Company",
+        "city": "Auburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Auburn Water Company - Water Works",
+        "city": "Auburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Auto Wheel Service, Incorporated",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Auto-Lite Battery Corporation",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Avco Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Avco Corporation, Electronics Division",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "B.F. Goodrich Company",
+        "city": "Woodburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "B.W. Bissel And Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Babcock & Wilcox Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Ball Brothers",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Baltimore & Ohio Railroad Company",
+        "city": "Place Garrett",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Baltimore And Ohio Railroad Company",
+        "city": "Garrett",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Banner Cement Company",
+        "city": "Sellersburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Banner Rock Products Company",
+        "city": "Alexandria",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Beach Grove Shops",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Bearing Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Bedford Stone Quarries Company, Incorporated",
+        "city": "Oolitic",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Bell Fibre Products Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Bendix Aviation Corporation",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Bendix Products Division Of Bendix Aviation Corporation",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Berghoff Brewing Association",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Best Laundry Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Bethlehem Steel",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Bethlehem Steel",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Burns Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Bethlehem Steel Corporation, Burns Harbor Plant",
+        "city": "Chesterton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Bethlehem Steel Mill",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Bethlehem Steel Plant",
+        "city": "Burns Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Beveridge Paper Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Big Four Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Birdsell Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Blish Milling Company",
+        "city": "Seymour",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Bloomington Bell",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Board Of Sanitary Commissioners",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Board Of Trustees",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Boonville Electric Light And Power Company - Power Plant",
+        "city": "Boonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Boston & Ohio Railroad Company",
+        "city": "Garrett",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Boxboard Mills",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Bristol Myers Squibb",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Bristol-Meyers",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Broadway Works",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Broderick Company",
+        "city": "Munice",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Brower And Love Brothers Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Buffington Power Plant",
+        "city": "Buffington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Bunsen Coal Company",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Burns Harbor",
+        "city": "Burns Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "By-Products Coke Corporation",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "C.G. Conn Limited",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "C.S.G., 240 Elizabeth St.",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "C.W. Mcdaniel",
+        "city": "Franklin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "California Packing Corporation",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Campbell Soup Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Cannelton Sewer Pipe Company",
+        "city": "Cannelton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Cargo Lake Shore",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Carnegie Illinois Steel Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Carnegie Illinois Steel Corporation, Gary Sheet Mill",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Carnegie-Illinois Steel Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Central Foundry Division, Gm",
+        "city": "Bedford",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Central Heating Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Central Indiana Lighting Company - Power Plant",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Central Manufacturing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Central Pulp Mills, Limited",
+        "city": "Ft. Songad",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Central Soya Company, Incorporated",
+        "city": "Decatur",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Central State Hospital",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Century Rubber Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Chevrolet Motor Company",
+        "city": "Municie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Chevrolet Muncie, Division Of General Motors Corporation",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Chicago And Eastern Illinois Railroad Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Chicago And South Shore Railway Company",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Chicago Horseshoe Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Chicago Indiana And Southern Railway Company",
+        "city": "Gibson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Chicago Indianapolis And Louisville Railway",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Chicago Lake Shore And South Bend Railway Company",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Chicago, Indiana And Southern Railroad Company",
+        "city": "Gibson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Chicago, Lake Shore And Eastern Railway Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Chicago, St. Louis And Pittsburgh Railroad Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Chifty Powerhouse",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Chinet Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Chrysler Foundry",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Chrysler Motors",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Cities Service Oil Refinery",
+        "city": "Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Cities Service Petroleum Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Citizens Gas And Fuel Company - Gas Plant",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Citizens Street Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Citizens Water And Light Company - Water And Light Plant",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "City Electric Lighting Company - Power Plant",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "City Hospital",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "City Of Auburn - Water And Electric Light Works",
+        "city": "Auburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "City Of Evansville - Water Works",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "City Of Greenfield - Electric Light Plant",
+        "city": "Greenfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "City Of Huntingburg - Municipal Light And Water Plant",
+        "city": "Huntingburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "City Of Marion - Water Works",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "City Of Richmond - Municipal Electric Light And Power Plant",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "City Water Works - Water Plant",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Cleveland, Cincinnati, Chicago And St. Louis Railway",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Cleveland, Cincinnati, Chicago And St. Louis Railway",
+        "city": "Brightwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Cleveland, Cincinnati, Chicago And St. Louis Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Cleveland, Cincinnati, Chicago And St. Louis Railway Company",
+        "city": "Brightwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Clifty Creek Power Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Clinton Electric Light & Power Company - Power Plant",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Clinton Ice Company",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Coca Cola Bottling Company",
+        "city": "Greencastle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Colgate-Palmolive Company",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Columbia Improvement Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Columbia Woolen Mills",
+        "city": "Columbia City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Columbus Food Corporation",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Columbus High School",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Commercial Distillery Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Commercial Solvents Corporation",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Commonwealth Edison Company - State Line Generating Plant",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Como Chemical Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Connersville Blower Company",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Consolidated Railway Corporation",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Consolidated Railway Corporation",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Consumer Electronics Division",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Container Corporation Of America",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Continental Can Company, Incorporated",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Continental Ordnance Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Continental Steel",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Continental Steel Corporation",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Continental Steel Corporation - South Plant",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Corning Steel Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Countrymark Refinery",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Crawfordsville Electric Light And Power Company - Power Plant",
+        "city": "Crawfordsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Crawfordsville Heating Company",
+        "city": "Crawfordsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Crawfordsville Wire And Nail Company",
+        "city": "Crawfordsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Crosley Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Crosley Division, Avco Manufacturing Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Crosley Radio Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Crothersville High School, North Preston",
+        "city": "Crothersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Crown Laundry Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Croyton And Kinney",
+        "city": "Angola",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Cudahy Packing Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Cudahy Packing Company",
+        "city": "Calumet",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Cully Station Powerhouse",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Cummins Engine Co.",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Cummins Engine Company",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Cummins Engine Company, Building 2",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Cummins Engine Company, Building 60",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Cummins Engine Company, Building 60, Dryer",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Cummins Engine Company, Building 63, 1000 5th St.",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Cummins Engine Company, Building 64",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Cummins Engine Company, Building 64, Heat Treatment",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Cummins Engine Company, Building 64, Smoke Cell",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Cummins Engine Company, Building 64, Test Cell",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Cummins Engine Company, Building 64, Test Cell #222",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Cummins Engine Company, Building 64, Wind Tunnel",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Cummins Engine Company, Building 65",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Cummins Engine Company, Building 7",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Cummins Engine Company, Building 72",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Cummins Engine Company, Building 72, Mechanical Room",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Cummins Engine Company, Technology Center, Smoke & Pollution Exhaust, 3rd & Franklin",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Cummins Engine Company, Test Cell #220",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Curtiss Wright Propeller Division",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Dairy Farmers Of America, Incorporated",
+        "city": "Goshen",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Dana Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Dana Corporation",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Dana Corporation, Perfect Circle Division",
+        "city": "Hagerstown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Dana Plant",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Davis Cooperage Company",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Dayton And Muncie Traction Company",
+        "city": "Winchester",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Dean Forging Company",
+        "city": "Munice",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Dean Forging Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Decatur Strawboard Company",
+        "city": "Decatur",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Decatur Strawboard Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Decca Manufacturing Company, Division Brunswick Radio Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Defense Plant Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Delamar Copper Refining Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Delco Battery Operations Delco Remy Division General Motors Corporation",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Delco Radio Division General Motors Corporation",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Delco Remy Division Of General Motors Corporation",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Delphi Planing Mill And Hook Company",
+        "city": "Delphi",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Denison Hotel",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Design And Manufacturing Corporation",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Diamond Match Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Diamond Veneer And Lumber Company",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Dishergarh Power Supply Company - Dishergarh Power Plant",
+        "city": "Dishergarh",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Dodge Manufacturing Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Dominion Energy",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Doughnut Corporation Of America",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Dow Chemcial Company, 1200 Madison Ave.",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Dow Chemical Company, 10915 Zionsville Rd.",
+        "city": "Zionsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Drewry'S Limited U.S.A. Incorporated",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Duncan Electric Manufacturing Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Dupont Chemical Plant",
+        "city": "Circleville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "E.C. Atkins & Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "E.G. Hill Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "E.G.B. Louisville, Incorporated",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Eagle Knitting Company",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Eastern Asylum",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Eastern Indiana Hospital For Insane",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Ebner Ice And Cold Storage Company",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Economist Plow Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Edwardsport",
+        "city": "Plainfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Elgin, Joliet And Eastern Railway Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Eli Lilly",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Eli Lilly And Company",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Eli Lilly And Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Eli Lilly And Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Eli Lilly And Company, Marylin Street",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Eli Lilly, Building 93, Mccarty St. Complex",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Eli Lilly, Tippecanoe Laboratories, Building T-26",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Elkhart Packing Corporation",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Elkhart Water Company - Water Works",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Elwood Electric Light Company - Plant",
+        "city": "Elwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Emge Packing Company, Incorporated",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Emge Packing Company, Incorporated",
+        "city": "Ft. Branch",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Empire Oil And Refining Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Empire Refining Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Energy Cooperative, Incorporated",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "English Hotel",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Erie Railroad Company",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Erwin Mills, Incorporated",
+        "city": "Burlington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Essroc",
+        "city": "Sellersburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Ethel Visqueen Ethel Corporation",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Evans Milling Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Evansville And Princeton Traction Company",
+        "city": "Princeton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Evansville And Princeton Traction Company",
+        "city": "Ft. Branch",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Evansville And Southern Traction Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Evansville Brewing Association",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Evansville Cotton Manufacturing Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Evansville Electric Railway Company - Power House",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Evansville Gas & Electric Light Company - Power Station",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Evansville Packing Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Evansville Public Service Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Evansville Street Railway",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Excelsior Brick Company",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "F.W. Cook Brewing Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "F.W. Means And Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Fairbanks aka Breed Power Plant",
+        "city": "Fairbanks",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Fairbanks-Morse Electrical Manufacturing Company - Manufacturing Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Falstaff Brewing Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Fame Laundries, Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Farmers Marketing Association",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Firestone Industrial Products Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Firestone Products, Incorporated",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Firestone Tire And Rubber Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Firestone Tire And Rubber Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Fisher Body Division Of General Motors Corporation",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Flint And Walling Manufacturing Company",
+        "city": "Kendallville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Fort Ben Harrison",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Fort Wayne Electric Works - Manufacturing Plant",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Frankford Power Plant",
+        "city": "Frankford",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Frankfort City Light & Power - Power Plant",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Frankfort City Light And Power",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Franklin Steam Plant",
+        "city": "West Franklin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Frederick Dietz Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "French Lick Springs Hotel Company",
+        "city": "French Lick",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Ft. Wayne & Northern Indiana Traction Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Ft. Wayne & Northern Indiana Traction Company",
+        "city": "Spy Run",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Ft. Wayne & Northern Indiana Traction Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Ft. Wayne & Southwestern Traction Company",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Ft. Wayne And Springfield Railway",
+        "city": "Decatur",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Ft. Wayne And Wabash Valley Traction Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Ft. Wayne Consolidated Railway Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Ft. Wayne Lamp Works",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Ft. Wayne Tailoring Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Ft. Wayne Traction Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Fuhrer-Ford Milling Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "G & J Tire Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "G.H. Hammond Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "G.I. Sellers And Sons Company",
+        "city": "Elwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Gaar, Scott & Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Gardners Ice Cream Company",
+        "city": "Greencastle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Gary Sheet And Tin Mill",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Gary Steel Works",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Gary Tin Mill",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Gatx Terminals Corporation",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Gatx Terminals Corporation - Plant 3",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "General Electric - Manufacturing Plant",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "General Electric - Plastics Plant",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "General Electric - Wire Mill Operation",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "General Electric Company - Manufacturing Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "General Electric Plant",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "General Foods Corporation",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "General Mills",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "General Motors Corporation Delco Radio Division",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "General Motors Corporation Speedway",
+        "city": "Marion County",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "General Motors Corporation, Chevrolet Muncie Division",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "General Motors Foundry",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "General Motors Plant",
+        "city": "Bedford",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "General Motors Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "General Motors, Allison Division, Facility D, Plant 8, Phase Ii",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "General Motors, Allison Division, Phase Iv",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "General Motors, Allison Division, Research Laboratories, Plant 8",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "General Tire And Rubber Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "General Tire Plant",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "George T. Evans And Son",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Gibson Generating Station",
+        "city": "Princeton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Ginger Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Glidden Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Glucose Sugar Refining Company",
+        "city": "Davenport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Goldschmidt Detinning Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Goshen Milk Division",
+        "city": "Goshen",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Grass Roots Mylar Plant",
+        "city": "Olin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Grasselli Chemical Company",
+        "city": "Grasselli",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Grasselli Chemical Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Grasselli Chemical Division",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Great Western Mining Company",
+        "city": "Delphi",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Guide Lamp Division Of General Motors Corporation",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "H. Fendrich, Incorporated",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "H.J. Andrews Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "H.J. Heinz Company",
+        "city": "Princeton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Halt Ice And Cold Storage Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Hanover College - Library",
+        "city": "Hanover",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Hanover College - Student Union Building",
+        "city": "Hanover",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Hanover College - Women'S Residence Hall",
+        "city": "Hanover",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Harbison-Walker Refractories Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Hart Glass Manufacturing Company",
+        "city": "Dunkirk",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Hartford City Lighting Company - Power Plant",
+        "city": "Hartford City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Haskell And Barker Car Company",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Hayes Brothers, Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Heise Brothers",
+        "city": "Orleans",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Heise Brothers And Company",
+        "city": "Orleans",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Hercules Buggy Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Hess Oil",
+        "city": "St. Croix",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Highland Iron & Steel Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Holcroft Engineering Company",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Home Brewing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Home Heating And Lighting Company - Power Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Hoosier Desk Company",
+        "city": "Jasper",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Hoosier Drill Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Hoosier Manufacturing Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Hoosier Ordnance Plant",
+        "city": "Charlestown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Hulman And Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Hunter Laundering And Dyeing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Huntington Light And Fuel Company - Power Plant",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Hydraulic Press Brick Company",
+        "city": "Porter",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Hydraulic Press Brick Company",
+        "city": "Brazil",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Hydro-Electric Light & Power Company - Power Plant",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Ideal Mining Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Illinois Steel Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Imperial Drop Forge Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Indian Harbor Works Plant #2; Station #4Ac",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Indiana & Michigan Electric Company",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Indiana & Michigan Power",
+        "city": "Mishauka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Indiana And Michigan Electric Company - Marion Power Plant",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Indiana And Michigan Electric Company - Power Plant",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Indiana And Michigan Electric Company - Twin Branch Plant",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Indiana Army Ammunition Plant",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Indiana Army Ammunition Plant, Building #703",
+        "city": "Charlestown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Indiana Army Ammunition Plant, Change Houses & Parking",
+        "city": "Charlestown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Indiana Asylum",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Indiana Board And Filler Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Indiana Board And Filler Company",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Indiana Cotton Mills",
+        "city": "Cannelton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Indiana Deaf And Dumb Institute",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Indiana Deaf And Dumb Institute",
+        "city": "Broad Ripple",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Indiana Furniture Manufacturing Company",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Indiana General Service Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Indiana General Service Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "Indiana Glass Company",
+        "city": "Dunkirk",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Indiana Harbor",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Indiana Harbor Works",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Indiana Harbor Works",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Indiana Hotel Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Indiana Manufacturing Company",
+        "city": "Peru",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Indiana Masonic Home",
+        "city": "Franklin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Indiana Michigan Power - Breed Power Plant",
+        "city": "Fairbanks",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Indiana Michigan Power - Tanners Creek Plant",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Indiana Michigan Power Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Indiana Northern Tract Company",
+        "city": "La Fontaine",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Indiana Power & Light Power Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Indiana Power & Light Steam Plant",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Indiana Power Company - Edwardsport Power Plant",
+        "city": "Edwardsport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Indiana Power Company - Electric Light And Power Plant",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Indiana Power Plant",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Indiana Quarries Company",
+        "city": "Oolitic",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Indiana Railroad Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Indiana Railways And Light Company - Power Plant",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Indiana Refinery",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Indiana Reform School For Boys",
+        "city": "Painfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Indiana Refrigerating Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Indiana Rubber And Insulated Wire Company",
+        "city": "Jonesboro",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Indiana Service Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Indiana Soldiers' And Sailors' Children'S Home",
+        "city": "Knightstown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Indiana Soldiers' And Sailors' Orphans' Home",
+        "city": "Knightstown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Indiana State Farm",
+        "city": "Putnamville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Indiana State Farms",
+        "city": "Putnamville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Indiana State Reformatory",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Indiana State School For The Deaf",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Indiana Steel And Wire Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Indiana Steel Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Indiana University",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Indiana University Hospital",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Indiana University, Library",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Indiana University, Mentally Retarded Resource Center, Residence Center Utilities",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Indiana Utilities Company - Power Plant",
+        "city": "Angola",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Indiana Wood Preserving Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Indiana-Kentucky Electric (Ikec) Power Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Indiana-Kentucky Electric Corporation - Clifty Creek Power Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Indiana-Michigan Electric - Tanners Creek Station",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Indiana-Michigan Industries Powerhouse",
+        "city": "Rockport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Indianapolis Abattoir Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Indianapolis And Cincinnati Traction Company",
+        "city": "Rushville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Indianapolis And Eastern Railway Company",
+        "city": "Philadelphia",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Indianapolis And Eastern Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Indianapolis And Louisville Traction Company",
+        "city": "Scottsburch",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Indianapolis Bleaching Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Indianapolis City Hospital",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Indianapolis Columbus And Southern Traction Company",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Indianapolis Columbus And Southern Traction Company",
+        "city": "Edinburgh",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Indianapolis Columbus And Southern Traction Company",
+        "city": "Edinsburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Indianapolis Crawfordville And Western Tractor Company",
+        "city": "Crawfordsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Indianapolis Drop Forging Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Indianapolis Drop Longing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Indianapolis Gas Company - Langsdale Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Indianapolis Light & Power Company - Generating Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Indianapolis Northern Traction Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Indianapolis Nothwestern Tract Company",
+        "city": "Lebanon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Indianapolis Power & Light Company- Perry K Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "Indianapolis Power & Light Company- Perry W Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Indianapolis Power & Light Company- Petersburg Generating Station",
+        "city": "Petersburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Indianapolis Rubber Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Indianapolis Shelbyville And Southeastern Traction Company",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Indianapolis Street Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Indianapolis Traction And Terminal Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Indianapolis Union Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Indianapolis Water Company - Riverside Pumping Station",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Inland Steel",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Inland Steel",
+        "city": "Burns Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Inland Steel Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Inland Steel Company",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Inland Steel Corporation",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Inland Steel Mill",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Inland Steel Mill",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Inland Works",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Innis Pearce And Company",
+        "city": "Rushville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Insane Asylum State Of Indiana",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Insane, Longcliff",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "International Beef Packers",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "International Furniture Company",
+        "city": "Rushville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "International Harvester",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "International Harvester",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "International Harvester Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "International Harvester Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "International Paper",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Interstate Public Service Company",
+        "city": "Goshen",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Interstate Public Service Company",
+        "city": "Lebanon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Ispat Inland Steel Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "J. Roy Mattingly",
+        "city": "Loogootee",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "J.B. Speed And Company",
+        "city": "Speeds",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "J.B. Speeds And Company",
+        "city": "Speeds",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "J.T. Foley And Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "J.W. And E. Schmidt",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "J.W. And Edw Schmidt",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "J.W. Davis Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Jasper Corporation",
+        "city": "Jasper",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Jasper Municipal Electric Utility - Jasper 2 Power Plant",
+        "city": "Jasper",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Jasper Municipal Electric Utility - Plant",
+        "city": "Jasper",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Jeff Boat & Machine Co.",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Jeff Boat Shipyard",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Jefferson County Jail",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Jefferson Smurfit Corporation, Wabash Mill",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Jeffersonville Boat And Machine",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Jesse French Corporation",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "John E. Beggs",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "John Mcvoy And Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "John Wachtel Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Johns Manville Products Corporation",
+        "city": "Alexandria",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Johnson Creamery Company",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Jones And Laughlin Steel Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Jos. L. Ebner",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Joseph E. Seagram And Sons, Incorporated",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Joseph L. Ebner",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Kamm And Schellinger Brewing Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Keck Connerman Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Keller Manufacturing Company",
+        "city": "Corydon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Kely Brothers And Company",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Kerr Murray Manufacturing Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Keyes Fibre Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Kieffer Paper Mills",
+        "city": "Ewing",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Kieffer Paper Mills",
+        "city": "Brownstone",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Kingan And Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Kingsbury Ordnance Plant",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Knerr Board And Paper Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Knight Brinkerhoff Piano Company",
+        "city": "Brazil",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Knightstown Water & Light - Water And Light Plant",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Kokomo Plating",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Kokomo Public Schools",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Kokomo, Marion, & Western Traction Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Krell Auto Grand Piano Company",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Krell French Piano Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Kruse And Dewentel",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "L.E. And W. Railway Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "La Porte Electric Company - Power Plant",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "La Porte Gas And Electric Company - Power Plant",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Lafayette Boy Board Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Lafayette Car Works",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 625,
+        "company": "Lafayette Coal Company",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Lafayette Gas Company - Artificial Gas And Electric Lighting Plant",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Lafayette Home Hospital",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Lafayette Street Railway Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Lake Cities Electric Railway Company - Power Plant",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Lake Shore And Michigan Southern Railway Company",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Laughry Brothers Milling And Grain Company",
+        "city": "Monticello",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Lawrenceburg Powerhouse",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Lebanon Heating Company - Water Heating Plant",
+        "city": "Lebanon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Lehigh Portland Cement Company",
+        "city": "Mitchell",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Lever Brothers Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Light And Power Plant",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Light And Power Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Light Heat And Power Company",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Linde Company, Division Of Union Carbide Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Link Belt Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Link Belt Company, Ewart Works",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Logansport Heating Company",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Logansport Muni Util",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Logansport Municipal Utilities - Generating Plant",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Logansport Power Plant",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Lomer Armored Tire Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Loudon Packing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Louisville Cement Company",
+        "city": "Speed",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Louisville Cement Corporation",
+        "city": "Speed",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "Ltv Corporation",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Ltv Steel",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "Ltv Steel",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Lutheran Hospital",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Lyon And Greenleaf",
+        "city": "Ligonier",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "M. Rumely Company",
+        "city": "La Porte",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "M.C. Henly",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "M&I Electric Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 665,
+        "company": "Madison Light And Railway Company - Power Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Madison Steam Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Mansfield Engineering Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "Marbon Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Marhoefer Packing Company, Incorporated",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "Marion Branch National Home For Disabled Volunteer Soldiers",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "Marion Light And Heating Company - Light And Heating Plant",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "Marion Paper Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "Mark Manufacturing Company",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Marmon And Parry",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Marmon Motor Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Martinsville Gas And Electric Company - Gas Plant",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "Martinsville Light, Heat, Power And Water Company - Gas Plant",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Martinsville Water Works Company - Martinsville Water Plant",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Maxwell Briscoe Motor Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Maxwell Motor Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Maxwell Motor Company, Incorporated",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Maxwell Motor Corporation",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Mccray Refrigerator Company",
+        "city": "Kendallville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Mcdougall Company",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Mchenry-Millhouse Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Mcwilliams And Company",
+        "city": "Linden",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Mead Johnson And Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Mead Johnson And Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "Medland Steel Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "Memorial Hospital",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Mengel Box Company",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 694,
+        "company": "Merchants Building Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "Merchants Distilling Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Merchants Heat And Light Company - Power Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Merchants' Electric Light Association - Electric Light And Water Plant",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Metal And Thermit Corporation",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Methodist Hospital",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Methodist Hospital Of Gary, Incorporated",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Miami Fort Power Plant",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Michelin Tire North America",
+        "city": "Woodburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Michigan City And Northern Indiana Gas Company - Gas Plant",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Midland Steel Company",
+        "city": "Muncis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Midland Steel Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Midwest Steel Corporation, Division National Steel Corporation",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Miles Laboratory",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Mirant Corporation",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Mishawaka Water Works Company - Water Works",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "Mishawaka Woolen Manufacturing Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Missouri Valley Bridge And Iron",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Mitchell, Ind",
+        "city": "Mitchell",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Mittal Steel",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Model Laundry Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Monitor Furniture Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Morgan Packing Company",
+        "city": "Austin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "Moss American, Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 721,
+        "company": "Mount Vernon High School",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Mount Vernon Stram Board",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Mount Vernon Straw Board Company",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Mt. Vernon Powerhouse",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "Mt. Vernon Refinery",
+        "city": "Mt. Vernon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Muncie And Portland Traction Company",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Muncie Electric Light Company - Power Plant",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 729,
+        "company": "Muncie Water Works Company - Water Works",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Muncie, Hartford And Fort Wayne Railway",
+        "city": "Eaton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "Municipal Electric Light Dept. - Power Plant",
+        "city": "Kendallville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Murphy Distilling Company",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Naas Corporation",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Nass Food, Incorporated",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "National Biscuit Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "National Fruit Juice Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "National Home For Disabled Volunteer Soldiers",
+        "city": "Grant Co",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "National Home For Disabled Volunteer Soldiers",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "National Light, Heat And Power Company",
+        "city": "Bloomington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "National Malleable Casting Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "National Military Home",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "National Rolling Mills Company",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "National Rolling Mills Company",
+        "city": "Hartford City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "National Starch & Chemical Corporation, 1515 Drover St.",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "National Starch And Chemical Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "National Starch Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 750,
+        "company": "National Starch Manufacturing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 751,
+        "company": "National Starch Products, Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 753,
+        "company": "National Steel",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 754,
+        "company": "National Tile Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 755,
+        "company": "National Tube Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 756,
+        "company": "National Tube Company Plant",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 757,
+        "company": "New Albany Veneering Company",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 758,
+        "company": "New Albany Water Works - Water Works",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 759,
+        "company": "New Castle Light, Heat, And Power Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 760,
+        "company": "New Energy Corporation Of Indiana",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 761,
+        "company": "New Jersey Zinc Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 762,
+        "company": "New York Central System",
+        "city": "Gibson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 763,
+        "company": "New York Central System",
+        "city": "Elkhart",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 764,
+        "company": "New York Central System, Beech Grove",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 766,
+        "company": "New York Railroad Company",
+        "city": "Gibson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 767,
+        "company": "Nipsco Coal Power Plant",
+        "city": "Wheatfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 769,
+        "company": "Noblesville Heat, Light And Power Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 770,
+        "company": "Noblesville Milling Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 771,
+        "company": "Noblesville Milling Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 772,
+        "company": "Noblitt Sparks Industries Incorporated",
+        "city": "Columbus",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 773,
+        "company": "Nordyke And Marmon Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 774,
+        "company": "Nordyke And Marmon Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 775,
+        "company": "North, Frazier Company",
+        "city": "Bluffton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 776,
+        "company": "Northern Hospital For Insane",
+        "city": "Long City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 777,
+        "company": "Northern Hospital For Insane",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 778,
+        "company": "Northern Hospital For Insane",
+        "city": "Longcliffe",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 780,
+        "company": "Northern Ind Public Service Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 781,
+        "company": "Northern Indiana Gas & Electric Company - Heating Plant",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 783,
+        "company": "Northern Indiana Gas & Electric Company - Power Plant",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 785,
+        "company": "Northern Indiana Power Company",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 786,
+        "company": "Northern Indiana Public Service",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 787,
+        "company": "Northern Indiana Public Service",
+        "city": "Chesterton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 788,
+        "company": "Northern Indiana Public Service",
+        "city": "Merrillville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 790,
+        "company": "Northern Indiana Public Service",
+        "city": "Wheatfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 791,
+        "company": "Northern Indiana Public Service Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 792,
+        "company": "Northern Indiana Public Service Company",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 793,
+        "company": "Northern Indiana Public Service Company",
+        "city": "Baileytown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 795,
+        "company": "Northern Indiana Public Service Company",
+        "city": "Wheatfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 796,
+        "company": "Northern Indiana Public Service Company - Dean H. Mitchell Generating Station - Unit 11",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 797,
+        "company": "Northern Indiana Public Service Company - Michigan City Generating Station",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 798,
+        "company": "Northern Indiana Public Service Company- Bailly Generating Station - Unit 7",
+        "city": "Chesterton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 799,
+        "company": "Northern Indiana Public Service Company- Bailly Generating Station - Unit 8",
+        "city": "Chesterton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 800,
+        "company": "Northern Indiana Utilities Company - Steam Plant",
+        "city": "Fowler",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 801,
+        "company": "Ohio Falls Iron Company",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 802,
+        "company": "Ohio Falls Town Company",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 804,
+        "company": "Old Quaker Company",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 805,
+        "company": "Old Vincennes Distillery",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 806,
+        "company": "Olin Industries",
+        "city": "Olin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 807,
+        "company": "Olin Mathiesen",
+        "city": "Olin",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 808,
+        "company": "Oliver Chilled Plow Works",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 810,
+        "company": "Oliver Corporation",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 811,
+        "company": "Oliver Hotel",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 814,
+        "company": "Oliver Plow Works - Plant 2",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 815,
+        "company": "Omar Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 816,
+        "company": "Omar Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 818,
+        "company": "Owens Bottle Company",
+        "city": "Greenfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 819,
+        "company": "Owens-Illinois Glass Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 820,
+        "company": "Palmer Steel And Iron Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 821,
+        "company": "Paranite Wire And Cable Corp Division Essexwire Company",
+        "city": "Jonesboro",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 822,
+        "company": "Paranite Wire And Cable Corp Division Essexwire Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 823,
+        "company": "Parry Manufacturing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 824,
+        "company": "Patent Vulcanite Roofing Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 825,
+        "company": "Penn System",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 826,
+        "company": "Pennsylvania Central Railroad",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 827,
+        "company": "Pennsylvania Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 829,
+        "company": "Pennsylvania Company, Lines West Of Pittsbugh",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 830,
+        "company": "Pennsylvania Lines, West Of Pittsburgh",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 831,
+        "company": "Pennsylvania Railroad Lines, West Of Pittsburgh",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 832,
+        "company": "People'S Light And Heat Company - Power Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 833,
+        "company": "Peoples Brewing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 834,
+        "company": "Perfect Circle Company",
+        "city": "Hagerstown",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 835,
+        "company": "Perfection Tire And Rubber Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 836,
+        "company": "Peru Electric Manufacturing Company - Manufacturing Plant",
+        "city": "Peru",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 837,
+        "company": "Phelps Dodge Copper Products Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 839,
+        "company": "Phelps Dodge Magnet Wire Corporation",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 840,
+        "company": "Philadelphia Quartz Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 841,
+        "company": "Philco Corporation",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 842,
+        "company": "Piel Brothers Starch Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 843,
+        "company": "Pillsbury Farms",
+        "city": "Orleans",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 844,
+        "company": "Pioneer Hat Works",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 845,
+        "company": "Pittsburg Plate Glass Company",
+        "city": "Elwood",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 846,
+        "company": "Pittsburg Plate Glass Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 847,
+        "company": "Pittsburgh Plate Glass Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 848,
+        "company": "Pittsburgh, Cincinnati, Chicago And St. Louis Railroad",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 849,
+        "company": "Pittsburgh, Cincinnati, Chicago And St. Louis Railroad",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 850,
+        "company": "Pittsburgh, Cincinnati, Chicago And St. Louis Railroad",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 851,
+        "company": "Pittsburgh, Cincinnati, Chicago And St. Louis Railway Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 852,
+        "company": "Pittsburgh, Cincinnati, Chicago, And St. Louis Railroad",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 853,
+        "company": "Plymouth Fertilizer Company",
+        "city": "Plymouth",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 855,
+        "company": "Pneu Tech Rubber",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 856,
+        "company": "Portage Ind. Bethlehem Steel",
+        "city": "Portage",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 857,
+        "company": "Princeton Mining Co",
+        "city": "Princeton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 858,
+        "company": "Producers Dairy Marketing Association, Incorporated",
+        "city": "Orleans",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 859,
+        "company": "Producers Marketing Association",
+        "city": "Orleans",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 860,
+        "company": "Progress Laundry Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 861,
+        "company": "Protestant Deaconess Hospital",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 862,
+        "company": "Psi Energy Incorporated",
+        "city": "Edwardsport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 863,
+        "company": "Psi Wabash Powerhouse",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 864,
+        "company": "Pt Components",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 865,
+        "company": "Public Ledger Building",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 866,
+        "company": "Public Service Co. Of Indiana - Cayuga Generating Station",
+        "city": "Cayuga",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 867,
+        "company": "Public Service Co. Of Indiana - Cayuga Generating Station - Unit 1",
+        "city": "Cayuga",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 868,
+        "company": "Public Service Co. Of Indiana - Gallagher Generating Station",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 869,
+        "company": "Public Service Company Of Indiana - Cayuga Generating Station",
+        "city": "Cayuga",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 870,
+        "company": "Public Service Company Of Indiana - Wabash River Generating Station",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 871,
+        "company": "Public Service Company Of Indiana - Wabash River Generating Station - Unit 3",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 872,
+        "company": "Public Service Company Of Indiana - Wabash River Generating Station - Unit 6",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 873,
+        "company": "Public Service Company Of Indiana, Incorporated",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 874,
+        "company": "Public Service Company Of Indiana, Incorporated",
+        "city": "Cayuga",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 875,
+        "company": "Public Service Company Of Indiana, Incorporated",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 876,
+        "company": "Public Service Company Of Indiana, Incorporated",
+        "city": "Edwardsport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 877,
+        "company": "Pullman Standard Company",
+        "city": "Michigan City",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 878,
+        "company": "Purdue Calumet Center Technology Building",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 879,
+        "company": "Purdue University",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 880,
+        "company": "R.C.A. Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 883,
+        "company": "Radio Corporation Of America, Building 22",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 884,
+        "company": "Radio Corporation Of America, Plant #5, 3301 South Adams St.",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 885,
+        "company": "Raybestos-Manhattan Plant",
+        "city": "Crawfordsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 886,
+        "company": "Refinery",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 887,
+        "company": "Reid Memorial Hospital",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 888,
+        "company": "Reilly Tar & Chemical Corporation - Indianapolis Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 890,
+        "company": "Reilly Tar & Chemical Corporation, 1800 South Tibbs",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 891,
+        "company": "Reilly Tar And Chemical Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 892,
+        "company": "Reilly Tar And Chemical Company, Republic Creosoting Division",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 894,
+        "company": "Reilly Tar And Chemical Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 895,
+        "company": "Republic Aviation Corporation",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 896,
+        "company": "Republic Creosoting Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 897,
+        "company": "Republic Iron And Steel Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 899,
+        "company": "Republic Iron And Steel Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 900,
+        "company": "Republic Steel Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 901,
+        "company": "Rex Manufacturing Company",
+        "city": "Connersville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 902,
+        "company": "Rex Manufacturing Company",
+        "city": "Carsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 903,
+        "company": "Richardson Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 904,
+        "company": "Richmond Light Heat And Power Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 905,
+        "company": "Richmond Street And Interurban Railway Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 906,
+        "company": "Richmond Street And Interurban Railway Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 907,
+        "company": "Rochester Electric Light Heat And Power Company - Power Plant",
+        "city": "Rochester",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 908,
+        "company": "Rockport Power Plant",
+        "city": "Rockport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 909,
+        "company": "Rockport Water Works - Water Works And Electric Plant",
+        "city": "Rockport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 910,
+        "company": "Rockwood Manufacturing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 911,
+        "company": "Rockwool Plant",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 912,
+        "company": "Rolls Royce, Plant 5",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 913,
+        "company": "Rose Polytechnic Institute",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 914,
+        "company": "Ross Brothers And Whistler",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 915,
+        "company": "Rossiter, Macgovern & Company",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 916,
+        "company": "Rossville Union Distillery",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 917,
+        "company": "Rub-No-More Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 918,
+        "company": "Rubber Factory",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 919,
+        "company": "Rubber Regenerating Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 920,
+        "company": "Rubbers Synthetics",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 921,
+        "company": "Rude Brothers Manufacturing Company",
+        "city": "Liberty",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 922,
+        "company": "S. Ellen Jones Elementary School",
+        "city": "New Albany",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 923,
+        "company": "S.E. Hospital For The Insane",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 924,
+        "company": "Sandusky Portland Cement Company",
+        "city": "Syracuse",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 925,
+        "company": "Sanyo",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 926,
+        "company": "Saxton Mine",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 927,
+        "company": "Schacht Rubber Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 928,
+        "company": "Schacht Rubber Manufacturing Company",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 929,
+        "company": "Schafer Power Plant",
+        "city": "Wheatfield",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 930,
+        "company": "Schenley Distillers, Incorporated",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 931,
+        "company": "Schenley Distrilleries, Incorporated",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 932,
+        "company": "Seagram Distilling Company",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 933,
+        "company": "Seeger Refrigerator Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 935,
+        "company": "Sefton Manufacturing Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 936,
+        "company": "Servel Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 937,
+        "company": "Servel, Incorporated",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 938,
+        "company": "Shell Petroleum Corporation",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 939,
+        "company": "Sheller Manufacturing Company",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 940,
+        "company": "Sheller Wood Rim Manufacturing Company",
+        "city": "Portland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 943,
+        "company": "Sherwood Templeton Coal Company",
+        "city": "Linton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 944,
+        "company": "Sigeco F B Culley Generatingstation",
+        "city": "Newburgh",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 945,
+        "company": "Sinclair Oil Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 946,
+        "company": "Sinclair Refining Co",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 947,
+        "company": "Singer Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 948,
+        "company": "Singer Manufacturing Company, Factory #3",
+        "city": "South Benn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 949,
+        "company": "Sisters Of Providence",
+        "city": "St. Mary'S",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 950,
+        "company": "Sisters Of Providence",
+        "city": "St. Marys",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 951,
+        "company": "Sliger And Holloway",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 952,
+        "company": "Smith Cabinet Company",
+        "city": "Salem",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 954,
+        "company": "Smith Cabinet Manufacturing Co.",
+        "city": "Salem",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 955,
+        "company": "Smith Cabinet Manufacturing Company",
+        "city": "Salem",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 957,
+        "company": "Smurfit-Stone Corporation",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 958,
+        "company": "Snider Preserve Company",
+        "city": "Fairmount",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 959,
+        "company": "Socony Mobil Oil Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 960,
+        "company": "Socony Vacuum Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 961,
+        "company": "Socony Vacuum Oil Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 964,
+        "company": "Socony-Vacuum Oil Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 965,
+        "company": "South Bend Beverage And Ice Association",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 966,
+        "company": "South Bend Brewing Association",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 967,
+        "company": "South Bend Brewing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 968,
+        "company": "South Bend Iron Works",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 969,
+        "company": "South Bend Pump Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 970,
+        "company": "South Bend Toy Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 971,
+        "company": "South Bend Wagon Works",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 972,
+        "company": "South Eastern Hospital For The Insane, Pumping Plant",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 973,
+        "company": "Southeast Development Corporation",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 974,
+        "company": "Southern Hospital For Insane",
+        "city": "Madison",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 975,
+        "company": "Southern Indiana Gas & Electric",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 978,
+        "company": "Southern Indiana Gas & Electric - F. B. Culley Generating Station",
+        "city": "Newburgh",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 979,
+        "company": "Southern Indiana Gas And Electric - Warrick Power Plant",
+        "city": "Newburgh",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 980,
+        "company": "Southern Indiana Gas And Electric Company - Ohio River Plant",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 981,
+        "company": "Southern Indiana Power Company",
+        "city": "Williams",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 983,
+        "company": "Southern Indiana Railway Company",
+        "city": "Bedford",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 984,
+        "company": "Southern Indiana Railway Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 985,
+        "company": "Southern Railway Company",
+        "city": "Princeton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 987,
+        "company": "Southwest Feed Mill, Indiana Farm Bureau",
+        "city": "Loogootee",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 989,
+        "company": "Speedway",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 990,
+        "company": "St Marys Medical Center",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 992,
+        "company": "St. Francis Convent",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 994,
+        "company": "St. Francis Health Services",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 995,
+        "company": "St. Francis Hospital",
+        "city": "Beech Grove",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 996,
+        "company": "St. Joseph Memorial Hospital",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 997,
+        "company": "St. Joseph'S Hospital",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 998,
+        "company": "St. Margaret Hospital",
+        "city": "Merriillville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 999,
+        "company": "St. Margaret Hospital",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1000,
+        "company": "St. Mary-Of-The-Woods",
+        "city": "St. Mary'S",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1001,
+        "company": "Standard Distilling And Distributing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1002,
+        "company": "Standard Forgings Company",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1003,
+        "company": "Standard Oil",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Standard Oil Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1005,
+        "company": "Standard Oil Company Of Indiana",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1006,
+        "company": "Standard Steel Car Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Standard Wheel Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Stauffer Chemical Co",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Steam Generator Plant",
+        "city": "Lawrenceburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Steel And Tube Company Of America",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Steel Tube Company Of America",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "Stein, Hirsh & Company",
+        "city": "Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "Stellite Rolling Mill",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Stephenson Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Sterling Brewers Incorporated",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "Sterling Laundry Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "Sterling Products Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "Stokely Brothers And Company",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "Stokely Brothers And Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1024,
+        "company": "Stone And Pipe Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1025,
+        "company": "Studebaker Brothers Manufacturing Company",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "Studebaker Plant",
+        "city": "South Bend",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1028,
+        "company": "Sugar Refrigerator Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Sunbeam Electric & Manufacturing Company - Manufacturing Facility",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "Swift And Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1031,
+        "company": "T.A. Snider Preserve Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1032,
+        "company": "Tennis Company Evansville And Eastern Railway Company",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1033,
+        "company": "Terre Haute Brewing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1034,
+        "company": "Terre Haute Electric Company - Power Plant",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "Terre Haute Electric Railway Company - Station Plant",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1036,
+        "company": "Terre Haute Paper Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "Terre Haute, Indianapolis And Eastern Traction Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "Terre Haute, Indianapolis And Eastern Traction Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "Textile Machine Works",
+        "city": "Rockwell",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "Thieme And Wagner Brewing Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "Thompson And Norris Company Of Indiana",
+        "city": "Brookville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1042,
+        "company": "Tidewater Associated Oil Company",
+        "city": "Bayonne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "Toledo And Chicago Railroad Company",
+        "city": "Auburn",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1044,
+        "company": "Toledo, St Louis And Western Railroad Company",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1045,
+        "company": "Town Of Rockville",
+        "city": "Rockville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "Townsend, Reed And Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "Townsend, Reed And Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "Townsend, Reed And Company",
+        "city": "Huntington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "Townsend, Reed And Company",
+        "city": "Shelbyville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "Townsend, Reed And Company",
+        "city": "Lebanon",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "Transfer/Moved",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1052,
+        "company": "Turbo-Blower House",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "Twin Branch Power Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "U.S. Reduction Plant",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "U.S. Rubber Plant",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "U.S. Steel Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1057,
+        "company": "U.S. Steel Mill",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "U.S. Steel, Coke Works, Water Pollution",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "Underwood Manufacturing Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1060,
+        "company": "Union Carbide Chemical Plant",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1061,
+        "company": "Union Carbide Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "Union Carbide Corporation",
+        "city": "Kokomo",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "Union Carbide Corporation",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1064,
+        "company": "Union Carbide Corporation",
+        "city": "Speedway",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1065,
+        "company": "Union Drawn Steel Company",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1066,
+        "company": "Union Fraction Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "Union Real Estate Building",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1068,
+        "company": "Union Tank Car Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1069,
+        "company": "Union Tank Line",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Union Tank Line Company",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Union Traction Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Union Traction Company Of Indiana",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1073,
+        "company": "United Box Board Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1074,
+        "company": "United Paper Board Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1075,
+        "company": "United Public Service - Power Plant",
+        "city": "Rochester",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1076,
+        "company": "United Refrigerator Company",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1077,
+        "company": "United States Metals Refining Company",
+        "city": "Grasselli",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1078,
+        "company": "United States Rubber Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "United States Rubber Company",
+        "city": "Mishawaka",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1080,
+        "company": "United States Steel Corp.",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "United States Steel Corporation",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1082,
+        "company": "Univeristy Of Notre Dame",
+        "city": "Notre Dame",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1083,
+        "company": "Universal Portland Cement Company",
+        "city": "Buffington",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1084,
+        "company": "University Of Notre Dame (Rotc)",
+        "city": "Notre Dame",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "Us Rubber Company",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "Us Steel Corp Gary Works",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "Van Camp Packing Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1088,
+        "company": "Van Camp Packing Company",
+        "city": "Martinsville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "Vandalia Coal Company",
+        "city": "Case",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1090,
+        "company": "Vandalia Coal Company",
+        "city": "South Linton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "Vandalia Railroad Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1092,
+        "company": "Vectren",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1093,
+        "company": "Vieths Paper Mills",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1094,
+        "company": "Vincennes Citizens Street Railway Company",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1095,
+        "company": "Vincennes Packing Company",
+        "city": "Elinora",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1096,
+        "company": "Vincennes Paper",
+        "city": "Vincennes",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1098,
+        "company": "Visking Corporation",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1099,
+        "company": "Volney Felt Mills",
+        "city": "Brookville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1100,
+        "company": "W.C. Routh And Company",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1101,
+        "company": "W.E. Ralph And Company",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1102,
+        "company": "Wabash Cabinet Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1103,
+        "company": "Wabash Clay Company",
+        "city": "Veedersburg",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1104,
+        "company": "Wabash Electric Light Company - Power Plant",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1105,
+        "company": "Wabash Paper Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1106,
+        "company": "Wabash River Power Plant",
+        "city": "Terre Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1107,
+        "company": "Wabash River Traction Company",
+        "city": "Kellers Station",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1108,
+        "company": "Wabash School Furniture Company",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1109,
+        "company": "Wabash Valley Electric Company - Power Plant",
+        "city": "Clinton",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1110,
+        "company": "Wabash Water And Light Company - Power Plant",
+        "city": "Wabash",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1112,
+        "company": "Wadhams Oil Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1113,
+        "company": "Walter Bledsoe And Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1114,
+        "company": "Warchester Cons",
+        "city": "Frankfort",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1115,
+        "company": "Warner Corporation",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1116,
+        "company": "Warner Gear Company",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1117,
+        "company": "Warner Gear Division",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1118,
+        "company": "Warner Gear Division, Borg Warner Corporation",
+        "city": "Muncie",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1119,
+        "company": "Warrick Power Plant",
+        "city": "Warrick",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1120,
+        "company": "Wayne Co-Operative Milk Producers Incorporated",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1121,
+        "company": "Wayne County Court House",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1122,
+        "company": "Wayne Knitting Mills",
+        "city": "Ft. Wayne",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1123,
+        "company": "Wayne Works",
+        "city": "Richmond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1124,
+        "company": "Weborn Memorial Baptist Hospital",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1125,
+        "company": "Welborn Memorial Baptist Hospital",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1127,
+        "company": "Wellborn Memorial Baptist Hospital",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1128,
+        "company": "West Baden Springs Company",
+        "city": "West Baden",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1129,
+        "company": "Western Asylum",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1130,
+        "company": "Western Drop Forge Company",
+        "city": "Marion",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1131,
+        "company": "Western Electric",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1132,
+        "company": "Western Glucose Company",
+        "city": "Roby, Hammond",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1133,
+        "company": "Westinghouse, Church, Kerr And Company",
+        "city": "Lafayette",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1134,
+        "company": "Westinghouse, Church, Kerr And Company",
+        "city": "Anderson",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1135,
+        "company": "Weston Paper And Manfacturing Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1136,
+        "company": "Weston Paper Company",
+        "city": "Terra Haute",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1138,
+        "company": "Whirlpool Corp",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1140,
+        "company": "Whirlpool-Seeger Corporation",
+        "city": "Evansville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1141,
+        "company": "White River Light And Power Company",
+        "city": "Noblesville",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1142,
+        "company": "Whiteland High School",
+        "city": "Whiteland",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1143,
+        "company": "Whiting Refinery",
+        "city": "Whiting",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1145,
+        "company": "William Cadick And Son",
+        "city": "Grand View",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1146,
+        "company": "William Cadick And Son",
+        "city": "Rockport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1147,
+        "company": "William E. English",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1149,
+        "company": "Wilson And Company, Limited",
+        "city": "Logansport",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1150,
+        "company": "Winona And Warsaw Railway Company",
+        "city": "Winona Lake",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1151,
+        "company": "Wiona And Warsaw Railway",
+        "city": "Warsaw",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1152,
+        "company": "Wisconsin Steel",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1153,
+        "company": "Woolen And Callon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1154,
+        "company": "Woollen Collon",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1155,
+        "company": "World Bestos Division, Firestone Tire And Rubber Company",
+        "city": "New Castle",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1156,
+        "company": "Yankee Town Power Plant",
+        "city": "Yankee Town",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1157,
+        "company": "Youngstown Sheet & Tube",
+        "city": "Gary",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1158,
+        "company": "Youngstown Sheet And Tube Company",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1159,
+        "company": "Youngstown Sheet And Tube Company",
+        "city": "Indiana Harbor",
+        "state": "IN",
+        "visibility": ""
+      },
+      {
+        "id": 1160,
+        "company": "Youngstown Steel Mill",
+        "city": "East Chicago",
+        "state": "IN",
+        "visibility": ""
+      }
+     ]
+}

@@ -1,0 +1,3798 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "114 South St.",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Aberdeen Proving Grounds",
+        "city": "Aberdeen",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Allied Chemical Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Alpha Rho Chapter Kappa Delta Sorority",
+        "city": "College Park",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Aluminum Ore Company",
+        "city": "Sollers Point",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Aluminum Plant",
+        "city": "Buckeystown",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Amerada Hess Corporation, Baltimore Terminal, 6200 Pennington Ave.",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Amercian Tobacco Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Can Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Can Company",
+        "city": "Halethorp",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Can Company, Morton Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "American Ice Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "American Medicinal Spirits Company, Incorporated",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "American Mirrex Corporation",
+        "city": "Salisbury",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "American Radiator And Standard Sanitary Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "American Smelting & Refining",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "American Smelting And Refining Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "American Strawboard Company",
+        "city": "Chestertown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "American Sugar Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "American Sugar Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Sugar Refining Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "American Tobacco Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Tobacco Company, Felgner Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Andrews Air Force Base, 250 Unit Family Housing",
+        "city": "Camp Springs",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Andrews Air Force Base, Nose Dock, Prince Georges County",
+        "city": "Camp Springs",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Antietam Paper Company",
+        "city": "Antietam",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Antietam Paper Company",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Armco Steel Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Army Map Service",
+        "city": "Brookmont",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Arthur Tufts",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Ashburton Heating Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Atlas Powder Company",
+        "city": "Perryville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Atomic Energy Commission",
+        "city": "Germantown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Bainbridge Navy Shipyard",
+        "city": "Bainbridge",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Baltimore & Ohio Railroad Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Baltimore & Ohio Railroad Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Baltimore And Ohio Railroad Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Baltimore And Ohio Railroad Company",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Baltimore And Ohio Railroad Company, Office Building.",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Baltimore Bleach Dye And Finishing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Baltimore Chrome Works",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Baltimore City Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Baltimore City Jail",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Baltimore Copper Smelting & Rolling Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Baltimore Copper Smelting & Rolling Company",
+        "city": "Canton, Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Baltimore Copper Works",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Baltimore Electric Power Company - Gould Street Generating Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Baltimore Electric Refining Company - Hayden Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Baltimore Gas & Electric Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Baltimore Gas & Electric Company - Calvert Cliffs Nuclear Power Plant",
+        "city": "Lusby",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Baltimore Gas & Electric Company - Calvert Cliffs Nuclear Power Plant - Turbine Room",
+        "city": "Lusby",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Baltimore Gas & Electric Company - Charles P. Crane Generating Station",
+        "city": "Chase",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Baltimore Gas & Electric Company - Gould Street Generating Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Baltimore Gas & Electric Company - Herbert A. Wagner Generating Station",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Baltimore Gas & Electric Company - Herbert A. Wagner Generating Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Baltimore Gas & Electric Company - Herbert A. Wagner Generating Station - Unit #4",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Baltimore Gas & Electric Company - Herbert A. Wagner Generating Station - Unit 3",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Baltimore Gas & Electric Company - Herbert A. Wagner Generating Station - Unit 4",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Baltimore Gas & Electric Company - Riverside Generating Station",
+        "city": "Dundalk",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Baltimore Gas & Electric Company - Westport Generating Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Baltimore Gas And Electric Company - Spring Garden Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Baltimore Housing Authority",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Baltimore ISD",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Baltimore Manufacturing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Baltimore Pure Rye Distilling Company",
+        "city": "Dundalk",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Baltimore Resco",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Baltimore Sewage Pumping Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Baltimore Sheet And Tin Plate Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Baltimore Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Baltimore Shipyard",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Baltimore Steam",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Baltimore Sugar Refining Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Baltimore Thermal",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Baltimore United Oil Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Balto Copper Smelting And Rolling Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Bartgis Brothers Company",
+        "city": "Ilchester",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Bartlett Hayward Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Bay View Asylum",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Bayview Medical Center",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Bedford Station Apartments",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Bendix-Broenig Highway",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Bernheimer Brothers",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Beta Shoe Company",
+        "city": "Belcamp",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Beth Steel 68\" Hot Strip Mill",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Bethesda Naval Hospital",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Bethesda Naval Shipyard",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Bethlehem Naval Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Bethlehem Shipyard",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Bethlehem Steel - Sparrows Point",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Bethlehem Steel - Sparrows Point Shipyard",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Key Highway",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Bethlehem Steel Corporation - Sparrows Point Steel Mill - Gas Pumping Stations",
+        "city": "Edgemere",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Bethlehem Steel Corporation - Sparrows Point Steel Mill - Penwood Power Plant",
+        "city": "Edgemere",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Bethlehem Steel Corporation - Sparrows Point Steel Mill - Sheet And Tin Plate Plant",
+        "city": "Edgemere",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Bethlehem Steel Corporation, 7th St. Steam Station, Southside",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Bethlehem Steel Corporation, B St. Steam Station, Southside",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Bethlehem Steel Corporation, Key Highway Yard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Bethlehem Steel Corporation, Mechanical Maintenance, Paint Storage",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill (Includes Penwood Powerhouse)",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, #9 Pump House",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, 1 To 12 Coke Oven Batteries",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, A & B Plant Scrubbers",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, A Plant (Coke Ovens)",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, B Plant (Coke Ovens)",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Benzene Boiler House",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Benzene Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Blast Furnace",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Coke Oven",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, East Pump Room",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Exhaust Building (Coke Ovens)",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Light Oil Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Lintol Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Lytol Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Number H Pump House",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Open Hearth",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Pipe Mill",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Soaking Pits",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Sulphurizing Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Tin Mill",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, West Pump Room",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Bethlehem Steel Corporation, Sparrows Point Steel Mill, Wire Mill",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Bethlehem Steel Mill",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Bethlehem Steel Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Bethlehem Steel Shipyard, Sparrows Point",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Black & Decker",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Black And Decker Manufacturing Company",
+        "city": "Hampstead",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Bladenwood Condominiums",
+        "city": "Greenbelt",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Board Of Child Care, Gymnasium",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Bon Secours Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Borg Warner Corporation, York Division",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Boston & Ohio Railroad Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Boston Metals Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Boys Village Of Maryland",
+        "city": "Cheltenham",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Bradford Oaks Nursing Home",
+        "city": "Clinton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Brandon Shores Generating Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Bristol Paper Products Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Broad-Neck Waste Water Treatment Plant",
+        "city": "Anne Arundel",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Broadbent And Davis Mantel Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Broadway Services",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Bwi Airport",
+        "city": "Bwi Airport",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "C. & P. Telephone Company - Data Processing Center",
+        "city": "Cockeysville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Cabin John Junior High School #0606",
+        "city": "Potomac",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Calvert Distilling Company",
+        "city": "Relay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Calvert Sugar Refining Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Canton Box Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Carlings Brewery",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Carrollan Manor Apartments",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Caso Standard Oil Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Cecil County Commissioners",
+        "city": "Elkton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Cecil Paper Company Limited",
+        "city": "Elkton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Celanese Corporation Of America",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Celanese Corporation Of America",
+        "city": "Amcelle",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Celanese Corporation Of America",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Chalk Point",
+        "city": "Prince George County",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Chalk Point Powerhouse",
+        "city": "Swanson'S Creek",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Chalk Point Powerhouse",
+        "city": "Prince George'S County",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Charles L. Carter Cecil Mills",
+        "city": "Singerly",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Chesapeake Bay Plywood Corporation",
+        "city": "Pocomoke City",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Chesapeake Paper Board Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Chestnut Hill Apartments",
+        "city": "Temple Hills",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Chevron Asphalt Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "City Baking Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "City Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Cloverdale Farms Dairy Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Coca Cola Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Coconut Products Corporation",
+        "city": "Canton, Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Colonial Hardwood Flooring Company",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Columbia",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Columbia Graphophone Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Columbia Mall",
+        "city": "Columbia",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Condea Vista Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Congoleum-Nairn, Incorporated",
+        "city": "Cedarhurst",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Conoco Chemical Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Consolidated Gas Electric Light And Power Company - Riverside Generating Station",
+        "city": "Dundalk",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Constellation Energy - H.W. Oliver Central Power Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Consumers Ice Company",
+        "city": "Chrisfield",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Continental Can Co",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Continental Can Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Continental Oil Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Continental Trust Company Building",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Corkran Hill And Company, Incorporated",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Crook Kries Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Crosse And Blackwell Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Crown Cork & Seal",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Crown Cork And Seal Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Crown Cork And Seal Company, Highlandtown",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Curtis Bay Copper And Iron Works",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Curtis Bay Distillery Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Curtis Bay Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Curtis Bay Shipyard",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Curtis Bay Works",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Davidson Chemical Division",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Davison Chemical",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Days Inn",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Dc Government",
+        "city": "Glenn Dale",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Defense Plant Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Delmarva Power & Light Company - Vienna Power Plant",
+        "city": "Vienna",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Dickerson Powerhouse",
+        "city": "Frederick",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Dickerson Powerhouse",
+        "city": "Dickerson",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "District Training School",
+        "city": "Laurel",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Domino Sugar",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Dow Chemical",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Dunbar High School",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Dupont Chemical",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Dushane And Ensur",
+        "city": "Woodbine",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "E.W. Horstmeir And Son",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Eastern Rolling Mills",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Eastern Shore Public Service Company",
+        "city": "Vienna",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Eastern Shore Public Service Company",
+        "city": "Salisbury",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Eastern Stainless Steel",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Eclipse",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Eddco Supply Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Edison Electric Illuminating Company - Power Plant",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Edward V. Stockham, Incorporated",
+        "city": "Havre De Grace",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Elkridge Club And Elkridge Fox Hunting",
+        "city": "Towson",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Enterprise Steam And Hot Water Heating Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Esso Standard Oil Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Eyerly'S Department Store, Halfway Blvd.",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "F. & M. Schaefer Brewing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Fairchild",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Fairfield Yard, Seafreeze Atlantic",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Felippe A. Broadbent Mantel Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Firestone Plant",
+        "city": "Perryville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Firestone Plastic Company",
+        "city": "Salisbury",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Fleischmann Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Fluid Mechanics Lab & Wind Tunnel",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Fmc Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Fmc Corporation, Fairfield Chemical Division",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Fort Meade",
+        "city": "Fort Meade",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Foxhall Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Francis Scott Key Medical Center",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Frederick And Hagerstown Power Company - Security Power Plant",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Friendship Airport",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "G.B.M.C. Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "G.W. Gail And Ax",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "G.W. Gail And Ax Branch",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Gambill Sons And Company",
+        "city": "Woodberry",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Gambrill And Sons",
+        "city": "Woodberry",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "General Electric - Middle River Aircraft Systems",
+        "city": "Middle River",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "General Electric Company - Appliance Park East - Dryer Building",
+        "city": "Columbia",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "General Motors",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "General Motors Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "General Motors/Fisher Body",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "General Refractories Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "General Refractories Company",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "George P. Whitaker",
+        "city": "Furnace",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Gibbs And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Gibbs Preserving Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Glen L. Martin Company - Manufacturing Facility",
+        "city": "Middle River",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Glen Martin Aircraft",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Glen Martin Aircraft Corporation",
+        "city": "Middle River, Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Glenn L. Martin Company",
+        "city": "Middle River, Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Glenndale Hospital",
+        "city": "Glenndale",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Government Of District Of Columbia",
+        "city": "Laurel",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Grace Division",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Grainsville",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Green Contracting Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Greenwald Packing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Greenwald Packing Company, Union Stockyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Gulf Oil",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Gulf Stream",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Gunther Brewing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Gunther'S Brewery",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Hagerstown And Frederick Railway Company",
+        "city": "Security",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Hagerstown Municipal Electric Power & Light - Municipal Electric Light Plant",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Hamms Brewery",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Hannis Distilling Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Harbison-Walker",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Harbor Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Harlan & Brother",
+        "city": "Elkton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Hawthorne'S Restaurant",
+        "city": "Greenbelt",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Hess Oil Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "High Points High School",
+        "city": "Prince George'S County",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Hinde And Dauch Paper Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Holand Park Apartments",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Holiday Inn",
+        "city": "Laurel",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Holly Hall Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Hooker Chemical And Plastics Corporation",
+        "city": "Perryville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Howard County Board Of Education, Administration Building",
+        "city": "Ellicott City",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Hughes And Rigby Engineering Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Ibm Corporation, Facility",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "J.F. Ford Fords Grand Opera House",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Jemcor Realty Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Jessup And Moore Paper Company",
+        "city": "Randor Mills- Elkton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Jessup And Moore Paper Company, Kenmore Mills",
+        "city": "Providence",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "John Dushane And Company, Woodbine Mills",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "John H. Heald And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Johns Hopkins Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Johns Hopkins Hospital - Marlboro Building",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Johns Hopkins Hospital, 2nd Ahu Dispensary Building",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Johns Hopkins Hospital, Blalock Building, Orbiskop Room",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Johns Hopkins Hospital, Brady Building, Urological Patient",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Johns Hopkins Hospital, Childrens Clinic, Room 1204",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Johns Hopkins Hospital, Hunterian Hall",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Johns Hopkins Hospital, Powerhouse",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Johns Hopkins University, Physiology Building, Room 518, North Wolfe St.",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Johns Hopkins University, School Of Hygiene, Monument & Wolfe Sts",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Joseph E. Seagram And Sons, Incorporated",
+        "city": "Relay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Joseph E. Seagram Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Kaiser Aluminum",
+        "city": "Halethorpe",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Kaiser Aluminum Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Kay Management Company",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Kaydon Ring And Seal, Incorporated",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Kelly Springfield Tire Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Key Highway Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Keyser Building, Adams And Schwab",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Kimball Tyler And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Kingan And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Klots Throwing Company",
+        "city": "Lonaconing",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Klots Throwing Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Koppers Company, Incorporated, Metals Products Division",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Krebs Pigment And Color Corporation",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Lehigh Portland Cement",
+        "city": "Union Bridge",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Lehigh Portland Cement Company",
+        "city": "Union Bridge",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Lever Brothers",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Liberty Place Apartments",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Locke Incorporated",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Locke Insulators",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Locust Point",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Lord Baltimore Press",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Louis Yaekel Building",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Maces Lane School",
+        "city": "Cambridge",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Mack Truck",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Marine Department",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Marlborough Apartments",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Marlow Towers Condominiums",
+        "city": "Suitland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Martin Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Maryland Biscuit Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Maryland Coal Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Maryland Distillery, Incorporated",
+        "city": "Relay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Maryland Distilling Company",
+        "city": "Relay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Maryland Dry Dock",
+        "city": "Brooklyn",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Maryland Drydock Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Maryland Ice Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Maryland Pavement Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Maryland Portland Cement Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Maryland Portland Cement Company",
+        "city": "Bissell",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Maryland Portland Cement Company",
+        "city": "Security",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Maryland Ship Building & Drydock Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Maryland Shipbuilding",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Maryland Shipbuilding & Drydock Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Maryland Shipbuilding & Drydock Company, Dredge Essayons",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Maryland State Sanitorium",
+        "city": "Sabillasville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Maryland Steel Company",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Maryland Steel Company Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Maryland Steel Company, Sparrows Point",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Maryland Steel Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Maryland Terminals Company",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Maryland Terminals Company, Curtis Bay",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Maryland Terminals Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Mccullough Iron Company",
+        "city": "North East",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Mercy Hospital, St. Paul & Saratoga Sts.",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Mexican Petroleum Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Mid Atlantic Coca Cola",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Mirant Corporation",
+        "city": "Aquasco",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Montebello Hospital, Vocational Rehabilitation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Morgantown Powerhouse",
+        "city": "Morgantown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Morton Reed And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Mount Clare",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Mount Royal Pumping Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Mount Vernon Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Mount Vernon Mills",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Mount Vernon Shops, Pennsylvania Railroad",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Mount Vernon Woodberry Mills Incorporated",
+        "city": "Woodberry",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Mount Washington Electric Light And Power Company - Power Plant",
+        "city": "Mt. Washington",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Mount Wilson Tuberculosis Sanitarium",
+        "city": "Mt. Wilson",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Mutual Chemical Company Of America",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Mutual Chemical Company, Division Of Allied Chemical Dye Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "N. And G. Taylor Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Nasa - Goddard Space Flight Center - Central Power Plant And Service Shops",
+        "city": "Greenbelt",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Nasa Goddard Space Flight Center",
+        "city": "Greenbelt",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "National Brewery",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "National Bureau Of Standards, Fluid Mechanics Laboratory & Wind Tunnel",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "National Enameling And Stamping Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "National Gypsum Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "National Institute Of Health",
+        "city": "Poolesville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "National Institute Of Health, Building 10",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "National Institute Of Health, Building 31",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "National Institute Of Health, Buildings 3 & 12A & 29",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "National Sugar Manufacturing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Naval Ordinance",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Naval Ordinance Station",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Naval Propellant Plant",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Naval Propellant Plant, Building 724",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Naval Proving Ground",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Naval Proving Grounds",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Northern Central Elevator-Canton",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Norton Tin Plate And Can Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Old Mill School (Millersville)",
+        "city": "Glen Burnie",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Olin Mathieson Chemical Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Orangeville Shops",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Ox Fibre Brush Company",
+        "city": "Frederick",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Paddington Square Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Palmetto Fiber Company",
+        "city": "Frederick",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Park And Tilford Distillery Company",
+        "city": "Owings Mills",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Park Wayne Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Patapsco Scrap Yard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Pennsylvania Railroad",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Pennsylvania Railroad Company",
+        "city": "Highlandtown Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Pennsylvania Railroad Company Elevator",
+        "city": "Canton, Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Pennsylvania Steel Company",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Pennsylvania Sun",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Penwood Powerhouse",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Pepco",
+        "city": "Morgantown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Philadelphia Quartz Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Pocomoke Plywood Company",
+        "city": "Pocomoke City",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Potomac Edison Company - R. Paul Smith Power Station",
+        "city": "Williamsport",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Potomac Edison Company - Security Power Plant",
+        "city": "Hagerstown",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Potomac Electric Power Co. - Chalk Point Generating Station",
+        "city": "Aquasco",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Potomac Electric Power Company - Chalk Point Generating Station",
+        "city": "Aquasco",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Potomac Electric Power Plant",
+        "city": "Waldorf",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Potomac Public Service Company",
+        "city": "Williamsport",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Pratt St. Power House",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Procter And Gamble Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Procter And Gamble Manufacturing Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Proctor & Gamble Manufacturing Company, Project 1565-5",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Prudential Oil Corporation",
+        "city": "Wagners Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Public Ledger Paper Mills",
+        "city": "Elkton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Quaker Oats Feed Mill",
+        "city": "ST. Joseph",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Railroad B. & O., Coal Pier",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Ramada Inn",
+        "city": "Bethesda",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Reading Whitehall Paperboard",
+        "city": "Whitehall",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Regal Laundry And Zoric Dry Cleaners",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Revere Copper And Brass Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Richard Cromwell Trustee",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Richard Morton",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Riggs Distler Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Riggs, Distler And Stringer Incorporated",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Riverside Plaza Apartments",
+        "city": "Oxon Hill",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Rockland Industries",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Roland Park Electric And Water Company - Water Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Ross, Campbell And Company",
+        "city": "Powhaton",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Savage Manufacturing Company",
+        "city": "Savage",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Schaeffer'S Brewery",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Schenley Distillers, Incorporated",
+        "city": "Cedarhurst",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Scullin Steel Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Seafreeze Pacific",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Seagram'S - Dundalk Four Roses Plant",
+        "city": "Dundalk",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Sears, Roebuck & Company, Security Square",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Security Cement And Lime Company",
+        "city": "Security",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Serene Townhouse Village",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Service Building, Spring Garden",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Shadyside Garden Apartments",
+        "city": "Suitland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Sherwood Distillery",
+        "city": "Westminister",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Simkins Industries, Incorporated",
+        "city": "Catonsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Simkins Industries, Incorporated",
+        "city": "Ilchester",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Singer Learning Center",
+        "city": "Columbia",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Sligo Hill Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Sonneborn Building",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "South Baltimore General Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Sparrows Point",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Sparrows Point Shipyard",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Sparrows Point Shipyard",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Spring Garden Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "St. Agnes Hospital, 5th & 6th Floors",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "St. Agnes Hospital, 7th Floor",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "St. Agnes Hospital, Boiler House",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "St. Joseph'S Hospital",
+        "city": "Towson",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "St. Joseph'S Hospital",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Standard Oil Company Of New Jersey",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Stebbins And Sons",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Strickler Engineering Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Strickler Engineering Corporation",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Sun Ship",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Susquehanna Water, Power, And Paper Company - Power Plant",
+        "city": "Conowingo",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Sussex Street Station Apartments",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "T.J. Smith",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Tcs, Incorporated",
+        "city": "Oakland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Thomas Hill",
+        "city": "Moberly",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Thomas S. Wooten High School #0234",
+        "city": "Rockville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Thos, C. Basshon Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Thos. C. Basshor Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Tidewater Portland Cement Company",
+        "city": "Union Bridge",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Tin Decorating Company Of Baltimore",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Tin Plate Plant",
+        "city": "Sparrows Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Towson Investment Building",
+        "city": "Towson",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Trigen Baltimore Thermal Energy Corporation",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Twin Towers Apartment-Hotel, Montgomery County",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Tynes Smith Factory",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "U.S. Naval Academy",
+        "city": "Annapolis",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "U.S. Naval Academy, Central Heating Plant",
+        "city": "Annapolis",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "U.S. Naval Academy, Engineering Studies & Library",
+        "city": "Annapolis",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "U.S. Naval Academy, Library Building",
+        "city": "Annapolis",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Union Railroad",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Union Station",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "United Railways And Electric Company - Pratt St. Power Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "United States Coast Guard Station",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "United States Department Of Agriculture Agricultural Research Service",
+        "city": "Beltsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "United States Industrial Alcohol Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "United States Industrial Chemical Company",
+        "city": "Curtis Bay",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "United States Naval Powder Factory",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "United States Naval Proving Ground",
+        "city": "Indian Head",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "United States Veterans Hopital",
+        "city": "Perry Point",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "United States War Department, Ordnance Department",
+        "city": "Edgewood",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "University Of Maryland, Chapel",
+        "city": "College Park",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "University Of Maryland, Chemistry Lab",
+        "city": "College Park",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "University Of Maryland, Physics Lab",
+        "city": "College Park",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "US Naval Base",
+        "city": "Solomons",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Vienna Power Plant",
+        "city": "Vienna",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Vinyl Plastics",
+        "city": "Salisbury",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "W.E. Hooper And Sons",
+        "city": "Woodberry",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "W.R. Grace And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "W.R. Grace Company",
+        "city": "Columbia",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "W.R. Grace Company, 9500 Berger Rd.",
+        "city": "Columbia",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "W.R. Grace Company, Davidson Chemical Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "W.W. Taylor",
+        "city": "Havre De Grace",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Washington Adventist Hospital",
+        "city": "Takoma Park",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Washington Gas & Light Company - Chillum Substation",
+        "city": "Chillum",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Washington Gas Light Company - Facility",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Washington Snaitarium And Hospital",
+        "city": "Tacoma Park",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "West Virginia Pulp & Paper Mill",
+        "city": "Luke",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "West Virginia Pulp And Paper Company",
+        "city": "Luke",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Western Branch Sewage Treatment Plan",
+        "city": "Upper Marlboro",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Western Electric Company - Baltimore Works",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Western Electric Company - Baltimore Works - Building 70",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Western Maryland Railroad",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Westgate Apartments",
+        "city": "Laurel",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Westinghouse Electric And Manufacturing Company - Radio Division Plant",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Westinghouse Electric Company- Air Arm Division - Friendship International Airport",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Westinghouse, Church, Kerr And Company",
+        "city": "Cumberland",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Westminster Apartments",
+        "city": "Hyattsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Westvaco",
+        "city": "Luke",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Westvaco Corporation",
+        "city": "Luke",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Westvaco, Fine Papers",
+        "city": "Luke",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "William W. Tayor",
+        "city": "Westminister",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Wilson Distillery Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Windsor Court Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Windsor Tower Apartments",
+        "city": "Beltsville",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Windsor Tower Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Winona Interurban Railway Company",
+        "city": "Winona Lake",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Winsor Court Apartments",
+        "city": "Silver Spring",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Wise Brothers",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Wood Weeks And Company",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Woodmore Country Club",
+        "city": "Bowie",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Wr Grace",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Ymca",
+        "city": "Baltimore",
+        "state": "MD",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Zuckerman Gravely Management, Incorporated",
+        "city": "Chevy Chase",
+        "state": "MD",
+        "visibility": ""
+      }
+     ]
+}

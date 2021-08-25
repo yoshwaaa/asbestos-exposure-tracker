@@ -1,0 +1,6374 @@
+{
+    "results": [
+      {
+        "id": 1206,
+        "company": "6th Street Powerhouse",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 465,
+        "company": "7-Up Bottling Works",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 518,
+        "company": "A T & T Co. - Underground Coaxial Cable Bldg",
+        "city": "Boone",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 625,
+        "company": "A. H. Bennett Co.",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 626,
+        "company": "A. Y. Mcdonald Mfg. Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 694,
+        "company": "A.M. Bennett Company",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 756,
+        "company": "A.P. Green Refractories Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 695,
+        "company": "A.Y. Mcdonald Building",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "A.Y. Mcdonald Manufacturing Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 1064,
+        "company": "A&P Supermarket - S. Clinton St.",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 266,
+        "company": "AC Guberson Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 519,
+        "company": "Adel Clay Prod Co",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Adel Clay Products Company",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 1065,
+        "company": "Aid Insurance Building",
+        "city": "Des Monies",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 413,
+        "company": "Alcoa",
+        "city": "Riverdale",
+        "state": "IA",
+        "visibility": "visible"
+      },
+      {
+        "id": 414,
+        "company": "Alcoa",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Alcoa",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Alcoa Company",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Alcoa Plant Bldgs. 816-823 & 701-70",
+        "city": "Riverdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1066,
+        "company": "All Saints Catholic Church",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Allied Chemical",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1004,
+        "company": "Allied Construction Service",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1005,
+        "company": "Allied Construction Service",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Alter Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Aluminum Company Of America, Davenport Works",
+        "city": "Riverdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 11,
+        "company": "Aluminum Corporation Of America",
+        "city": "Riverdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 13,
+        "company": "Amana Refrigeration",
+        "city": "Amana",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Amana Refrigeration Inc.",
+        "city": "Amana",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "American Aluminum Co",
+        "city": "Webster City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "American Crystal Sugar",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1067,
+        "company": "American Legion Hall",
+        "city": "Hartley",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "American Republic Ins Co Bldg",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 740,
+        "company": "Ames Municipal Electric",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1207,
+        "company": "Ames Powerhouse",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Animal Diseases Laboratory",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 14,
+        "company": "Annis Supply Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Apco Oil Corporation",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Arco Chemical",
+        "city": "Ft Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 15,
+        "company": "Armour & Company",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Armour Plant",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 732,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Harlan",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1068,
+        "company": "Armstrong Department Store",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Armstrong High School",
+        "city": "Rockwell",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1,
+        "company": "Armstrong Rubber Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Art Brown Motors",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1007,
+        "company": "Art Gallery & Museum",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Atlantic Municipal Utiltites",
+        "city": "Atlantic",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1069,
+        "company": "Augustana Lutheran Church",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Ay Mcdonald Manufacturing Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1070,
+        "company": "Badger Lutheran Church",
+        "city": "Badger",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1071,
+        "company": "Bankers Life Building Addition",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1072,
+        "company": "Bankers Trust Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Basic Science Building",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1073,
+        "company": "Baxter Motor Company Dealership",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1208,
+        "company": "Beaver Channel Powerhouse",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Beck & Wagner",
+        "city": "Danville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Bennett High School",
+        "city": "Bennett",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Berkley & Co",
+        "city": "Spirit Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Berkley & Company",
+        "city": "Spirit Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Berwanger Boiler",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 16,
+        "company": "Bestwall Gypsum Company",
+        "city": "Ft Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Bestwall Gypsum Company",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1074,
+        "company": "Bethesda Hospital/Lutheran Hospital",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Bettendorf Community School",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Bettendorf High School",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Bettendorf Powerhouse",
+        "city": "Riverside",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1075,
+        "company": "Bishop Manufacturing",
+        "city": "Clarinda",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Bixby Co Inc W H",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Bixby W H Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Bixby W H Inc",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Bixby W I Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Bixby W I Inc",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Bixby, W.H. Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Bixby, W.H. Inc",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Bixby, W.H. Inc.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Blackhawk Foundry",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1077,
+        "company": "Bowl-Mor Alleys",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1076,
+        "company": "Bowlium/Tropic Lanes",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Brammer Manufacturing",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Brammer Mfg Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1078,
+        "company": "Britt United Methodist Church",
+        "city": "Britt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1079,
+        "company": "Brown Derby Restaurant",
+        "city": "Carroll",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Brown Lumber Company",
+        "city": "Raymond",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Builders Materials Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Burlington Generation Station",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Burlington High School",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "Burlington Northern Railroad",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Burlington Northern Santa Fe Railroad",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1209,
+        "company": "Burlington Power Plant",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Burpee Seed Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "C H Mcguiness Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "C.F. Braun & Company",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "C.H. Mcguiness Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "C.P. Braun & Company",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "California Chemical",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "California Chemical Company",
+        "city": "Ft Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1080,
+        "company": "Camanche Elementary School",
+        "city": "Camanche",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Campbell Chain Company",
+        "city": "W Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Can-Tex Industries",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Can-Tex Industries Brick",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Can-Tex Industries Brick",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Can-Tex Industries Div",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1081,
+        "company": "Canfield Hotel - Bar",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Cantex Industries Brick",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Cantex Industries Brick",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Cantex Industries Iowa",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1082,
+        "company": "Capital City Bank Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1083,
+        "company": "Capitol Square",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Cargill Company",
+        "city": "Washington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Cargill Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Cargill Soybean Plant",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Cargill, Incorporated",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Cargill, Incorporated",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Carnation Co.",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Carnation Co. - Waverly Iowa Plant",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Carnation Company",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Carnation Company Plant",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Carrol Rendering",
+        "city": "Carrol",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1084,
+        "company": "Carroll Recreation Center",
+        "city": "Carroll",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Case J I Co",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1085,
+        "company": "Castle Hill Elementary School",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Caterpillar Tractor Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "Caterpillar Tractor Co Inc - New Parts Plant",
+        "city": "Mount Joy",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Caterpillar Tractor Co.",
+        "city": "Mount Joy",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1210,
+        "company": "Cedar Falls Powerhouse",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Cedar Falls Utilities - Streeter Generating Station",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Cedar Falls Utilities - Streeter Unit 7",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Cedar Rapids Galvanizing",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1086,
+        "company": "Cedar Rapids Municipal Airport",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "Cedar Rapids Nuclear Powerhouse",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Celotex Corp",
+        "city": "Ft Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Celotex Corp.",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Celotex Corporation",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Celotex Corporation",
+        "city": "Ft Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1087,
+        "company": "Center Point School",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Central Asbestos & Supply",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "Central Catholic High School",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1088,
+        "company": "Central College - Learning Resource Center",
+        "city": "Pella",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Central Fire Station",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Central Iowa Heating",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Central Rubber & Supply Co. - State Sanitarium",
+        "city": "Oakdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 744,
+        "company": "Central Service Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Central Steel",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Central Steel Tube Co",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Central Steel Tube Company",
+        "city": "Clinton & Camanche",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Central Steel Tube Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Ch Mc Guiness Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Chamberlain Corporation",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Chamberlain Manufacturing",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Chamberlain Mfg Co",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Champion International",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Chemplex",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Chemplex Co",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Chemplex Constr Petrochem",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Chemplex Constr. Co.",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Chemplex Constra Petrochem",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Chemplex Construction",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Chemplex Construction Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 2,
+        "company": "Chemplex Construction Company - Chemical Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Chemplex Construction Company, Petrochemical",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Chemplex Corporation",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 738,
+        "company": "Chemplex Plant",
+        "city": "West Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1211,
+        "company": "Chemplex Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Chevron Chemical Co",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Chevron Chemical Co - Storehouse",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Chevron Chemical Company",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Chevron Oil Company",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Chicago & Northwestern Railroad",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 749,
+        "company": "Chicago Northwestern Railroad",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "City Laundering Co",
+        "city": "Oelwein",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "City Of Hartley - Municipal Power Plant",
+        "city": "Hartley",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "City Of Muscatine Power",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "City Plumbing Supply",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1089,
+        "company": "Clegg Park Elementary School",
+        "city": "West Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1212,
+        "company": "Clinton Corn Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Clinton Corn Processing C",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Clinton Corn Processing Co.",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "Clinton Corn Processing Co. - New Boiler Addition",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Clinton Corn Processing Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Clinton Engines Corp",
+        "city": "Maquoketa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Clinton Engines Corporation",
+        "city": "Maquoketa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1090,
+        "company": "Clinton Industries",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Co-Op Chemical",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1091,
+        "company": "Cobblestone Inn",
+        "city": "Storm Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1092,
+        "company": "Coe College Gymnasium",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Coggon Municipal Light Plant",
+        "city": "Coggon",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Cole Rendering Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1093,
+        "company": "Collegiate Presbyterian Church",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Collins Radio",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Collins Radio - Computer Data Bldg",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "Collins Radio Building",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1094,
+        "company": "Concrete Products - Manufacturing Plant",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Consolidated Packing Company",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Consumers Coop - Chemical Plt",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Consumers Coop - Chemical Plt",
+        "city": "Port Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Consumers Cooperative Assoc.",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Cooper Manuf Acturing Company",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Corn Belt Power Co-Op",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Corn Belt Power Cooperative - Earl F. Wisdom Generating Station",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Corn Belt Power Cooperative - Humboldt Steam Plant",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Corn Belt Power Corporation",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Corn Starch & Syrup",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Corn Sweeteners Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1213,
+        "company": "Council Bluffs Power Plant",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Council Bluffs Powerhouse",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Covenant Medical Center",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Craemer Produce Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Crandic Railroad Whse.",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Crandon Paper Mills, Incorporated",
+        "city": "Ft Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Crane Corporation",
+        "city": "Washington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1095,
+        "company": "Cresco Co-Op Creamery",
+        "city": "Cresco",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1096,
+        "company": "Crossroads Park Elementary School",
+        "city": "West Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1097,
+        "company": "Crossroads Square",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Crystal Heating & Plumbing",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Crystal Plumbing And Heating",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 708,
+        "company": "Cudahy Packing Company",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Dadco Corp",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Davenport Bank Bldg",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Davenport Bank Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Davenport Central High School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Davenport Community School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Davenport Machine",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Davenport Machine & Foundry Co. For Cargill Grain",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Davenport Osteopathic Hospital",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "Davenport Works",
+        "city": "Riverdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Delores Apartments - South Oak Avenue",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Demco Inc",
+        "city": "W Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Denison Hotel",
+        "city": "Denison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1098,
+        "company": "Des Moines Art Center",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1099,
+        "company": "Des Moines Embassy Club",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1100,
+        "company": "Des Moines International Airport",
+        "city": "Des Monies",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1101,
+        "company": "Des Moines Register & Tribune Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1102,
+        "company": "Des Moines Women's Club - Hoyt Sherman Place",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Dewey Port Tl Cem",
+        "city": "Linwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Dewey Portland Cement",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Dewey Portland Cement Company",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1103,
+        "company": "Dickinson County Memorial Hospital",
+        "city": "Spirit Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Donohoo Steel Treating",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Donohoo Steel Treating Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1008,
+        "company": "Dorman Field House",
+        "city": "Fayette",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Dr. Salsbury's Laboratory",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Drake University",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1104,
+        "company": "Drake University - Olmsted Center",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Dryden/Sheller Globe",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Duane Arnold Energy Center",
+        "city": "Palo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Duane Arnold Nuclear Powerhouse",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Duane Arnold Nuclear Powerhouses",
+        "city": "Palo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Dubuque Packing Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Dubuque Stone Products",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Dubuque Stove Products",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1105,
+        "company": "Duncombe Elementary School",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Dunohod Steel Treating",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 734,
+        "company": "Dupont Clinton Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Dupont Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "E I Dupont De Nemours & Co",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "E. I. Dupont De Nemours & Co.",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "E. I. Dupont De Nemours Co",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "E.I. Du Pont De Nemours & Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 713,
+        "company": "E.I. Du Pont De Nemours & Company, Chemical",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Eagle Iron Works",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1106,
+        "company": "Eagles Club",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1107,
+        "company": "East High School",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1108,
+        "company": "East Junior High School - 11Th And Morningside Ave",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Eastern Iowa Light& Power Co",
+        "city": "Montpelier",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Eaton Corporation",
+        "city": "Shenandoah",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Economy Roofing & Ins. Co.",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Eddyville Powerhouse",
+        "city": "Eddyville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1109,
+        "company": "Electric Park Bowling Alleys",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Elementary School Bldg.",
+        "city": "Mount Pleasant",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1110,
+        "company": "Elks Club Lodge",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1111,
+        "company": "Ellsworth Community College- Martin Ellsworth Dittmer Gymnasium",
+        "city": "Ellsworth",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Elwood Giberson Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1112,
+        "company": "Embassy Club",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1113,
+        "company": "Emmanuel Lutheran Church",
+        "city": "Grafton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1114,
+        "company": "Employers Mutual Insurance",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1115,
+        "company": "Employment Security Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Fairfield Aluminum Castin",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Fairfield Aluminum Casting Company",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Fairmont Cemetary",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1214,
+        "company": "Falls City Creamery Co.",
+        "city": "Falls City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Farm Bureau",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Farm Bureau Bldg",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1116,
+        "company": "Farm Bureau Building",
+        "city": "Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Farm Egg",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Farm Equipment Mfg Co",
+        "city": "Centerville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1009,
+        "company": "Farmers Elevator Insurance Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1117,
+        "company": "Farmers Mutual Reinsurance Bldg",
+        "city": "Grinnell",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 735,
+        "company": "Farmland Industries - Fertilizer Plant",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Farmland Industries Inc",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Finley Hospital",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Firestone",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1215,
+        "company": "Firestone Tire & Rubber Plant",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1119,
+        "company": "First Congregational Church",
+        "city": "Clear Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1120,
+        "company": "First Federal Savings & Loan Bldg",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1010,
+        "company": "First Federal Savings & Loan Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1121,
+        "company": "First Methodist Church",
+        "city": "Holstein",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "First Miss",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "First National Bank Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1122,
+        "company": "First Presbyterian Church",
+        "city": "Estherville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1123,
+        "company": "First United Methodist Church",
+        "city": "Chariton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Fisher Controls - Manufacturing Plant",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Fisher Controls Company",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Fisher Governor Co",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Fisher Governor Company",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1124,
+        "company": "Flora Dunlap School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "Fluor Corp.",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Fluor Corporation Limited",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Fmc Corporation",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1125,
+        "company": "Ford Garage Building",
+        "city": "Laurens",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Forest City Municipal Light Plant",
+        "city": "Forest City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Foster Wheeler For Chemplex Construction Co.",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Frank Foundries Corporation",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Frank L. Smart Junior High School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1126,
+        "company": "Franklin Apartments",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1127,
+        "company": "Franklin Apartments",
+        "city": "Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Franklin County General Hospital",
+        "city": "Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1128,
+        "company": "Franklin General Hospital",
+        "city": "Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1129,
+        "company": "Friends Of Faith Retirement Homes, Inc. - Freindship Village",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Fust Herman H & Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Fust Herman H And Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Galesburg Sr. High School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Gate City Steel",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "General Electric",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "General Mills, Incorporated",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "General Services Administration - Animal Disease Lab",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "George Neal Station North - Unit 1",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "George Neal Station South",
+        "city": "Salix",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Georgia Pacific Corporati",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Georgia Pacific Corporation",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Georgia Pacific Corporation",
+        "city": "Ford Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Giant Manufacturing Co",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Glenwood State Hospital School",
+        "city": "Glenwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Glenwood State School",
+        "city": "Glenwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Glick Supply Company",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Globe Machine & Supply Company",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Globe Machine & Supply Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Globe Machinery & Supply",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "Globe Machinery & Supply Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Glove Machinery",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1130,
+        "company": "Golf & Country Club",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1216,
+        "company": "Goodyear Tire & Rubber",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Graceland College",
+        "city": "Lamoni",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Graceland College",
+        "city": "Lamont",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Grain Processing Company",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Grain Processing Corp",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Grain Processing Corporation",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 736,
+        "company": "Grain Processing Corporation Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Grain Processing Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Grandview Baptist Church",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Grandwood School",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Grant School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Green Processing Corporation",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Green Valley Chemical Co",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Green Valley Chemical Company",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Griffin Pipe",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Griffin Pipe Products Co",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1131,
+        "company": "Griswold State Bank",
+        "city": "Griswold",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "H J Heinz Co",
+        "city": "Mascatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "H.J. Heinz Company",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1132,
+        "company": "Hahn Concrete Products - Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Hansen Brothers",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1133,
+        "company": "Happy Chef",
+        "city": "Clear Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Haweye Steel Production",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Hawkeye Chemical Co",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Hawkeye Chemical Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Hawkeye Chemical Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 741,
+        "company": "Hawkeye Laundry Co",
+        "city": "Boone",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1134,
+        "company": "Hawkeye Laundry Company",
+        "city": "Boone",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Hawkeye Steel Products",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1135,
+        "company": "Hefti's Locker Plant",
+        "city": "Luverne",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "Henderson Manufacturing",
+        "city": "Manchester",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1136,
+        "company": "Henry Field Seed Co.",
+        "city": "Shenandoah",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1137,
+        "company": "Herbert Hoover Junior High School",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Herman Fust Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1138,
+        "company": "High School-Junior High Building",
+        "city": "Kanawha",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1139,
+        "company": "Highland Park Lutheran Church",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Highway Surfacing Corporation",
+        "city": "Adair",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Highway Surfacing Corporation",
+        "city": "North Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Hills-McCanna",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1140,
+        "company": "Home Federal Saving And Loan Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "Home Federal Savings & Loan Association",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Home Federal Savings And Loan - Association Bldg",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1141,
+        "company": "Home Federal Savings And Loan Association",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1142,
+        "company": "Hon Industries",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Hooker Chemical Corporation",
+        "city": "Montpelier",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Hooker Chemical Corporation",
+        "city": "Buffalo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Hooker Chemical Corporation Phosphorus Division",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1143,
+        "company": "Hormel - Slaughtering And Processing Plant - Cold Storage",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1144,
+        "company": "Hormel Foods Corp. - Sausage Plant",
+        "city": "Knoxville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Hormel Plant",
+        "city": "Algona",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1145,
+        "company": "Hospital - Ottumwa Regional Health Center",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 647,
+        "company": "Hubinger Co.",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1218,
+        "company": "Humboldt Iowa Powerhouse",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Huttig Manufacturing",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Hy Grade Food Products",
+        "city": "Storm Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 690,
+        "company": "Idaho Electric Power & Water - Duane Arnold Nuclear Power Plant",
+        "city": "Palo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1146,
+        "company": "Immaculate Conception Church",
+        "city": "Sumner",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1147,
+        "company": "Immanuel Evangelical Reformed Church",
+        "city": "Latimer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Indianola Municipal Utilities - Downtown Power Plant",
+        "city": "Indianola",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "International Minerals & Chemical Corporation",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "International Minerals Corporation",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 648,
+        "company": "Interstate Pipe & Supply Co.",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "Interstate Power And Light Company - Burlington Generating Station",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "Interstate Power And Light Company - M.L. Kapp Generating Station",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Interstate Power Co",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Interstate Power Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1219,
+        "company": "Interstate Power Plant",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Interstate Powerhouse",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Iowa Air National Guard - Base Operations Office",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 3,
+        "company": "Iowa Air National Guard, Base Operations Office",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Iowa Army Ammunition Plant",
+        "city": "Middletown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Iowa Asbestos Co.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 718,
+        "company": "Iowa Asbestos Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1148,
+        "company": "Iowa College-Friley Hall",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 739,
+        "company": "Iowa Electric Light & Power - 6Th Street Station",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Iowa Electric Light & Power - Boone Power Station",
+        "city": "Boone",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Iowa Electric Light & Power - Sixth Street Power Station",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Iowa Electric Light & Power - Sutherland Station",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Iowa Electric Light & Power - Sutherland Station - Unit 3",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Iowa Electric Light & Power Co",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Iowa Electric Light & Power Co. - Centralized Load Dispatching Headquarters",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Iowa Electric Light & Power Company",
+        "city": "Spirit Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Iowa Electric Light & Power Company",
+        "city": "Perry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Iowa Electric Light & Power Company",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "Iowa Electric Light & Power Company - Duane Arnold Energy Center",
+        "city": "Palo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Iowa Electric Light & Power Company - Prairie Creek Generating Station",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Iowa Electric Light & Power Company - Sixth Street Generating Station",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Iowa Electric Light And Pow",
+        "city": "Iowa Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Iowa Electric Light And Pow",
+        "city": "Perry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Iowa Electric Light And Pow",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Iowa Electric Light And Power",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 733,
+        "company": "Iowa Electric Light And Power - Duane Arnold Power Plant",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Iowa Electric Light And Power Company - Spirit Lake Power Plant",
+        "city": "Spirit Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1149,
+        "company": "Iowa Falls High School",
+        "city": "Iowa Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1150,
+        "company": "Iowa Highway Commission - Administration Wing",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Iowa Illinois Gas & Electric",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Iowa Illinois Gas And Elect",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Iowa Illinois Thermal Insulation",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1220,
+        "company": "Iowa Light & Power",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1151,
+        "company": "Iowa Lutheran Hospital",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Iowa Malleable Iron Co",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Iowa Malleable Iron Company",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Iowa Manufacturing Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1152,
+        "company": "Iowa Methodist Hospital",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Iowa Mutual Insurance",
+        "city": "Dewitt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "Iowa Ordnance Plant",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Iowa Power & Light - Councils Bluffs Energy Center",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Iowa Power & Light - Ottumwa Generating Station",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 743,
+        "company": "Iowa Power & Light Co",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Iowa Power & Light Company - Vandalia Road",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Iowa Power And Light",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 4,
+        "company": "Iowa Power And Light Company - Vandalia Road Plant",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1221,
+        "company": "Iowa Power Plant",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1222,
+        "company": "Iowa Power Plant",
+        "city": "Lansing",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1223,
+        "company": "Iowa Power Plant",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Iowa Public Service",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1224,
+        "company": "Iowa Public Service",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Iowa Public Service Co - George Neal Station North",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Iowa Public Service Co - George Neal Station South",
+        "city": "Salix",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 5,
+        "company": "Iowa Public Service Co - George Neal Station South - Unit 2",
+        "city": "Salix",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Iowa Public Service Co.",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 659,
+        "company": "Iowa Public Service Co.",
+        "city": "Salix",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1153,
+        "company": "Iowa Public Services - District Office Building And Warehouse",
+        "city": "Humboldt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1011,
+        "company": "Iowa Sheet Metal Construction, 2601 Bell Ave.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Iowa Soldiers Home",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Iowa Southern - Burlington Generating Station",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 742,
+        "company": "Iowa Southern Utilities Co",
+        "city": "Centerville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Iowa Southern Utilities Co - Burlington Generating Station",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1226,
+        "company": "Iowa Southern Utility Powerhouse",
+        "city": "Eddyville",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Iowa State College - Physical Plant Dept.",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Iowa State Highway Commis",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Iowa State Highway Commision",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Iowa State Highway Commission",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1154,
+        "company": "Iowa State Highway Commission Headquarters",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Iowa State Penitentiary",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1227,
+        "company": "Iowa State University",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Iowa State University - Generator #5",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1155,
+        "company": "Iowa State University - Married Housing",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Iowa Steel & Iron Works",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "Iowa Veterans Home",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Iowa-Illinois Gas & Electric Company",
+        "city": "Ft Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Iron Public Service - Port Neal Station - Unit #2",
+        "city": "Salix",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "J. A. Neymeyer Co.",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "J. Deere Tractor",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "J. I. Case Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "J.F. Pritchard & Company",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "J.I. Case Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1228,
+        "company": "J.I. Case Plant",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "J.T. Case Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "J.W. Davis Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Jacob E. Decker & Sons",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 745,
+        "company": "Jaeger Mfg Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Jc Building Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1156,
+        "company": "Jc Penney Store - 500 Walnut Street",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1157,
+        "company": "Jc Penney Store - 607 Fourth St.",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1158,
+        "company": "Jefferson County Health Center",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1159,
+        "company": "Jefferson School",
+        "city": "Ft Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 719,
+        "company": "Jennie Edmundson Hospital",
+        "city": "Council Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1160,
+        "company": "Jennie Edmundson Hospital",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "John Deere - Dubuque Works - Power Plant",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1161,
+        "company": "John Deere - The Supervisors' Club",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "John Deere Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "John Deere Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "John Deere Des Moines",
+        "city": "Ankeny",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "John Deere Des Moines",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "John Deere Dubuque Tractor",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 720,
+        "company": "John Deere Dubuque Works",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1229,
+        "company": "John Deere Powerhouse",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "John Deere Tractor",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1230,
+        "company": "John Deere Tractor Plant",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "John Deere Tractor Works",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "John Deere Waterloo Wks",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "John Deere Works",
+        "city": "Ankeny",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "John Deere Works",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "John Deere Works",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "John Morrell & Co.",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1204,
+        "company": "Johns Manville Plant",
+        "city": "Wilton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Johnson Gas Appliance Com",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Johnson Gas Appliance Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1162,
+        "company": "Johnson Gas Manufacturing Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Johnson Machine Works, Incorporated",
+        "city": "Chariton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Johnson School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Johnston Tombigbee Furniture Manufacturing",
+        "city": "Chariton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Jones As Terminal Sts",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Jp Austin Associated Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1163,
+        "company": "Junior High School",
+        "city": "Red Oak",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Kahl Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Kalo Brick & Tile Co",
+        "city": "Kalo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1164,
+        "company": "Kenwood Methodist Church",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Keokuk County Heating Pla",
+        "city": "Sigourney",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Keokuk Steel Castings Co",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1165,
+        "company": "Killian's Department Store-Tea Room",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Kings Concrete Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1166,
+        "company": "Kings Crown Plaster Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Kiowa Corp",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Kiowa Corporation",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Kirkwood Motel",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1231,
+        "company": "Kohrs Packing Co.",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Kramer Produce",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Kromer Produce Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "L & L Insulation Company",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Lansing Power Plant - Interstate Power Co.",
+        "city": "Lansing",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "Lansing Power Station",
+        "city": "Lansing",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Latiner P M Mfg Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Lattiner P M Mfg Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Lattner P M Mfg Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Le Claire Manufacturing Company",
+        "city": "Le Claire",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Le Claire Mfg Co",
+        "city": "Le Claire",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Leclaire Manufacturing",
+        "city": "Leclaire",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1167,
+        "company": "Legion Hall",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1168,
+        "company": "Legion Hall",
+        "city": "West Branch",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Lehigh Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Lehigh Portland Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Lehigh Portland Cement Company",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Lehy Bridge & Tile",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Leopold Desk Company",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Link-Belt",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Linwood Stone",
+        "city": "Linwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Linwood Stone Prod Company",
+        "city": "Linwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Little Ralph",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1232,
+        "company": "Louisa Powerhouse",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1169,
+        "company": "Low Rent Housing - 10th And Crocker",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1233,
+        "company": "Lsu Electrical Power Plant",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Lusk Candy Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 722,
+        "company": "Lutheran Hospital",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1170,
+        "company": "Lyons & Carnahan - Warehouse Distribution Center",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "M. W. Kellogg Co.",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1012,
+        "company": "Machine Products Company",
+        "city": "Corydon",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1171,
+        "company": "Malek Theatre",
+        "city": "Independence",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1172,
+        "company": "Manly High School - Abbott Road",
+        "city": "Manly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1173,
+        "company": "Manson High School",
+        "city": "Manson",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1174,
+        "company": "Marian Health Center",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Marietta Cement Midwest Division",
+        "city": "Linwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1175,
+        "company": "Marion High School",
+        "city": "Marion",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Marquart Concrete Block C",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Marquart Concrete Block Co",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1176,
+        "company": "Marquart Concrete Block Co. - Manufacturing Plant",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Marshall Swift & Co",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1177,
+        "company": "Marshalltown Community College - Gymnasium",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1234,
+        "company": "Marshalltown Powerhouse",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 748,
+        "company": "Marshalltown Trowel Co",
+        "city": "Marshall Town",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Marshalltown Trowel Compa",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1178,
+        "company": "Martin Marietta Cement Co. - Cement Plant",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Mason City Brick & Tile",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Maytag",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 723,
+        "company": "Maytag",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Maytag Company",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Maytag Corporation",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Maytag Mfg Co",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1235,
+        "company": "Maytag Plant 2",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Mc Guiness C H & Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Mccarthy Improvement",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Mckinley School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Mechanical Department",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Medical Research Hospital",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Mental Health Institute",
+        "city": "Independence",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Mental Health Institute",
+        "city": "Cherokee",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Mental Health Institute",
+        "city": "Mount Pleasant",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "Mental Health Institute",
+        "city": "Mt. Pleasant",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1013,
+        "company": "Merchants National Bank",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1179,
+        "company": "Merchants National Bank Of Cedar Rapids",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Mercy Hospital",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1180,
+        "company": "Mercy Hospital",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Meredith - Publishing Plant",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1181,
+        "company": "Meredith Publishing Co.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1182,
+        "company": "Methodist Church",
+        "city": "Clarion",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1183,
+        "company": "Methodist Church",
+        "city": "Hampton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Mid America Dairymen Inc",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Midland Industries Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Midwest Carbide Corp",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Midwestern Pipe Contractors",
+        "city": "Belle Vue",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1184,
+        "company": "Miles Consolidated School",
+        "city": "Miles",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Milton Kapp Generating Station - Unit 2",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Mini Mite Inc",
+        "city": "Le Claire",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Mo West Sts Portland Cem",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 724,
+        "company": "Monsanto",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 693,
+        "company": "Monsanto Chemcial Company",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Monsanto Chemical Co",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "Monsanto Chemical Co.",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Monsanto Chemical Company",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1236,
+        "company": "Monsanto Chemical Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1237,
+        "company": "Monsanto Chemical Plant",
+        "city": "Muskatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Monsanto Co.",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Moore Engineering Inc",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Morgan Colonial Heating And",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1185,
+        "company": "Morningside College - Eppley Fine Arts Building",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1186,
+        "company": "Morningside/East High School - Mayhew And Cyprus St.",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1187,
+        "company": "Mt Arbor Nurseries",
+        "city": "Shenandoah",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Municipal Light & Power Co",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Municipal Power Plant",
+        "city": "Pella",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Municipal Power Plant",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "Municipal Power Plant",
+        "city": "Hartley",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Murray Iron Works",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Muscataine Municipal Elec Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Muscatine Community Ymca",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Muscatine Municiple Electric Plant",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Muscatine Power & Water - Muscatine Generating Station",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 6,
+        "company": "Muscatine Power & Water - Muscatine Generating Station Unit 9",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Muscatine Power & Water - Unit #9",
+        "city": "Muscatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "National Animal Disease",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "National Animal Disease",
+        "city": "Amos",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "National By Products Inc",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "National By Products Inc.",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "National Carbon Co.",
+        "city": "Red Oak",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "National Carbon Company",
+        "city": "Red Oak",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 725,
+        "company": "National Gypsum",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1188,
+        "company": "National Motor Inn",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1014,
+        "company": "National Travelers Life Insurance Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Natural Gas Pipeline Co. Of America - Station 108",
+        "city": "Truro",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Natural Gas Pipeline Company Of America - Station 107",
+        "city": "Emerson",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Natural Gas Pipeline Company Of America - Station 109",
+        "city": "Harper",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1118,
+        "company": "Neal Smith Federal Office Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1015,
+        "company": "New High School",
+        "city": "Maquoketa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Nichols Aluminum & Wire",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Nichols Aluminum Company",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Nichols Homeshield Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Nichols Wire",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Nichols Wire & Alum Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Nichols Wire & Alum Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Nichols Wire & Aluminum Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Nichols Wire And Aluminum C",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Nichols-Homeshield Inc",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "No West Sts Portland Cem",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "No West Sts Portland Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "North American Mfg Co",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1189,
+        "company": "North High School",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "North States Port Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Northern Indiana Gas & Electric",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1205,
+        "company": "Northern Natural Gas",
+        "city": "Ventura",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1238,
+        "company": "Northern Petro Chemical",
+        "city": "Joliet",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1016,
+        "company": "Northwest Bell Telephone Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1190,
+        "company": "Northwest National Bank - Fifth & Jackson",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1239,
+        "company": "Northwestern Bell",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1191,
+        "company": "Northwestern Bell Telephone Building - Pleasant Street",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Northwestern Portland Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1240,
+        "company": "Northwestern States Portland Cement",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "O'Mac C/O Woolco Store",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Oakdale Hospital",
+        "city": "Oakdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Oakes Thomas Co",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Occidental Chemical",
+        "city": "Buffalo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Oliver Corp",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Oliver Corporation",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Omaha Standard",
+        "city": "Council Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Original Enderes Co",
+        "city": "Guttenberg",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Original Enderes Co",
+        "city": "Guidenburg",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Original Enderes Tool Co",
+        "city": "Guttenberg",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Oscar Mayer & Co - Power Plant",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "Oscar Mayer & Co.",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Oscar Mayer And Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1241,
+        "company": "Oscar Meyer Manufacturing Plant",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Osmundson Mfg Co",
+        "city": "Perry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1192,
+        "company": "Osteopathic Medical School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Ottumwa Brick & Tile Co",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "P. M. Lattner Manufacturing Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1193,
+        "company": "Park Avenue School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Patrick Hardware",
+        "city": "Apelle",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Paul Hoshek",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Paul J Krez Company",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Paxton & Vierling Steel",
+        "city": "Carter Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Paxton & Vishling Steel",
+        "city": "Carter Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Paxton And Verling Steel",
+        "city": "Carter Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1242,
+        "company": "Pella Utility House",
+        "city": "Pella",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Penich & Ford Limited",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "Penick & Ford, Ltd.",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Penick And Ford Ltd Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Penn Dixie Cement",
+        "city": "W Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Penn Dixie Cement Corp",
+        "city": "W Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Penn Dixie Cement Corp",
+        "city": "West Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Penn Dixie Cement Plant",
+        "city": "W. Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1194,
+        "company": "Pepsi-Cola Bottlers",
+        "city": "Carroll",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1195,
+        "company": "Perkins Elementary School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Peter Pan Bakers Inc",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Phillips Chemical",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1196,
+        "company": "Pine Inn",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Pitts Des Moines Steel Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Pleasant View Elementary School",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "Plumb Supply Co.",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Plumbers Supply Company",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1197,
+        "company": "Polk County Federal Saving And Loan Association Of Des Moines",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Port Neal Power Plant",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1198,
+        "company": "Pottawattamie County Courthouse",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Power Plant",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1244,
+        "company": "Prairie Creek Powerhouse",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1199,
+        "company": "Procter And Gamble - Plant",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Proctor & Gamble",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Proctor & Gamble - Maintenance Building",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1245,
+        "company": "Proctor & Gamble Chemical Plant",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Proctor & Gamble Co",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 7,
+        "company": "Proctor & Gamble Manufacturing Company",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 8,
+        "company": "Proctor & Gamble Manufacturing Company, Maintenance Building",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Proctor & Gamble Plant",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 677,
+        "company": "Putnam Asbestos Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Putnam Building",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Quaker Oats",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Quinn Wire & Iron Co",
+        "city": "Boone",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "R W Rice",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 678,
+        "company": "R. M. Daly & Co.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Ralston Purina Co",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Rath Packing Co",
+        "city": "Columbus Junction",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Rath Packing Company",
+        "city": "Columbus Jct",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 737,
+        "company": "Rath Packing Plant",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1200,
+        "company": "Rea Office Building",
+        "city": "Glidden",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1201,
+        "company": "Read Oak Senior High School",
+        "city": "Red Oak",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Red Jacket M F G Company",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Redfield Brick & Tile",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Redfield-Adel Brick And Tile",
+        "city": "Redfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1017,
+        "company": "Register & Tribune Building",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Riverside Generating Plant",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1246,
+        "company": "Riverside Power Plant",
+        "city": "Riverside",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Riverside Power Station",
+        "city": "Iowana",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1247,
+        "company": "Riverside Powerhouse",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1203,
+        "company": "Robert Hall Clothing",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Rockford Brick & Tile Co",
+        "city": "Rockford",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Rockwell Collins",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Rockwell Std Corp",
+        "city": "Fairfield",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1018,
+        "company": "Roosevelt High School Addition",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "Roth Packing Co.",
+        "city": "Glenwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Ruth Packing Company",
+        "city": "Columns Junction",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "S W Manufacturing Co",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "Sage Facilities",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Salsburys Laboratory",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Salsburys Laboratory - Power House Addition",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Salvation Army",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Salvation Army Home",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Schaal Furnace Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1034,
+        "company": "Sergeant Bluff-Luton High School",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1248,
+        "company": "Shearer Contractors",
+        "city": "Little Sioux",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Sheldon Dehydrating Co",
+        "city": "Sheldon",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Sheller Mfg Co",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1019,
+        "company": "Shriver Van Horn Company",
+        "city": "Jefferson",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Siglin Plumbing And Heating",
+        "city": "Perry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Silas Mason Co - Iaap",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Silas Mason Co - Iowa Ordinance Plant",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Sinclair Arco Chemical Co",
+        "city": "Ft Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Sinclair Oil Corp",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1035,
+        "company": "Sinclair Petrochemicals - Chemical Fertilizer Plant",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Sinclair Petrochemicals I",
+        "city": "Fort Madison",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Sinclair Refining",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "Sinclair Refining Co.",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Sioux City Brick & Tile Co",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1249,
+        "company": "Sioux City Brick & Tile Company",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Sioux City Gas & Electric",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1036,
+        "company": "Sioux City Municipal Auditorium",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1037,
+        "company": "Sioux City West High School",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 726,
+        "company": "Sister Of Humility",
+        "city": "Ottumwa",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Sivyer Steel Casting Co",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Sivyer Steel Castings",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 727,
+        "company": "Sivyer Steel Corporation",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Smart Junior High School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "South Coast Corp Raceland",
+        "city": "Raceland",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1038,
+        "company": "Southeast Iowa Regional Airport",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1250,
+        "company": "Southwest Federated",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Sowest Federated Power",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Spencer Veneer Products",
+        "city": "Spencer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "St Ambrose College",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1039,
+        "company": "St Cecelias Catholic Church",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1040,
+        "company": "St Joseph Mercy Hospital",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "St Louis Diecasting Corp",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1041,
+        "company": "St. Anthony Regional Hospital & Nursing Home",
+        "city": "Carroll",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "St. Francis Hospital",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1042,
+        "company": "St. John Lutheran Church - Galva",
+        "city": "Galva",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1043,
+        "company": "St. Joseph's Catholic Church",
+        "city": "Greeley",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "St. Joseph's Mercy Hospital",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1044,
+        "company": "St. Luke's Hospital - Central Building",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1020,
+        "company": "St. Luke's Methodist Hospital",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1045,
+        "company": "St. Michael's Parish",
+        "city": "Whittemore",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1046,
+        "company": "St. Paul Missouri Synod Lutheran Church",
+        "city": "Latimer",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1047,
+        "company": "St. Stephen The Witness Catholic Student Center",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1048,
+        "company": "Standard Oil Credit Card Center",
+        "city": "West Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Star Galvanizing Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1049,
+        "company": "State College Of Iowa - Gilchrist Hall",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "State Sanatorium",
+        "city": "Oakdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "State Sanitarium",
+        "city": "Oakdale",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "State University Of Iowa - Physical Plant Stores",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Sterzing R J",
+        "city": "Burlington",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1021,
+        "company": "Storm Lake High School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1022,
+        "company": "Storm Lake High School",
+        "city": "Storm Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Sudlow Jr. High School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1050,
+        "company": "Sunnyside Country Club",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1051,
+        "company": "Surf Ballroom",
+        "city": "Clear Lake",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "Swift & Co.",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "Swift & Co.",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 684,
+        "company": "Swift & Co.",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Swift & Company",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Swift & Company - Agrichem Division",
+        "city": "Mason City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Swift & Company - Store Department C",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Swift & Company Soybean Mill",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Swift Co",
+        "city": "Marshalltown",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 728,
+        "company": "Swift Meat Packing Company",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Tailor & Company Inc",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "Taylor Insulation Co.",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Taylor School",
+        "city": "Davenport",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Terra Chemical Corporation",
+        "city": "Sargent Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Terra Chemical Incorporated",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "Terra Chemical Inter.",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Terra Chemical Internatio",
+        "city": "Sergeant Bluff",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Thatcher Plastic Packagin",
+        "city": "Mascatine",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1052,
+        "company": "The Evangelical Free Church Of Britt",
+        "city": "Britt",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "The Hubinger Company",
+        "city": "Keokuk",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "The Maytag Co.",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "The Maytag Company",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Thermaline",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Thermolyne Corporation",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Thormoline Corporation",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Threlkeld Inc",
+        "city": "Chariton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Tire Stud, Division Of Studebaker",
+        "city": "Jefferson",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1053,
+        "company": "Toy National Bank Building",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Tri City Boiler Company",
+        "city": "Bettendorf",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1054,
+        "company": "Trinity Lutheran Church & School",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1055,
+        "company": "Tyler Elementary School",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1056,
+        "company": "Union Bus Depot",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Union Pacific",
+        "city": "Council Bluffs",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Union Pacific Railroad",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Union Pacific Rr/Chicago Northwestern",
+        "city": "Clinton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "United Equipment Accessories",
+        "city": "Waverly",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "United States Gypsum",
+        "city": "Ft. Dodge",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1057,
+        "company": "United States Postal Service",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "University Avenue Coal Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "University Avenue Supply",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "University Of Iowa",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1058,
+        "company": "University Of Iowa - Educational Research Building",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1059,
+        "company": "University Of Iowa - Hawkeye (Iii) Court Apartments For Married Students",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "University Of Iowa - Physical Plant - Steam Distribution",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "University Of Iowa - Physical Plant -Schmidt",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "University Of Iowa - Physical Plant Department",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "University Of Iowa - Physical Plant Stores",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1060,
+        "company": "University Of Iowa - Voxman Music Building - Hancher Auditorium",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1061,
+        "company": "University Of Iowa Hospital And Clinics - North Tower Addition",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1252,
+        "company": "University Of Iowa Steam Tunnels",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1023,
+        "company": "University Of Iowa, Basic Science Building",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1062,
+        "company": "University Of Northern Iowa - Campbell Hall",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1063,
+        "company": "University Of Northern Iowa - Physical Education Center",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "University Of Northern Iowa - Physical Plant Walker",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "University Power Plant",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Universtiy Avenue Coal Co",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1026,
+        "company": "Upper Iowa University - Graf Hall",
+        "city": "Fayette",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Us Dept Of Agriculture",
+        "city": "Ames",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1027,
+        "company": "Valley High School",
+        "city": "West Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1028,
+        "company": "Vega Industries - Heatilator Fireplace Plant",
+        "city": "Mount Pleasant",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Veterans Administration Hospital",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1253,
+        "company": "Veterans‚Äô Administration Hospital",
+        "city": "Iowa City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 747,
+        "company": "Virginia Carolina Chemical Co",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Voltmaster Battery Plant",
+        "city": "Corydon",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Vylactos Laboratories",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "W. A. Klinger Co., Inc.",
+        "city": "Lehigh",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "W. S. Gypsum Company",
+        "city": "Sperry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "W.D. Deckert Company",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 731,
+        "company": "W.J. Company Warehouse",
+        "city": "Sioux City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Washington Junior High School",
+        "city": "Dubuque",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1029,
+        "company": "Water Treatment Plant",
+        "city": "Orange City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Waterloo Register Company",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Wayne Manufacturing Co",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Wayne Mfg Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1024,
+        "company": "Weidenhaf Corporation, Building #1037",
+        "city": "Algona",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Wellman Dynamic",
+        "city": "Creston",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 746,
+        "company": "West Des Moines High School",
+        "city": "Des Moines",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 1030,
+        "company": "West Lyon Community School",
+        "city": "Inwood",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "West Waterloo High School",
+        "city": "Waterloo",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Westdale Mall",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "White Farm Equipment",
+        "city": "Charles City",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Wiese Corp",
+        "city": "Perry",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Wigdahl Brothers Hardware",
+        "city": "Emmetsburg",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "Wilson & Co., Inc.",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Wilson & Company",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 730,
+        "company": "Wilson Packing",
+        "city": "Cherokee",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Wilsons Foods",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "Winger",
+        "city": "Newton",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Woodward State Hosp & School",
+        "city": "Woodward",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "Woodward State Hospital School",
+        "city": "Woodward",
+        "state": "IA",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Woodward State Mental Hospital",
+        "city": "Woodward",
+        "state": "IA",
+        "visibility": ""
+      }
+     ]
+}

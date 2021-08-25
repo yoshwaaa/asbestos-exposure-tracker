@@ -1,0 +1,2328 @@
+{
+    "results": [
+        {
+          "id": 388,
+          "company": "1201 Pennsylvania Avenue Nw",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 365,
+          "company": "201 Kennedy St.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 366,
+          "company": "5050 Addison Rd.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 367,
+          "company": "5050 Minnesota Ave.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 9,
+          "company": "953 V St. N.E.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 264,
+          "company": "953 V St., Ne",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 389,
+          "company": "Abatt Air Conditioning & Heating Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 390,
+          "company": "Adas Israel Synagogue",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 14,
+          "company": "Additional House Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 132,
+          "company": "Afl-Cio Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 133,
+          "company": "Agriculture Research Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 134,
+          "company": "Alexandria Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 276,
+          "company": "Amato Industries, Hot Shoppes",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 277,
+          "company": "America Sheet Metal Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 391,
+          "company": "American Institute Of Architects - Headquarters",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": "visible"
+        },
+        {
+          "id": 73,
+          "company": "American University",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 368,
+          "company": "American University, Dorm \"K\"",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 369,
+          "company": "American University, Mary Graydon Hall",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 205,
+          "company": "Arcade Sunshine",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 206,
+          "company": "Archives & Fed Trade Bldgs",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 124,
+          "company": "Armstrong Contracting & Supply",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 125,
+          "company": "Asbestos Covering & Roofing Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 262,
+          "company": "Asbestos Covering & Roofing Co.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 74,
+          "company": "Asbestos Covering And Roofing Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 207,
+          "company": "Atlantic Perlite Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 208,
+          "company": "B & O Lamond Private Siding",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 10,
+          "company": "B-2 Subway, 2Nd Ave. & Louisiana Ave.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 135,
+          "company": "Bancrot Elementary School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 209,
+          "company": "Belgian Embassy",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 392,
+          "company": "Ben W. Murch Elementary School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 32,
+          "company": "Bender Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 75,
+          "company": "Bender Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 67,
+          "company": "Benning Generating Station",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 15,
+          "company": "Benning Rd. Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 279,
+          "company": "Benning Road Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 16,
+          "company": "Berkshire Apartments",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 210,
+          "company": "Bilton Insul & Supply Inc",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 76,
+          "company": "Blair House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 77,
+          "company": "Blue Plains Sewage",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 139,
+          "company": "Blue Plains Sewage Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 280,
+          "company": "Blue Plains Sewage Treatment Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 17,
+          "company": "Blue Plains Treatment Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 334,
+          "company": "Bond Bread Factory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 140,
+          "company": "Briggs Ice Cream Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 141,
+          "company": "British Embassy",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 108,
+          "company": "Brookland Elementary School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 78,
+          "company": "Buchanan Apartment House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 142,
+          "company": "Bureau Of Engraving",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 335,
+          "company": "Bureau Of Engraving And Printing Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 143,
+          "company": "Bureau Of Standards",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 211,
+          "company": "Bus Maintenance Shop",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 144,
+          "company": "Buzzard Point Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 79,
+          "company": "C & P Telephone",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 282,
+          "company": "C. & O. Railroad",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 128,
+          "company": "Capitol Traction Co.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 212,
+          "company": "Carrollsburg Square",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 393,
+          "company": "Catholic University Of America - Boys Town Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 284,
+          "company": "Cement Masons Union 891",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 145,
+          "company": "Census Bureau",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 394,
+          "company": "Central High School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 146,
+          "company": "Central Intelligence Agency",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 80,
+          "company": "Chesapeak & Potomac Telephone Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 81,
+          "company": "Children'S Diagnostic Center Georgetown University",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 285,
+          "company": "Children'S Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 283,
+          "company": "Cia Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 337,
+          "company": "Continental Wonder Bread Factory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 147,
+          "company": "Crystal City Hi-Rise",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 148,
+          "company": "Crystal City Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 109,
+          "company": "Dalecarlia Pumping Station",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 286,
+          "company": "David Taylor Research Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 395,
+          "company": "Dc Children'S Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 33,
+          "company": "Dc General Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 213,
+          "company": "Deparment Of Buildings And Grounds",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 149,
+          "company": "Department Of Agriculture",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 82,
+          "company": "Department Of Agriculture Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 338,
+          "company": "Department Of Commerce - Herbert Hoover Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 339,
+          "company": "Department Of Commerce - Herbert Hoover Building Cafeteria",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 83,
+          "company": "Department Of Education Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 150,
+          "company": "Department Of Interior",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 151,
+          "company": "Department Of Labor",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 152,
+          "company": "Department Of State",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 153,
+          "company": "Department Of Treasury",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 214,
+          "company": "Diamond Ordnance Fuze Laboratories",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 50,
+          "company": "Dickerson Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 289,
+          "company": "Doctors Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 215,
+          "company": "Drill Hall",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 84,
+          "company": "Dulles International Airport",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 110,
+          "company": "Earl Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 111,
+          "company": "Earle Restaurant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 34,
+          "company": "East Building - L'Enfant Plaza",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 216,
+          "company": "East Coach Yard",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 291,
+          "company": "Eckington Coach Yard",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 123,
+          "company": "Electromagnetic Naval Research Lab",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 396,
+          "company": "Embassy Of The Republic Of Poland",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 85,
+          "company": "Employment Security Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 35,
+          "company": "Episcopal Church Home",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 217,
+          "company": "Equitable Life",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 370,
+          "company": "Equitable Life Insurance Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 86,
+          "company": "Evening Star",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 154,
+          "company": "Executive Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 218,
+          "company": "F O B Nr 9",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 155,
+          "company": "Fairfax Courthouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 292,
+          "company": "Fbi Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 293,
+          "company": "Fbi Building (No Longer A Traditional Site As Of 9/23/96)",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 156,
+          "company": "Federal Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 87,
+          "company": "Federal Building #6",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 157,
+          "company": "Federal Building 6",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 340,
+          "company": "Federal Bureau Of Investigation (Fbi) - J. Edgar Hoover Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 18,
+          "company": "Federal Office Building 10-A",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 19,
+          "company": "Federal Office Building 10-B",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 397,
+          "company": "Federal Office Building 7 - New Executive Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 20,
+          "company": "Forrestal Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 158,
+          "company": "Fort Myers - Barracks",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 219,
+          "company": "Frank W. Ballou High School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 159,
+          "company": "G Street Metro Station",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 295,
+          "company": "G.S.A. Building - Heating Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 160,
+          "company": "Gallaudet University - Boiler Room",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 36,
+          "company": "Gallenger Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 89,
+          "company": "Galludet College Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 21,
+          "company": "Geico",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 296,
+          "company": "General Accounting Office",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 90,
+          "company": "General Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 51,
+          "company": "General Services Administration",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 398,
+          "company": "George Hyman Memorial Research Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 161,
+          "company": "George Washington University - Hospital Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 22,
+          "company": "George Washington University, Pepco Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 37,
+          "company": "Georgetown Dental Clinic",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 38,
+          "company": "Georgetown Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 39,
+          "company": "Georgetown Hospital - Nurses Dormitory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 91,
+          "company": "Georgetown University",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 162,
+          "company": "Georgetown University - Dental Lab",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 410,
+          "company": "Georgetown University - Dental Laboratory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 62,
+          "company": "Georgetown University - Georgetown Utilities",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 2,
+          "company": "Georgetown University - Heating And Cooling Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 163,
+          "company": "Georgetown University - Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 63,
+          "company": "Georgetown University - Power Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 92,
+          "company": "Georgetown University Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 299,
+          "company": "Georgetown University Hospital, Children'S Diagnostic Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 1,
+          "company": "Georgetown University, Georgetown Utilities",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 112,
+          "company": "German Embassy",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 93,
+          "company": "Giant Food Stores",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 164,
+          "company": "Government Printing Office",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 300,
+          "company": "H.U.D. Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 328,
+          "company": "Hamilton Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 342,
+          "company": "Harbor Square Condos",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 165,
+          "company": "Hecht Stores",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 221,
+          "company": "Hess Oil Co - Old Esso Plant - Under S Capital St Bridge",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 94,
+          "company": "Hilton Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 399,
+          "company": "Hirshhorn Museum",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 371,
+          "company": "Hod Carriers Building, 16Th And Eye Sts.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 129,
+          "company": "Howard University",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 222,
+          "company": "Howard University - Auditorium And Fine Arts Bldg.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 166,
+          "company": "Howard University - Boiler Room",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 167,
+          "company": "Howard University - Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 400,
+          "company": "Hubert H Humphrey Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 59,
+          "company": "Hurley J E Machine And Boil",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 223,
+          "company": "Icc Labor Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 69,
+          "company": "Incinerator #5",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 224,
+          "company": "Internal Revenue Service Bldg",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 263,
+          "company": "Internal Revenue Service Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 3,
+          "company": "International Brotherhood Of Carpenters",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 168,
+          "company": "Irs Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 52,
+          "company": "J.E. Hurley Machine & Boiler Works",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 344,
+          "company": "James Forrestal Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 169,
+          "company": "Jefferson High School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 401,
+          "company": "John F Kennedy Center For The Performing Arts",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 372,
+          "company": "John F. Kennedy Center, 23Rd And F Sts.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 402,
+          "company": "Junior Village",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 403,
+          "company": "Keene Elementary School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 225,
+          "company": "Kenilworth Priv Siding",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 23,
+          "company": "Kennedy Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 40,
+          "company": "L'Enfant Plaza",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 95,
+          "company": "Library Of Congress",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 404,
+          "company": "Loews Madison Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 304,
+          "company": "Longworth House Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 373,
+          "company": "Lord & Taylor Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 41,
+          "company": "Lowe'S Hotel - L'Enfant Plaza",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 227,
+          "company": "M. M. Clark Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 171,
+          "company": "Macgruder Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 172,
+          "company": "Main Post Office",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 24,
+          "company": "Main Post Office, 8Th & F St.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 173,
+          "company": "Mayflower Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 306,
+          "company": "Mccall'S Printing Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 174,
+          "company": "Mcclean Gardens",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 64,
+          "company": "Mehring & Hanson Company - 12 H Street Northeast",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 4,
+          "company": "Mehring & Hanson Company, 12 H St. Northeast",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 113,
+          "company": "Mills, Peddicord & Mills",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 307,
+          "company": "Morgantown Power Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 405,
+          "company": "Multi-Tenant Office Building - 1705 Desales St Nw",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 114,
+          "company": "Munsey Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 175,
+          "company": "Museum Of Natural History",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 228,
+          "company": "Nasa - Bldg #12",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 176,
+          "company": "Nasa - Goddard Space Flight Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 406,
+          "company": "National Air And Space Museum",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 407,
+          "company": "National Bureau Of Standards - Building 68",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 229,
+          "company": "National Bureau Of Standards -Bldg #52",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 230,
+          "company": "National Capitol Housing Authority - Sibley Site",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 408,
+          "company": "National Gallery Of Art",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 409,
+          "company": "National Gallery Of Art - East Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 5,
+          "company": "National Geographic",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 346,
+          "company": "National Geographic Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 177,
+          "company": "National Institute Of Health",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 374,
+          "company": "National Presbyterian Church",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 231,
+          "company": "Naval Gun Factory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 232,
+          "company": "Naval Research Lab - General Purpose Lba P-009",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 347,
+          "company": "Naval Research Laboratory",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 233,
+          "company": "Naval Weapons Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 115,
+          "company": "Nbc Company Offices",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 116,
+          "company": "Nbc Offices - Translux Theatre Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 234,
+          "company": "Oconnell Air Conditioning",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 375,
+          "company": "Office Building, 19Th And Jefferson Sts.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 235,
+          "company": "Office Buildings",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 178,
+          "company": "Old Soldier Home",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 25,
+          "company": "Old Soldier'S Home",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 376,
+          "company": "Park Operations Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 11,
+          "company": "Pension Building, F St.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 179,
+          "company": "Pentagon",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 180,
+          "company": "People`S Drug Store Warehouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 236,
+          "company": "Pepco",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 26,
+          "company": "Pepco Benning Rd. Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 96,
+          "company": "Potomac Edison Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 70,
+          "company": "Potomac Electric",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 130,
+          "company": "Potomac Electric Light & Power Co-Bennings",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 61,
+          "company": "Potomac Electric Power Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 137,
+          "company": "Potomac Electric Power Co. - Benning Road Power Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 238,
+          "company": "Potomac Electric Power Co. - Benning Road Power Plant - Storeroom",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 240,
+          "company": "Potomac Electric Power Co. - Buzzard Point Generating Station",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 117,
+          "company": "Potomac Plaza Apartment",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 181,
+          "company": "Prince George`S County Shopping Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 182,
+          "company": "Prince George`S Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 27,
+          "company": "Providence Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 42,
+          "company": "Providence Hospital - 13Th And Varnum",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 97,
+          "company": "Public Building Service",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 309,
+          "company": "Rayburn House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 270,
+          "company": "Rayburn House Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 98,
+          "company": "Rayburn Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 310,
+          "company": "Rfk Stadium",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 184,
+          "company": "Riggs Bank",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 247,
+          "company": "Rockwell Incinerator",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 382,
+          "company": "Roger Memorial Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 248,
+          "company": "Rosemary School - Temple Hills Church - Waverly Bldg 16St Apts.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 377,
+          "company": "Rubino & Ferris, Incorporated",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 185,
+          "company": "Saint Elizabeth Powerhouse",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 186,
+          "company": "Saint Elizabeth`S Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 348,
+          "company": "Sam Rayburn Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 99,
+          "company": "Sam Rayburn Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 118,
+          "company": "Scholl'S Restaurant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 272,
+          "company": "Senate Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 187,
+          "company": "Seven Corners Hi-Rise",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 188,
+          "company": "Seven Corners Shopping Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 189,
+          "company": "Seventh Day Adventist Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 100,
+          "company": "Sheraton Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 311,
+          "company": "Sheraton Hotel Motor Inn",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 119,
+          "company": "Shoreham Building - Offices",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 28,
+          "company": "Shoreham Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 378,
+          "company": "Shrine Of Immaculate Concepcion, Catholic University",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 43,
+          "company": "Sibley Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 71,
+          "company": "Sid Harvey Of Md",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 72,
+          "company": "Sid Harvey Of Washington Dc",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 192,
+          "company": "Smithsonian - Museum Of American History",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 193,
+          "company": "Soldier`S Home",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 127,
+          "company": "Sommerville Thos Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 312,
+          "company": "Southern Asbestos Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 101,
+          "company": "St Elizabeths Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 29,
+          "company": "St. Elizabeth'S Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 102,
+          "company": "St. Elizabeths Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 314,
+          "company": "St. Elizabeths Hospital, Main Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 315,
+          "company": "St. Elizabeths Hospital, Steam Tunnels",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 249,
+          "company": "Standard Engineering Co. - Shop",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 44,
+          "company": "State Department",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 194,
+          "company": "State Department Office Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 103,
+          "company": "Statler Capitol Hilton",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 45,
+          "company": "Statler Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 251,
+          "company": "Suburban Hospital - Fort Belvoir School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 252,
+          "company": "Suburban Hospital - Oaklawn Elementary School",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 317,
+          "company": "Teamsters Headquarters",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 318,
+          "company": "The Watergate",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 329,
+          "company": "The White House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 387,
+          "company": "Theodore Roosevelt High School - Main Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 30,
+          "company": "Tiber Square",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 319,
+          "company": "Topaz House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 6,
+          "company": "Twin Towers Apartment House, Boiler Room",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 195,
+          "company": "Tysons Corner",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 253,
+          "company": "U. S. Capital Power Plant",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 104,
+          "company": "U. S. Capitol Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 105,
+          "company": "U. S. Dept. Of Agriculture",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 254,
+          "company": "U. S. Soldiers Home - Grant Bldg.",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 255,
+          "company": "Under S Capital St Bridge",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 106,
+          "company": "United Brick Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 320,
+          "company": "Universal South Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 7,
+          "company": "Upper Anacoastia Pump Station",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 196,
+          "company": "Us Capitol",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 68,
+          "company": "Us Capitol Building (Electrical Systems)",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 383,
+          "company": "Us Department Of Labor - Frances Perkins Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 256,
+          "company": "Usn Research Lab Bldg 33-C",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 13,
+          "company": "V.A. Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 197,
+          "company": "Veteran`S Affairs Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 257,
+          "company": "Veterans Administration Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 349,
+          "company": "Vitro Lab",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 379,
+          "company": "Walter E. Campbell Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 384,
+          "company": "Walter Reed Army General Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 350,
+          "company": "Walter Reed Army Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 46,
+          "company": "Walter Reed Hospital",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 47,
+          "company": "Walter Reed Hospital - Animal Experimental Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 131,
+          "company": "Wardman Park Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 380,
+          "company": "Washington Cathedral",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 12,
+          "company": "Washington Hospital Center",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 198,
+          "company": "Washington Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 258,
+          "company": "Washington Metro - Sect #B-3A",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 322,
+          "company": "Washington National Airport",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 107,
+          "company": "Washington Post Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 259,
+          "company": "Washington Post Times Herald Bldg",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 323,
+          "company": "Washington Terminal Company",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 324,
+          "company": "Washington Wax Museum",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 381,
+          "company": "Washingtonian Towers",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 31,
+          "company": "Watergate",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 199,
+          "company": "Watergate Apartment Building",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 385,
+          "company": "Watergate Complex",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 66,
+          "company": "Watergate Development - Stages 1 & 2",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 8,
+          "company": "Watergate Development, Stages 1 & 2",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 351,
+          "company": "Watergate Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 200,
+          "company": "White House",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 58,
+          "company": "Wilkins Coffee Co",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 201,
+          "company": "Willard Hotel",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 121,
+          "company": "Willard Hotel - Dining Room",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 202,
+          "company": "William H Singleton Fabrication Shop",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 260,
+          "company": "Willoughby Apts",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 261,
+          "company": "Willoughby Works",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 122,
+          "company": "Woodward & Lothrop",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 353,
+          "company": "Woodward & Lothrop Store",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 48,
+          "company": "World Bank",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        },
+        {
+          "id": 49,
+          "company": "Wyandott Chemical",
+          "city": "Washington",
+          "state": "DC",
+          "visibility": ""
+        }
+       ]
+}

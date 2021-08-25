@@ -1,0 +1,297 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*  */
+/* New Styles */
+/*  */
+
+/* Filter Bar */
+
+.container .filter-bar {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.input-container {
+  flex-basis: 30%;
+    height: 38px;
+    box-sizing: border-box;
+}
+
+.input-container > input {
+  width: 100%;
+}
+
+.filter-bar-boxes {
+  padding: 10px 20px;
+}
+
+.filter-bar-boxes input {
+  border-radius: 3px;
+  border: none;
+  padding: 5px;
+}
+
+.filter-bar-bottom {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-bar-bottom p {
+  color: #DFFCFD;
+  width: 45%;
+  font-size: 20px;
+}
+
+.filter-bar-bottom .search-button-container {
+  width: 40%;
+}
+
+.search-button {
+  width: 275px;
+  height: 50px;
+  background-color: #FFB91A;
+  border-radius: 3px;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: auto;
+  margin-top: 20px;
+}
+
+.search-button:hover {
+  background-color: #1999c0;
+  color: white;
+  cursor: pointer;
+}
+
+/* List Items */
+
+.container .item-list {
+  padding: 10px 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.item-list .list-item.visible {
+  border-bottom: 1px solid #EEF4F4;
+  padding: 10px 20px 20px;
+  margin: 13px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item-list .list-item.visible:nth-child(odd) {
+  border-bottom: 1px solid #EAF5F6;
+}
+
+.list-item.visible .list-item-right {
+  color: #ACACAC;
+}
+
+.list-item.visible .list-item-left {
+  color: #585858;
+}
+
+/* Pagination */
+
+.pagination,
+.pagination-full-list {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  width: fit-content;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.pagination > li,
+.pagination-full-list > li {
+  display: inline-block; 
+  width: auto; 
+  color: #1999c0;
+  background-color: #EAF2F6;
+  margin: 0 15px;
+  border: 2px solid #DEEBEB;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.pagination > li a,
+.pagination-full-list > li a {
+  display: inline-block; 
+  width: auto;
+  padding: 5px 0;
+  width: 32px;
+  text-align: center;
+}
+
+.pagination-full-list > li a {
+  padding: 5px 11px;
+  width: auto;
+}
+
+.pagination > li.active,
+.pagination-full-list > li.active {
+  background-color: #F0F0F0;
+  border: 2px solid #B4B4B4;
+  color: black;
+}
+
+.pagination > li.break-me,
+.pagination-full-list > li.break-me {
+  background-color: rgba(0,0,0,0);
+  border: none;
+  margin: 0;
+}
+
+.pagination li:hover,
+.pagination-full-list li:hover {
+  cursor: pointer;
+}
+
+/* Loading Placeholder Animation */
+
+.placeholder-text {
+  display: inline-block;
+  background-color: #444;
+  height: 12px;
+  border-radius: 100px;
+  margin: 5px 0;
+  min-width: 400px;
+  opacity: .1;
+  animation: fading 1s infinite;
+}
+
+.placeholder-text.placeholder-right {
+  min-width: 160px;
+}
+
+@keyframes fading {
+  0% {
+    opacity: .1;
+  }
+  
+  50% {
+    opacity: .2;
+  }
+  
+  100% {
+    opacity: .1;
+  }
+}
+
+/* No Results Styles */
+
+.item-list-empty {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.item-list-empty .item-list-empty-large {
+  font-size: 18px;
+  padding-left: 0;
+  margin: 60px 0 50px;
+}
+
+.item-list-empty .item-list-empty-bold {
+  font-weight: 700;
+  padding-left: 0;
+}
+
+.item-list-empty p {
+  padding-left: 20px;
+}
+
+.ships-checkbox-container {
+  padding: 20px 20px 0;
+}
+
+.ships-checkbox-container input {
+  display: inline-block;
+}
+
+.ships-checkbox-container p {
+  display: inline-block;
+  padding-left: 20px;
+  color: #DFFCFD;
+  font-size: 18px;
+}
+
+.city-bar-items {
+  position: relative;
+}
+
+.city-bar-items [class *="singleValue"] {
+  padding-left: 45px;
+}
+
+.city-bar-items > span {
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  padding-top: 5px;
+  padding-right: 9px;
+  z-index: 10;
+  height: 60%;
+  border-right: 1px solid lightgray;
+}
+
+span.css-1okebmr-indicatorSeparator {
+  display: none;
+}
+
+#react-select-3-input {
+  padding-left: 45px !important;
+}
+
+.filter-bar-items [class *="indicatorContainer"] {
+    background-image:
+      url('https://wpmedia.mesotheliomaguide.com/images/dev/asbestos-exposure-list/dropdown-arrows.png');
+    background-position: calc(100% - .5rem), 100% 0;
+    background-size:  0.9em 0.9em;
+    background-repeat: no-repeat;
+}
+
+.filter-bar-items [class *="indicatorContainer"] svg path {
+  display: none;
+}
+
+.ships-item-list .list-item-right {
+  display: none;
+}

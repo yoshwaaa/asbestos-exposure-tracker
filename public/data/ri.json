@@ -1,0 +1,2251 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A. & C.W. Holbrook",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Acme Finishing Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Albion Company",
+        "city": "Valley Falls",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Allen Ave Sewage Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Alrose Chemical Company",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "American Electrical Works - Manufacturing Plant",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Hoechst Corporation",
+        "city": "Coventry",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American Hoechst Corporation, Lasix Plant",
+        "city": "Coventry",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "American Hoechst Corporation, Research Pilot Plant",
+        "city": "Coventry",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "American Insulated Wire Corporation",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "American Insulated Wire Corporation",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "American Locomotive Company Rhode Island Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "American Locomotive Company, Richmond Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "American Screw Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "American Woolen Company, Incorporated, Manton Mills",
+        "city": "Manton",
+        "state": "RI",
+        "visibility": "visible"
+      },
+      {
+        "id": 17,
+        "company": "Apponaug Company",
+        "city": "Apponaug",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Arthur E. Austin",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Atlantic Mills Of Rhode Island",
+        "city": "Olneyville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "B.B. & R. Knight",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "B.B. & R. Knight",
+        "city": "Natick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "B.B. & R. Knight, Grant Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "B.B. & R. Knight, Natick Mills",
+        "city": "Natick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Barreled Sunlight Paint Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Bay Textile Corporation",
+        "city": "Thornton",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Belleville Manufacturing Company",
+        "city": "Belleville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Bethlehem Steel Corporation",
+        "city": "Nantucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Bird And Son, Incorporated",
+        "city": "Philliipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Bird And Son, Incorporated",
+        "city": "Phillipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Blackstone Manufacturing Company",
+        "city": "North Smithfield",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Blackstone Valley Gas And Electric - Tidewater Gas Works",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Bradford Dyeing Association",
+        "city": "Bradford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Bradford Naval Coal Depot",
+        "city": "Bradford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Branch River Woolcombing Company",
+        "city": "North Smithfield",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Bristol And Warren Water Works - Pumping Station",
+        "city": "Warren",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Bristol Manufacturing Company",
+        "city": "East Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Bristol Manufacturing Company",
+        "city": "Bristol",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Brown And Sharpe Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Brown And Sharpe Manufacturing Company",
+        "city": "Greystone",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Brown Sharpe Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Brown University - Aldrich Dexter Field Heating Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Brown University, High Temperature Hot Water System",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Browns And Sharpe Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Budlong Rose Company",
+        "city": "Auburn",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Budlong Rose Company",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Burden Wire And Supply Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Bureau Of Ordnance",
+        "city": "Bradford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Burgess Mills",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Butler Exchange Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "C.B. Cottrell And Sons Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "C.R. Makepeace And Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Cadoza Sales Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Central Falls Mazada Lamp Works Of G.E. Company",
+        "city": "Darlington",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Centredale Worsted Mills Company",
+        "city": "Centredale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Charles Fletcher",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Chase And Company",
+        "city": "Pleasant Valley",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "City Of Providence Field Point Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "City Of Providence Hope Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Clariant Corporation",
+        "city": "Coventry",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Clark Falls Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Coasters Island",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Coats And Clark, Incorporated",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Collyer Insulated Wire Company",
+        "city": "Lincoln",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Commercial High School",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Commerical High School",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Construction Battalion Base Camp Endcott",
+        "city": "Davisville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Contrexville Manufacturing Company",
+        "city": "Manville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Corning Glass Works",
+        "city": "Central Falls",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Cranston Print Works Company, Cranston Division",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Crescent Corporation",
+        "city": "Darlington",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Crown Worsted Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Cutler Manufacturing Company",
+        "city": "Warren",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "D. & W. Fuse Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Davisville Woolen Company",
+        "city": "Davisville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Delite Fabrics, Incorporated",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Dexter Asylum",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Dexter Yarn Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Dyerville Manufacturing Company",
+        "city": "Dyerville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "E. Jenckes Manufacturing Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Eastern Film Corporation",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Eden Corporation",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Elmwood Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Ernest St. Sewage Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Essex Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Estate Of Sarah B. Eaton",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "F.P. Sheldon And Sons Engineers",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "F.W. Bird And Son",
+        "city": "Phillipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Ferricup Metal Company",
+        "city": "East Greenwich",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Fields Point Incinerator Plant",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Flax Processing And Linen Company",
+        "city": "Greystone",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Fletcher Land Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Fruit Of The Loom",
+        "city": "Pontiac",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Fulford Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "G.W. Reynolds & Company",
+        "city": "Davisville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "General Fire Extinguisher Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Geneva Mill",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Geneva Mills Of Wanskuck Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Glenlyon Dye Works",
+        "city": "Saylesville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Glenlyon Print Works",
+        "city": "Phillipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Gondard Brothers",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Gorham Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Gorham Manufacturing Company",
+        "city": "Auburn",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Gorham Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Greenhalgh Mills, Incorporated",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Greenville Finishing Company",
+        "city": "Greenville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Grinnell Corporation",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Grinnell Corporation",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "H. & W. Realty Corporation",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "H. Martin Brown",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Halkyard Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Hamlet Textile Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Heaton Button Fastener Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Homestrike Mining Company",
+        "city": "Foster",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Hope Company",
+        "city": "Phenix",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Hope Company",
+        "city": "Hope",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Hope Erco Building",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Hope Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Hope Webbing Company, Incorporated",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Housing For The Elderly",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Interlaken Mills",
+        "city": "Arkwright",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "International Braid Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Irons And Russell",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Itt Grinnell",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "J. And P. Coats, Incorporated",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "J. And P. Coats, Limited",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "J. Samuels And Bro",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "J.A. Budlong And Son Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "J.D. Nichols",
+        "city": "Mohegan",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "J.E. Fletcher Coronet Worsted Mills Mill #1",
+        "city": "Mapleville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "J.P. Coats, Limited",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "James Brown",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Jas. Hanley Brewing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Jenckes Spinning Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Jenekes Spinning Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Jesse Metcalf Building",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "John Austin And Son",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "John F. Brady",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Joseph Benn And Sons",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Joseph Benn And Sons",
+        "city": "Greystone",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Joseph Beum And Son",
+        "city": "Centerdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Joseph Beun And Son",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Keiths Theatre",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Kent County Hospital",
+        "city": "Warwick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Lauderdale Building",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Lawton Spinning Company",
+        "city": "Olneyville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Lawton Spinning Company",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Lawton Spinning Corporation",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Leesona Corporation",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Leviton Corporation",
+        "city": "Hillsgrove",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Leviton Manufacturing Company",
+        "city": "Hillsgrove (Kent County)",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Leviton Manufacturing Company",
+        "city": "Hillsgrove",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Lockwood Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Lockwood Greene And Company",
+        "city": "Ashton",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Lockwood Greene And Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Lonsdale Company",
+        "city": "Lonsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Lonsdale Company, Hope Mill And Phoenix Mill",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Lonsdale Company, South Works",
+        "city": "Lonsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Lorraine Manufacturing Company",
+        "city": "Saylesville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Lymansville Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Manoille Company Nourse Mills",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Manton Mills",
+        "city": "Manton",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Manufacturers Building Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Manville Company",
+        "city": "Manville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Mathieson Alkali Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Merchants Cold Storage And Warehouse Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Miriam Hospital",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Mohegan Mill Wanskuck Company",
+        "city": "Nasonville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Narraganset Hotel",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Narragansett Brewing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Narragansett Brewing Company",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Narragansett Brewing Company",
+        "city": "Arlington",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Narragansett Electric Company - Manchester Street Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Narragansett Electric Company - South Street Plant",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Narragansett Hotel",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Narragansett Wire & Cable Plant",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Nashua Manufacturing Company, Textron Manville Division",
+        "city": "Manville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Natic Dyeing Company",
+        "city": "Natick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Natick Mills",
+        "city": "Natick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "National And Providence Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "National And Providence Worsted Mills Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "National Ring Traveler Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Naval Air Station",
+        "city": "Davisville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Naval Fuel Depot",
+        "city": "Melville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Naval Station Newport - Training Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Naval Training Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Nelson W. Aldrich",
+        "city": "Warwick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "New England Silk Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "New England Telephone Building, Mineral Spring Ave.",
+        "city": "North Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "New York, New Haven And Hartford Railroad Company",
+        "city": "Warren",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Newport And Fall River Street Railway Company",
+        "city": "Portsmouth",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Newport Naval Base",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Newport Naval Shipyard",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Newport Naval Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Newport Naval Torpedo Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Newport Water Works",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Nicholson File Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Nottingham Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "O.M. Stillman",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Old Colony Street Railway Company",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Oliver Johnson And Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Ostby And Barton Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Our Lady Of Providence Seminary",
+        "city": "Warwick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Pantex Manufacturing Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Paragon Worsted Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Paramount Printing Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Park Brew Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Park Brewing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Pawtucket Electric Company - South Station",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Pawtuxet Valley Dyeing Company, Incorporated",
+        "city": "Phenix",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Peace Dale Manufacturing Company",
+        "city": "Peace Dale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Pertamina",
+        "city": "Dumal",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Pettaconsett Pumping Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Pgande National Energy Group",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Pocasset Worsted Company",
+        "city": "Thornton",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Providence And Danielson Railway Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Providence Belting Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Providence Brewing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Providence Engineering Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Providence Engineering Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Providence Gas Company - Purifier House",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Providence Gas Company - Purifying Station",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Providence Journal Building",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Providence Steam And Gas Pipe Company Factory",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Providence Steam Engine Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Providence Worsted Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Queen Dyeing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Quidnick Manufacturing Company",
+        "city": "Quidnick",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Revere Rubber Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Rhode Island Brewing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Rhode Island Chemical Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Rhode Island Coal Company",
+        "city": "Portsmouth",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Rhode Island Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Rhode Island Dyeing And Finishing",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Rhode Island Hospital",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Rhode Island Hospital, Ambulatory Building",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Rhode Island Hospital, Hematology Laboratory",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Rhode Island Hospital, Underground Radiology Facility, Phase #1",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Rhode Island Perkins Horseshoe Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Rhode Island School Of Design",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Rhode Island State Prison",
+        "city": "Howard",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Rhode Island State Sanatorium",
+        "city": "Wallum Pond",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Rhode Island State Sanitorium For Consumptions",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Rhode Island Suburban Railway",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Rhode Island Suburban Railway Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Roger Williams General Hospital",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Roger Williams Hospital",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Roger Williams Hospital, Room 4 Laboratory",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Rogers Screw Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Royal Electric Corporation Factory",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Royal Weaving Company",
+        "city": "Darlington",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Rumford Chemical",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Rumford Chemical Company",
+        "city": "Rumford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Rumford Chemical Company Works",
+        "city": "Rumford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Rumford Chemical Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Rumford Chemical Works",
+        "city": "Rumford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Samoset Power Plant",
+        "city": "Valley Falls",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Sassafras Point Works",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Sayles Finishing Plant, Incorporated",
+        "city": "Lincoln",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Sayles Finishing Plant, Incorporated",
+        "city": "Saylesville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Sayles Finishing Plants",
+        "city": "Phillipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Schrader And Company",
+        "city": "East Greenwich",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Sea View Railroad Company",
+        "city": "Wickford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Sinclair Refining Company",
+        "city": "Tiverton",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Slater Cotton Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Slater Cotton Mills",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Slatersville Finishing Company Division",
+        "city": "Slatersville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Smith Granite Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Social Manufacturing Company",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Standard Mill Supply Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Steere Worsted Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Stillwater Worsted Mills",
+        "city": "Harrisville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Tamarack Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Textron Manville Division",
+        "city": "Manville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Theodore T. Green Airport",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Towel Rack And Novelty Company",
+        "city": "Auburn",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Trades Building, Incorporated",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "U.S. Naval Base",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Union Oil Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Union Railroad Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Union Railway Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Uniroyal, Incorporated",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "United States Cotton Company",
+        "city": "Central Falls",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "United States Cotton Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "United States Gutta Percha Paint Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "United States Naval Torpedo Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "United States Naval Training Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "United States Navy Training School",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "United States Rubber Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Universal Winding Company",
+        "city": "Cranston",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Us Bobbin And Shuttle Company",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "US Naval Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Us Naval Torpedo Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Us Naval Training Station",
+        "city": "Newport",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Us Navy Yard",
+        "city": "Melville Station",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Valley Falls Company",
+        "city": "Albion",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Valley Worsted Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Vermont Manufacturing Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Vesta Knitting Mills",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Vesta Underwear Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Veterans Administration Hospital",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "W.F. And F.C. Sayles",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "W.F. And F.C. Sayles",
+        "city": "Saylesville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "W.F. And F.C. Sayles Lorraine Manufacturing Company",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "W.F. And F.C. Sayles, Lorraine Manufacturing Company",
+        "city": "Saylesville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "W.J. And F.L. Sayles",
+        "city": "Pawtucket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Walsh-Kaiser Shipyard",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Wanskuck Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Wanskuck Company, Steere Mill",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Wanskuck Company, Wanskuck Mill",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Warwick Mills",
+        "city": "Centerville",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Washburn Wire Company",
+        "city": "Phillipsdale",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Westerly Textile Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Westerly Water Works",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Weyerhauser Timber Company",
+        "city": "Portsmouth",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "William Clark Company",
+        "city": "Westerly",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "William E. Joslin And Company",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "William Gregory",
+        "city": "Wickford",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "William Grosvenor",
+        "city": "Providence",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Woonsocket Electric Machine And Power Company - Power Plant",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Woonsocket Spool And Bobbin Company",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Woonsocket Worsted Mills",
+        "city": "Woonsocket",
+        "state": "RI",
+        "visibility": ""
+      }
+     ]
+}

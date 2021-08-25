@@ -1,0 +1,984 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Allied Chemical Corporation",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Allied Soda Ash Plant",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "American Oil Refinery",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Amoco Oil Refinery",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Amoco Production Company",
+        "city": "Whitney Canyon",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Atlantic Gas",
+        "city": "Riverton",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Atlantic Richfield",
+        "city": "Sinclair",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Basin Electric Power Cooperative - Laramie River Station",
+        "city": "Wheatland",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Bechtel Corp",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Black Hills Power And Light Company - Neil Simpson Power Plant",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Black Hills Power And Light Company - Osage Power Plant",
+        "city": "Osage",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Black Hills Power, Incorporated",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Black Hills Power, Incorporated",
+        "city": "Osage",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Bridger Power Plant",
+        "city": "Bridger",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Bridger Power Plant",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Cambria Fuel Company",
+        "city": "Cambria",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Casper Supply Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Central Coal And Coke Company",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Chevron Corporation",
+        "city": "Evanston",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Chicago, Burlington And Quincy Railroad Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Colorado Fuel And Iron Company",
+        "city": "Loranie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Colorado Fuel And Iron Company",
+        "city": "Lorance",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Colorado Tires And Iron Company",
+        "city": "Lamine",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Conventional Power Plant",
+        "city": "Kemmerer",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Dave Johnston Power Plant",
+        "city": "Glenrock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Diamond Coal And Coke Company",
+        "city": "Diamondville",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Diamond Coal And Coke Company",
+        "city": "Oakley",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Exxon Chemical Company USA",
+        "city": "Shute Creek",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Fargo Oil Company",
+        "city": "Capser",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "FMC Chemical Plant",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Fmc Corporation",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Fmc Corporation",
+        "city": "Kemmerer",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Fmc Corporation",
+        "city": "Westvaco",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Fmc Corporation, Inorganic Chemicals Division",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Food Machinery And Chemical Corporation",
+        "city": "Westvaco",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Forest Products Treating Company",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Frontier Oil",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Frontier Refining Company",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Frontier Supply Company",
+        "city": "Frontier",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Gillette Power Plant",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Glen Rock Powerhouse",
+        "city": "Glen Rock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Great Western Sugar Company",
+        "city": "Wheatland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Great Western Sugar Company",
+        "city": "Lovell",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Holly Sugar Company",
+        "city": "Torrington",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Holly Sugar Corporation",
+        "city": "Worland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Holly Sugar Corporation",
+        "city": "South Torrington",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Holly Sugar Corporation",
+        "city": "Terrington",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Homestead Mining Company",
+        "city": "Wyodak",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Hot Springs Light And Power Company - Power Plant",
+        "city": "Thermopolis",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Husky Refinery",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Husky Refining Company",
+        "city": "Cody",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Inorganic Chemicals Division",
+        "city": "Westvaco",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Investors Oil Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "J.W. Denio Milling Company",
+        "city": "Sheridan",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Jim Bridger Power Plant",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Jim Bridger Powerhouse",
+        "city": "Point Of Rocks",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Kemmerer Coal Company",
+        "city": "Kemmerer",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Kemmerer Power Plant",
+        "city": "Kemmerer",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Lamar River Station",
+        "city": "Wheatland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Lander Electric Light And Power Company - Power Plant",
+        "city": "Lander",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Laramie Alumina Plant",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Laramie River Power Plant",
+        "city": "Wheatland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Left Hand Boiler Moved To",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Lion Coal Company",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Memorial Hospital",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Midwest Refining Company",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Midwest Refining Company",
+        "city": "Salt Creek",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Midwest Refining Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Midwest Refining Company",
+        "city": "Greybull",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Midwest Refining Company",
+        "city": "Mammoth Camp",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Midwest Refining Company",
+        "city": "Teapot",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Monolith Portland Midwest Company",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Montana-Dakota Utilities Company - Acme Power Plant",
+        "city": "Sheridan",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Montana-Dakota Utilities Company, Acme Plant",
+        "city": "Acme",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Mountain States Power Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Mutual Oil Company",
+        "city": "Glen Rock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Natrona County Electric Company - Power Plant",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Naughton Steam Electric Plant",
+        "city": "Kemmerer",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Northern Colo Light And Power Company",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Northern Utilites Company",
+        "city": "Riverton",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Owl Creek Coal Company",
+        "city": "Kirby",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Owl Creek Coal Company",
+        "city": "Gebo",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Pacific Power & Light Company",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Pacific Power & Light Powerhouse",
+        "city": "Glenrock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Pacific Power And Light Company",
+        "city": "Glen Rock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Pacific Power And Light Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Pacificorp",
+        "city": "Glenrock",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Pacificorp",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Penn Wyoming Copper Company",
+        "city": "Encampment",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Perkins Power Company",
+        "city": "Sheridan",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Perkins Power Company",
+        "city": "Sheridan County",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Producers And Refiners Corporation",
+        "city": "Parco",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Producers And Refiners Corporation",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Rock Springs Power Plant",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Salt Creek Central Power Station",
+        "city": "Salt Creek",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Sheridan Sugar Company",
+        "city": "Sheridan",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Shipping Station",
+        "city": "Kirby",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Sinclair Oil Refinery",
+        "city": "Sinclair",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Sinclair Refinery",
+        "city": "Sinclair",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Sinclair Refining Company",
+        "city": "Parco",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Standard Oil",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Standard Oil Refinery - Amoco Oil Refinery",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "State Board Of Charities And Reformatories",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Stauffer Chemical Company",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Stauffer Chemical Plant",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "T.W. Boyer",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Teapot Coal Company",
+        "city": "Inez",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Tenneco Oil Company",
+        "city": "Sweetwater",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Texaco Refinery",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Texas Company",
+        "city": "Cody",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Texas Gulf Sulphur Company",
+        "city": "Worland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Union Pacific Coal Company",
+        "city": "Cumberland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Union Pacific Coal Company",
+        "city": "Hamia",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Union Pacific Coal Company",
+        "city": "Hanna",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Union Pacific Coal Company",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Union Pacific Coal Company",
+        "city": "Predmout",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Union Pacific Railroad - Plant",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Union Pacific Railroad Company",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Union Pacific Railroad Company",
+        "city": "Evanston",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Union Pacific Railroad Company",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Union Pacific Railroad Company",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Union Pacific Railroad Company",
+        "city": "Rawlings",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Union Pacific System",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Union Tank Car Company",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "United States Bureau Of Mines",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "United States Bureau Of Mines, Alumina Plant",
+        "city": "Laramie",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Utah Power And Light",
+        "city": "Green River",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Utah Power And Light Company",
+        "city": "Lincoln County",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Walker Lumber co",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Wheatland Powerhouse",
+        "city": "Wheatland",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "White Eagle Oil Corporation",
+        "city": "Casper",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Windriver Construction",
+        "city": "Wyoming",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Wyodak Coal And Manufacturing Company",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Wyodak Coal And Manufacturing Company",
+        "city": "Wyodak",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Wyodak Coal Mine",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Wyodec Power Plant",
+        "city": "Gillette",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Wyoming Coal And Iron Company",
+        "city": "Alma",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Wyoming State Hospital",
+        "city": "Evanston",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Wyoming State Hospital",
+        "city": "Rock Springs",
+        "state": "WY",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Wyoming Sugar Company",
+        "city": "Worland",
+        "state": "WY",
+        "visibility": ""
+      }
+     ]
+}

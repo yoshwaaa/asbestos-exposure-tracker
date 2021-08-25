@@ -1,0 +1,4589 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.W. Higgins Power Plant",
+        "city": "Oldsmar",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "Acid, Incorporated",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Acid, Incorporated",
+        "city": "Bonnie Polk County",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Adams Brothers Company",
+        "city": "Lake City",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Adams Packing Company",
+        "city": "Auburndale",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Agrico Chemical Company",
+        "city": "South Pierce",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Air Operational Training Station",
+        "city": "Melbourne",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Air Operational Training Station",
+        "city": "Sanford",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Air Operational Training Station",
+        "city": "Vero Beach",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Air Operational Training Station",
+        "city": "Ft. Lauderdale",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Air Products And Chemicals, Incorporated",
+        "city": "Pace",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Air Products Fertilizer & Chemical Plant, fka Escambia Chemical Plant",
+        "city": "Pace",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Airco Welding Supply Company, 29 South Mcduff St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Aircraft, Em. Gen. Exhaust",
+        "city": "N.A.S. Jacksonville",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Alachua General Hospital",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Alaucha General Hospital, I.C.U.",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Alton Box Board And Paper Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Alton Box Board Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Alton Box Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Amalgamated Phosphate Company",
+        "city": "Chicora",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Amalgamated Phosphate Company",
+        "city": "Brewster",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Amelia Island",
+        "city": "Amelia Island",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Amerada Hess Oil Refinery",
+        "city": "Jay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Agricultural Chemical Company",
+        "city": "Pierce",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "American Agricultural Chmeical Company",
+        "city": "Pierce",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "American Can Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "American Container Paper Mill",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "American Cyanamid Company",
+        "city": "Pace",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "American Cyanamid Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "American Cyanamid Company",
+        "city": "Brewster",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "American Cyanamid Company",
+        "city": "Bartow County",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "American Cyanamid Company",
+        "city": "Lakeland County",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "American Cyanamid Company",
+        "city": "Pope County",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "American Mica Products",
+        "city": "Hialeah",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "American Norit Company Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Anclote Power Plant",
+        "city": "Holiday",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Anclote Power Plant",
+        "city": "Tarpon Springs",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Anderson Seafood",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Anheuser Busch, Incorporated",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Anheuser-Busch Brewery",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Ariston Ice And Electric Company - Ice And Light Plant",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Arizona Chemical Company",
+        "city": "Ft. St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Arizona Chemical Corp. Headquarters Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Arizona Chemical Plant",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Arizona Chemical Plant",
+        "city": "Port Saint Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Armour And Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Armour Chemical Plant",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Maitland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Armstrong Contracting & Supply Corporation",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Armstrong Contracting & Supply Corporation, 107 Watts St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Armstrong Cork Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Arrington Manor Apartments",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Arvah B. Hopkins Generating Station",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Ashland Chemical Company",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Ashland Chemical Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Ashland Chemical Company, Southern Pace Blvd. Plant",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Atkins Manufacturing Company",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Atlanta Linen Supply Company / National Linen Service Company",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Atlantic Ice And Coal Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Atlantic National Bank",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Atlantic Refining Company",
+        "city": "Ellendale",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Atlantic Refining Company",
+        "city": "Ellerton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Avon Park Power Plant",
+        "city": "Avon Park",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "B.C. Skinner Machinery",
+        "city": "Dunedin",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Bacardi Bottling Company, Laboratory Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Bachelor Enlisted Quarters, Building 385, Cecil Field",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Baker County Junior High School",
+        "city": "Macclenny",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Baptist Hospital",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Baptist Terrace Apartments",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Barnett Bostwick And Osmond",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Belleair Improvements",
+        "city": "Belleair",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Bellinger Shipyard",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Belmont Building",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "BF Goodrich",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Big Bend Power Plant",
+        "city": "Apollo Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Big Bend Powerhouse",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Big Star Colonial Store, Sunshine Shopping Center",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Board Of Trustees",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Breakers Hotel",
+        "city": "Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Brock & Blevins",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Brooks-Scanlon Corporation",
+        "city": "Foley",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Buckeye Cellulose Corp Paper Mill",
+        "city": "Foley",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Buckeye Cellulose Corporation",
+        "city": "Perry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Buckeye Cellulose Corporation",
+        "city": "Foley",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Buckeye Cellulose Corporation, Outdoor Tanks",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Buckeye Paper",
+        "city": "Perry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Building 8, Newport Division",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Burton, Schwartz Cypress Company",
+        "city": "Perry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Bush Boake Allen, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "By R.N.E. Organization X Field",
+        "city": "Milton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "C.F. Chemicals",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "C.P.O. Club N.A.S.",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Cape Canaveral Kennedy Space Center",
+        "city": "Cape Canaveral",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Caronet Phosphate Company",
+        "city": "Plant City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Cecil Field Naval Air Station, Metcalf & Shiver",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Cecil Field Naval Air Station, Nine Bachelor Enlisted Quarters Barracks",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Champion International",
+        "city": "Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Champion Paper",
+        "city": "Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Champion Paper",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Champion Paper Mill",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Chemicals Inc.",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Chemstrand",
+        "city": "Gonzales",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Chemstrand Corporation",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Chemstrand Manufacturing Plant",
+        "city": "Gonzales",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Chemstrand Nylon Plant",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Chevron Oil Refinery",
+        "city": "Pascagoula",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Chiefland High School Addition",
+        "city": "Chiefland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Citro Dry, Incorporated",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Citrus Concentrates, Incorporated",
+        "city": "Dunedin",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Citrus Machinery Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "City Commision",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "City Of Lake Worth Utilities - Tom G. Smith Power Plant",
+        "city": "Lake Worth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "City Of Tallahassee - Sam O. Purdom Generating Station",
+        "city": "St. Marks",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Cleaners Hangers Company, 735 N. Lane Ave.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Clinton Foods, Incorporated",
+        "city": "Dunedin",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Components Rework Facility",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Consolidated Citrus Products Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Container Corp",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Container Corporation Of America",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Cornett Mine",
+        "city": "Plant City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Coronet Phosphate Company",
+        "city": "Plant City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Costal Lumber Company",
+        "city": "North Havana",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Crystal Ice Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Crystal River Power Plant",
+        "city": "Crystal River",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Cummer Lumber Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Dade Shipyard",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Danish Bakery",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Davy Mckee Lakeland, Incorporated",
+        "city": "Lakeland County",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Daytona Public Service Company",
+        "city": "Daytona",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Debary Power Plant",
+        "city": "Debary",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Deerhaven Generating Station",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Deland Electric Light, Power And Ice Company - Power Plant",
+        "city": "Deland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Delchamps Store",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Department Of Highway, Testing Lab",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Department Of Welfare Building, Arlington Expressway",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Dial Office Building, Cordova Mall",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Digester Building",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Disney World",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Dispensary Dental Clinic",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Disston Land Company, St. Cloud Plantation",
+        "city": "St. Cloud",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Dixie Linen And Uniform Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Dobbs House",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Drew Lumber Company",
+        "city": "Mayo",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Dry Ice Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Duval Ice & Coal Company, 626 East 8th St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "E.E. Saunders & Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "E.M. Barracks, Cory Field",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "E.S.C. Lc/40 Titan 3C",
+        "city": "Cape Kennedy",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "East Coast Electric Light, Power And Ice Company - Ice And Light Plant",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "East Coast Lumber Company",
+        "city": "Watertown",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Eastern Gulf Marine Lab",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Eastern Seaboard Petroleum Company, Evergreen Ave.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Eglin Air Force Base",
+        "city": "Fort Walton Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Eglin Air Force Base, 2-40 Man Barracks",
+        "city": "Eglin Air Force Base",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Eglin Air Force Base, Commissary Store, Route 56",
+        "city": "Eglin Air Force Base",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Eglin Air Force Base, Officer'S Open Mess",
+        "city": "Eglin Air Force Base",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Eglin Airforce Base, Armament Test",
+        "city": "Eglin Air Force Base",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Egling Air Force Base",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Elberta Crate And Box Company",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Electric Phosphate Company - Plant",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Emergency Molasses Company",
+        "city": "Haines City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Employee Service Center",
+        "city": "Bay Lake",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Escambia Chemical Corporation",
+        "city": "Pace",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Escambia Memorial Hospital",
+        "city": "Century",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Escambia Treating Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Evans Packing",
+        "city": "Dade City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Evaporators",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Exxon Oil Refinery",
+        "city": "Jay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "F.A.A.",
+        "city": "Hilliard",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Fellsmere Sugar Company",
+        "city": "Fellsmere",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Fellsmere Sugar Producers Association",
+        "city": "Fellsmere",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Fernandina Pulp And Paper Company",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Fidelity Savings & Loan Company",
+        "city": "Ocala",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Fischer Packing",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Flordia Power Corporation - Avon Park Plant",
+        "city": "Avon Park",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Florida Crushed Stone Cement Plant",
+        "city": "Brooksville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Florida East Coast Hotel Company",
+        "city": "Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Florida East Coast Railway Company",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Florida East Coast Railway Company",
+        "city": "New Smyrna",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Florida Electric Light And Power Company - Power Plant",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Florida Foods, Incorporated",
+        "city": "Plymouth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Florida Gas Company - Headquarters",
+        "city": "Winter Park",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Florida Hydrocarbon, Rte. 1",
+        "city": "Brooker",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Florida Ice Machine Corporation, 909 Forest St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Florida Ice Manufacturing Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Florida Industrial Corporation",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Florida Keys Aqueduct Authority",
+        "city": "Key West",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Florida Molasses Corporation",
+        "city": "Lake Alfred",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Florida National Bank",
+        "city": "Bradenton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Florida Power & Light - Cape Canaveral Power Plant",
+        "city": "Cocoa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Florida Power & Light (FPL) Fort Lauderdale Power Plant",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Florida Power & Light Company - Riviera Power Plant",
+        "city": "Riviera Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Florida Power & Light Company- Cutler Power Plant",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "Florida Power And Light - Ft. Myers Power Plant",
+        "city": "Fort Myers",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Florida Power And Light Company - Lauderdale Power Plant",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Florida Power And Light Company - Sanford Power Plant",
+        "city": "Debary",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Florida Power Corporation - A.W. Higgins Power Plant",
+        "city": "Oldsmar",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Florida Power Corporation - A.W. Higgins Power Plant - Unit 2",
+        "city": "Oldsmar",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Florida Power Corporation - Bayboro Plant",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Florida Power Corporation - Crystal River Power Plant",
+        "city": "Crystal River",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Florida Power Corporation - George E. Turner Power Plant",
+        "city": "Enterprise",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Florida Power Corporation - Inglis Plant",
+        "city": "Inglis",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Florida Power Corporation - P.L. Bartow Plant",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Florida Power Corporation - Suwannee River Plant",
+        "city": "Live Oak",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Florida Power Plant",
+        "city": "Live Oak",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Florida Pulp And Paper Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Florida River Corporation",
+        "city": "Piney Point",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Florida State Capitol",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Florida State Hospital",
+        "city": "Chattahoochee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Florida State Prison Farm",
+        "city": "Raiford",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Florida State Unviersity",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Florida Sugar Manufacturing Company",
+        "city": "St. Cloud",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Floridin Company",
+        "city": "Quincy",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Flowers Baking Company, 2261 W. 30th St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Fort Myers Power Plant",
+        "city": "Fort Myers",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Fosgate Citrus Concentrate Cooperative",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Ft. Pickens",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Fuller Warren Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Gainesville Cafeteria Building",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Gainesville Gas Company - Coal Gasification Plant",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Gainesville Regional Utilities - Downtown Power Plant",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Gannon Power Plant, aka H.L. Culbreath Power Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Gator Power Plant",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Gaylord Container Corporation",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "General Electric Company - Battery Products Section",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "General Foods Corporation Maxwell House Division",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "General Instruction Building",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "General Portland Cement",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "George E. Turner Power Plant",
+        "city": "Deltona",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "George F. Lulberry",
+        "city": "Port Orange",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Georgia Pacific",
+        "city": "Chiefland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Georgia Pacific",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Georgia Pacific Corporation",
+        "city": "Ocala",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Georgia Pacific Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Georgia Pacific Plywood Plant",
+        "city": "Cross City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "German American Lumber Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "Gibbs Shipyard",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "Glidden Chemical Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Glidden Paint Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Glidden-Durkee Division",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Glidden-Durkee Division Of Scm Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Glidden-Durkee, Organic Chemicals Group, 61st St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Good Samaritan Hospital",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Grass Fibre Pulp And Paper Company",
+        "city": "Leesburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Growers Container Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Gulf And Western Food Products Company",
+        "city": "South Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Gulf And Western Food Products Company",
+        "city": "Okeelanta",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Gulf Life Insurance Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "Gulf Life Tower",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "Gulf Power",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "Gulf Power Co. Crist Power Plant",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Gulf Power Company - Scholz Power Plant",
+        "city": "Sneads",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Gulf Steamship Lines",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Gulf Tampa Drydock",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Gulf Western Food Products Company",
+        "city": "Okeelanta",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "H.F. Dutton And Company",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Halco Products",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Hall's Pensacola Wholesale Florists",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Hardaway Contracting Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Herman Sausage Factory, Incorporated, Six Mile Creek, Box 1651",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Hess Oil Company, 2617 Heckacher Dr.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Hi-Acres Concentrate, Incorporated",
+        "city": "Forest City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "High School & Gym",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Hilliard Elementary School",
+        "city": "Hilliard",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Hillsboro Hotel",
+        "city": "Hillsboro",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Hillsborough County Courthouse",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Hilsboro Hotel",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Hilton Hotel",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Hoff Magnasite Company",
+        "city": "Oakland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Holiday Inn Hotel",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Holly Hill Fruit Products, Incorporated",
+        "city": "Davenport",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Homestead Air Force Base",
+        "city": "Homestead",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Hookers Point",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Hookers Point Power Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Horne-Wilson Company, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Hotel Alba",
+        "city": "Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Howard Johnson Motel",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Hudson Pulp & Paper Co.",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Hudson Pulp And Paper Company",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Hudson Pulp And Paper Corporation",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Independent Ice Fuel Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Inglis Power Plant",
+        "city": "Inglis",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "International Agricultural Corporation",
+        "city": "Mulberry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "International Mineral And Chemical Co",
+        "city": "Mulberry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "International Minerals And Chemical Company",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "International Paper Company",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "International Paper Company, Container Division",
+        "city": "Auburndale",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "International Paper Company, Southern Kraft Division",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "International Paper Mill",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "International Paper, Southern Kraft Division",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "International Paper/St. Regis/Champion Paper Mill",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Itt Raynier Paper Mill",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Itt Rayonier Paper Co",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "J. Hillis Miller Hospital Emergency Entrance",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "J. Hillis Miller Hospital, Pediatric Intensive Care",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "J.L. Inglis Phoenix Mills",
+        "city": "Madison",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Jackson Memorial Hospital",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Jacksonville Electric Authority - Northside Generating Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Jacksonville Electric Authority - Southside Generating Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Jacksonville Linen Service",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Jacksonville Linen Supply Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Jacksonville Naval Air Station, Air Craft Stripping Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Jacksonville Naval Air Station, E.M. Dining Facility",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Jacksonville Naval Air Station, Plating & Cleaning Facility",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Jacksonville Shipyard",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Jacksonville Shipyards, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Jacksonville Street Railway Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Jacksonville University, J. Henry Gooding Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Jacksonville Water Works",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Jax Ice & Cold Storage",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Jax Ice And Cold Storage Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Jefferson Smurfit",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Jefferson Smurfit Corporation",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Jefferson Smurfit Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "John H. Swisher And Son, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Juice Industries, Incorporated",
+        "city": "Dunedin",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Key West Desalting Plant",
+        "city": "Key West",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Koppers Company, Incorporated",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Koppers Company, Incorporated, Wood Preserving Division",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Kraft Corporation Of America",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Kuder Citrus Pulp Company",
+        "city": "Lake Alfred",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "L.T. Jernigan, 368 State St.",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Lake City Community College - Vocational Tech Building",
+        "city": "Lake City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Lake Weir High School",
+        "city": "Lake Weir",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Lake Worth Powerplant",
+        "city": "Lake Worth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Lake Worth Utilities Authority - Tom G. Smith Power Plant",
+        "city": "Lake Worth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Lakeland Hospital",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Lakeland Light And Water Department - Lake Parker Plant",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Lakeland Power Plant",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Learning Resources",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Lee Tidewater Cypress Company - Perry Plant",
+        "city": "Perry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Leesburg Canning Company",
+        "city": "Leesburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Leesburg Ice Company",
+        "city": "Leesburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Lightner Museum",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Liquid Carbonic Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Longbranch Pumping Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Macdill Air Force Base, Headquarters Building",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Maddox Foundry And Machine Works",
+        "city": "Archer",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Makintosh Power Plant",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Manatee Light And Traction Company - Power Plant",
+        "city": "Bradenton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Manatee Memorial Hospital, 206 2nd Ave. East",
+        "city": "Bradenton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Martin Power Plant",
+        "city": "Indiantown",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Maxville Sawmill, Highway 218",
+        "city": "Maxville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Maxwell House Coffee",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Maxwell House Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Mayport Naval Shipyard",
+        "city": "Mayport",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "Mccoy Jetport",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Mcdill Air Force Base, Commissary Building",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "Medulla Phosphate Company",
+        "city": "Medulla",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Merrill Stevens Shipbuilding",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "Merrill Stevens/Jacksonville Shipyards",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "Metal Container Corporation, Ellis Rd.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "Miami International Airport",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "Miami Mills",
+        "city": "Miami Springs",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "Miami Mills Incorporated",
+        "city": "Hialeah",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "Miami Naval Shipyard",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Miami Steam Electric Station",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Millennium Specialty Chemicals",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Minute Maid Corporation",
+        "city": "Leesburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Minute Maid Corporation",
+        "city": "Plymouth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Mobil Pipe Line Company",
+        "city": "Gonzalez",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "Moncrief Army Hospital, Heating Water Supply & Return Piping",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Monsanto",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Monsanto Chemical",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Monsanto Chemical",
+        "city": "Gonzalez",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Monsanto Chemical",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Monsanto Chemical Company",
+        "city": "Gonzalez",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Monsanto Chemical Company, Area 405, Tank 46-B",
+        "city": "Gonzalez",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Monsanto Chemical Company, Chemstrand Division",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Monsanto Company",
+        "city": "Gonzalez",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Monsanto Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Monsanto Nylon Fiber Plant, fka Chemstand",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Morris Fertilizer Company",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "Mulberry Wrecking Company",
+        "city": "Mulberry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Municipal Power Plant, St. Lucie County",
+        "city": "Ft. Pierce",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Muscogee Ice And Power Company",
+        "city": "Muscogee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Nassau Hotel",
+        "city": "Long Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "National Buring Packing Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "National Container Corp",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "National Container Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "National Cork Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "National Linen Service Corporation",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "Naval Air Station (NAS)",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Naval Air Station (NAS) - Whiting Field",
+        "city": "Milton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Naval Air Station Cecil Field - Solar Energy",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Naval Air Station Jacksonville - Boiler Feed Water",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Naval Air Station, Aircraft Stripping Facility",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Naval Air Station, E.M. General Exhaust",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Naval Air Station, Fuel Accessories Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Naval Air Station, Heat Treatment Building",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Naval Air Station, Heat Treatment Facility",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Naval Communications Training Center, Building 514",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Naval Shipyard",
+        "city": "Key West",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "New York Laundry",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "New York Steam Laundry",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Neway Uniform And Towel Company",
+        "city": "Opa Locka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Newport Chemical Plant",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Newport Industries",
+        "city": "Telogia",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Newport Industries, Incorporated",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Nitram Chemical Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Nitram Chemicals, Incorporated",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Northside Generating Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Norwood Pumping Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Nuclear Power-Foster Wheeler",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Oakridge Pumping Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Ocala Manufacturing Company",
+        "city": "Ocala",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "Occidental Chemical Company",
+        "city": "White Springs",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "Occidental Chemical Plant",
+        "city": "White Springs",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "Occidental Phosphate Mine",
+        "city": "White Springs",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "Ocean Shipholdings, Incorporated",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Oceanway School",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "Ocola Manufacturing Company",
+        "city": "Ocala",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Okeelanta Growers And Processors Cooperative",
+        "city": "South Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Okeelanta Sugar Refinery, Incorporated",
+        "city": "South Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Okeelanta Sugar Refinery, Incorporated, Fellsmere Division",
+        "city": "Fellsmere",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Okellanta Corporation",
+        "city": "South Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Orlando Utilities Commisson - Lake Ivanhoe Plant",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Orlando Utilities Power Plant",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Palm Beach County Solid Waste Authority",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Palm Beach Gas Company - Gas Plant",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Palm Beach Power Plant",
+        "city": "Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Palm Beach Resource Recovery Company",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "Palmetto Phosphate Company",
+        "city": "Tiger Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "Panama City",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "Panama City Mill",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "Panama City Oil Depot",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "Pasco Packing Association",
+        "city": "Dade City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "Patrick Air Force Base",
+        "city": "Cocoa Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "Patrick Air Force Base, Steam Distribution",
+        "city": "Cocoa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "Paul Bartow Power Plant",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "Paul L. Bartow Power Plant",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "Payne Terminal",
+        "city": "Sarasota",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "Pennsylvania Sugar Company",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Pensacola",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "Pensacola Naval Air Station - Five Cadet Barracks",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "Pensacola Naval Air Station, Bachelor Enlisted Quarters",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "Pensacola Naval Air Station, Building 1500",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "Pensacola Naval Air Station, Building 1953",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "Pensacola Naval Air Station, Building 488",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "Pensacola Naval Air Station, Building 680",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Pensacola Naval Air Station, Five Cadet Barracks",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Pensacola Naval Shipyard",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Pensacola News Journal",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Peter O‚ÄôKnight PowerPlant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Petree School",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "Philip Morris, Incorporated",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "Phosphate Chemical Plant",
+        "city": "Plant City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Phosphate Mining Company",
+        "city": "Christina",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Phosphate Mining Company",
+        "city": "Lakeland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Piney Point",
+        "city": "Piney Point",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Plant City Public Service Company - Ice And Electric Plant",
+        "city": "Plant City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Plantation Apartments",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Plymouth Citrus Growers Association",
+        "city": "Plymouth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Ponce De Leon Hotel",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Port Everglades Power Plant",
+        "city": "Port Everglades",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Port St. Joe",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Port St. Joe Paper Company",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Portland Cement Building",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Power Plant",
+        "city": "Lake Worth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Power Plant 2",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "Powerhouse",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "Prairie Pebble Phosphate Company",
+        "city": "Mulberry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "Prairie Pebble Phosphate Company",
+        "city": "Phosphoria",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "Prairie Pebble Phosphate Company",
+        "city": "Mulburry",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "Pratt & Whitney Aerospace Plant",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Pratt And Whitney Aircraft",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Procter And Gamble Paper Company, Mill",
+        "city": "Foley",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Rainer Pulp And Paper Company",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Rayco Corporation",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Rayonier Inc.",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Rayonier Incorporated",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Rayonier Paper Mill",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "Rayonier Plant",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Recruit Barracks",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Reichhold Chemicals, Incorporated, 407 S. Pace Blvd.",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Residual Fuel Oil Terminal",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Residual Oil Terminal",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Riverside Clinic, Riverside Ave.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Riviera Beach Power Plant",
+        "city": "Riviera Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Roux Laboratories, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Rutland Building",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Sacred Heart Hospital",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "San Carlos Hotel",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Sanford Power Plant",
+        "city": "Sanford",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Sarasota Power House",
+        "city": "Sarasota",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Sauer, Incorporated",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Scholz Power Plant",
+        "city": "Sneads",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "School \"G",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "School \"H",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "Seaboard Air Line Railroad Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "Seaboard Air Line Railway",
+        "city": "West Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "Seaboard Air Line Railway",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Seaboard Air Line Railway Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Seaboard Air Line Railway Company",
+        "city": "Hialeah",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Seaboard Airline Railroad Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Seaboard Coastline Railroad",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Silver Bay Realty Company",
+        "city": "Ocala",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Sky Host Imm",
+        "city": "Destin",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Smurfit-Stone",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Smurfit-Stone Container",
+        "city": "Fernandina Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Smurfit-Stone Container Pulp and Paper Mill",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "South Central Bell Telephone Company - Toll Office Building",
+        "city": "Pace",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Southern Bell Telephone Company - 22 S Ridgewood Avenue Facility",
+        "city": "Ormond Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Southern Brewing Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Southern Ice Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Southern Kraft Corporation",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Southern Kraft Division",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Southern Kraft Division International Paper Company",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Southern Kraft Division Of International Paper Company",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Southern Marine Corporation, Stokes Landing",
+        "city": "Palatka",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Southern Pine Chemical Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Southern Sugar Company",
+        "city": "Clewiston",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Southern Utilites Company, Ariston Ice And Electric",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "St Joe Paper",
+        "city": "St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "St Johns River Shipyard",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "St Regis Paper Co",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "St Regis Papermill",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "St. Andrews Bay Lumber Company",
+        "city": "Millville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "St. Augustine Light And Power Company",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "St. Francis Hospital",
+        "city": "Miami",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "St. Joe Paper Company",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "St. Joe Paper Company",
+        "city": "Chattahoochee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "St. John Light And Power Company",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "St. Johns Electric Company - Power Plant",
+        "city": "St. Augustine",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "St. Johns River Shipyard",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "St. Marks Power Plant",
+        "city": "St. Marks",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "St. Petersburg Powerhouse",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "St. Regis aka Champion aka International Paper Paper Mill",
+        "city": "Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "St. Regis Paper Company",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "St. Regis Paper Company",
+        "city": "Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "St. Regis Paper Company",
+        "city": "Pensacola, Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "St. Regis Paper Company, Duel Pressure Steam Line",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "St. Regis Paper Company, Liquor Storage Tank",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "St. Regis Paper Corporation",
+        "city": "Cantonment",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "St. Regis Paper Mill",
+        "city": "Port Saint Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "St. Vincent's Hospital",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Standard Lumber Company",
+        "city": "Alton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "State Department Of Agriculture, Lab & Testing Complex",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "State Hospital",
+        "city": "Chattahoochee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "State Phosphate Company",
+        "city": "Agricola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Steam Turbine Unit",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Stone & Webster Engineers",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Stroock & Wittenberg Corporation, West O St.",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Sugar Mill",
+        "city": "Clewiston",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Sugar Mill",
+        "city": "Belle Glade",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Suni Citrus Products Company",
+        "city": "Haines City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Sunland Training Center",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Sunshine Shopping Center",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Suwanee Plywood Plant",
+        "city": "Greenville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Suwanee River Power Plant",
+        "city": "Ellaville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Suwannee River Power Plant",
+        "city": "Live Oak",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Sylvachem Corporation",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 606,
+        "company": "Talisman Sugar Company",
+        "city": "Belle Glade",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 607,
+        "company": "Tallahassee Memorial Hospital",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 608,
+        "company": "Talleyrand Avenue Light Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 609,
+        "company": "Tampa Armature Works",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 610,
+        "company": "Tampa Bay Hotel Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 611,
+        "company": "Tampa Bay Shipbuilding, formerly Tampa Shipyards",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 612,
+        "company": "Tampa Electric Company - Hyde Park Power Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 613,
+        "company": "Tampa Electric Company- Big Bend Power Station",
+        "city": "Apollo Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 614,
+        "company": "Tampa Electric Company- F.J. Gannon Station",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 615,
+        "company": "Tampa Gas Company - Gas Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 616,
+        "company": "Tampa General Hospital",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 617,
+        "company": "Tampa Memorial Hospital",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 618,
+        "company": "Tampa Municipal Hospital",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 619,
+        "company": "Tampa Shipyards, Incorporated",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 620,
+        "company": "Tampa Steel Erecting Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 621,
+        "company": "Tampa Street Railway And Power Company",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 622,
+        "company": "Tampa Terrace Hotel",
+        "city": "Tampa Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 623,
+        "company": "Teamsters Building, 407 South Pace Blvd.",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 624,
+        "company": "Tenneco Chemicals, Incorporated",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 626,
+        "company": "Tenneco Chemicals, Incorporated Newport Division",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 627,
+        "company": "Tenneco Chemicals, Incorporated, 407 South Pace Blvd.",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 628,
+        "company": "Testing Lab Department Of Highway",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 629,
+        "company": "Texaco Station",
+        "city": "Tampa Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 630,
+        "company": "Texas Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 631,
+        "company": "Thomas O'Connor And Company",
+        "city": "Plymouth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 632,
+        "company": "Timber Energy Resources",
+        "city": "Telogia",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 633,
+        "company": "Tomkins-Beckswith, Incorporated",
+        "city": "Tallahassee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 634,
+        "company": "Trenton Gym",
+        "city": "Trenton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 635,
+        "company": "Tropicana Products",
+        "city": "Bradenton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 636,
+        "company": "Trumbull Asphalt Co",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 637,
+        "company": "Turkey Point",
+        "city": "Homestead",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 638,
+        "company": "Turkey Point Nuclear Power Plant",
+        "city": "Florida City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 639,
+        "company": "Turner Power Plant",
+        "city": "Sanford",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 640,
+        "company": "Turner Power Plant",
+        "city": "Deland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 641,
+        "company": "Tuskegee Normal And Industrial Institute",
+        "city": "Tuskegee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 642,
+        "company": "Tyndall AFB",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 643,
+        "company": "Tyndall Airforce Base",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 644,
+        "company": "U.S. Gypsum Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 645,
+        "company": "U.S. Naval Base & Air Station",
+        "city": "Key West",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 646,
+        "company": "U.S. Naval Station",
+        "city": "Mayport",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 649,
+        "company": "U.S. Naval Training Center, Recruit Barracks",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 650,
+        "company": "U.S. Phosphoric Plant",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 651,
+        "company": "Union Camp Chemical Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 652,
+        "company": "Union Camp Corporation, Chemical Division",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 653,
+        "company": "Union Camp Paper Company",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 654,
+        "company": "Union Company Chemical Plant",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 655,
+        "company": "Union County Hospital",
+        "city": "Lake Butler",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 656,
+        "company": "United Engineers And Constructors, Incorporated",
+        "city": "Port St. Joe",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 657,
+        "company": "United Heating & Air",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 658,
+        "company": "United States Army, General Hospital",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 660,
+        "company": "United States Engineers For Panama City Oil Depot",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 661,
+        "company": "United States Engineers, Jacksonville Oil Depot",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 662,
+        "company": "United States Government Plant",
+        "city": "Tortugas",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 663,
+        "company": "United States Gypsum Company, Plant Site",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 664,
+        "company": "United States Naval Hospital",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 666,
+        "company": "United States Naval Hospital",
+        "city": "Yukon",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 667,
+        "company": "United States Steel, Agri-Chemical Division",
+        "city": "Ft. Meade",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 668,
+        "company": "United States Steel, Agri-Chemical Division",
+        "city": "Ft. Meade-Rockland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 669,
+        "company": "United States Sugar Corporation",
+        "city": "Clewiston",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 670,
+        "company": "University Hospital",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 671,
+        "company": "University Of Florida",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 672,
+        "company": "University Of Florida, College Of Dentistry",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 673,
+        "company": "University Of Florida, Dan Mccarty Hall",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 674,
+        "company": "University Of Florida, Department Of Agriculture Building",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 675,
+        "company": "University Of Florida, Dover Conner Building",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 676,
+        "company": "University Of Florida, Florida State Museum",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 679,
+        "company": "University Of Florida, Williamson Hall",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 680,
+        "company": "University Of South Florida",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 681,
+        "company": "University Of South Florida, 2500 Fowler Ave.",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 682,
+        "company": "University Of West Florida, P.E. Building",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 683,
+        "company": "US Air Operational Training Station",
+        "city": "Deland",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 685,
+        "company": "US Air Operational Training Station",
+        "city": "Lake City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 686,
+        "company": "US Fosswick",
+        "city": "Tampa Bay",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 687,
+        "company": "US Naval Base",
+        "city": "Fort Pierce",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 688,
+        "company": "US Naval Hospital",
+        "city": "Yukon",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 689,
+        "company": "US Naval Station",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 691,
+        "company": "US Naval Station",
+        "city": "Mayport",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 692,
+        "company": "US Navy Yard",
+        "city": "Pensacola",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 695,
+        "company": "V.A. Hospital",
+        "city": "Lake City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 696,
+        "company": "Vacuum Foods Corporation",
+        "city": "Leesburg",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 697,
+        "company": "Vacuum Foods Corporation",
+        "city": "Plymouth",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 698,
+        "company": "Vero Beach Power Plant",
+        "city": "Vero Beach",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 699,
+        "company": "Veterans Administration Hospital",
+        "city": "Gainesville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 700,
+        "company": "Virginia Carolina Chemical Company",
+        "city": "Nichols",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 701,
+        "company": "W.R. Grace Phosphate Plant",
+        "city": "Bartow",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 702,
+        "company": "W.W. Gay Mechanical Contractors, Incorporated",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 703,
+        "company": "Wainwright Shipyard",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 704,
+        "company": "Walt Disney World, Employee Service Center",
+        "city": "Bay Lake",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 705,
+        "company": "Waynewright Shipyard",
+        "city": "Panama City",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 706,
+        "company": "West Jackson Street",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 707,
+        "company": "Winter Haven Water, Ice And Light Company - Power Plant",
+        "city": "Winter Haven",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 709,
+        "company": "Women's Memorial Hospital",
+        "city": "Orlando",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 710,
+        "company": "Women's Memorial Hospital",
+        "city": "Tampa",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 711,
+        "company": "Wood Cellulose Products Company",
+        "city": "Chattahoochee",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 712,
+        "company": "Woolco Store, 44th St.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 714,
+        "company": "Woolco Store, Normandy Blvd.",
+        "city": "Jacksonville",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 715,
+        "company": "X Field",
+        "city": "Milton",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 716,
+        "company": "Yellow Water Gunnery School - United States Naval Air Station - Boiler House",
+        "city": "Otis",
+        "state": "FL",
+        "visibility": ""
+      },
+      {
+        "id": 717,
+        "company": "Yulee Junior High School",
+        "city": "Yulee",
+        "state": "FL",
+        "visibility": ""
+      }
+     ]
+}

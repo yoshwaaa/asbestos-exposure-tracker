@@ -1,0 +1,1292 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "Alphine Fabricators",
+        "city": "Sal Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "American Oil",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "American Stores",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Amoco Oil Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Anaconda Copper Mining",
+        "city": "Tooele",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "Anaconda/International Smelting & Refining",
+        "city": "Tooele",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "Apartment Building, 7th East And Second South Streets",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Arizona Fules Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Artc Building",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Arthur Central Warehouse",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Arthur Concentrator",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Atkin Plumbing & Heating Company",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Atlas Mineral Products",
+        "city": "Moab",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Backman Foundry And Machine",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Beneficial Life Insurance Company - N 300 W.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Bonneville Concentrator",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Brigham Young Law School Building - E Campus Dr",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Brigham Young University - Physical Education Building",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Bullough Asb",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Bullough Asbestos",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Bullough Asbestos Supply Company, 50 South 7th West St.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Burn Zol Corporation",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Bushnell Military Hospital",
+        "city": "Brigham City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Byu Physical Education Building",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "California Packing Company",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Cameo Sportswear",
+        "city": "Wood Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Carber Sheetmetal-Slc",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Carver Sheetmetal",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Castle Gate Power Plant",
+        "city": "Castle Gate",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Castle Grand Power Plant-Slc",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Chevron Chemical",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Chevron Chemical Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Chevron Oil",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Chevron Oil Co",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Chevron Oil Company, Standard Oil Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Chevron Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Chevron Usa",
+        "city": "North Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Chicago Bridge & Dam",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Chicago Bridge & Iron Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Clover Club Foods",
+        "city": "Kaysville",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Columbia Geneva Steel",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Columbia Geneva Steel Division",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Columbia Steel Company/Us Steel Corporation, Geneva Steel Division",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Columbia-Geneva Steel",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Cottonwood Makk",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Cudahy Packing Company",
+        "city": "North Salt Lake",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "D. H. Spencer & Company/ Spencer Spur",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Dhrco Insulation",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Dhro Insulation",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "E.J. Bartells Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Eimco Purchasing Department",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Ej Bartells",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Fenco - 336 South 3rd West",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Fiberglas Engineering & Supply Co.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "First Security Bank Building",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Gadsby Plant",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Gadsby Power Plant",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Gadsby Power Plant - Unit 3",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Geneva Steel",
+        "city": "Vineyard",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Geneva Steel",
+        "city": "Vineyard",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Geneva Steel",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Geneva Works",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Hercules",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Hercules Incorporated",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Hercules Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "Hill Air Force Base",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Hill Air Force Base",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Hill Air Force Base - 7E Building",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Hill Air Force Base, Hangar Maintenance",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Holy Cross Hospital",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Howard Johnson Motor Lodge",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Hunter Insulation",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Hunter Insulation Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Hunter Power Plant",
+        "city": "Price",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Ideal Basic Industries Inc - Cement Division",
+        "city": "Devils Slide",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Ideal Cement Co",
+        "city": "Devils Slide",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Industrial Service & Engineering Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Industrial Service And Engineering Co.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "International Smelting And Refining Company",
+        "city": "Tooele",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Interstate Brick Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Ipp Power Plant",
+        "city": "Delta",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Irs Building",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "J C Penny`s",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "J. Mel Brown Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "J.C. Penney Corporation, Inc. Bldg.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "J.C. Penney Store",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Kennecott Building",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Kennecott Copper",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Kennecott Copper",
+        "city": "Arthur",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Kennecott Copper",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Kennecott Copper Company",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Kennecott Copper Corporation",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Kennecott Copper Smelter",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Kennecott Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Knight Ideal Coal Company",
+        "city": "Wellington",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Lds Hospital",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Marblehead Lime",
+        "city": "Marblehead",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Morris P Kirk & Sons",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Mountain States Insulating Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "National Galvanizing Co",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "National Lead Industries",
+        "city": "Rowley",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Nl Industries Plant",
+        "city": "Rowley",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Ocf Corporation",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Ogden Defence Depot",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Ogden Defense Depot",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Owens Corning Fiberglas",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Owens-Corning Fiberglas Corp.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Pace Turpin And Co",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Pacific States Cast Iron Pipe",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Pacificorp",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Paco Turpin & Co",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Pet Milk Co",
+        "city": "Richmond",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Phillips 66 Oil Refinery",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Phillips Petroleum Co",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Phillips Petroleum Company",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Phillips Petroleum Company - Woodscross Refinery",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Prico Utah Powerhouse",
+        "city": "Price",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Primary Children's Hospital",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Prudential Federal Savings & Loan",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Prudential Tower",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Ralph M. Parsons Co.",
+        "city": "Tremonton",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Remington Arms",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Robison Distributing Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Roosevelt Jr. High School",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Salt Lake City Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Salt Lake Country Club",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Salt Lake Refinery",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Salt Temple",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "San Fransico Chemical Co",
+        "city": "Vernal",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Shell Oil Co",
+        "city": "Price",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Skyline Insulation, Inc.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "South Jordan School District",
+        "city": "S Jordan",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "St. Mark'S Hospital",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Standard Oil",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Standard Oil Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Steel Mill",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Steel Plant",
+        "city": "American Fork",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Sunnyside School District",
+        "city": "Sunnyside",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "The Church Of Jesus Christ Of Latter-Day Saints - Church Office Building",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "The Church Of Jesus Christ Of Latter-Day Saints - Computer Center - West North Temple Street",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Thiokol Chemical Corporation - Watsch Division",
+        "city": "Thiokol",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Thiokol Missile Site",
+        "city": "Tremont",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Tooele Army Proving Ground",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Torkelson Co F G",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Transportation Office - Ogden Defense Depot Activity",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Turlins",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Turpins",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Turpins",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "U. S. Steel Corporation - Geneva Works",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "U.S. Steel Corporation, Geneva Works",
+        "city": "Geneva",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "U.S. Steel Mill",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "United States Post Office",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "United States Steel Corporation",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "University Of Utah",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "University Of Utah - Boiler Plant",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 197,
+        "company": "University Of Utah, All Events Center",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Uranium Reduction Co.",
+        "city": "Tompson",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Us Steel",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "US Steel, Geneva Works",
+        "city": "Orem",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "US Steel, Geneva Works",
+        "city": "Provo",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Utah By-Products Co",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Utah Canning Plant",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Utah Copper Company",
+        "city": "Magna",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Utah Oil Refinery",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Utah Oil Refining Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Utah Power & Light",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Utah Power & Light - Gadsby #3",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Utah Power & Light - Gadsby #4",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Utah Power & Light - Gadsby #5",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Utah Power & Light - Gadsby #6",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Utah Power & Light Co.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Utah Power & Light Company",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Utah Power & Light Plant",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Utah Power & Light Steam Plant",
+        "city": "Huntington",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Utah Power And Light",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Utah State Department Of Health",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Utah State Office Building",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Utah Technical College",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Utah-Idaho Sugar",
+        "city": "Garland",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Western Gypsum",
+        "city": "Sigurd",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Western States Refinery, Woodcross Refinery",
+        "city": "Woods Cross",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Westinghouse Electric Company",
+        "city": "Ogden",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Zcmi Center Mall",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Zcmi Department Store",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visibility": ""
+      }
+     ]
+}

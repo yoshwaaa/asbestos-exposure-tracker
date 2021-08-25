@@ -1,0 +1,4211 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "A.C. Electronics Division General Motors Corporation",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "A.C. Spark Plug Division General Motors Corporation",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "A.C. Spark Plug Division General Motors Corporation",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "A.C. Spark Plug Division General Motors Corporation",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "A.J. Lindemann & Hoverson Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "A.O. Smith Corporation",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "A.O. Smith Foundry",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "Ajax Rubber Company, Incorporated",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Ajax Rubber Company, Incorporated",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Albers Brothers Milling Company",
+        "city": "Jefferson",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Allis Chalmers Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "Allis Chalmers Supercharger",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "Allis Chalmers Supercharger",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "Allis-Chalmers Corporation",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "Aluminum Company Of America",
+        "city": "Two Rivers",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Am Building Company",
+        "city": "Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "American Brass Company",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "American Motors Corporation",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "American Stores Dairy Company",
+        "city": "Neillsville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Anglo Swiss Condensed Milk Company",
+        "city": "Monroe",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Anson Hixson Sash & Door Company",
+        "city": "Merrill",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Appleton Coated Paper Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Appleton Paper Mill",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Appleton Woolen Mills",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Aramark Corporation",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Archer Daniels Midland Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Ashland Iron & Mining Company",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Ashland Light, Power, And Street Railway Company - Bay Front Generating Station",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Ashland Light, Power, And Street Railway Company - Power Plant",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "AT&T",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Babcock & Wilcox Company, Tubular Products Division",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Badger Paper Mills",
+        "city": "Peshtigo",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Badger Paper Mills Company",
+        "city": "Peshtigo",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Badger State Tanning Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Beaver Dam Malleable Iron Company",
+        "city": "Beaver Dam",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Beebe Manufacturing Company",
+        "city": "Racine Junction",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Beebe Manufacturing Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Belle City Street Railway Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Belle City Street Railway Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Beloit Box Board Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Beloit Foundry Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Beloit Iron Works",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "Beloit Memorial Hospital",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Beloit Powerhouse",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Beloit Water, Gas, And Electric Company - Power Plant",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Berlin Machine Works",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Birdseye Veneer Company",
+        "city": "Butternut",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Biron Mill",
+        "city": "Biron",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Biron Mill",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Blatz Brewing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Bordens Condensed Milk Company",
+        "city": "Munroe",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Bordens Condensed Milk Company",
+        "city": "Monroe",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Bradley Knitting Company",
+        "city": "Delavan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Bradley Knitting Company",
+        "city": "Delavan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Brookfield Square",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Brown Company",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Brunet Falls Manufacturing Company",
+        "city": "Cornell",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Bucyrus Company",
+        "city": "South Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Bullock Electric Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Burlington Brewing Company",
+        "city": "Burlington",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Burlington Plant",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "C. & J. Michel Brewing Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "C.B. Kruse Heating Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "C.B. Pride Rhinelander Paper Company",
+        "city": "Rhinelander",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "California Packing Corporation",
+        "city": "Arlington",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "California Packing Corporation",
+        "city": "Markesan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Carnation Company",
+        "city": "Oconomowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Carnation Company",
+        "city": "Berlin",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Carnation Company",
+        "city": "Oconomowac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Carnation Milk Products Company",
+        "city": "Oconomowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Case Foundry",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Case Threshing Machine Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Cellu Tissue",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Central Continuation School",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Chain Belt Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Charles A. Krause Milling Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Charles B. Kruse Heating Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Charles H. Besly And Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Charmin Paper Products Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Charmin Paper Products Company, Mill",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Chicago, Milwaukee And St. Paul Railway Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Chicago, Milwaukee And St. Paul Railway Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Chicago, Milwaukee, St. Paul And Pacific Railroad Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Chippewa Valley Electric Railway Company - Power Plant",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Christensen Engineering Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "Citizens Street Railway Company",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "Columbia Energy Center",
+        "city": "Pardeeville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Columbus Canning Company",
+        "city": "Columbus",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Combined Locks Paper Company",
+        "city": "Combined Locks",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Combined Locks Paper Company",
+        "city": "Combined Locks",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Combined Paper Mills, Incorporated",
+        "city": "Combined Locks",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Combined Paper Mills, Incorporated, Locks Mill",
+        "city": "Combined Locks",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Connor Lumber And Land Company",
+        "city": "Laona",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Conrad Brothers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Consolidated Paper",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Consolidated Paper Company",
+        "city": "Whiting",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Consolidated Papers, Incorporataed",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Consolidated Papers, Incorporataed",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "Consolidated Water Power & Paper Company",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "Consolidated Water Power & Paper Company",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Consolidated Water Power And Paper Company - Biron Mill",
+        "city": "Biron",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Consolidated Water Power And Paper Company - Generating Station",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Consolidated Water Power And Paper Company - Generating Station",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Consolidated Water Power And Paper Company - Generating Station",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Consolidated Water Power And Paper Company - Generating Station",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Consolidated Water, Power, And Paper Company - Appleton Mill",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Consolidated/International Paper Mill",
+        "city": "Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Consoweld Corporation",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Container Corporation Of Wisconsin",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Container Corporation Of Wisconsin",
+        "city": "Wisconsin",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Continental Can Plant",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Coopers, Incorporated",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Cornell Paperboard Products Company",
+        "city": "Mulwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Cornell Paperboard Products Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Cornell Wood Products Company",
+        "city": "Cornell",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Cream City Sash And Door Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Creamery Package Manufacturing Company",
+        "city": "Lake Mills",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Crocker Chair Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Crocker Chair Company, Factory A",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Crocker Mcalister Equipment Leasing, Incorporated",
+        "city": "Markesan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Crusper Steel",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Cutler Hammer Foundry",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Cutler Hammer Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Cutler Hammer, Incorporated",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "Dairyland Power Coop - Alma Steam Power Station",
+        "city": "Alma",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "Dairyland Power Coop - Alma Steam Power Station",
+        "city": "Alma",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Dairyland Power Coop - Alma Steam Power Station",
+        "city": "Alma",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Dairyland Power Coop - Genoa Station Plant # 3",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Dairyland Power Cooperative",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Dairyland Power Cooperative - La Crosse Boiling Water Reactor",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Dairyland Power Plant",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Dairyland Power Plant",
+        "city": "Portage",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Del Monte Corporation",
+        "city": "Arlington",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Del Monte Corporation",
+        "city": "Markesan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Del Monte Foods - Plant 113",
+        "city": "Arlington",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Dells Paper And Pulp Company",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Delphi Automotive",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Diamond Match Company",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Domtar, Incorporated",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Douglass County Street Railway Company",
+        "city": "Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Downing Box Company",
+        "city": "North Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Dupont Engineering Company",
+        "city": "Ives",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Barksdale",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Ives",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "E.P. Allis And Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "E.P. Allis And Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Eastern Wisconsin Electric Company - Power Plant",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Eastern Wisconsin Electric Company - Power Plant",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Eastern Wisconsin Electric Company - Power Plant",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Edgewater Generating Station",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Edgewater Generating Station, Unit 4",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Edgewater Station",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Electric Autolite Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Electric Autolite Company, Moto Meter Gauge And Equipment Division",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "F.W. Means And Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Fairbanks Morse & Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Fairbanks Morse Electrical Manufacturing Company - Plant",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Falk And Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Falls Dairy Company",
+        "city": "Jim Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Falls Dairy Company",
+        "city": "Jim Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Falls Manufacturing Company",
+        "city": "Oconto Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Falls Paper & Power Company - Power Plant",
+        "city": "Oconto",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Farmers Cooperative Packing Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Faulk's Steel",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Federal Rubber Manufacturing Company",
+        "city": "Cudahy",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Fiberesin, Incorporated And Rodman Industries",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Filer And Stawell Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Filer Stowell Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Flambeau Paper Company",
+        "city": "Park Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "Fond Du Lac Street Railway And Light Company - Power Plant",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "Fox River Electric Railway And Power Company Plant - Power Plant",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "Fox River Paper Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Fox Valley Glass Aggregate Plant",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Fred Rueping Leather Company",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Fred Rueping Leather Company",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Frost Veneer & Seating Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Ft. Howard Paper Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Ft. James Paper Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Fuller And Johnson Manufacturing Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "G. Heileman Brewing Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Galloway-West Company",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Gardner Machine Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 190,
+        "company": "Garton Toy Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "General Motors",
+        "city": "Janesville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "General Motors Assembly Plant",
+        "city": "Janesville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "General Motors Corporation",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "General Motors Corporation",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Genoa Power Plant",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "George W. Borg Corporation",
+        "city": "Delavan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Georgia Pacific",
+        "city": "Nekoosa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Georgia Pacific",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Georgia Pacific Consumer Products, Lp",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 201,
+        "company": "Geuder, Paeschke And Frey Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Gilbert Paper Company",
+        "city": "Menasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Gillette Rubber Company",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Gisholt Foundry",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Gisholt Machine Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Gisholt Machine Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Goodman Lumber Company",
+        "city": "Goodman",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Grand Rapids Mill",
+        "city": "Grand Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Green Bay Box Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Green Bay Gas And Electric Company - Power  Plant",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Green Bay Gas And Electric Light Company - Power Plant",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Green Bay Packaging Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Green Bay Packaging Paper Mill",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Green Bay Packaging, Incorporated, Pulp Mill Division",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 215,
+        "company": "Green Bay Paper And Fibre Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Green Bay Paper And Pulp Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Green Bay Power Plant",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Gregory Cook And Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "H.W. Wright Lumber Company",
+        "city": "Merrill",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Hamilton Manufacturing Company",
+        "city": "Two Rivers",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Hardwood Products Corporation",
+        "city": "Cedars",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Hardwood Products Corporation",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Helene Curtis",
+        "city": "Burlington",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Helmer And Cook",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Herman Zohrlant Leather Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Hoberg Paper Mills, Incorporated",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Hold Hardwood Company",
+        "city": "Oconto",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Holt Lumber Company",
+        "city": "Oconto",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 229,
+        "company": "Holy Cross Diocesan Center",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Holy Cross Seminary",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Housman Brewing Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 232,
+        "company": "Huber & Fuhrman Drug Mills",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Hummel & Downing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 234,
+        "company": "Hummel And Downing Company, Division Of Cornell Wood Prducts Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 235,
+        "company": "Hurd Millwork Company",
+        "city": "Medford",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 236,
+        "company": "Illinois Steel Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Indian Packing Corporation",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Interlake Papers",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Interlake Pulp And Paper Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "International Harvester Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 241,
+        "company": "International Paper",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "International Paper Company, Container Division",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 243,
+        "company": "Interstate Malt Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "J. Greenbaum Tanning Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "J.I. Case Threshing Mach Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "J.L. Clark",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "J.M. Kohler Sons Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Janesville Electric Light Company - Power Plant",
+        "city": "Janesville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Janesville Electric Light Company - Power Plant",
+        "city": "Janesville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 250,
+        "company": "Jno. Gund Brewing Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "John Gund Brewing Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "John H. Knight",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "John Hoberg Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "John Hoberg Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "John Plankinton Estate",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "Joseph Schlitz Brewery",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "Joseph Schlitz Brewing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "Kaukauna Paper Company",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "Kenosha Gas And Electric Company - Power Plant",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "Kewaunee  Power Station",
+        "city": "Kewaunee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 261,
+        "company": "Kewaunee Power Plant",
+        "city": "Carlton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "Kimberly & Clark Company",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Kimberly & Clark Company",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 264,
+        "company": "Kimberly & Clark Company, Badger Mill",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "Kimberly & Clark Company, Neenah Mill",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Kimberly Clark Company",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Kimberly Clark Corporation",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Kimberly Clark Corporation",
+        "city": "Niagara",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Kimberly Clark Corporation",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Kimberly Clark Corporation",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Kimberly Clark Corporation",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Kimberly Clark Corporation",
+        "city": "Niagara",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Kimberly Clark Corporation",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Kimberly Clark Corporation",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 275,
+        "company": "Kimberly Clark Corporation",
+        "city": "Neehah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 276,
+        "company": "Kimberly Clark Corporation",
+        "city": "Niagara",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Kissel Motor Car Company",
+        "city": "Hartford",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Kohler Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Konrad Schreier",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Krause Milling",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "La Crosse Refining Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Ladish Malting Company",
+        "city": "Jefferson Junction",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Ladish Stoppenbach Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Ladysmith Milk Producers Cooperative Association",
+        "city": "Ladysmith",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 285,
+        "company": "Ladysmith Milk Producers Cooperative Association",
+        "city": "Ladysmith",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Lake Superior District Power Company",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 287,
+        "company": "Lake Superior Iron Chemical Company",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Land And River Improvement Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Land And River Improvement Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 290,
+        "company": "Land And River Improvement Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Larson Plywood Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Lehigh Valley Coal Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Libby, Mcneill & Libby",
+        "city": "Darien",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Locks Mill",
+        "city": "Combined Locks",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Lullabye Furniture Corporation",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Luther Hospital",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Madison Campus Charter",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Madison Electric Company - Power Plant",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Madison Gas And Electric - Blount Generating Station",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Madison Gas And Electric - Blount Generating Station",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Madison Gas And Electric - Blount Generating Station",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Madison Gas And Electric Company - Powerhouse",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Madison Gas And Electric Company - Powerhouse",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Madison Plow Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 305,
+        "company": "Malleable Iron Range Company",
+        "city": "Beaver Dam",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Manitowoc Portland Cement",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Manitowoc Power Plant",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Manitowoc Shipbuilding Incorporated",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "Manitowoc Shipyard",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "Mann Brothers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "Mannette Paper Mill",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "Marathon Paper Mills Company",
+        "city": "Rothschild",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "Marinette And Menominee Paper Company",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 314,
+        "company": "Marinette Gas Electric Light And Street Railway Company - Power Plant",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Marinette Menominee Paper Company",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Marinette Paper Company",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Marinette Paper Company",
+        "city": "Menasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Marinette Paper Company, Subsidiary Of Scott Paper Company",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Mational Container Corporation Of Wisconsin",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 320,
+        "company": "Mead Corporation",
+        "city": "Menasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Medford Cooperative Creamery",
+        "city": "Medford",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Mendota State Hospital",
+        "city": "Mendota",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Methodist Hospital",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 324,
+        "company": "Mexican Plantation Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Midtec Paper",
+        "city": "Repap",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Milwaukee Car Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Milwaukee Coke And Gas Company - Power Plant",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Milwaukee Docks",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Milwaukee Electric Railway And Light Company - Racine Plant",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 330,
+        "company": "Milwaukee Forge And Machine Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Milwaukee Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Milwaukee Powerhouse",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 333,
+        "company": "Milwaukee Refining Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 334,
+        "company": "Milwaukee Steam Supply Company - Steam Plant",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 335,
+        "company": "Mineral Point Linen And Fibre Company",
+        "city": "Mineral Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Mineral Point Zinc Company",
+        "city": "Mineral Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Minergy Corporation",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Minnesota Mining And Manufacturing Company",
+        "city": "Wausau",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Mirro Plant",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Mitchell And Lewis",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Mitchell And Lewis Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Mitchell Lewis Motor Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Montello Granite Company",
+        "city": "Montello",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Montreal Mining Company",
+        "city": "Hurley",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Moor Bath Hotel",
+        "city": "Waukesha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Morgan Company",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 347,
+        "company": "Mosinee Paper Company",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 348,
+        "company": "Mosinee Paper Corporation",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Mosinee Paper Mills Company",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Mueller Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Mule Hide Manufacturing",
+        "city": "Cornell",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Muscoda Manufacturing Company",
+        "city": "Muscoda",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Nash Kelvinator Corporation",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Nash Motors Company",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Nash Motors Division, Nash Kelvinator Corporation",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 356,
+        "company": "National Biscuit Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "National Container Corporation Of Wisconsin",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 358,
+        "company": "National Container Corporation Of Wisconsin",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "National Electric Manufacturing Company - Power Plant",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 360,
+        "company": "National Enameling And Stamping Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 361,
+        "company": "National Enameling And Stamping Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 362,
+        "company": "National Home For Disabled Volunteer Soldiers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 363,
+        "company": "National Home For Disabled Volunteer Soldiers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 364,
+        "company": "National Home For Disabled Volunteer Soldiers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 365,
+        "company": "National Home For Disabled Volunteer Soldiers, Northwestern Branch",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 366,
+        "company": "Neenah Paper Company",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 367,
+        "company": "Neenah Paper Fr, Llc",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 368,
+        "company": "Nekoosa  Edwards Paper Company",
+        "city": "Nekoosa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 369,
+        "company": "Nekoosa Edwards Paper Company",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 370,
+        "company": "Nekoosa Edwards Paper Company, Incorporated",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 371,
+        "company": "Nekoosa Edwars Paper Company",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 372,
+        "company": "Nekoosa Paper Company",
+        "city": "Nekoosa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 373,
+        "company": "New Page Group, Incorporated",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 374,
+        "company": "Newpage - Niagara Mill",
+        "city": "Niagara",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 375,
+        "company": "Newpage Corporation",
+        "city": "Kimberly",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 376,
+        "company": "Newpage Group Inc.",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 377,
+        "company": "Newport Chemical Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 378,
+        "company": "Newport Chemical Works, Incorporated",
+        "city": "Carrollville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 379,
+        "company": "Newport Mining Company",
+        "city": "Carrollville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 380,
+        "company": "Niagra Of Wisconsin Paper Company",
+        "city": "Niagara",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 381,
+        "company": "Niceler Paper Corporation",
+        "city": "De Pere",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 382,
+        "company": "Nicolet Hardwoods Corp",
+        "city": "Laona",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 383,
+        "company": "Nicolet Paper",
+        "city": "De Pere",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 384,
+        "company": "Nicolet Paper Company",
+        "city": "West De Pere",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 385,
+        "company": "Nordberg Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 386,
+        "company": "Northern Furniture Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 387,
+        "company": "Northern Paper Mills",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 388,
+        "company": "Northern States Power",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 389,
+        "company": "Northern States Power Company",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 390,
+        "company": "Northwest Engineering Company",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 391,
+        "company": "Northwestern Grass Furn Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 392,
+        "company": "Northwestern Iron Company",
+        "city": "Mayville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 393,
+        "company": "O.J. Newtons Sons Company",
+        "city": "Sparta",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 394,
+        "company": "Oak Creek Power Plant",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 395,
+        "company": "Oak Creek Powerhouse",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 396,
+        "company": "Ocean Spray Plant",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 397,
+        "company": "Oconto Falls Tissue Inc.",
+        "city": "Oconto Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 398,
+        "company": "Oliver Iron Mining Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 399,
+        "company": "Oshkosh Electric Light And Power Company - Power Plant",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 400,
+        "company": "Oshkosh Gas Light Company - Power Plant",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 401,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 402,
+        "company": "P. B. Yates Machine Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 403,
+        "company": "Pabst Brewing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 404,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Oconomowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 405,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Berlin",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 406,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Richland Center",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 407,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Oconomowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 408,
+        "company": "Pacific Coast Condensed Milk Company",
+        "city": "Oconomowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 409,
+        "company": "Packaging Corp Of America",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 410,
+        "company": "Paine Lumber Company",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 411,
+        "company": "Peoples Brewing Company",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 412,
+        "company": "Pierce Motor Works",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 413,
+        "company": "Pig Iron Foundry",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 414,
+        "company": "Plainwell Tissue",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 415,
+        "company": "Plankington Hotel",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 416,
+        "company": "Plankinton Packing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 417,
+        "company": "Plankinton Packing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 418,
+        "company": "Plastics Engineering Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 419,
+        "company": "Plaukington Pack Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 420,
+        "company": "Pleasant Prairie Power Plant",
+        "city": "Pleasant Prairie",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 421,
+        "company": "Pope And Talbot",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 422,
+        "company": "Port Edwards Mill",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 423,
+        "company": "Port Edwards Paper Co.",
+        "city": "Port Edwards",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 424,
+        "company": "Port Washington Powerhouse",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 425,
+        "company": "Racine Rubber Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 426,
+        "company": "Racine Wagon And Carriage Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 427,
+        "company": "Reliance Works",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 428,
+        "company": "Rhinelander Paper Company",
+        "city": "Rhinelander",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 429,
+        "company": "Rhinelander Paper Company",
+        "city": "Rhinelander",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 430,
+        "company": "Richland Center Municipal Untilities",
+        "city": "Richland Center",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 431,
+        "company": "Richland Center Municipal Untilities",
+        "city": "Richland Center",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 432,
+        "company": "Riverside Paper Company",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 433,
+        "company": "Riverview Hospital",
+        "city": "Wisconsin Rapids",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 434,
+        "company": "Rock Island Corporation, Resinwood Division",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 435,
+        "company": "Roddis Lumber And Veneer Company",
+        "city": "Marshfield",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 436,
+        "company": "Roddis Plywood",
+        "city": "Marshfield",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 437,
+        "company": "Rodman Industries",
+        "city": "Marinette",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 438,
+        "company": "S.C. Johnson And Son, Incorporated",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 439,
+        "company": "S.C. Johnson And Son, Incorporated",
+        "city": "Mount Pleasant Township, Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 440,
+        "company": "S.C. Johnson And Son, Incorporated, Waxdale Plant",
+        "city": "Sturtevant",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 441,
+        "company": "S.C. Johnson And Sons Incorporated",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 442,
+        "company": "S.C. Johnson And Sons, Incorporated",
+        "city": "Waxdale",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 443,
+        "company": "Samson Tractor Company, Division Of The General Motors Corporation",
+        "city": "Janesville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 444,
+        "company": "Schlitz Brewing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 445,
+        "company": "School For The Deaf",
+        "city": "Delavan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 446,
+        "company": "Scott Paper Mill",
+        "city": "Oconto Falls",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 447,
+        "company": "Semet-Solvay Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 448,
+        "company": "Semet-Solvay Company",
+        "city": "South Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 449,
+        "company": "Seneca Foods Corporation",
+        "city": "Gillett",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 450,
+        "company": "Shattuck & Babcock Division",
+        "city": "De Pere",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 451,
+        "company": "Sheboygan Chair Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 452,
+        "company": "Sheboygan Light Heat And Power Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 453,
+        "company": "Sheboygan Light Power Railway Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 454,
+        "company": "Sheboygan Manufacturing Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 455,
+        "company": "Sheboygan Powerhouse",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 456,
+        "company": "Southridge Mall",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 457,
+        "company": "Speed Queen",
+        "city": "Ripon",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 458,
+        "company": "Speed Queen Corporation",
+        "city": "Ripon",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 459,
+        "company": "St Lukes Medical Center",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 460,
+        "company": "St. Catherines Hospital",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 461,
+        "company": "St. Catherines Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 462,
+        "company": "St. Francis Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 463,
+        "company": "St. Luke's Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 464,
+        "company": "St. Luke's Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 465,
+        "company": "St. Luke's Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 466,
+        "company": "St. Luke‚Äôs Hospital",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 467,
+        "company": "St. Mary's Hospital",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 468,
+        "company": "St. Mary's Hospital",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 469,
+        "company": "St. Mary's Hospital",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 470,
+        "company": "St. Marys Medical Center",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 471,
+        "company": "Standard Manufacturing Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 472,
+        "company": "State Board Of Control",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 473,
+        "company": "State Board Of Control Of Wisconsin",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 474,
+        "company": "State Board Of Control Of Wisconsin, State Prison",
+        "city": "Waupun",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 475,
+        "company": "State Hospital For The Insane",
+        "city": "Mendota",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 476,
+        "company": "State Of Wisconsin - Capitol Heat And Power Plant",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 477,
+        "company": "State Prison",
+        "city": "Waupun",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 478,
+        "company": "Stephenson Building",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 479,
+        "company": "Sterling Pulp And Paper Company",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 480,
+        "company": "Stevens Point Division",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 481,
+        "company": "Story Brothers",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 482,
+        "company": "Superior Dock",
+        "city": "Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 483,
+        "company": "Tenneco Packaging",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 484,
+        "company": "The Milwaukee Electric Railway And Light Company - Oneida Street Station",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 485,
+        "company": "The Milwaukee Electric Railway And Light Company - Oneida Street Station",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 486,
+        "company": "Theda Clark Memorial Hospital",
+        "city": "Neenah",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 487,
+        "company": "Thelmony Pulp & Paper Mill",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 488,
+        "company": "Thermo Fisher Scientific",
+        "city": "Two Rivers",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 489,
+        "company": "Thilmany Llc",
+        "city": "De Pere",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 490,
+        "company": "Thilmany Pulp And Paper Company",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 491,
+        "company": "Thilmany Pulp And Paper Company",
+        "city": "Kaukauna",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 492,
+        "company": "Thomas B. Jeffrey Company",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 493,
+        "company": "Thomas B. Jeffrey Company",
+        "city": "Keuasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 494,
+        "company": "Thomas B. Jeffrey Company",
+        "city": "Kenasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 495,
+        "company": "Thomas B. Jeffrey Company",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 496,
+        "company": "Tomahawk Kraft Paper Company",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 497,
+        "company": "Tomahawk Kraft Paper Company",
+        "city": "Tomahawk",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 498,
+        "company": "Tuttle Press Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 499,
+        "company": "Underwood Veneer",
+        "city": "Wausau",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 500,
+        "company": "United States Brewing",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 501,
+        "company": "United States Glue Division, Peter Cooper Corporation",
+        "city": "Carrollville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 502,
+        "company": "United States Rubber Company",
+        "city": "Eau Claire",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 503,
+        "company": "University Of Wisconsin - Genetics Department",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 504,
+        "company": "US Glue Division",
+        "city": "Carrollville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 505,
+        "company": "US Paper",
+        "city": "Menasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 506,
+        "company": "Valentin Blatz Brewing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 507,
+        "company": "Valley Iron Works Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 508,
+        "company": "Van Camp Packing Company",
+        "city": "Watertown",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 509,
+        "company": "Veterans Admin Hospital",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 510,
+        "company": "Veterans Administration Hospital",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 511,
+        "company": "Vilter Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 512,
+        "company": "Vinyl Plastics, Incorporated",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 513,
+        "company": "Vollrath Company",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 514,
+        "company": "Vpi Corporation",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 515,
+        "company": "W.D. Gray",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 516,
+        "company": "Wabash Power Equipment",
+        "city": "Genoa",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 517,
+        "company": "Water And Light Commission - Power Plant",
+        "city": "Ft. Atkinson",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 518,
+        "company": "Waukesha Gas And Electric Company - Power Plant",
+        "city": "Waukesha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 519,
+        "company": "Waukesha Gas And Electric Company - Power Plant",
+        "city": "Waukesha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 520,
+        "company": "Waupun State Prison",
+        "city": "Waupun",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 521,
+        "company": "Wausau Electric Company - Power Plant",
+        "city": "Wausau",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 522,
+        "company": "Wausau Mosinee Paper",
+        "city": "Rhinelander",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 523,
+        "company": "Wausau Mosinee Paper Corporation",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 524,
+        "company": "Wausau Paper Mills Company",
+        "city": "Brokaw",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 525,
+        "company": "Wausau Paper Mills Company",
+        "city": "Brokaw",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 526,
+        "company": "Wausau Paper Mills Company",
+        "city": "Wausau",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 527,
+        "company": "Wausau Sulphate Fibre Company",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 528,
+        "company": "Wausau Sulphate Fibre Company",
+        "city": "Mosinee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 529,
+        "company": "Webster Manufacturing Company",
+        "city": "Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 530,
+        "company": "Wells Building Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 531,
+        "company": "Wells Building Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 532,
+        "company": "West Allis Works",
+        "city": "West Allis",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 533,
+        "company": "West Bend Aluminum",
+        "city": "West Bend",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 534,
+        "company": "West Bend Aluminum Company",
+        "city": "Hartford",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 535,
+        "company": "West Bend Co",
+        "city": "West Bend",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 536,
+        "company": "West Superior Iron And Steel Company",
+        "city": "West Superior",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 537,
+        "company": "Western Printing And Lithographing Company",
+        "city": "Racine",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 538,
+        "company": "White House Milk Company",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 539,
+        "company": "White House Milk Company",
+        "city": "Marathon",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 540,
+        "company": "Whitehill Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 541,
+        "company": "Whiting Mill",
+        "city": "Whiting",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 542,
+        "company": "Whiting Paper Mill",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 543,
+        "company": "Whiting Plover Paper Company",
+        "city": "Stevens Point",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 544,
+        "company": "Wiconsin Match Corporation",
+        "city": "Oshkosh",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 545,
+        "company": "Wildwood Power Plant",
+        "city": "Marshfield",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 546,
+        "company": "William Goodrich And Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 547,
+        "company": "Willy And Company",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 548,
+        "company": "Windsor Spring Company",
+        "city": "Kenosha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 549,
+        "company": "Winnebago Furniture Manufacturing Company",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 550,
+        "company": "Wis Die Casting Llc",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 551,
+        "company": "Wisconsin Brick Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 552,
+        "company": "Wisconsin Cabinet And Panel Company",
+        "city": "New London",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 553,
+        "company": "Wisconsin Electric",
+        "city": "Pleasant Prairie",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 554,
+        "company": "Wisconsin Electric Power Company",
+        "city": "Oak Creek",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 555,
+        "company": "Wisconsin Electric Power Company - Point Beach Nuclear Plant",
+        "city": "Two Rivers",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 556,
+        "company": "Wisconsin Hosptal For The Insane",
+        "city": "Mendota",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 557,
+        "company": "Wisconsin Light And Power Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 558,
+        "company": "Wisconsin Milling Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 559,
+        "company": "Wisconsin Minnesota Light And Power Company",
+        "city": "La Crosse",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 560,
+        "company": "Wisconsin Paper Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 561,
+        "company": "Wisconsin Paperboard",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 562,
+        "company": "Wisconsin Paperboard Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 563,
+        "company": "Wisconsin Power & Light",
+        "city": "Alma",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 564,
+        "company": "Wisconsin Power And Light",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 565,
+        "company": "Wisconsin Power And Light",
+        "city": "Cassville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 566,
+        "company": "Wisconsin Power And Light",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 567,
+        "company": "Wisconsin Power And Light",
+        "city": "Rock River",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 568,
+        "company": "Wisconsin Power And Light - Blackhawk Generating Station",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 569,
+        "company": "Wisconsin Power And Light - Edgewater Generating Station",
+        "city": "Sheboygan",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 570,
+        "company": "Wisconsin Power And Light Company",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 571,
+        "company": "Wisconsin Power And Light Company",
+        "city": "Portage",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 572,
+        "company": "Wisconsin Power And Light Company",
+        "city": "North Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 573,
+        "company": "Wisconsin Power And Light Company",
+        "city": "Fond Du Lac",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 574,
+        "company": "Wisconsin Power And Light Company - Nelson Dewey Generating Station",
+        "city": "Cassville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 575,
+        "company": "Wisconsin Power And Light Company - Nelson Dewey Generating Station",
+        "city": "Cassville",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 576,
+        "company": "Wisconsin Power And Light Company - Rock River Generating Station",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 577,
+        "company": "Wisconsin Power And Light Company - Rock River Generating Station - Unit 2",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 578,
+        "company": "Wisconsin Power And Light Company, Rock River Plant",
+        "city": "North Beloit",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 579,
+        "company": "Wisconsin Public Service",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 580,
+        "company": "Wisconsin Public Service",
+        "city": "Rothschild",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 581,
+        "company": "Wisconsin Public Service Company",
+        "city": "Wausau",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 582,
+        "company": "Wisconsin Public Service Company",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 583,
+        "company": "Wisconsin Public Service Company - Weston Generating Station - Unit 1",
+        "city": "Rothschild",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 584,
+        "company": "Wisconsin Public Service Corporation",
+        "city": "Rothschild",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 585,
+        "company": "Wisconsin Public Service Corporation",
+        "city": "Carlton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 586,
+        "company": "Wisconsin Public Service Corporation",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 587,
+        "company": "Wisconsin Public Service Corporation",
+        "city": "Kewaunee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 588,
+        "company": "Wisconsin Public Service Corporation - J. P. Pulliam Generating Station",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 589,
+        "company": "Wisconsin Public Service Corporation - J. P. Pulliam Generating Station",
+        "city": "Green Bay",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 590,
+        "company": "Wisconsin Public Service Corporation - Kewaunee Nuclear Power Station",
+        "city": "Kewaunee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 591,
+        "company": "Wisconsin Public Service Corporation, Weston Power Plant",
+        "city": "Wausau (South)",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 592,
+        "company": "Wisconsin Public Service Corporation, Weston Power Plant",
+        "city": "Marathon County",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 593,
+        "company": "Wisconsin Pulbic Service Company",
+        "city": "Manitowoc",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 594,
+        "company": "Wisconsin River Division",
+        "city": "Whiting",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 595,
+        "company": "Wisconsin State Capitol Heat Plant",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 596,
+        "company": "Wisconsin State Historical Library Building",
+        "city": "Madison",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 597,
+        "company": "Wisconsin State Prison",
+        "city": "Waupun",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 598,
+        "company": "Wisconsin State Prison",
+        "city": "Waupun",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 599,
+        "company": "Wisconsin State Tuberculosic Asylum",
+        "city": "Wales",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 600,
+        "company": "Wisconsin Tissue Mills",
+        "city": "Menasha",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 601,
+        "company": "Wisconsin Traction, Light, Heat, And Power Company - Power Plant",
+        "city": "Appleton",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 602,
+        "company": "Worthington Pump And Machinery Corporation",
+        "city": "Cudahy",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 603,
+        "company": "Wrought Washer Manufacturing Company",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 604,
+        "company": "Xcel Energy",
+        "city": "Ashland",
+        "state": "WI",
+        "visibility": ""
+      },
+      {
+        "id": 605,
+        "company": "Yates-American Machine Company",
+        "city": "Beloit",
+        "state": "WI",
+        "visibility": ""
+      }
+     ]
+}

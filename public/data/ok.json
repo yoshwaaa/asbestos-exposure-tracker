@@ -1,0 +1,2300 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "company": "1St Baptist Church",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 2,
+        "company": "21st St. Highrise Apartments",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 3,
+        "company": "Agrica Chemical Plant",
+        "city": "Port of Catoosa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 4,
+        "company": "Alliance America",
+        "city": "Okmulgee",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "American Airlines",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
+        "company": "American Airlines Repair Facility",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 7,
+        "company": "American Public Service Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 8,
+        "company": "American ST. Gobain Glass Plant",
+        "city": "Okmulgee",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "AMOCO Office Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "AMOCO Research Center",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Anadarko Power Plant",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Apco Oil Corporation",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Apco Refinery",
+        "city": "Cyril",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Army Ammunition Depot",
+        "city": "McAlester",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "Assembly Center",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "B.C. Fertilizer Plant",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 17,
+        "company": "B.C. Fertilizer Plant",
+        "city": "Pryor",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 18,
+        "company": "B.F. Goodrich Company",
+        "city": "Miami",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 19,
+        "company": "B.F. Goodrich Tire Plant",
+        "city": "Miami",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 20,
+        "company": "Badger Ice Company",
+        "city": "Bristow",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Bakerfield Oil",
+        "city": "Bakerfield",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Baptist Medical Center",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 23,
+        "company": "Bareco Oil Plant",
+        "city": "Barnsdall",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Bartlesville Interurban Railway Company",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 25,
+        "company": "Beerbower Power Plant",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 26,
+        "company": "Ben Franklin Oil Refinery",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Ben Franklin Refinery",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Blue Cross Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Brown & Root",
+        "city": "Valiant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "Brown Dunkin Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 31,
+        "company": "Callery Chemical Plant",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 32,
+        "company": "Carbon Black Plant",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 33,
+        "company": "Carter Oil Company",
+        "city": "Seminole",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 34,
+        "company": "Central Coal And Coke Company",
+        "city": "Sutton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 35,
+        "company": "Champlin Petroleum Company",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 36,
+        "company": "Champlin Refinery",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 37,
+        "company": "Champlin Refining Company",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 38,
+        "company": "Champlin-Citgo Oil Refinery",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Children's Medical Center",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "Choctaw Lumber Company",
+        "city": "Wright City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "Choctaw Power And Light Company - Mcalester Plant",
+        "city": "Mcalester",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "Choctaw Railway And Lighting Company - Mcalester Plant",
+        "city": "Mcalester",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "Citgo Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "Cities Service Helex, Incorporated",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 45,
+        "company": "Cities Service Oil Company",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 46,
+        "company": "Cities Service Oil Refinery",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 47,
+        "company": "Cities Service Petroleum Company",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 48,
+        "company": "City Hall",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Co-Op Refinery",
+        "city": "Cushing",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Condea Vista Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Conoco Oil Refinery",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Conoco Refinery",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Conoco Truck Stop",
+        "city": "Hennessey",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Conoco, Incorporated",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Continental Carbon Black Plant",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Continental Oil Company",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Continental Oil Company",
+        "city": "Sapulpa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "Continental Oil Refinery",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Courthouse",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "Dayton Tire And Rubber Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "Dayton Tire And Rubber Company, Subsidiary Of Firestone Tire And Rubber Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Dayton Tire Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Deep Rock Oil Company",
+        "city": "Wynnewood",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Deep Rock Oil Corporation",
+        "city": "Cushing",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 65,
+        "company": "Deep Rock Refinery",
+        "city": "Cushing",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 66,
+        "company": "Dierks Forests, Inc",
+        "city": "Wright City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Dierks Paper Mill",
+        "city": "Broken Bow",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Douglas Plant Main Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Duncan Oil Refinery",
+        "city": "Duncan",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 70,
+        "company": "DX Refinery",
+        "city": "Duncan",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "DX Refinery",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Dx/Sunray Refinery",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Empire Gas And Fuel Company - Headquarters Building",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Empire Gas And Fuel Company - Refinery",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Empire Oil And Refining Company",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 76,
+        "company": "Empire Refineries Corporation",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Empire Refining Company",
+        "city": "Ponco City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Enid Electric And Gas Company - Power Plant",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Enid Gas Plant",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 80,
+        "company": "Farmland Industries - Fertilizer Plant",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Farmlands Industries",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Firestone Rubber Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "First Baptist Hospital",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "First National Building Corporation - First National Center Building",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Flint Steel Boiler",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "Ford Glass Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "Fort Gibson Dam",
+        "city": "Fort Gibson/Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Fort Howard Paper Mill",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 89,
+        "company": "Fort Sill",
+        "city": "Fort Sill",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "Ft. James Operating Company",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 91,
+        "company": "General Motors",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 92,
+        "company": "General Motors Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 93,
+        "company": "Goodyear Tire & Rubber Plant",
+        "city": "Lawton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 94,
+        "company": "Goodyear Tire And Rubber Company",
+        "city": "Lawton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 95,
+        "company": "Grda Steam Plant",
+        "city": "Pryor",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 96,
+        "company": "Guthrie Railway Company",
+        "city": "Guthrie",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 97,
+        "company": "Harrington And Marsh",
+        "city": "Hooker",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 98,
+        "company": "Hennessey Gas Plant",
+        "city": "Hennessey",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 99,
+        "company": "Hinderliter Industries",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 100,
+        "company": "Horseshoe Generating Plant",
+        "city": "Harrah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "Hugo Powerhouse",
+        "city": "Hugo",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Illinois Oil Company",
+        "city": "Cushing",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Insulation Services Warehouse & Fab Shop",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "J.B. Kirk Gas And Smelting Company",
+        "city": "Checotah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "John Zink Plant",
+        "city": "Skiatook",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "Kaiser Chemical",
+        "city": "Pryor",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 107,
+        "company": "Kansas City Southern Company",
+        "city": "Heavener",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "Kerr Mcgee Corporation",
+        "city": "Vain",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Kerr Mcgee Oil Industries, Incorporated",
+        "city": "Wynnewood",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "Kerr-Mcgee Nuclear Plant",
+        "city": "Gore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Kerr-Mcgee Refinery",
+        "city": "Pauls Valley",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "Kerr-Mcgee Refinery",
+        "city": "Wynnewood",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "Kvoo Studios",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Lucent Technologies",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Mcdonnell Douglas",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "McDonnell Douglas Aircraft Facility",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 117,
+        "company": "Mercy Hospital",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Mid Continent Petroleum Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Mid Contintent Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Middle West Utilities - Tulsa Power Station",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Missouri, Kansas And Texas Railway",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 122,
+        "company": "Moreland Powerhouse",
+        "city": "Moreland",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Muskogee Gas And Electric Company - Power Plant",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "Muskogee General Hospital",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Mustang Powerhouse",
+        "city": "Mustang",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "National Gypsum Paper Mill",
+        "city": "Prior",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "National Tank",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 128,
+        "company": "Nylon Strapping Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Og & E Power Plant",
+        "city": "Fort Gibson",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "OG&E Power Plant",
+        "city": "Harrah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "OG&E Power Plant",
+        "city": "Lawton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "OG&E Power Plant",
+        "city": "Mustang",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Ogande Horseshoe Lake",
+        "city": "Harrah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "Ogande Muskogee Gen",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Ogande Mustang Gen",
+        "city": "Mustang",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Ogande Seminole Gen",
+        "city": "Konawa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Oklahoma Cement Company",
+        "city": "Pryor",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Oklahoma City School District",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "Oklahoma City University",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Oklahoma Gas & Electric Company - Horseshoe Lake Generating Station",
+        "city": "Harrah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "Oklahoma Gas & Electric Company - Muskogee Generating Station",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 142,
+        "company": "Oklahoma Gas & Electric Company - Seminole Power Plant",
+        "city": "Konawa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Oklahoma Gas & Electric Company - Seminole Power Plant - Unit 2",
+        "city": "Konawa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Oklahoma Gas & Electric Company - Seminole Power Plant - Unit 3",
+        "city": "Konawa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Oklahoma Gas & Electric Powerhouse",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Oklahoma Gas And Electric Company - Arbuckle Generating Station",
+        "city": "Sulphur",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Oklahoma Gas And Electric Company - Byng Plant",
+        "city": "Byng",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Oklahoma Gas And Electric Company - Muskogee Generating Station",
+        "city": "Muskogee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 149,
+        "company": "Oklahoma Gas And Electric Company - Mustang Generating Station",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Oklahoma Gas And Electric Company - Power Plant",
+        "city": "Drumright",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Oklahoma Gas And Electric Company - Power Plant",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Oklahoma Ordinance Works",
+        "city": "Pryor",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Oklahoma Portland Cement Company",
+        "city": "Ada",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Oklahoma Power Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Oklahoma Power Company",
+        "city": "Weleetka",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Oklahoma Railway Company",
+        "city": "Belle Isle",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Oklahoma Railway Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Oolagah Power Plant",
+        "city": "Oolagah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 159,
+        "company": "Oologah Power Station",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Oologah Powerhouse 1, 2",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Oral Roberts University",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "Peerless Boiler And Engineering Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Petrolite Wax Plant",
+        "city": "Barnsdall",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Petty-Badger Company",
+        "city": "Drumright",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Phillips 66 Proving Ground Project",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Phillips Petroleum",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Phillips Petroleum Company",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "Phillips Petroleum Office Building",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Phillips Petroleum Transportation Center",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Phillips Refinery",
+        "city": "Okmulgee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Phillips Refinery",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 172,
+        "company": "Phillips Research Center",
+        "city": "Bartlesville",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "Pica City Independent School District",
+        "city": "Pica City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Pioneer Cotton Mill",
+        "city": "Guthrie",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 175,
+        "company": "Ponca City Municipal Power Plant Complex",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 176,
+        "company": "Portland Cement Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 177,
+        "company": "PSO Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 178,
+        "company": "PSO Power Plant",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 179,
+        "company": "PSO Power Plant",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 180,
+        "company": "Pso Powerhouse",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 181,
+        "company": "Public Service Co",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 182,
+        "company": "Public Service Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 183,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Hugo",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 184,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "West Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 185,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 186,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Lawton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 187,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Oklahoma",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 188,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 189,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Washita",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 191,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Carnegie",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 192,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 193,
+        "company": "Public Service Company Of Oklahoma",
+        "city": "Weleetka",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 194,
+        "company": "Public Service Company Of Oklahoma - Comanche Power Station",
+        "city": "Lawton",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 195,
+        "company": "Public Service Company Of Oklahoma - Northeastern Power Plant",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 196,
+        "company": "Public Service Company Of Oklahoma - Northeastern Power Plant - Unit 2",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 198,
+        "company": "Public Service Company Of Oklahoma - Riverside Generating Station",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 199,
+        "company": "Public Service Company Of Oklahoma - Riverside Generating Station - Unit 1",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 200,
+        "company": "Public Service Company Of Oklahoma - Southwestern Power Station",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 202,
+        "company": "Public Service Company Of Oklahoma - Southwestern Power Station - Unit 3",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 203,
+        "company": "Public Service Company Of Oklahoma - Tulsa Power Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 204,
+        "company": "Public Service Corporation",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 205,
+        "company": "Public Service Of Oklahoma",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 206,
+        "company": "Public Service Of Oklahoma",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 207,
+        "company": "Public Service Of Oklahoma",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 208,
+        "company": "Public Service Of Oklahoma",
+        "city": "Oologah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 209,
+        "company": "Pulbic Service Company Of Oklahoma",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 210,
+        "company": "Ralston Purina Plant",
+        "city": "Edmond",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 211,
+        "company": "Riverside Power Station",
+        "city": "Jenks",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 212,
+        "company": "Rock Island Railroad",
+        "city": "El Reno",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 213,
+        "company": "Safeway Warehouse",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 214,
+        "company": "Sapulpa Refining Company",
+        "city": "Sapulpa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 216,
+        "company": "Seaboard Oil co",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 217,
+        "company": "Sears Automotive",
+        "city": "Midwest City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 218,
+        "company": "Sequoyah Fuels",
+        "city": "Sequoyah",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 219,
+        "company": "Sequoyah Fuels Corporation - Gore Plant",
+        "city": "Gore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 220,
+        "company": "Sequoyah Refinery",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 221,
+        "company": "Shaffer Oil And Refining Company",
+        "city": "Cushing",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 222,
+        "company": "Shawnee Gas And Electric Company - Gas Plant",
+        "city": "Shawnee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 223,
+        "company": "Shawnee Steam Plant",
+        "city": "Shawnee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 224,
+        "company": "Shell Oil",
+        "city": "Edmonds",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 225,
+        "company": "Shell Oil Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 226,
+        "company": "Sinclair Oil And Gas Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 227,
+        "company": "Sinclair Oil Corporation",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 228,
+        "company": "Sinclair Oil Laboratory",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 230,
+        "company": "Skelly Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 231,
+        "company": "Skelly Oil",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 233,
+        "company": "Skelly Oil building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 237,
+        "company": "Skirvin Hotel",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 238,
+        "company": "Smithco (Powersmith)",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 239,
+        "company": "Society Of St. Michael, St. John Ministry",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 240,
+        "company": "Sooner Power Plant",
+        "city": "Red Rock",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 242,
+        "company": "South Western Bell Telephone Building",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 244,
+        "company": "Southeast Oklahoma Industrial Authority, Weyerhaeuser Company",
+        "city": "Wright City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 245,
+        "company": "Southern Oklahoma Power Company",
+        "city": "Byng",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 246,
+        "company": "Southland Cotton Division Company",
+        "city": "Wynnewood",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 247,
+        "company": "Southwest Power Station",
+        "city": "Oklahoma",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 248,
+        "company": "Southwestern Bell Telephone building-36th & Lewis",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 249,
+        "company": "Southwestern Bell Telephone building-Admiral & Sheridan",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 251,
+        "company": "Southwestern Bell Telephone building-downtown",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 252,
+        "company": "Southwestern Public Service Company",
+        "city": "Guymon",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 253,
+        "company": "St Francis Hospital",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 254,
+        "company": "St Gregory's College",
+        "city": "Shawnee",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 255,
+        "company": "St John Medical Center",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 256,
+        "company": "St Joseph Hospital",
+        "city": "Tacoma",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 257,
+        "company": "St. Francis Hospital",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 258,
+        "company": "St. John Hospital",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 259,
+        "company": "St. John‚Äôs Medical Center",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 260,
+        "company": "St. Johns Health Care",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 262,
+        "company": "St. Johns Hospital",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 263,
+        "company": "Stanolind Oil And Gas Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 265,
+        "company": "State Capitol building",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 266,
+        "company": "Steel Equipment Company",
+        "city": "Pauls Valley",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 267,
+        "company": "Sun Oil",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 268,
+        "company": "Sun Oil",
+        "city": "Duncan",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 269,
+        "company": "Sun Oil (Sunoco) Headquarters",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 270,
+        "company": "Sun Oil (Sunoco) Refinery",
+        "city": "Duncan",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 271,
+        "company": "Sun Oil (Sunoco) Refinery",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 272,
+        "company": "Sunray Oil Corporation",
+        "city": "Allen",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 273,
+        "company": "Tallon Zipper Plant",
+        "city": "Durant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 274,
+        "company": "Terra Nitrogen",
+        "city": "Woodward",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 277,
+        "company": "Texaco",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 278,
+        "company": "Texaco",
+        "city": "Champlin",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 279,
+        "company": "Texaco Oil Building",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 280,
+        "company": "Texaco Service Station",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 281,
+        "company": "Texas Company",
+        "city": "West Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 282,
+        "company": "Texas Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 283,
+        "company": "Thermal Systems Incorporated - Heating And Cooling Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 284,
+        "company": "Thermal Systems, Incorporated",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 286,
+        "company": "Thermo Technology Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 288,
+        "company": "Tinker AFB",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 289,
+        "company": "Tinker Air Force Base",
+        "city": "Midwest City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 291,
+        "company": "Tinker Air Force Base",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 292,
+        "company": "Tonkawa Refining Company",
+        "city": "Arnett",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 293,
+        "company": "Tosco Refinery",
+        "city": "Duncan",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 294,
+        "company": "Total Petroleum Refinery",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 295,
+        "company": "Total Refinery",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 296,
+        "company": "Trigen Oklahoma",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 297,
+        "company": "Trigen Oklahoma",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 298,
+        "company": "Tulsa Chemical Plant",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 299,
+        "company": "Tulsa City Hall",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 300,
+        "company": "Tulsa Corporation",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 301,
+        "company": "Tulsa County Health Department",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 302,
+        "company": "Tulsa General Office",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 303,
+        "company": "Tulsa Ice And Packing Company",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 304,
+        "company": "Tulsa Power Station",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 306,
+        "company": "Ultramar Diamond",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 307,
+        "company": "Uniroyal Tire Plant",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 308,
+        "company": "Unit Parts Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 309,
+        "company": "United States Asphalt Plant",
+        "city": "Dougherty",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 310,
+        "company": "University Of Oklahoma",
+        "city": "Norman",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 311,
+        "company": "University of Oklahoma",
+        "city": "Chilled Water Plant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 312,
+        "company": "University of Tulsa",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 313,
+        "company": "University Of Tulsa, John Mabee Dormitory",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 315,
+        "company": "Vance AFB",
+        "city": "Enid",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 316,
+        "company": "Veterans Administration Hospital",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 317,
+        "company": "Vickers Refinery",
+        "city": "Ardmore",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 318,
+        "company": "Vinita Electric Light, Ice, And Power Company - Power Plant",
+        "city": "Vinita",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 319,
+        "company": "Vista Chemical Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 321,
+        "company": "Warren Petroleum",
+        "city": "Mocane",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 322,
+        "company": "Warren Petroleum Refinery (aka Chevron)",
+        "city": "Madill",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 323,
+        "company": "Washita Power Plant",
+        "city": "Washita",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 325,
+        "company": "Weleetka Powerhouse",
+        "city": "Weleetka",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 326,
+        "company": "Wels-Lamont",
+        "city": "Hugo",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 327,
+        "company": "Westby Center, University Of Tulsa",
+        "city": "Tulsa",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 328,
+        "company": "Western Electric - Manufacturing Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 329,
+        "company": "Western Farmers Cooperative",
+        "city": "Ft. Towson",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 331,
+        "company": "Western Farmers Cooperative",
+        "city": "Mooreland",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 332,
+        "company": "Western Farmers Electric Co-Op",
+        "city": "Fort Thousand",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 336,
+        "company": "Western Farmers Electric Cooperative - Anadarko Power Station",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 337,
+        "company": "Western Farmers Electric Cooperative - Ft. Supply Substation",
+        "city": "Ft. Supply",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 338,
+        "company": "Western Farmers Electric Cooperative - Hugo Power Plant",
+        "city": "Ft. Towson",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 339,
+        "company": "Western Farmers Electric Cooperative - Mooreland Plant",
+        "city": "Mooreland",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 340,
+        "company": "Western Farmers Power Plant",
+        "city": "Anadarko",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 341,
+        "company": "Weyerhaeuser Company",
+        "city": "Craig",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 342,
+        "company": "Weyerhaeuser Company",
+        "city": "Broken Bow",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 343,
+        "company": "Weyerhaeuser Company",
+        "city": "Valliant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 344,
+        "company": "Weyerhauser",
+        "city": "Valliant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 345,
+        "company": "Weyerhauser Paper Company",
+        "city": "Valliant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 346,
+        "company": "Weyerhauser Paper Mill (s)",
+        "city": "Valliant",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 349,
+        "company": "Whitlock Packaging",
+        "city": "Ft. Gibson",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 350,
+        "company": "Wichita Pipe Line Company",
+        "city": "Hominy",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 351,
+        "company": "Wilson And Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 352,
+        "company": "Wilson Company",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 353,
+        "company": "Wilson Packing Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 354,
+        "company": "Wilson's Auto Service Station",
+        "city": "Ponca City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 355,
+        "company": "Wynnewood Refinery",
+        "city": "Wynnewood",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 357,
+        "company": "Xerox Champlin \"Witcher\" Chemical Plant",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      },
+      {
+        "id": 359,
+        "company": "Xerox Corporation",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visibility": ""
+      }
+     ]
+}
